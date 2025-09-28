@@ -8,19 +8,7 @@
 │                          How AI Powers the Compliance Pipeline                         │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 
-                                    INPUT: URL with Admiral Markets mention
-                                                    │
-                                                    ▼
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│                              1. CONTENT EXTRACTION & ANALYSIS                           │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│  Pattern Detection:                    │  Context Extraction:                           │
-│  • admiral markets                     │  • 100 words before mention                    │
-│  • admiralmarkets                      │  • 100 words after mention                     │
-│  • admiral.markets                     │  • Full paragraph context                      │
-│  • admiral-markets                     │  • Title and metadata                          │
-│  • admirals (new brand)                │                                                │
-└────────────────────────────────────────┴────────────────────────────────────────────────┘
+                                    INPUT: URL with mention
                                                     │
                                                     ▼
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
@@ -86,7 +74,7 @@
 │  {                                                                                      │
 │    "category": "BLACKLIST" | "WHITELIST" | "NEEDS_REVIEW",                              │
 │    "confidence": 0.85,  // 0.0 to 1.0 scale                                             │
-│    "explanation": "This site falsely claims partnership with Admiral Markets...",       │
+│    "explanation": "This site falsely claims partnership with ...",       │
 │    "compliance_issues": [                                                               │
 │      "False representation - unauthorized partnership claim",                           │
 │      "Misleading information - guaranteed 50% monthly returns",                         │
