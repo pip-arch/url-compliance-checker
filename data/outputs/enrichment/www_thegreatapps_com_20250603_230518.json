@@ -1,0 +1,93 @@
+{
+  "url": "https://www.thegreatapps.com/blog/the-5-best-cryptocurrency-apps-for-ios-and-android",
+  "timestamp": "2025-06-03T19:05:07.945264+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_thegreatapps_com_20250603_230517.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2014, 3, 8, 8, 5, 43), datetime.datetime(2014, 3, 8, 3, 5, 43)]",
+      "expiration_date": "[datetime.datetime(2026, 3, 8, 8, 5, 43), datetime.datetime(2026, 3, 8, 3, 5, 43)]",
+      "name_servers": [
+        "NS01.DOMAINCONTROL.COM",
+        "NS02.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "209.97.139.16"
+      ],
+      "mx_records": [
+        "1 aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "10 aspmx3.googlemail.com.",
+        "10 aspmx2.googlemail.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.google.com ~all\""
+      ]
+    },
+    "age_days": 4105,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS01.DOMAINCONTROL.COM",
+      "NS02.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "thegreatapps.com"
+    },
+    "not_before": "2025-05-18T03:48:13",
+    "not_after": "2025-08-16T03:48:12",
+    "days_remaining": 73,
+    "san": [
+      "thegreatapps.com",
+      "www.thegreatapps.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.33 (Ubuntu)",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(238, 238, 241)",
+      "rgb(255, 255, 255)",
+      "rgb(239, 239, 242)",
+      "rgb(25, 40, 47)",
+      "rgb(253, 253, 254)"
+    ],
+    "image_dimensions": "1920x6443",
+    "file_size_kb": 3293.927734375
+  }
+}

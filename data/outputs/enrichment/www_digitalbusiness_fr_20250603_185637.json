@@ -1,0 +1,73 @@
+{
+  "url": "https://www.digitalbusiness.fr/devenir-le-meilleur-trader/",
+  "timestamp": "2025-06-03T14:56:06.670385+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "NETIM",
+      "creation_date": "2016-09-08 03:33:19",
+      "expiration_date": "2027-01-10 23:07:33",
+      "name_servers": [
+        "brodie.ns.cloudflare.com",
+        "shaz.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.87.158",
+        "172.67.144.157"
+      ]
+    },
+    "age_days": 3190,
+    "registrar": "NETIM",
+    "name_servers": [
+      "brodie.ns.cloudflare.com",
+      "shaz.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "digitalbusiness.fr"
+    },
+    "not_before": "2025-05-25T02:54:23",
+    "not_after": "2025-08-23T03:53:05",
+    "days_remaining": 80,
+    "san": [
+      "digitalbusiness.fr",
+      "*.digitalbusiness.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

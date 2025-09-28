@@ -1,0 +1,86 @@
+{
+  "url": "https://noticias24h.eu/por-que-es-una-buena-idea-invertir-en-linea-en-este-2023/",
+  "timestamp": "2025-05-31T14:31:12.029404+00:00",
+  "screenshot_path": "data/outputs/screenshots/noticias24h_eu_20250531_183122.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "SERED HOSTING SL",
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": "ns1.dns-parking.com\n        ns2.dns-parking.com\n\nPlease visit www.eurid.eu for more info."
+    },
+    "dns": {
+      "a_records": [
+        "151.106.97.235"
+      ],
+      "mx_records": [
+        "5 mx1.hostinger.com.",
+        "10 mx2.hostinger.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.mail.hostinger.com ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": "SERED HOSTING SL",
+    "name_servers": "ns1.dns-parking.com\n        ns2.dns-parking.com\n\nPlease visit www.eurid.eu for more info."
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "noticias24h.eu"
+    },
+    "not_before": "2025-05-16T00:11:22",
+    "not_after": "2025-08-14T00:11:21",
+    "days_remaining": 74,
+    "san": [
+      "noticias24h.eu",
+      "www.noticias24h.eu"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Powered by: PHP/8.0.30",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(17, 17, 17)",
+      "rgb(247, 247, 247)",
+      "rgb(251, 251, 251)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x6392",
+    "file_size_kb": 1394.9208984375
+  }
+}

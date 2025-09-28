@@ -1,0 +1,83 @@
+{
+  "url": "http://invest.forum2x2.com/t500-topic",
+  "timestamp": "2025-06-03T07:50:32.614948+00:00",
+  "screenshot_path": "data/outputs/screenshots/invest_forum2x2_com_20250603_115041.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2007, 10, 15, 15, 30, 51), datetime.datetime(2007, 10, 15, 10, 30, 51)]",
+      "expiration_date": "[datetime.datetime(2033, 10, 15, 15, 30, 51), datetime.datetime(2033, 10, 15, 10, 30, 51)]",
+      "name_servers": [
+        "NS1.MAXNS.NET",
+        "NS2.MAXNS.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "94.23.76.111",
+        "94.23.150.222",
+        "178.33.43.178",
+        "188.165.2.137",
+        "94.23.159.185",
+        "178.33.43.150",
+        "178.33.115.32"
+      ]
+    },
+    "age_days": 6440,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS1.MAXNS.NET",
+      "NS2.MAXNS.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "*.forum2x2.com"
+    },
+    "not_before": "2025-04-17T07:10:32",
+    "not_after": "2025-07-16T07:10:31",
+    "days_remaining": 42,
+    "san": [
+      "*.forum2x2.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Frame-Options header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(225, 235, 242)",
+      "rgb(226, 236, 243)",
+      "rgb(236, 243, 247)",
+      "rgb(227, 237, 244)"
+    ],
+    "image_dimensions": "1920x2023",
+    "file_size_kb": 524.1181640625
+  }
+}

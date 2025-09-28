@@ -1,0 +1,76 @@
+{
+  "url": "https://www.1001buonisconto.it/codice-sconto-admiral-markets",
+  "timestamp": "2025-06-03T15:33:04.967576+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_1001buonisconto_it_20250603_193314.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "EuroDNS SA",
+      "creation_date": "2017-03-12 13:42:54",
+      "expiration_date": "2026-03-12 00:00:00",
+      "name_servers": "art.ns.cloudflare.com\n  lucy.ns.cloudflare.com"
+    },
+    "dns": {
+      "a_records": [
+        "104.21.89.55",
+        "172.67.188.36"
+      ]
+    },
+    "age_days": 3005,
+    "registrar": "EuroDNS SA",
+    "name_servers": "art.ns.cloudflare.com\n  lucy.ns.cloudflare.com"
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "1001buonisconto.it"
+    },
+    "not_before": "2025-04-13T23:57:24",
+    "not_after": "2025-07-13T00:54:49",
+    "days_remaining": 39,
+    "san": [
+      "1001buonisconto.it",
+      "*.1001buonisconto.it"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(250, 250, 250)",
+      "rgb(248, 248, 248)",
+      "rgb(254, 254, 254)",
+      "rgb(233, 233, 233)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x34480",
+    "file_size_kb": 7292.76953125
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "url": "https://svetdnes.cz/jak-investovat-do-akciovych-trhu-bez-ztraty-penez/",
+  "timestamp": "2025-06-03T23:55:25.569647+00:00",
+  "screenshot_path": "data/outputs/screenshots/svetdnes_cz_20250604_035539.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REG-GRANSY",
+      "creation_date": "2015-12-03 12:34:15",
+      "expiration_date": "2025-12-03 00:00:00",
+      "name_servers": [
+        "shinzon.blueboard.cz (178.251.187.7, 2a00:1ed0:45::b)",
+        "ns2.blueboard.cz (46.101.178.149, 2a03:b0c0:3:d0::31:7001)",
+        "jaguar.blueboard.cz (178.251.187.8, 2a00:1ed0:45::c)"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "217.11.249.137"
+      ],
+      "mx_records": [
+        "10 jaguar.blueboard.cz."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx include:spf.blueboard.cz -all\""
+      ]
+    },
+    "age_days": 3470,
+    "registrar": "REG-GRANSY",
+    "name_servers": [
+      "shinzon.blueboard.cz (178.251.187.7, 2a00:1ed0:45::b)",
+      "ns2.blueboard.cz (46.101.178.149, 2a03:b0c0:3:d0::31:7001)",
+      "jaguar.blueboard.cz (178.251.187.8, 2a00:1ed0:45::c)"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "svetdnes.cz"
+    },
+    "not_before": "2025-04-01T19:27:28",
+    "not_after": "2025-06-30T19:27:27",
+    "days_remaining": 26,
+    "san": [
+      "*.svetdnes.cz",
+      "svetdnes.cz"
+    ],
+    "issues": [
+      "Certificate expires in 26 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(244, 63, 63)",
+      "rgb(244, 55, 55)",
+      "rgb(254, 254, 254)",
+      "rgb(237, 237, 237)"
+    ],
+    "image_dimensions": "1920x3990",
+    "file_size_kb": 1748.30859375
+  }
+}

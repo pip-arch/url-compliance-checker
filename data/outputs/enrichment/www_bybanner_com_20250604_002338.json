@@ -1,0 +1,73 @@
+{
+  "url": "https://www.bybanner.com/article/23926.html",
+  "timestamp": "2025-06-03T20:23:04.964306+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Reliable Software",
+      "creation_date": "2004-03-29 12:40:10",
+      "expiration_date": "[datetime.datetime(2026, 3, 29, 11, 40, 10), datetime.datetime(2026, 3, 29, 14, 40, 10, tzinfo=datetime.timezone(datetime.timedelta(seconds=10800)))]",
+      "name_servers": [
+        "NS1.BYBANNER.COM",
+        "NS2.BYBANNER.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "94.130.20.72"
+      ]
+    },
+    "age_days": 7736,
+    "registrar": "Reliable Software",
+    "name_servers": [
+      "NS1.BYBANNER.COM",
+      "NS2.BYBANNER.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "bybanner.com"
+    },
+    "not_before": "2025-05-14T06:26:34",
+    "not_after": "2025-08-12T06:26:33",
+    "days_remaining": 69,
+    "san": [
+      "bybanner.com",
+      "www.bybanner.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.26.0",
+    "Powered by: PHP/8.1.2-1ubuntu2.19",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

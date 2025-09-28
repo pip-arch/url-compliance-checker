@@ -1,0 +1,105 @@
+{
+  "url": "http://rusjev.com/2018/01/10/kak-ustroena-torgovlya-biktoinomi-na-forex/",
+  "timestamp": "2025-05-31T14:30:12.385146+00:00",
+  "screenshot_path": "data/outputs/screenshots/rusjev_com_20250531_183033.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Internet Invest, Ltd. dba Imena.ua",
+      "creation_date": "2014-04-03 10:42:11",
+      "expiration_date": "2026-04-03 10:42:11",
+      "name_servers": [
+        "NSA3.SRV53.COM",
+        "NSA3.SRV53.ORG",
+        "NSA4.SRV53.NET",
+        "NSB1.SRV53.COM",
+        "NSB3.SRV53.NET",
+        "NSB3.SRV53.ORG",
+        "NSC1.SRV53.NET",
+        "NSC2.SRV53.COM",
+        "NSC3.SRV53.ORG",
+        "NSD1.SRV53.COM",
+        "NSD3.SRV53.ORG",
+        "NSD4.SRV53.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "176.9.218.71"
+      ]
+    },
+    "age_days": 4076,
+    "registrar": "Internet Invest, Ltd. dba Imena.ua",
+    "name_servers": [
+      "NSA3.SRV53.COM",
+      "NSA3.SRV53.ORG",
+      "NSA4.SRV53.NET",
+      "NSB1.SRV53.COM",
+      "NSB3.SRV53.NET",
+      "NSB3.SRV53.ORG",
+      "NSC1.SRV53.NET",
+      "NSC2.SRV53.COM",
+      "NSC3.SRV53.ORG",
+      "NSD1.SRV53.COM",
+      "NSD3.SRV53.ORG",
+      "NSD4.SRV53.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "rusjev.com"
+    },
+    "not_before": "2025-04-03T17:09:18",
+    "not_after": "2025-07-02T17:09:17",
+    "days_remaining": 31,
+    "san": [
+      "rusjev.com",
+      "rusjev.net",
+      "www.rusjev.com",
+      "www.rusjev.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.25 (Debian)",
+    "Powered by: PHP/7.2.12"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(238, 238, 238)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 254)",
+      "rgb(239, 239, 239)"
+    ],
+    "image_dimensions": "1920x2096",
+    "file_size_kb": 678.458984375
+  }
+}

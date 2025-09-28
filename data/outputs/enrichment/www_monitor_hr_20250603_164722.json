@@ -1,0 +1,75 @@
+{
+  "url": "https://www.monitor.hr/tag/nafta/",
+  "timestamp": "2025-06-03T12:46:51.639554+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": "2012-05-17 22:00:00",
+      "expiration_date": "2026-05-17 22:00:00",
+      "name_servers": [
+        "kara.ns.cloudflare.com",
+        "sri.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.73.91",
+        "172.67.189.86"
+      ]
+    },
+    "age_days": 4764,
+    "registrar": null,
+    "name_servers": [
+      "kara.ns.cloudflare.com",
+      "sri.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "monitor.hr"
+    },
+    "not_before": "2025-04-15T15:00:59",
+    "not_after": "2025-07-14T15:59:13",
+    "days_remaining": 40,
+    "san": [
+      "monitor.hr",
+      "*.monitor.hr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

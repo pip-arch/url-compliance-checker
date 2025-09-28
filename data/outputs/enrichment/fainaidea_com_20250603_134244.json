@@ -1,0 +1,93 @@
+{
+  "url": "https://fainaidea.com/jeto-interesno-znat/effektivnaya-torgovlya-na-forekse-138693.html",
+  "timestamp": "2025-06-03T09:42:35.220703+00:00",
+  "screenshot_path": "data/outputs/screenshots/fainaidea_com_20250603_134243.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2011, 2, 15, 15, 4, 20), datetime.datetime(2011, 2, 15, 10, 4, 20)]",
+      "expiration_date": "[datetime.datetime(2027, 2, 15, 15, 4, 20), datetime.datetime(2027, 2, 15, 10, 4, 20)]",
+      "name_servers": [
+        "ELLE.NS.CLOUDFLARE.COM",
+        "SCOTT.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.94.7",
+        "172.67.217.205"
+      ],
+      "mx_records": [
+        "20 mail.fainaidea.com.",
+        "10 mail.fainaidea.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:95.216.99.229 a mx ~all\""
+      ]
+    },
+    "age_days": 5221,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ELLE.NS.CLOUDFLARE.COM",
+      "SCOTT.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "fainaidea.com"
+    },
+    "not_before": "2025-05-16T17:28:10",
+    "not_after": "2025-08-14T18:26:48",
+    "days_remaining": 72,
+    "san": [
+      "fainaidea.com",
+      "*.fainaidea.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.0.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(34, 34, 34)",
+      "rgb(254, 254, 254)",
+      "rgb(229, 229, 229)",
+      "rgb(228, 228, 228)"
+    ],
+    "image_dimensions": "1935x4331",
+    "file_size_kb": 1799.724609375
+  }
+}

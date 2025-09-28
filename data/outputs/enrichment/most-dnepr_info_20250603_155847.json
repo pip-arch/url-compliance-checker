@@ -1,0 +1,112 @@
+{
+  "url": "https://most-dnepr.info/news/economics/150386_simulyator_cfd.htm",
+  "timestamp": "2025-06-03T11:58:37.153094+00:00",
+  "screenshot_path": "data/outputs/screenshots/most-dnepr_info_20250603_155846.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Internet Invest, Ltd. dba Imena.ua",
+      "creation_date": "2010-11-05 15:10:15",
+      "expiration_date": "2026-11-05 15:10:15",
+      "name_servers": [
+        "nsc2.srv53.org",
+        "nsb4.srv53.com",
+        "nsb1.srv53.org",
+        "nsb4.srv53.net",
+        "nsa2.srv53.net",
+        "nsa1.srv53.org",
+        "nsd4.srv53.net",
+        "nsd2.srv53.com",
+        "nsc4.srv53.com",
+        "nsa1.srv53.com",
+        "nsd3.srv53.org",
+        "nsc2.srv53.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "157.90.133.197",
+        "95.217.122.140"
+      ],
+      "mx_records": [
+        "10 mail.lb.ua."
+      ],
+      "txt_records": [
+        "\"v=spf1 +mx -all\""
+      ]
+    },
+    "age_days": 5323,
+    "registrar": "Internet Invest, Ltd. dba Imena.ua",
+    "name_servers": [
+      "nsc2.srv53.org",
+      "nsb4.srv53.com",
+      "nsb1.srv53.org",
+      "nsb4.srv53.net",
+      "nsa2.srv53.net",
+      "nsa1.srv53.org",
+      "nsd4.srv53.net",
+      "nsd2.srv53.com",
+      "nsc4.srv53.com",
+      "nsa1.srv53.com",
+      "nsd3.srv53.org",
+      "nsc2.srv53.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "AT",
+      "organizationName": "ZeroSSL",
+      "commonName": "ZeroSSL RSA Domain Secure Site CA"
+    },
+    "subject": {
+      "commonName": "most-dnepr.info"
+    },
+    "not_before": "2025-03-06T00:00:00",
+    "not_after": "2025-06-04T23:59:59",
+    "days_remaining": 1,
+    "san": [
+      "most-dnepr.info",
+      "*.most-dnepr.info"
+    ],
+    "issues": [
+      "Certificate expires in 1 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: Microsoft-IIS/10.0",
+    "Powered by: ARR/3.0"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(235, 235, 235)",
+      "rgb(241, 241, 241)",
+      "rgb(254, 254, 254)",
+      "rgb(215, 215, 215)"
+    ],
+    "image_dimensions": "1920x4567",
+    "file_size_kb": 1508.876953125
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "url": "https://www.ftaonline.com/bitcoin-segnali-forza-capitalizzazione-cresce.html",
+  "timestamp": "2025-05-31T15:28:52.634542+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_ftaonline_com_20250531_192857.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "STORK REGISTRY INC.",
+      "creation_date": "1999-12-17 16:13:39",
+      "expiration_date": "2025-12-17 16:13:39",
+      "name_servers": [
+        "X1.SI",
+        "X2.SI"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "46.19.15.46"
+      ],
+      "mx_records": [
+        "20 alt1.aspmx.l.google.com.",
+        "50 aspmx3.googlemail.com.",
+        "10 aspmx.l.google.com.",
+        "30 alt2.aspmx.l.google.com.",
+        "40 aspmx2.googlemail.com."
+      ]
+    },
+    "age_days": 9296,
+    "registrar": "STORK REGISTRY INC.",
+    "name_servers": [
+      "X1.SI",
+      "X2.SI"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "ftaonline.com"
+    },
+    "not_before": "2025-04-05T15:31:53",
+    "not_after": "2025-07-04T15:31:52",
+    "days_remaining": 33,
+    "san": [
+      "ftaonline.com",
+      "www.ftaonline.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.18.0 (Ubuntu)"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(249, 249, 249)",
+      "rgb(255, 255, 255)",
+      "rgb(49, 51, 97)",
+      "rgb(254, 254, 254)",
+      "rgb(235, 239, 240)"
+    ],
+    "image_dimensions": "1920x3870",
+    "file_size_kb": 1083.67578125
+  }
+}

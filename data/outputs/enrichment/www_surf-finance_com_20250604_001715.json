@@ -1,0 +1,86 @@
+{
+  "url": "http://www.surf-finance.com/robots-forex-meilleur-trading-automatique.html",
+  "timestamp": "2025-06-03T20:17:10.953181+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_surf-finance_com_20250604_001715.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Internet Domain Service BS Corp.",
+      "creation_date": "2003-12-16 18:21:17",
+      "expiration_date": "2025-12-16 18:21:17",
+      "name_servers": [
+        "NS-CANADA.TOPDNS.COM",
+        "NS-UK.TOPDNS.COM",
+        "NS-USA.TOPDNS.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "109.234.164.234"
+      ]
+    },
+    "age_days": 7840,
+    "registrar": "Internet Domain Service BS Corp.",
+    "name_servers": [
+      "NS-CANADA.TOPDNS.COM",
+      "NS-UK.TOPDNS.COM",
+      "NS-USA.TOPDNS.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "surf-finance.com"
+    },
+    "not_before": "2025-04-22T08:21:16",
+    "not_after": "2025-07-21T08:21:15",
+    "days_remaining": 47,
+    "san": [
+      "surf-finance.com",
+      "www.surf-finance.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: o2switch-PowerBoost-v3",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 251)",
+      "rgb(241, 241, 241)",
+      "rgb(254, 254, 254)",
+      "rgb(127, 127, 127)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 16.5244140625
+  }
+}

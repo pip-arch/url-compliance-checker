@@ -1,0 +1,68 @@
+{
+  "url": "https://noticiasetecnologia.io/3-ativos-investir-mercado-investimentos/",
+  "timestamp": "2025-05-30T10:54:45.060803+00:00",
+  "screenshot_path": "data/outputs/screenshots/noticiasetecnologia_io_20250530_145451.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Key-Systems GmbH",
+      "creation_date": "2025-02-06 09:40:55",
+      "expiration_date": "2026-02-06 09:40:55",
+      "name_servers": [
+        "ns-1231.awsdns-25.org",
+        "ns-489.awsdns-61.com",
+        "ns-642.awsdns-16.net",
+        "ns-1809.awsdns-34.co.uk"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "162.159.135.42"
+      ],
+      "txt_records": [
+        "\"google-site-verification=c6ilqOnUH5ZjCpeIwr2P1-kfWtZ43laokplEMiQ18fY\""
+      ]
+    },
+    "age_days": 113,
+    "registrar": "Key-Systems GmbH",
+    "name_servers": [
+      "ns-1231.awsdns-25.org",
+      "ns-489.awsdns-61.com",
+      "ns-642.awsdns-16.net",
+      "ns-1809.awsdns-34.co.uk"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: Cannot connect to host noticiasetecnologia.io:443 ssl:default [[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)]"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(244, 244, 244)",
+      "rgb(255, 255, 255)",
+      "rgb(30, 30, 30)",
+      "rgb(242, 244, 252)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x2999",
+    "file_size_kb": 1164.076171875
+  }
+}

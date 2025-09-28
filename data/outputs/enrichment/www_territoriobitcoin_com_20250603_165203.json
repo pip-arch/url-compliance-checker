@@ -1,0 +1,85 @@
+{
+  "url": "https://www.territoriobitcoin.com/operar-en-forex-puede-ser-tu-principal-fuente-de-ingresos-este-2022/",
+  "timestamp": "2025-06-03T12:51:54.694102+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_territoriobitcoin_com_20250603_165202.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2014-11-16 14:01:13",
+      "expiration_date": "2025-11-16 14:01:13",
+      "name_servers": [
+        "TOM.NS.CLOUDFLARE.COM",
+        "VIDA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.154.5",
+        "104.21.13.4"
+      ]
+    },
+    "age_days": 3851,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "TOM.NS.CLOUDFLARE.COM",
+      "VIDA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "territoriobitcoin.com"
+    },
+    "not_before": "2025-05-14T01:14:26",
+    "not_after": "2025-08-12T02:11:49",
+    "days_remaining": 69,
+    "san": [
+      "territoriobitcoin.com",
+      "*.territoriobitcoin.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(16, 16, 16)",
+      "rgb(17, 17, 17)",
+      "rgb(18, 18, 18)",
+      "rgb(19, 19, 19)"
+    ],
+    "image_dimensions": "1920x4396",
+    "file_size_kb": 1598.8095703125
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "url": "https://podcastai.com/shows/eunfbt-apprendre-le-trading-le-guide-des-formations-bourse",
+  "timestamp": "2025-06-04T03:46:57.566813+00:00",
+  "screenshot_path": "data/outputs/screenshots/podcastai_com_20250604_074707.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2019, 3, 28, 4, 24, 16), datetime.datetime(2019, 3, 27, 23, 24, 16)]",
+      "expiration_date": "[datetime.datetime(2026, 3, 28, 4, 24, 16), datetime.datetime(2026, 3, 27, 23, 24, 16)]",
+      "name_servers": [
+        "NS1.DIGITALOCEAN.COM",
+        "NS2.DIGITALOCEAN.COM",
+        "NS3.DIGITALOCEAN.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "162.159.140.98",
+        "172.66.0.96"
+      ],
+      "mx_records": [
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "15 6hvyh4mmmdvr76tnz632cguhomxoh4x5jj3sjhnyw3xku5sboeoq.mx-verification.google.com.",
+        "1 aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"openai-domain-verification=dv-Xr3R4K3zOEtabLMqpT9yExMK\"",
+        "\"v=spf1 include:_spf.google.com include:sendgrid.net ~all\"",
+        "\"brevo-code:73b98f79362a4bd6ffea1b1a7ec322ab\"",
+        "\"google-site-verification=1ufX9gRHLLIKnoYtj0y1ofPcspvBznQwMdvJ-hjTBUE\"",
+        "\"rippling-domain-verification=1474fb501556137e\"",
+        "\"stripe-verification=aec475d88dbc3e1262cb623dba4411543a2cc6667fc89027f1d8b04848d305bf\"",
+        "\"facebook-domain-verification=ir2w7v9ysfecnnyr380679heszazvx\""
+      ]
+    },
+    "age_days": 2259,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS1.DIGITALOCEAN.COM",
+      "NS2.DIGITALOCEAN.COM",
+      "NS3.DIGITALOCEAN.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "podcastai.com"
+    },
+    "not_before": "2025-04-18T23:23:29",
+    "not_after": "2025-07-18T00:23:23",
+    "days_remaining": 43,
+    "san": [
+      "podcastai.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: Nuxt",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(26, 27, 37)",
+      "rgb(95, 95, 102)",
+      "rgb(18, 19, 30)",
+      "rgb(229, 231, 235)"
+    ],
+    "image_dimensions": "1920x1957",
+    "file_size_kb": 321.130859375
+  }
+}

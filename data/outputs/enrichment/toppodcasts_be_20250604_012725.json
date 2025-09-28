@@ -1,0 +1,84 @@
+{
+  "url": "https://toppodcasts.be/podcast/apprendre-le-trading-le-guide-des-formations-bours/analyse-technique-forex",
+  "timestamp": "2025-06-03T21:27:19.973754+00:00",
+  "screenshot_path": "data/outputs/screenshots/toppodcasts_be_20250604_012725.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": "2022-09-23 00:00:00",
+      "expiration_date": null,
+      "name_servers": "april.ns.cloudflare.com\r\n\tearl.ns.cloudflare.com"
+    },
+    "dns": {
+      "a_records": [
+        "104.21.112.1",
+        "104.21.32.1",
+        "104.21.48.1",
+        "104.21.80.1",
+        "104.21.64.1",
+        "104.21.16.1",
+        "104.21.96.1"
+      ],
+      "txt_records": [
+        "\"google-site-verification=uCWrY27v1_uCRaxR9jFVvEufFH9HPL9vFaWIsg_m4Fg\""
+      ]
+    },
+    "age_days": 984,
+    "registrar": null,
+    "name_servers": "april.ns.cloudflare.com\r\n\tearl.ns.cloudflare.com"
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "toppodcasts.be"
+    },
+    "not_before": "2025-05-01T18:29:28",
+    "not_after": "2025-07-30T19:26:27",
+    "days_remaining": 56,
+    "san": [
+      "toppodcasts.be",
+      "*.toppodcasts.be"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(237, 242, 247)",
+      "rgb(226, 232, 240)",
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x7024",
+    "file_size_kb": 753.0224609375
+  }
+}

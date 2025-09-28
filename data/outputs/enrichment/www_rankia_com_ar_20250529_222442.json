@@ -1,0 +1,79 @@
+{
+  "url": "https://www.rankia.com.ar/webinars/4862-aprende-disenar-primera-estrategia-trading",
+  "timestamp": "2025-05-29T18:24:20.236872+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_rankia_com_ar_20250529_222441.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "nicar",
+      "creation_date": "[datetime.datetime(2014, 9, 9, 0, 0), '2016-06-30 23:33:54.084001']",
+      "expiration_date": "2025-10-16 00:00:00",
+      "name_servers": [
+        "lia.ns.cloudflare.com",
+        "dom.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "188.114.96.0",
+        "188.114.97.0"
+      ]
+    },
+    "age_days": 3915,
+    "registrar": "nicar",
+    "name_servers": [
+      "lia.ns.cloudflare.com",
+      "dom.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "rankia.com.ar"
+    },
+    "not_before": "2025-04-24T09:17:30",
+    "not_after": "2025-07-23T10:15:59",
+    "days_remaining": 54,
+    "san": [
+      "rankia.com.ar",
+      "*.rankia.com.ar"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "CSP"
+    ],
+    "issues": [
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(33, 104, 157)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x2576",
+    "file_size_kb": 421.2080078125
+  }
+}

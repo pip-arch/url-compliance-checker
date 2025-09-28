@@ -1,0 +1,86 @@
+{
+  "url": "https://www.seputarforex.net/artikel/software-trading-yang-perlu-dicoba-pada-2016-264187-31",
+  "timestamp": "2025-06-03T10:45:15.881018+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_seputarforex_net_20250603_144525.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2012-05-02 02:06:34",
+      "expiration_date": "2026-05-02 02:06:34",
+      "name_servers": [
+        "NEWT.NS.CLOUDFLARE.COM",
+        "OLIVIA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "94.237.66.146"
+      ],
+      "txt_records": [
+        "\"google-site-verification=TOTQKaqmybncu95p__fbNrnOjXc7-C4qAu3nrX8CIfI\""
+      ]
+    },
+    "age_days": 4780,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "NEWT.NS.CLOUDFLARE.COM",
+      "OLIVIA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "seputarforex.net"
+    },
+    "not_before": "2025-04-25T12:52:18",
+    "not_after": "2025-07-24T12:52:17",
+    "days_remaining": 50,
+    "san": [
+      "seputarforex.net",
+      "www.seputarforex.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(238, 238, 238)",
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(249, 249, 249)",
+      "rgb(237, 237, 237)"
+    ],
+    "image_dimensions": "1920x4644",
+    "file_size_kb": 1104.3642578125
+  }
+}

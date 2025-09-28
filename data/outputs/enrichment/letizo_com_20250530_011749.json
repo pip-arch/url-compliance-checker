@@ -1,0 +1,101 @@
+{
+  "url": "https://letizo.com/cryptocurrencies/bitcoin/",
+  "timestamp": "2025-05-29T21:17:40.132275+00:00",
+  "screenshot_path": "data/outputs/screenshots/letizo_com_20250530_011749.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "TurnCommerce, Inc. DBA NameBright.com",
+      "creation_date": "2021-04-07 20:15:47",
+      "expiration_date": "2026-04-07 20:15:47",
+      "name_servers": [
+        "NS1.DIGITALOCEAN.COM",
+        "NS2.DIGITALOCEAN.COM",
+        "NS3.DIGITALOCEAN.COM",
+        "NS1.DIGITALOCEAN.COM.",
+        "NS2.DIGITALOCEAN.COM.",
+        "NS3.DIGITALOCEAN.COM."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "143.244.222.90"
+      ],
+      "mx_records": [
+        "20 mx2.titan.email.",
+        "10 mx1.titan.email."
+      ],
+      "txt_records": [
+        "\"google-site-verification=CDC0kYkT8CMqCWMUNaHN9X8siaebdGMTT5YBsUGvctc\"",
+        "\"google-site-verification=YourUniqueGoogleVerificationCode\"",
+        "\"v=spf1 include:mxsspf.sendpulse.com include:spf.titan.email ~all\""
+      ]
+    },
+    "age_days": 1513,
+    "registrar": "TurnCommerce, Inc. DBA NameBright.com",
+    "name_servers": [
+      "NS1.DIGITALOCEAN.COM",
+      "NS2.DIGITALOCEAN.COM",
+      "NS3.DIGITALOCEAN.COM",
+      "NS1.DIGITALOCEAN.COM.",
+      "NS2.DIGITALOCEAN.COM.",
+      "NS3.DIGITALOCEAN.COM."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "letizo.com"
+    },
+    "not_before": "2025-04-16T18:11:00",
+    "not_after": "2025-07-15T18:10:59",
+    "days_remaining": 46,
+    "san": [
+      "letizo.com",
+      "www.letizo.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(17, 17, 17)",
+      "rgb(0, 0, 0)",
+      "rgb(231, 231, 231)",
+      "rgb(14, 14, 14)"
+    ],
+    "image_dimensions": "1920x1910",
+    "file_size_kb": 538.0009765625
+  }
+}

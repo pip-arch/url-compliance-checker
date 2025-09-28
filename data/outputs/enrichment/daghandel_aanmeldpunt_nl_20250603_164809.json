@@ -1,0 +1,91 @@
+{
+  "url": "https://daghandel.aanmeldpunt.nl/",
+  "timestamp": "2025-06-03T12:48:05.225244+00:00",
+  "screenshot_path": "data/outputs/screenshots/daghandel_aanmeldpunt_nl_20250603_164809.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "team.blue nl B.V.",
+      "creation_date": "2009-04-20 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "ns1.dns1dns2dns3.com",
+        "ns4.dns1dns2dns3.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "94.23.167.136"
+      ]
+    },
+    "age_days": 5888,
+    "registrar": "team.blue nl B.V.",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "ns1.dns1dns2dns3.com",
+      "ns4.dns1dns2dns3.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.aanmeldpunt.nl"
+    },
+    "not_before": "2025-05-13T05:20:24",
+    "not_after": "2025-08-11T05:20:23",
+    "days_remaining": 68,
+    "san": [
+      "*.aanmeldpunt.nl",
+      "aanmeldpunt.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(215, 215, 215)",
+      "rgb(52, 255, 0)",
+      "rgb(51, 255, 0)",
+      "rgb(216, 216, 215)",
+      "rgb(216, 215, 216)"
+    ],
+    "image_dimensions": "1920x1726",
+    "file_size_kb": 330.52734375
+  }
+}

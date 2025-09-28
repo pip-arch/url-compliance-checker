@@ -1,0 +1,94 @@
+{
+  "url": "https://energyplus-bd.com/telegram-t-me-seo-anomaly-seo-backlinks-cross-6-4/",
+  "timestamp": "2025-06-02T18:55:18.665899+00:00",
+  "screenshot_path": "data/outputs/screenshots/energyplus-bd_com_20250602_225528.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "WEBCC",
+      "creation_date": "[datetime.datetime(2015, 10, 28, 6, 59, 41), datetime.datetime(2015, 10, 27, 22, 59, 41)]",
+      "expiration_date": "2025-10-28 06:59:41",
+      "name_servers": [
+        "NS1.XEONBD.COM",
+        "NS2.XEONBD.COM",
+        "NS3.XEONBD.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "195.201.206.245"
+      ],
+      "mx_records": [
+        "0 energyplus-bd.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:195.201.206.245 ip4:195.201.206.246 ip4:173.212.240.186 include:spf.xeonbd.com +include:spf.antispamcloud.com +a:spf.xeonbd.com ~all\""
+      ]
+    },
+    "age_days": 3505,
+    "registrar": "WEBCC",
+    "name_servers": [
+      "NS1.XEONBD.COM",
+      "NS2.XEONBD.COM",
+      "NS3.XEONBD.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "*.energyplus-bd.com"
+    },
+    "not_before": "2025-04-05T05:52:10",
+    "not_after": "2025-07-04T05:52:09",
+    "days_remaining": 31,
+    "san": [
+      "*.energyplus-bd.com",
+      "energyplus-bd.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(252, 252, 252)",
+      "rgb(43, 162, 115)"
+    ],
+    "image_dimensions": "1920x2556",
+    "file_size_kb": 936.7099609375
+  }
+}

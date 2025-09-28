@@ -1,0 +1,86 @@
+{
+  "url": "https://www.safelinkchecker.com/search/admiral-markets-mt5-supreme-edition",
+  "timestamp": "2025-06-03T17:25:41.514177+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_safelinkchecker_com_20250603_212553.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc.",
+      "creation_date": "2019-09-13 10:58:09",
+      "expiration_date": "2025-09-13 10:58:09",
+      "name_servers": [
+        "CONNIE.NS.CLOUDFLARE.COM",
+        "GERALD.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.170.36",
+        "104.21.28.11"
+      ]
+    },
+    "age_days": 2090,
+    "registrar": "Cloudflare, Inc.",
+    "name_servers": [
+      "CONNIE.NS.CLOUDFLARE.COM",
+      "GERALD.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "safelinkchecker.com"
+    },
+    "not_before": "2025-04-20T01:43:06",
+    "not_after": "2025-07-19T02:40:18",
+    "days_remaining": 45,
+    "san": [
+      "safelinkchecker.com",
+      "*.safelinkchecker.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(253, 253, 253)",
+      "rgb(250, 250, 250)",
+      "rgb(254, 254, 254)",
+      "rgb(249, 249, 249)"
+    ],
+    "image_dimensions": "1920x6074",
+    "file_size_kb": 690.2890625
+  }
+}

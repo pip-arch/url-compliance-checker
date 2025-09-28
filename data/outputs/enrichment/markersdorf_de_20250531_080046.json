@@ -1,0 +1,90 @@
+{
+  "url": "https://markersdorf.de/40220/nasdaq-100-der-populaere-index-im-detaillierten-ueberblick/",
+  "timestamp": "2025-05-31T04:00:39.570604+00:00",
+  "screenshot_path": "data/outputs/screenshots/markersdorf_de_20250531_080046.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns3.kasserver.com",
+        "ns4.kasserver.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "85.13.132.52"
+      ],
+      "mx_records": [
+        "10 w01157b0.kasserver.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 mx a ?all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns3.kasserver.com",
+      "ns4.kasserver.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "markersdorf.de"
+    },
+    "not_before": "2025-04-13T14:46:45",
+    "not_after": "2025-07-12T14:46:44",
+    "days_remaining": 42,
+    "san": [
+      "markersdorf.de",
+      "www.markersdorf.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(228, 228, 228)",
+      "rgb(229, 229, 229)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x7151",
+    "file_size_kb": 1920.548828125
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "url": "https://www.0564.ua/news/547468/torgovla-na-valutnom-rynke-kak-alternativa-depozitam-v-banke",
+  "timestamp": "2025-06-03T14:00:48.190132+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_0564_ua_20250603_180056.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "\u0422\u041e\u0412 \"\u0410\u041d\u041b\u0406\u041c.\u042e\u0415\u0419\"",
+      "creation_date": "['2012-03-07 14:29:19+02', '2014-03-31 17:42:09+03']",
+      "expiration_date": "2026-03-07 14:29:19+02",
+      "name_servers": [
+        "neil.ns.cloudflare.com",
+        "zoe.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.47.39",
+        "172.67.170.93"
+      ]
+    },
+    "age_days": null,
+    "registrar": "\u0422\u041e\u0412 \"\u0410\u041d\u041b\u0406\u041c.\u042e\u0415\u0419\"",
+    "name_servers": [
+      "neil.ns.cloudflare.com",
+      "zoe.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "0564.ua"
+    },
+    "not_before": "2025-04-14T02:47:35",
+    "not_after": "2025-07-13T03:44:30",
+    "days_remaining": 39,
+    "san": [
+      "0564.ua",
+      "*.0564.ua"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: Express"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(230, 230, 230)",
+      "rgb(63, 62, 62)",
+      "rgb(254, 254, 254)",
+      "rgb(207, 207, 207)"
+    ],
+    "image_dimensions": "1920x6860",
+    "file_size_kb": 1563.978515625
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "url": "https://mimorelia.com/oportunidades-de-inversi%C3%B3n-al-alcance-de-tu-mano-para-dejar-atr%C3%A1s-la-crisis-2021-06-14t13-17",
+  "timestamp": "2025-06-04T01:17:09.858687+00:00",
+  "screenshot_path": "data/outputs/screenshots/mimorelia_com_20250604_051718.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "ENOM, INC.",
+      "creation_date": "2000-01-18 19:19:18",
+      "expiration_date": "[datetime.datetime(2033, 1, 18, 19, 19, 18), datetime.datetime(2033, 1, 18, 19, 19)]",
+      "name_servers": [
+        "DNS1.NAME-SERVICES.COM",
+        "DNS2.NAME-SERVICES.COM",
+        "DNS3.NAME-SERVICES.COM",
+        "DNS4.NAME-SERVICES.COM",
+        "DNS5.NAME-SERVICES.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.18.94.198",
+        "104.18.90.198",
+        "104.18.91.198",
+        "104.18.92.198"
+      ],
+      "mx_records": [
+        "10 mx1.privateemail.com."
+      ]
+    },
+    "age_days": 9268,
+    "registrar": "ENOM, INC.",
+    "name_servers": [
+      "DNS1.NAME-SERVICES.COM",
+      "DNS2.NAME-SERVICES.COM",
+      "DNS3.NAME-SERVICES.COM",
+      "DNS4.NAME-SERVICES.COM",
+      "DNS5.NAME-SERVICES.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "mimorelia.com"
+    },
+    "not_before": "2025-05-24T01:17:02",
+    "not_after": "2025-08-22T01:17:01",
+    "days_remaining": 78,
+    "san": [
+      "mimorelia.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: Express",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "HSTS",
+      "CSP"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(223, 223, 223)",
+      "rgb(221, 221, 221)",
+      "rgb(222, 222, 222)",
+      "rgb(218, 218, 218)"
+    ],
+    "image_dimensions": "1920x3262",
+    "file_size_kb": 990.7998046875
+  }
+}

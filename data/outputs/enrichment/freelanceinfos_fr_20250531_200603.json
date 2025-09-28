@@ -1,0 +1,92 @@
+{
+  "url": "https://freelanceinfos.fr/quest-ce-que-le-cfd-et-comment-le-trader-en-bourse/",
+  "timestamp": "2025-05-31T16:05:53.810308+00:00",
+  "screenshot_path": "data/outputs/screenshots/freelanceinfos_fr_20250531_200602.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "SCALEWAY",
+      "creation_date": "2020-07-27 13:41:19",
+      "expiration_date": "2027-07-27 13:41:19",
+      "name_servers": [
+        "algin.ns.cloudflare.com",
+        "lindsey.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.154.141",
+        "104.21.72.195"
+      ],
+      "mx_records": [
+        "10 mx01.ionos.fr.",
+        "10 mx00.ionos.fr."
+      ],
+      "txt_records": [
+        "\"google-site-verification=uaBiCGqrY7yC2yFjAVG8YIw-OWTpMFtTQQWjuLWTujE\""
+      ]
+    },
+    "age_days": 1769,
+    "registrar": "SCALEWAY",
+    "name_servers": [
+      "algin.ns.cloudflare.com",
+      "lindsey.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "freelanceinfos.fr"
+    },
+    "not_before": "2025-05-11T16:29:33",
+    "not_after": "2025-08-09T17:25:54",
+    "days_remaining": 69,
+    "san": [
+      "freelanceinfos.fr",
+      "*.freelanceinfos.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(33, 33, 33)",
+      "rgb(254, 254, 254)",
+      "rgb(32, 32, 32)",
+      "rgb(186, 186, 186)"
+    ],
+    "image_dimensions": "1920x8035",
+    "file_size_kb": 1993.3837890625
+  }
+}

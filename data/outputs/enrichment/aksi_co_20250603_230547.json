@@ -1,0 +1,76 @@
+{
+  "url": "https://aksi.co/2024/10/02/broker-forex-comparison-2024/",
+  "timestamp": "2025-06-03T19:05:14.461099+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Tucows Domains Inc.",
+      "creation_date": "2014-01-28 11:06:22",
+      "expiration_date": "2026-01-27 23:59:59",
+      "name_servers": [
+        "dan.ns.cloudflare.com",
+        "fay.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.222.222",
+        "104.21.70.108"
+      ],
+      "txt_records": [
+        "\"google-site-verification=P4plTJwTbeOEERKYce1pH9iV2V2qql3NaD1WbAHubTc\""
+      ]
+    },
+    "age_days": 4144,
+    "registrar": "Tucows Domains Inc.",
+    "name_servers": [
+      "dan.ns.cloudflare.com",
+      "fay.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "aksi.co"
+    },
+    "not_before": "2025-05-05T15:44:25",
+    "not_after": "2025-08-03T16:40:44",
+    "days_remaining": 60,
+    "san": [
+      "aksi.co",
+      "*.aksi.co"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: WordOps",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

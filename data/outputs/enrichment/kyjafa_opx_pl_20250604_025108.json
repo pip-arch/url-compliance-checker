@@ -1,0 +1,87 @@
+{
+  "url": "http://kyjafa.opx.pl/forex-trading-in-the-philippines.html",
+  "timestamp": "2025-06-03T22:51:00.512223+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Aftermarket.pl Limited",
+      "creation_date": "2005-08-17 16:17:26",
+      "expiration_date": "2025-08-17 16:17:26",
+      "name_servers": [
+        "prv-dns1.grupapino.pl",
+        "prv-dns2.grupapino.pl"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "37.59.49.187"
+      ]
+    },
+    "age_days": 7230,
+    "registrar": "Aftermarket.pl Limited",
+    "name_servers": [
+      "prv-dns1.grupapino.pl",
+      "prv-dns2.grupapino.pl"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "prv.pl"
+    },
+    "not_before": "2025-04-09T07:30:12",
+    "not_after": "2025-07-08T07:30:11",
+    "days_remaining": 34,
+    "san": [
+      "*.htw.pl",
+      "*.keep.pl",
+      "*.opx.pl",
+      "*.pev.pl",
+      "*.prv.pl",
+      "*.refy.pl",
+      "*.wex.pl",
+      "*.xlx.pl",
+      "htw.pl",
+      "keep.pl",
+      "opx.pl",
+      "pev.pl",
+      "prv.pl",
+      "refy.pl",
+      "wex.pl",
+      "xlx.pl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

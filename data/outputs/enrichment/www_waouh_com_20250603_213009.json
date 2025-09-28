@@ -1,0 +1,90 @@
+{
+  "url": "https://www.waouh.com/traders-novices-crypto-monnaie-doivent-savoir-avant-de-se-lancer-1640331842.html",
+  "timestamp": "2025-06-03T17:30:02.021167+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_waouh_com_20250603_213008.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2006, 10, 13, 18, 12, 53), datetime.datetime(2006, 10, 13, 13, 12, 53)]",
+      "expiration_date": "[datetime.datetime(2025, 10, 13, 18, 12, 53), datetime.datetime(2025, 10, 13, 13, 12, 53)]",
+      "name_servers": [
+        "ANDY.NS.CLOUDFLARE.COM",
+        "LILA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.46.229.45"
+      ],
+      "mx_records": [
+        "0 _dc-mx.ff1ef5fcf80e.waouh.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:185.46.229.45 include:nexylan.net include:mail.waouh.com ~all\""
+      ]
+    },
+    "age_days": 6807,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ANDY.NS.CLOUDFLARE.COM",
+      "LILA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "waouh.com"
+    },
+    "not_before": "2025-05-24T09:07:47",
+    "not_after": "2025-08-22T09:07:46",
+    "days_remaining": 79,
+    "san": [
+      "admin.waouh.com",
+      "waouh.com",
+      "www.waouh.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(76, 76, 76)",
+      "rgb(24, 24, 24)",
+      "rgb(77, 77, 77)",
+      "rgb(230, 230, 230)"
+    ],
+    "image_dimensions": "1920x3234",
+    "file_size_kb": 1236.5
+  }
+}

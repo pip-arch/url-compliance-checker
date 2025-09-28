@@ -1,0 +1,88 @@
+{
+  "url": "https://topsport.bg/finance/zashto-petrolat-se-srina-do-negativni-niva-i-kakvo-da-ochakvame.html",
+  "timestamp": "2025-06-04T03:34:39.977889+00:00",
+  "screenshot_path": "data/outputs/screenshots/topsport_bg_20250604_073452.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "34.102.240.58"
+      ],
+      "mx_records": [
+        "10 aspmx2.googlemail.com.",
+        "10 aspmx3.googlemail.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "1 aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=zgf3tzjm1ol2bni9eh5xybgmevvnwtad2mhfe185tfm\"",
+        "\"v=spf1 +a +mx include:_spf.google.com ~all\"",
+        "\"facebook-domain-verification=n8pcgh18xztyiup2rndeg074rszf0u\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WR3"
+    },
+    "subject": {
+      "commonName": "topsport.bg"
+    },
+    "not_before": "2025-05-21T11:59:57",
+    "not_after": "2025-08-19T12:55:52",
+    "days_remaining": 76,
+    "san": [
+      "topsport.bg",
+      "*.topsport.bg"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "HSTS",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(240, 240, 240)",
+      "rgb(255, 255, 255)",
+      "rgb(244, 244, 244)",
+      "rgb(245, 245, 245)",
+      "rgb(234, 234, 234)"
+    ],
+    "image_dimensions": "1920x10580",
+    "file_size_kb": 4359.0927734375
+  }
+}

@@ -1,0 +1,8489 @@
+{
+  "timestamp": "2025-05-30T08:54:14.619425",
+  "domains": [
+    {
+      "domain": "www.wikifxvn.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.wildfoxgold.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "helpdesk.iespedreguer.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "vietnamnongnghiepsach.com.vn",
+      "reason": "timeout"
+    },
+    {
+      "domain": "rakily.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "uspesnynaburze.cz",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sergiolmedina.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "revett.biz",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "vexiol.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.iilm.edu",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tadp.guananet.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "collegiatecollective.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "parenting.ilmci.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zikua.tv",
+      "reason": "timeout"
+    },
+    {
+      "domain": "excoga.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.gizchina.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.hostrider.in",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.marketupdate.nl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.prawaczlowieka.umk.pl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ivx.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.nookl.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ciudadmexico.obsidiam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "archive.10sballs.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "click.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forexnewbonus.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "os-karaula.mozks-ksb.ba",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "publicwww.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nidisc.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.setupgoldira.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.nokzeit.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "floribertoinsurance.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sortsofsports.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.enviromacs.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tradingfunds.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tech.amwaly.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "guitarsxs.com",
+      "reason": "known_dead"
+    },
+    {
+      "domain": "www.0jzz.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "myriviera.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.wag.org.zw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hinque.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "topbet.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "broker-forex.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lt.economiafinanzas.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "irc.infosecisland.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forex-ratings.ru",
+      "reason": "other_error"
+    },
+    {
+      "domain": "kaki4d1.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.lions-leonberg.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "de.ratrating.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "anan.icreateagency.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "goob.block.land",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.tumbral.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.stara.suvremena.hr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "whenwillwecry.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hoouri.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.elitenicheresearch.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.al-mstba.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "newfoundpianosgulf.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "management-talents.ch",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bobira.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.unicornx.exchange",
+      "reason": "timeout"
+    },
+    {
+      "domain": "acmobil.ariva.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hr.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "jachob.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mullee.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "keepcoding.io",
+      "reason": "timeout"
+    },
+    {
+      "domain": "daghandel.jouwbegin.nl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cipiel.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.bneg.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.cannabinoil.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forexrobots24.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "store.huntersmithband.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "uiness.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ads.hot.ee",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.updownsite.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "smousn.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.linkdofollow.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.namchigovernmentcollege.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "markreadstudio.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "websecurityguard.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "da.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ne.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "brayve.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "luggic.pics",
+      "reason": "timeout"
+    },
+    {
+      "domain": "quadrueducationedu.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "aena.at",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "jalipa.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.tecplac.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mediakit.snowboardmag.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "appliancejb.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "usdailyreview.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "medicart.medkad.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "uitedn.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ja.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "laser4sale.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.dir.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cqph.fgempiresales.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "apkag.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "comparebroker.io",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "gh.opera.news",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "franklincoveyja.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forexonlinetrading.site",
+      "reason": "other_error"
+    },
+    {
+      "domain": "petersberg.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.atlanticride.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "epsime.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forex.start.bg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "media-news.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "aqdcon.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "de.login-vp.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.kagels-trading.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gt-angol.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sn.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "patternswizard.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bubshome.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forex-rates.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.rayspms.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "woodthoughts.b-tle.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.themoneyprinciple.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ko.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "online-brokerage.arenacampus.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.faradars.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mumssavvysavings.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "naturlich-investieren.koalahilfe.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fincake.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "umis.omsk24.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.psychoterapia.poradnia.edu.pl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.wol.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "depechesdumali.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.poslovni.hr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.produktionsleiter.today",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.zhaopinwangzhan.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.global-view.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "manager.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "apkmodg.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "rm-support.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "arculg.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kapitalis.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "adisak.devfunction.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "lerecit.llbquebec.ca",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.relationclientmag.fr",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.jcount.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.brokersome.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "2015.dancemassive.com.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "coinmarketbag.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "nhuaducanh.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sites-like.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "kzdocs.docdat.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "oslouniv.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ganc-chas.by",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "topmillionwebsites.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "paccul.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lb.eturbonews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.nxtmine.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.aktien.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "m.libertaddigital.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "live-block-17.razzdev.io",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ultimasnoticias.inf.br",
+      "reason": "timeout"
+    },
+    {
+      "domain": "obmiga.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bursagi.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "caribe.obsidiam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "library.cleen.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ptc.stuy.edu",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.avtosreda.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.signintm.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gorich.lifelink.com.tw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kaolen.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "uzdarbis.lt",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cicero.ensea.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "moneyhighstreet.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "crwita.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fan.pcworld.bg",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "juiceland.com.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tol.vpo.si",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.citizensjournal.us",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.seoindepth.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.doovi.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "presse.fiatlux.tk",
+      "reason": "other_error"
+    },
+    {
+      "domain": "dedleo.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "revistaempresarial.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.papendrecht.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "anunturiieseanul.apropo.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ru.esosedi.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cuisinemoiunmouton.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "letsbecrazy.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "yi.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "iptv.atechmarkbd.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "jandic.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hoydecidisvos.sanluis.gov.ar",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bedila.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "webworld.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.qscreate.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.urllinking.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mail.marketoracle.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "partnerarrows.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "m.zhaofx.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.fstoptan.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "home.onego.ru",
+      "reason": "other_error"
+    },
+    {
+      "domain": "forum.palemoon.org",
+      "reason": "other_error"
+    },
+    {
+      "domain": "foxing.pics",
+      "reason": "timeout"
+    },
+    {
+      "domain": "santoantoniodopinhal.lumiar.co",
+      "reason": "timeout"
+    },
+    {
+      "domain": "born2invest.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fanceo.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nitter.1d4.us",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www-lider-ocm.exabyte.hr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "is.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zu.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.webglobal.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "newswire.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lesoutrali.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "interactivtrading.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.fabulouslybroke.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.autoseobacklinks.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.bloglet.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sr.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "maderu.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fjb.bango.co.id",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "apkmods.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "rankia.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "beautifulbarrenandbitchy.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cambistabitcoin.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mobile-staging.dvcresalemarket.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.sciresearchinstitute.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "server.mo-na-ko.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "aboutmanchester.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.egyptsons.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sensemexico.laformulaweb.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "urlmetriques.co",
+      "reason": "other_error"
+    },
+    {
+      "domain": "minfin.com.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "su.eturbonews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "8medialabs.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.mein-klagenfurt.at",
+      "reason": "timeout"
+    },
+    {
+      "domain": "canvas.becker.edu",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "satkhiraservice.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "anffhub.latrobe.edu.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "jablumcoffee.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "te.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "romati.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ukraine-today.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.5dollarsite.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "advancedsitestats.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.silicon.fr",
+      "reason": "other_error"
+    },
+    {
+      "domain": "blog.wineracksuperstore.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.followsite.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ceb.eturbonews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.univers-bourse.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "e.vg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nitter.leftic.club",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.dnb.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ubr.ua",
+      "reason": "timeout"
+    },
+    {
+      "domain": "affordablecomfort.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fr.login-vp.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dautuforex.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.gruender.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.thiagi.es",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fa.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gen1.lifelink.com.tw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.sachsen-online.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tampafitnesspro.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "conf.iwp-hydro.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "taxidermytrophiesforsale.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.politnavigator.news",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ru.ratrating.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forum.finanzaonline.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "letsbit.io",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hr.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nitter.dasnetzundich.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sztukawdrewnie.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.linkedbd.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "taklimakan.network",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "strana.news",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mastop.pics",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fx2funding.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "newsbalt.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ig.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.aktiencheck.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.metatrader5.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.airtm.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "web-creator.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.eestis.ee",
+      "reason": "timeout"
+    },
+    {
+      "domain": "myforexforums.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "yankat.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "web.tiscalinet.it",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "meetinfood.be",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.female.com.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiralmarkets.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bylabe.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "en.showmetech.com.br",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "barkvillefoundation.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "product.myprice.com.cn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "moquen.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.shrutibalasa.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "templatetoaster.universitesenonaisepourtous.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "doofootball66th.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hoangminhjsc.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "etican.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "store.animasia-studio.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.fun100-ilanbnb.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forexbrokerlisting.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "wayranks.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "guestinvest.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "profi-forex.by",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.collective6.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.admiralmarkets.cc",
+      "reason": "timeout"
+    },
+    {
+      "domain": "actufinance.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ddspier.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.integrityprintservices.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kingranks.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "acquen.online",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fa.econologie.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "panama.obsidiam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "evalom.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.infolinks.top",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "republicadominicana.obsidiam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "schrift-architekt.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forextradingtips.website",
+      "reason": "timeout"
+    },
+    {
+      "domain": "theglobe.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "yourneighbourhood.com.au",
+      "reason": "timeout"
+    },
+    {
+      "domain": "waxspa.aws3.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "whm.saathimart.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.lietaer.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "socialnewsdaily.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.internationalprintingservices.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sitegur.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "test.drivingsalesnews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "3qmrcjunior.edu.my",
+      "reason": "timeout"
+    },
+    {
+      "domain": "atella.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.worldsitelink.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.forexsubscriber.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "latam.southconsulting.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "herzogtum-direkt.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.link-de.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tecupdate.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "acqueb.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "numi.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lo.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "taniabertaldi.com",
+      "reason": "known_dead"
+    },
+    {
+      "domain": "opticasarentsen.cl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "canada.obsidiam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "savenpah.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "merchordering.printedtshirtsmelbourne.com.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ibwm.hiit-bio.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "couponsale.in",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.robinspost.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "pr2advertising.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "rebund.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "medozza.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kp.ua",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cuijksevloerenoutlet.nl",
+      "reason": "other_error"
+    },
+    {
+      "domain": "crypto.tradew.us",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.ddth.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.wipsites.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forexmarket.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "linkstats.info",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fzav.starshipxd.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "baysup.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.hagahan-lib.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nesteggvault.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "longlivehotpot.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.bippoadvisor.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.best-schools.info",
+      "reason": "timeout"
+    },
+    {
+      "domain": "jaener.biz",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ku.eturbonews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "pegabl.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bn.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "surfsup.tradeviewforex.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.fxstreet.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.07la.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fooyoh.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "darwininvestingnetwork.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hy.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "new.dragondesignco.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.rendiciondecuentas.org.mx",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.elyanhotel.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "expense.ancubate.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bureauconsultant.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "katalog.prodam-slona.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kazanweek.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cakhotranluan.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "investfunds.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "payload.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fdwp.santoshkaulfoundation.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "test.edodocs.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.urbane.tech",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www-thesouthafrican-com.nproxy.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nl.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "thebossmagazine.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "gite-les2etangs.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gold.forum",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dinhtung.info",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.vowventuresltd.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.business-netz.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "depcasau.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ladiscusion.cl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "articlement.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ulgrad.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "presse.fiatlux.tk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.ac24.cz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kenthm.online",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "goldfa.pics",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.region.co.in",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.safetydisaster.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "baronmag.ca",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nitter.social.cologne",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "thatsup.co.uk",
+      "reason": "other_error"
+    },
+    {
+      "domain": "tubycats.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "erophy.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.oka.fm",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.designer-daily.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "pulsschlag-dorstfeld.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mexico.obsidiam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "recapworld.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.juveros-shop.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ar.showmetech.com.br",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "video.replaye.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "existnomore.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "dobradeirasfachini.com.br",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.prepaid-wiki.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kn.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kitty-nails.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fatogi.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hemino.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.medicinecontact.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.hazcrecertudinero.guiaburros.es",
+      "reason": "timeout"
+    },
+    {
+      "domain": "dystyl.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "coarco.com.py",
+      "reason": "timeout"
+    },
+    {
+      "domain": "groundsurfaces.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tool.toponseek.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "smira.org.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hackread.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zarabiajprzez24.pl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.launchgroundcontrol.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forexmejores.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.marketoracle.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forexonline.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.broker-forex.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.vladtime.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "anunturiclujeanul.apropo.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.ukbusinessblog.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "az.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "alivin.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blogs.trust.ua",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiralmarkets.bg",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forexoptions.website",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.lvse.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "crpapa.lifelink.com.tw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sitespeople.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "velykoross.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forexmanagement.start.bg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bloomchain.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "buenfin.colpa.edu.mx",
+      "reason": "timeout"
+    },
+    {
+      "domain": "word-power.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ywgv.gandbgraphics.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "thegeekknows.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.smpywkabandung.sch.id",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bionics.kist.re.kr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "trading-forex.website",
+      "reason": "timeout"
+    },
+    {
+      "domain": "uk.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "osoko.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "wordpress.unscramblex.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiralmarkets.lt",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nitter.anchel.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "videobourse.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "waihui.zhongyi9999.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "list.winehq.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kienthucforex.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.pr-echo.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.nichesblog.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "israelacademia.che.org.il",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "rankingapp.metatags.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dld.meditativestory.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.romaniajournal.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sobesednik.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ecuador.obsidiam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.notasdeprensagratis.es",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bankclip.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "eco.hu",
+      "reason": "timeout"
+    },
+    {
+      "domain": "manchainformacion.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "puyanetessami.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "libretilla.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tcvonline.info",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cotes-de-la-moliere.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.infobraila.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dowarb.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forestgatelogistics.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "versii.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "m.mr7.ru.dev.parohod.biz",
+      "reason": "other_error"
+    },
+    {
+      "domain": "oktob.io",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.bestportals.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ru.gcoption.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.disput.az",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cryptostec.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.credito.com.mx",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "en.ictmedia.bg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "seoulfoseca.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fictionbook.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bestbizz.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.meilleurduweb.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "247btc.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "vietphincoffee.vn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tr.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fas.askesimonsen.dk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "michalis.hostzone.gr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "londonlovestech.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "cdn.macroaxis.netdna-cdn.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "co.eturbonews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.beaboss.fr",
+      "reason": "other_error"
+    },
+    {
+      "domain": "couponmarathon.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.rankia.com.ar",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "search.aol.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "qa-animals.info",
+      "reason": "timeout"
+    },
+    {
+      "domain": "traderfrancophone.fr",
+      "reason": "other_error"
+    },
+    {
+      "domain": "kontactr.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tathil.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "faemit.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "konkurs.kalendarzrolnikow.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "alfainfoscreen.no",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ko.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tradingfunds.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "wbsrch.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.feedster.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.ma-bise.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forexbroker.ng",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.metatrader4.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "gwlf.spiallc.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.fondazioneimpresa.it",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "beta-klb.ksfinance.vn",
+      "reason": "timeout"
+    },
+    {
+      "domain": "rubymsltd.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.vtad.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.galwayadvertiser.ie",
+      "reason": "timeout"
+    },
+    {
+      "domain": "twgz.northmanorstudio.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.wndn.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "spaughts.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mail.veneportaal.ee",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.rtauto.sk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.jewworldorder.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tamayouze.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.altai.eparhia.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.mycity-military.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "pctechmag.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.infomarine.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ca.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.wopular.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "disparpora.pacitankab.go.id",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sforth.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dkeu.foncegan.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.arctarim.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.tecupdate.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.onlinenewspaper.in",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.adcfrance.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.sysadminslife.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "billetdebanque.panorabanques.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.eldia.es",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.aripaev.ee",
+      "reason": "timeout"
+    },
+    {
+      "domain": "el.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.zvj.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.theworldreporter.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "dark.gothic.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.2luxury2.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "yeshuarealtyandbrokerage.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "aligow.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "peketec.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.thenationalstudent.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "login-faq.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.curisbiotech.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "qbhitlist.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "allianz.africabusinesscommunities.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "lv.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "leatoc.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tribolt.tech",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hoe-starten-met-beleggen.jouwnav.nl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "membership.sdwebdesign.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "geeki.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.magazine-racines.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mooc.eiu.edu.bz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.caritasfe.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cc.bingj.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "twvg.guarded-treasures.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "wearabletechzone.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "kotl.drunkmonkey.com.ua",
+      "reason": "timeout"
+    },
+    {
+      "domain": "wiki.mexat.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "aapks.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cyanta.best",
+      "reason": "other_error"
+    },
+    {
+      "domain": "mycustomneckties.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.limsengkok.com.sg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.keyfora.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "markersdorf.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dev-intensivets.c4edu.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "made-in-entreprise.fr",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.starlife.com.ua",
+      "reason": "timeout"
+    },
+    {
+      "domain": "foro.kostarof.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "3yonnews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.jorditoldra.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "reedratings.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "edl20.enroutedigitallab.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.gorj-domino.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "masters.donntu.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.infoclub.info",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hostseolinks.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "parthswami.wisewebtek.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "itnews.com.ua",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zacmarie.gr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "torodemotrading.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "demo.bizceyapim.com.tr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "warengo.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "coyali.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.asiaforexmentor.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.centrostudi.eu",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.olfreshinternational.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.leaprate.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "papple.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.campuskonnect.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "prixdubaril.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fi.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tjara.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "archive.lvivpost.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "carehealthjobs.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.professeurforex.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.dinhtung.info",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sk.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kiwix.ounapuu.ee",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "public.sitejot.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ny.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sk.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "imt-academy.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "obclue.blog",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fonacier.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "webranksdirectory.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.grupy.banzaj.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "review-plus.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "deepti.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.logikfx.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.roomswant.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "auroch.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "globalweb.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "icfa.rac.gov.kh",
+      "reason": "timeout"
+    },
+    {
+      "domain": "pinkprincessparties.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "en.ratingfx.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.asianpopsmagazine.leosv.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "antimmgp.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "zlcn.vitalityou.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "vanchuyenducviet.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "dev.tradingguide.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "loginhubs.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fitwords.at",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.findhealthtips.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nitter.cc",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "itoday.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "rtfilmes.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "marketinsightcanada.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.diyhomekit.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "clibme.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ziarulderoman.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.3652.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.in0.es",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "zpmk.aussingapore.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ammonnews.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "dev1.fin.we.ee",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.krypto-magazin.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.jetblackgranite.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "madris.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "creditscore.capify.com.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "es.0430.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.tuugo.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lrzo.martellpolitedental.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sjseguridad.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kk.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fxcash.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hollywoodiu.edu.pe",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.siteprice.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.gucheng.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cmtcorporation.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ltdeditionprints.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "heliumtrades.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "liveforexcharts.website",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.economic.bg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lqyf.drivehoopsbasketball.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "myworthweb.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "vitalk.health",
+      "reason": "timeout"
+    },
+    {
+      "domain": "v-tagile.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "clip.lokal.social",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.rocketnews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "acumuc.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hanghoa.anfin.vn",
+      "reason": "other_error"
+    },
+    {
+      "domain": "gyro.ws",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bbtradekey.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "invidious.fdn.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.4fan.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.topseo.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "uz.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "en.seokicks.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "atlantabusinessradio.brxarchive.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "yari1.xyz",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sinvest.vn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "texasimagingnetwork.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "thedailystuff.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "directory.financemagnates.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tradingportal.eu",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ex.medio.vn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.madhuri.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "rubyslashes.com.au",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fxcash.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.jodvie.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "quangtrimart.vn",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gpssecurity.us",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tradingguide.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "stats-site.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.sitelinks.info",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.beursduivel.be",
+      "reason": "timeout"
+    },
+    {
+      "domain": "londonlovesbusiness.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "au.urlm.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "enrichtea.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.eventlooking.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "enfere.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.producthunt.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.nilgunsenturk.com.tr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "goquymocthach.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fiches-coop.adpiformation.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "so.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "clodes.online",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.gfa.co.jp",
+      "reason": "timeout"
+    },
+    {
+      "domain": "pubdat.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ouyi.run",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ragsdale82-001-site5.htempurl.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.tozsdehirek.hu",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lasect.pics",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.zmenplumbing.com.au",
+      "reason": "timeout"
+    },
+    {
+      "domain": "pupproperty.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fashioncoached.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "news-nachrichten.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "butterfly-madness.uprrp.edu",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.thehouseshop.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "invesbrain.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "pcbolsa.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "muahanghoa.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.pangandaranriveradventure.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.euklide.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.httpso.cn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.enqueinvertir.cl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.dreammaker.cc",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "news-block.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "so.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "blog.way2news.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.culturamas.es",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dumpsterdivingceo.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ps.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.forexagone.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "samobranka-club.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zuevwndpl.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "wikipedia.nucleos.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "spyier.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.sifm.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tymini.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.kalitva.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "samanmosavi.nasrblog.ir",
+      "reason": "timeout"
+    },
+    {
+      "domain": "twt.nullob.si",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "arnavutkoy.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.keyword-rank.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mr.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.antipixel.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zgate.mohamedkassem.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "x1l.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mezers.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "note.taable.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiralmarkets.es",
+      "reason": "timeout"
+    },
+    {
+      "domain": "galadinner.londonsairambulance.org.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "be.eturbonews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "answerdrive.0oorw2t0ah-xmz4qzmyx42o.p.runcloud.link",
+      "reason": "other_error"
+    },
+    {
+      "domain": "fxmail.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forum.clusterdelta.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bcc.web2.radici.biz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "naijatechnews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gielda.aea.pl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.epochtimes.com.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.bestforexbonus.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zu.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.junior-consult.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.rafunagroup.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nika30.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "te.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zomatt.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.marstrats.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.motforex.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.lowcompetitionkeywords.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "noticiasdealmeria.andaluh.es",
+      "reason": "other_error"
+    },
+    {
+      "domain": "store.animasia-studio.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "couponmarathon.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "demo.repumatic.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.aeevents.com.au",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.ilovelanguages.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.telix.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ky.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cryptominded.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "wayseolinks.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "agacti.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mightygadget.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "everytalkin.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ecole-forex.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "biglistofwebsites.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.metaquotes.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lucsa.id",
+      "reason": "timeout"
+    },
+    {
+      "domain": "10-raisons.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "euntis.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sybasi.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.procleanequip.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forum.banker.kz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ihnhydra.ihsinformatics.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.grootfryslan.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "th.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "24horasqroo.mx",
+      "reason": "timeout"
+    },
+    {
+      "domain": "translinktimes.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.wutaideng.wang",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "investmacro.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "chile.obsidiam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "economics.segodnya.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "labile.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "theglobe.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.techolac.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cht.0430.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.tdmarkets.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "chord.pub",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.luciemutinska.cz",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.noviny.sk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.linkpedia.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sintramovneves.com.br",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hedman.legal",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ky.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.b-v-i.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "search.ultranote.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "test-omeldonia.host-ware.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.hsbnoticias.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hi.reseauinternational.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "blog.botcrypto.io",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "algerie4x4.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "npm.taobao.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "giperm.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "brokers-solution.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "clinicadentalcarmendiaz.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "new.magnitracking.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "wordpress.matthias-lederer.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "web.udi.edu.co",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fxcodebase.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "digitalisthub.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "investtalk.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.novakbrand.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "punchdebtintheface.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "goiles.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "piacesprofit.hu",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.h3servis.eu.krios.blueboard.cz",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ta.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.owler.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "jatara.web.id",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.argument-cs.ro",
+      "reason": "other_error"
+    },
+    {
+      "domain": "metropolitanmagazine.it",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cedorh.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "carehealthjobs.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "consumerdatastandards.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "windows.podnova.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "backup.digitalfashionweek.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nitter.dark.fail",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "econtract.fpt.com.vn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nt.catgirl.cloud",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.wipsites.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "yi.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "stuttgart-journal.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "en.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "postonseo.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "elementortemplate.archicoders.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "lbszone.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "stickybusinessdecor.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.guadagna.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fr.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.madad2.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mr.eturbonews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ha.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "penelitian.rsupsoeradji.id",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "aarosjxvmc.linkarena.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cirakbul.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "pegabl.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fxcraft.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.lambano.org.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tg.agetic.gob.bo",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kmkz.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "en.reseauinternational.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.nwlondoner.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hindisport.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.hkprivatelending.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.laithmedia.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "megaricos.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "all8.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "demo16.arimpex.nl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.skaitykit.lt",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.agora.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "endorphintechno.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "rinaldicollege.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "zhiyao.biz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.bepackaging.com.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "vidmate.ooo",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "eassets.co",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ypgy.xslarcomar.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "beleggingsfondsen.weboppep.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "elite-media.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gold.forum",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ihop.org.tr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "symbianone.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "averic.blog",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tr.reseauinternational.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "globalreal-estate.net",
+      "reason": "other_error"
+    },
+    {
+      "domain": "abystr.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forum.b92.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bigbyteworld.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiral.lv",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nuovasocieta.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.probashirealty.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "apiaryfund.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.websiteperu.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.linkspropeller.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "wiki.anzen.vn",
+      "reason": "timeout"
+    },
+    {
+      "domain": "jawaun.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.hsecurities.in",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hicadsystemsltd.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "teddit.sethforprivacy.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.sapromo.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.red-amsterdam.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.123978.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "zory.com.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.semikorecruitment.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cabanongaragemori7.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ru.reseauinternational.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nogist.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "testn324.cutzunlimited.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mtcap.com.br",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "smira.org.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fx.medio.vn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "motherhoodcorner.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mojeco.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.nicepremium.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tst.mokymugidas.lt",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "opr.zoomlionghana.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "raleigh.brxarchive.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "coxace.biz",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ko.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "owingsmillscog.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "virgin-islands-on-line.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.seotop.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "signintm.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "evyf.iowaparalegalservices.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.topwebsite.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "take-profit.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "wp.uktoremet.org.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "upperegyptpediatric.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.3yonnews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nl.login-vp.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "afonne.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "thager.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dealroom.launchvic.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hobilu.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sprutcamvietnam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "clicktohigh.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tg.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sabaccarat.bet",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "demo3.efesta.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.fair-news.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lonene.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.forexfactory.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "franklinpaintingnj.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zlutag.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.trn-news.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "s.sfhpurple.com",
+      "reason": "known_dead"
+    },
+    {
+      "domain": "admiralmarkets.lt",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.seokeywordstool.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.businessnews.bg",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.markellight.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "injoir.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "emovements.jictex.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.bondora.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.lesliemedspa.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "theforexviet.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ca.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kryptoszene.de",
+      "reason": "other_error"
+    },
+    {
+      "domain": "zikua.tv",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "seven-palm-residences.sales-office.ae",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sostav.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mpcnews.in",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.kianews.com.ua",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bolivia.obsidiam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "melogr.online",
+      "reason": "timeout"
+    },
+    {
+      "domain": "livetvfinance.lefigaro.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "intereconomia.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.thatlitevideosite.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ur.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.rohini.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "duanic.click",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.medigap.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gadget.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "gcoption.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "assercourant.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.studiocheck247.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sg.login-vp.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www2u.biglobe.ne.jp",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.freelancer.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "perangangka.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mediazavod.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "il.login-vp.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ilsegretodelsuccesso.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "pietsays2.touchgrove.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.kukudesigns.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mail.premiumtrading.co",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mail.the3marketers.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lehosa.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.showmetech.com.br",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.cc-regionguise.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "quiden.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "lawyerbloc.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "loomaaed.ee",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.jewellerynews.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "168slotxo.asia",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.franchise-matchingday.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "freelancehunt.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "gorjeanul.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gjrivercleanup.info",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.lawinsider.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "apkmodbe.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "crusci.info",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sn.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gableviewhomes.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "city.is74.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "infomercado.pe",
+      "reason": "timeout"
+    },
+    {
+      "domain": "loginworldz.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "v2-dev.bohodecor.vn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.arkadasozelegitim.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.groupfrog.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.50plus.ch",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mahanadiudyog.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "eritur.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "spainsnews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forum.challenge.gd4h.ecologie.gouv.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "zik.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "finparty.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zoacum.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cht.0430.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "shobha.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "globalseodirectory.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.expertsdelentreprise.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mt.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "souz.co.il",
+      "reason": "timeout"
+    },
+    {
+      "domain": "strana.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "st.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.akinrestoran.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "luckystar.com.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.dmoz-odp.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.cyber-lynk.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tradingforo.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.webranks.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiral-markets.perm24.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "aureot.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ubdays2017.universityofbohol.edu.ph",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ar.econologie.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "syslog.tv",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.crypto-option.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "citykingsholdings.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "community.thndr.app",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.strategieboerse.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "neue-pressemitteilungen.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.keywordresearchinc.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forexstarted.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.behinders.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ascontrolpe.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.jujuyalmomento.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "pourquoimabanque.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fitrite-customers.com.gridhosted.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "asg5.antenasatelor.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bestappsfinder.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "useenglishwords.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "siteintel.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.hartware.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "id.forex-quote.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.dailyhawker.com.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.e-assetsretrieval.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "frenchlaces.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.h.media",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nitter.ggc-project.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "diariotalca.cl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.abcbourse.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "oivietnam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "no.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.spitzenstadt.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "zh-cn.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "onlinenewspaper.in",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ouyi.space",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "positivesportcoach.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.broker-test.at",
+      "reason": "timeout"
+    },
+    {
+      "domain": "wp.fxempire.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "czwiki.cz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tradetheday.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.customcraftedkeywords.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "gcoat.ir",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forex-invest.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tradeforex.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "webc.burgaslargo.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "qtpp.pacursos.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.nezarat.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "xyzlegal.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "xosignals.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "casports.or.kr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "wideshut.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.litmir.me",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.digitalmoneytalk.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ehsanrazani.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "checklinks.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ediggl.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "globalseoarticles.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "torodemotrading.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "noungr.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "meparl.pics",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.keyword-suggest-tool.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "hubu.fm",
+      "reason": "other_error"
+    },
+    {
+      "domain": "ofaal1.anchortek.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "foresp.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.investfunds.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.forumzagreb.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "framebreaker.blbsk.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ithinkwow.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fabmagazine.nl",
+      "reason": "other_error"
+    },
+    {
+      "domain": "teddit.ggc-project.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiral.rusmarket.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.sg-lotto.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.sitetr.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tweet.lambda.dance",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.youngupstarts.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.oscargartin.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tecnoticias.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "profimuszaki.hu",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.novabach.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "zh-tw.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "n.c7.ee",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.loginnote.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "id.fxdailyinfo.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.miporteria.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "entomelloso.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiral-markets.spb24.net",
+      "reason": "other_error"
+    },
+    {
+      "domain": "kn.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "af.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "phanphoithaisan.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.checkipdomain.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "benena.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "teryaem-nahodim.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sobor-kalush.com.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "eestiettev\u00f5tted.ee",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.smartinsights.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ingemclima.cl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "elsalvador.obsidiam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "holyangelsmodelschool.in",
+      "reason": "timeout"
+    },
+    {
+      "domain": "grekohome.gr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "topcoupons.org",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.firemeetsdesire.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "52vancouver.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "api.sharewares.ca",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.brokerxplorer.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.qscreate.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.lidovky.cz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "portmatilda.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "es.reseauinternational.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "woomatrix.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "healthzaa.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.mycousinemilia.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sholex.by",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.guitare-tabs.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "coupondeals247.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.login-db.onl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.abspb.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "help.admiralmarkets.sc",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.aliendata.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.linkpls.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "apkle.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "podiumathletics.ca",
+      "reason": "timeout"
+    },
+    {
+      "domain": "websitelists.in",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "steemit.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "apostolic411.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.cengliabis.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.algerianembassy.it",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "finance.media.yahoo.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "it.reseauinternational.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "rokaflex.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forex-trading-platform.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "vuprom.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "iceles.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "subscribe.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "somosclm.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blogpadres.santillanacompartir.com.co",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiralmarkets.com.hr",
+      "reason": "other_error"
+    },
+    {
+      "domain": "brokers.fx678.hk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.dfautomation.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "wealthcreationinvesting.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "betdog.co",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "aandelen.macrogids.be",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hi.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forex-trading-broker.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "healthy-care.net",
+      "reason": "other_error"
+    },
+    {
+      "domain": "theindiestimes.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.coinexter.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ablahrealestate.co.ke",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.santarve.lt",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.investitwisely.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ecossimo.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "site.financialmodelingprep.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ellias.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.businessbourse.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "onlineforextrading.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.followsite.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sm.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nuns.com.ua",
+      "reason": "timeout"
+    },
+    {
+      "domain": "worldsitelink.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "alexbecker.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "diarpus.sukabumikab.go.id",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "micvhimagery.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ftaonline.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "online.casinocity.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "economiasa.com.br",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nhatkytraders.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bazaker.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "training.khusheim.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bitcoin.start.bg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "insurancedayfordementia.alzheimers.org.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.landtreff.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "seotop.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.siliconindia.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.forex-quote.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.profi-forex.by",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "enessi.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hingemaailm.buduaar.ee",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "onlinecoursesschools.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "secretariaacademica.colegioandresbello.cl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.lifearimeda.eu",
+      "reason": "timeout"
+    },
+    {
+      "domain": "investingoal.it",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ms.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fin.medio.vn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "compraracciones.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.seohelper.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "lr.catgirl.cloud",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.news-clic.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.servicelitteraire.fr",
+      "reason": "other_error"
+    },
+    {
+      "domain": "yui.saikyoh.jp",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hobres.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bestwebsite.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "videocreative.newpathweb.com.au",
+      "reason": "timeout"
+    },
+    {
+      "domain": "jambal.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.topbrokers360.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "jilich.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "etl.nhill.elementsearch.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "rskabelota.donggala.go.id",
+      "reason": "timeout"
+    },
+    {
+      "domain": "demo.if-so.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "knulla.hair",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "londonpedia.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.retrofootballgames.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "shopnaturenow.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sitegur.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.vzajemci.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "paiecheck.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.dumbfunded.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.bestvision.com.sa",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiralmarkets.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.elitenicheresearch.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "clubecommerce.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forexonlinetrading.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "twtr.domain.glass",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cryptonewsland.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forextrade.webtalk.ru",
+      "reason": "other_error"
+    },
+    {
+      "domain": "libreddit.baczek.me",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.lvse.cn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forum.clusterdelta.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ro.login-vp.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cicd.server247.info",
+      "reason": "timeout"
+    },
+    {
+      "domain": "pmex.trimmermag.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "frellstedt86.mediadesign-group.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "theaffiliatemonkey.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.pckvm.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "theherdlocker.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "beleggen.macrocenter.be",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.viagragenerica.es",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "la.eturbonews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dslnet.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.info-cechy.cz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ingvarr.net.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "togetherkids.yokohama",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "trud-ost.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "demo17.arimpex.nl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "wayseolinks.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "twentytu.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "infasc.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.linkdofollow.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.mamma.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.mademape.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.videobourse.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bps.vivodigital.com.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.style2go.mx",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.procleanequip.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "statvoo.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "aboist.online",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "voinge.me",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "jsp-hotel.dk.ext.levonline.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ctrana.online",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.customcraftedkeywords.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forum.dasarforex.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "yelpad.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cdc.iainlangsa.ac.id",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "carpetcleaninginsanclemente.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.ompr.go.tz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "pricyc.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "toffec.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.best-schools.info",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ww.freecity.lv",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.bestwebsite.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "trading.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "album.bg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "440.ng",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.07la.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "theoldfortlodge.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.jazminsbeautysalon.be",
+      "reason": "timeout"
+    },
+    {
+      "domain": "uk.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "learnbonds.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.abendzeitung-nuernberg.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "darwininvestingnetwork.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.sitelike.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bestdomaintools.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "iva.co.in",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.reflex.cz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.saturniancosmology.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.wikifxcn.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ktoprodvinul.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "premiumtrading.co",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "homesgofast.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "searcher.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.minutepress.me",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "test.dat-hen.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "specialevents.teenagecancertrust.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ikm.mk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "leaks.work",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "chiabuy.digital",
+      "reason": "other_error"
+    },
+    {
+      "domain": "gite-les2etangs.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "maglydesign.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.lumidea.com.br",
+      "reason": "timeout"
+    },
+    {
+      "domain": "idg1.idg.bg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cephti.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cambridgebatala.in",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.infinitube.club",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "benazit.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.roderickjayne.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kpku.neuron.co.id",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bourse.latribune.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "onix-trade.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "163.30.125.8",
+      "reason": "timeout"
+    },
+    {
+      "domain": "spyderslab.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "homebusinessmag.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.dv-treff.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fitveorganik.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.findtheneedle.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bif.rs",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sw.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.mindanaotimes.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.medess4ms.eu",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mensbeauty.me",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.investissement-en-bourse.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bjhv.wefundacion.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.arabicbroker.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mahoor.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "meni.themessupport.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "compareallbrokers.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "paigd.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.novihills.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forum.googleanaliz.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.forex-zone.cz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.expo2020.ee",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mantaw.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.creativenation.net.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "becc.ee",
+      "reason": "other_error"
+    },
+    {
+      "domain": "s.gmx.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.journalducameroun.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "vdsgroup.vn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "\u0431\u043e\u0440\u0441\u0430.bg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.artfulstoneworknc.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mrhacker.co",
+      "reason": "other_error"
+    },
+    {
+      "domain": "admiralmarkets.com.prostats.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.forexpenguin.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "reneturrek.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "bagisc.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "stockbroker.pl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sr.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.catanzaroworld.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "global.hairclinicer.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.riviera24.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bystoi.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "zyguxyposit.xlx.pl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fr.forex-quote.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiralmarkets.com.hr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.financialmirror.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.infosoir.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "maycuacatco.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "icilome.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "goodhemp.biz",
+      "reason": "other_error"
+    },
+    {
+      "domain": "iw.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "top-forex-broker.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.lbgtelevision.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tineli.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "heavenarticle.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kcez.opiniaodigital.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.barcelonahoy.es",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.clubeinvest.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nit.13ad.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "algomodel.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.tradersdna.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lpvc.vaibsconstructora.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tetrog.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dazebaonews.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "demo1.5mediatech.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cambistabitcoin.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "vinst.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.s2media.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.thailandtrainticket.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "harperwoods-001-site3.btempurl.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "itechnocode.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.pickoftheweek.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ecosystem.lafrenchtech.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "poslovnipuls.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.eldiariosantiago.cl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fic.dev.tuut.com.br",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "deukat.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "virtualtours.interiors3d.it",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "exemme.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cs.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fremont.talkofthetownsavings.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "th.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "webtaichinh.vn",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.listalternatives.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "taowebsite.com.vn",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.padovanews.it",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bizati.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "m.dogfinance.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.skincityindia.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "v133-130-118-187.a049.g.tyo1.static.cnode.io",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.guia55.com.br",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.microlinkinc.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "webrankdirectory.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "2022corona.ab-inbev.com.tw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.login-faq.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "canadasportsbusiness.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.clydefitchreport.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "fas.askesimonsen.dk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.stereoalientodevida.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "emoonim.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.josephzapantis.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "biau.es",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cosepo.online",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.in7.lt",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "eyansi.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bansco.pics",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nitter.dasnetzundich.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.puretravel.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "918kiss2you.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.tomstudio.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ar.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bizdirectasia.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.easytradeweb.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "w3bdirectory.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.finance.theiegroup.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiralmarkets.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "pa.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "toulouse7.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiralmarkets.ee",
+      "reason": "timeout"
+    },
+    {
+      "domain": "wbsrch.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ortigialoft.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sovch.chuvashia.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ebimourao.drealentejo.pt",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tubarco.news",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.w4t.cz",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.quotidianodigela.it",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.scopemarkets.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "guide.phonezone.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "senegal.detailzero.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.asfera.info",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.freekeyworddifficultytool.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.diariohispaniola.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fimsol.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiralmarkets.com.au",
+      "reason": "timeout"
+    },
+    {
+      "domain": "escueladeinversion.finanzas.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "5x5.wirelesswatch.jp",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.thesmartconsumer.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.ensures.ca",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "onlinecoursesschools.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.imediato.pt",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.checheninfo.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "monetizepros.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.bikecia.com.br",
+      "reason": "timeout"
+    },
+    {
+      "domain": "edu.admiralmarkets.es",
+      "reason": "timeout"
+    },
+    {
+      "domain": "actufinance.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "fanlink.to",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mail.callsouthernelectrictoday.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "gegiti.online",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hebergement-test-migration-de-serveur.infomaniak-test.ch",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.fxcomparison.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.agevolazioni.retefin.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "laurentiumihai.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bg.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "iniour.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.trading-fuer-anfaenger.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ms.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.infolinks.top",
+      "reason": "timeout"
+    },
+    {
+      "domain": "jilich.best",
+      "reason": "other_error"
+    },
+    {
+      "domain": "dev-site.lesmoutonsenrages.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sogroup.24sevenstore.no",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.hugo.ecrituresinteractiv.es",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "investeerimisklubi.ee",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.keywordssuggestion.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admirals.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "uncommonstainedspecialist--arnavchawla23.repl.co",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.globalafricanetwork.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.thegunners.org.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.spazemark.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "volga.news",
+      "reason": "other_error"
+    },
+    {
+      "domain": "sharqakhbar.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hatinh.forum-viet.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ko.tweetarchivist.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "worldranksite.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "chadaajgco.linkarena.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.investfunds.kz",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.akcie.cz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.meetrv.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "casitalossuenos.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cmccormackinc.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "livesos.mihanblog.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "blog.opofinance.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.mejorbrokerdebolsa.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "vwmu.lindsaybrummerphotography.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "finance.zacks.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.so-bourse.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiralmarkets.lv",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.designyourway.gr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "jp.0430.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "financebg.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cultivatedstupidity.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.energypress.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.scutify.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "isc.unwahas.ac.id",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "uttero.info",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.horabrasil.com.br",
+      "reason": "timeout"
+    },
+    {
+      "domain": "associdis.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.sslwebsiteservices.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "itnews.com.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "arulat.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "it.mtk-bks.by",
+      "reason": "timeout"
+    },
+    {
+      "domain": "linkstats.info",
+      "reason": "timeout"
+    },
+    {
+      "domain": "brokerschecked.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "damachills.sales-office.ae",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.delfi.lt",
+      "reason": "timeout"
+    },
+    {
+      "domain": "businessua.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.christianreeve.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.myggsa.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cn.ratrating.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.jghcs.info",
+      "reason": "other_error"
+    },
+    {
+      "domain": "fisip.univetbantara.ac.id",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.mrjexports.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.nextnews.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "jonathonspire.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forum.faucetpay.io",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "daytraden.j22.nl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.fxranking.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "eliaspa.com.br",
+      "reason": "timeout"
+    },
+    {
+      "domain": "test.edodocs.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "altsignals.io",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.weltflimmern.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forum.investor.bg",
+      "reason": "other_error"
+    },
+    {
+      "domain": "adessonews.ddnss.eu",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiral-trader.www.software112.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "beta.astragroupinc.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "media.2000.net.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.nakedbusiness.com.au",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.socko.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "spentapp.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "xh.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "de.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "maxi-karta.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "apket.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nitter.fiat-tux.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "eyolos.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ewjy.dealscoot.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kryptozeitung.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dogfrench.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "axecin.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cdi.cecos.edu.pk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ariva.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "itsocial.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "gl.eturbonews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cityforex.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "deanimoq912456.theobloggers.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "whiteprintnews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "aandelen.intrastart.be",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.kmh-transporte.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.themoneyprinciple.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "newsite.axiomthemes.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.finduzzcatcafe.se",
+      "reason": "timeout"
+    },
+    {
+      "domain": "static.ratrating.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nitter.tinfoil-hat.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.freewebsitedirectorylink.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kscripts.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "skyhighbuildhome.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.2tmstudios.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "avocatnet.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "abcathome.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "uzinform.com.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tppchita.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "delbra.ca",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "placenews.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "askai.glarity.app",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiralmarkets.lv.prostats.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "paradisearticle.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.theasian.asia",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.khaokheowgolf.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "saint-petersburg.ru",
+      "reason": "other_error"
+    },
+    {
+      "domain": "gu.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "asende.online",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "es.login-vp.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.apfelpage.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "goon.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiralmarkets.cz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiralmarkets.bg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.atilimdogalgaz.com.tr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.gamblingforums.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ernesc.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bye.fyi",
+      "reason": "timeout"
+    },
+    {
+      "domain": "jw.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.malamanera.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.expogroup.com.ar",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fxmerge.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tt.57883.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "brokerfolio.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "financer.ee",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kinhduymanh.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "newposts.xyz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.kurskweb.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mastersjarvis.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.androidhits.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "informclass.kirovedu.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.wikifxvn.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.readersdigest.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "theforexbroker.ca",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "videobourse.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ainesh.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "stage.lemonsandzest.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ta.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "rocketnews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "u729.netangels.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ownsor.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "getcrate.co",
+      "reason": "timeout"
+    },
+    {
+      "domain": "rankingapp.metatags.nl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "eparhia.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.linkddl.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "investing.vn",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.estrategiasdeinversion.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mindmaps.longevity.international",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sabemos.es",
+      "reason": "other_error"
+    },
+    {
+      "domain": "my.mac.edu",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "pikete.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.hattoheim.nl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mr.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.borsi.dir.bg",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "learnforex.foobrdigital.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.goquymocthach.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "eturbonews.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "somsubhra.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hbgb.north-county-homes.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sw.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.cbzmobisite.co.zw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forex-nawigator.biz",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admin.lasillarota.editor80.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "aandelen.legjelink.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kn.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.janbrokken.nl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ppm.fkip.unej.ac.id",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "globalscience.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "dev.viewtube.io",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.credito.com.mx",
+      "reason": "timeout"
+    },
+    {
+      "domain": "linkingdirectory.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "webranks.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.geniesserinnen.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "drugaddictioncenters.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.admiralmarkets.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "dsebd.bdteletalk.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.cryptoeq.io",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.pedlonglon.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.decentlights.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "samobranka-club.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fsxpress.xyz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "livealegacy.intaward.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.one.deals",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "poslovni-savjetnik.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "study-education.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.rankia.com.ar",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.pcsindelhi.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "zgate.mohamedkassem.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "indicatorspot.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "infantil.inesquecivelcasamento.com.br",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.fiifree.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ssbexams.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.elmostrador.cl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiralmarkets.es",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "vtntelecom.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "40going20.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "businesscasestudies.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hubs.ua",
+      "reason": "timeout"
+    },
+    {
+      "domain": "new.net.in",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "training.zafaire.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.arenalucknow.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forum.worldwide-invest.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "agencjareactor.pl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "murwillumbahpoolshop.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.bestforexbonus.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ma-bise.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "evna.care",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.femalefirst.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.metatrader4.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "izanes.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.theglobe.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "unilluminating-spar.000webhostapp.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "blog.mwpage.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.girassol.com.br",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "martinakink.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "economiaengalicia.opennemas.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "mgwebcom.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gofasano.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "moneyqanda.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hocitvn.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bdm.tektide.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "admiralmarkets.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.ntab.tv",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forexthai.in.th",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.metaquotes.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sforth.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "grupos.emagister.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.compareyourkeywords.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.rankmaker.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sjrrtm.opennrm.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kroufr.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.dv.ee",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.sighet-online.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hackernoon.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "investmacro.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "edgent.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "lomorp.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.kaytraders.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.safelinkchecker.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "balip.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.expertido.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.gazetavalceana.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nitter.matoken.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ifin.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "itql.spiritualascent.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blackkamasutra.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "southerneye.co.zw",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.zeddbrasil.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.invest-rating.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "divephotochallenge.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.get-coupon-codes.info",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.arageek.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "treatingwhiplash.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hegoid.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "optio3.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.iinews.de",
+      "reason": "other_error"
+    },
+    {
+      "domain": "test-omeldonia.host-ware.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "velesovkrug.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "untris.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "openwebsolutions.in",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.podcasts-online.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "muenster-journal.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bog-standard.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "a.pr-cy.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.saffronali.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.rankia.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.cnspis.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "downradar.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hi.econologie.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.godmode-trader.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.auto-rauscher.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "eng.meeting.lv",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forextraders.website",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "investtalk.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cubeten.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nitter.mstdn.social",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "vesma.today",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.in7.at",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "philologica.inst-puscariu.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.ijemr.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "5kwadrat.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "es.ratrating.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.poslovni-savjetnik.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "apkmoddval.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hu.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.fitcom.com.tr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "real-estate-find.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zinghomnay.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "sayyab.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "pulchae.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "siacum.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "f48.ee",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ranksdirectory.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "yaticy.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kyushu.food-stadium.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "moisite.dev-moi.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tests.rtccom.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "journaltime.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.asiaforexmentor.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "couponsdoom.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "papple.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.impulsportal.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.energyexch.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nibbler.silktide.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ru.fxdailyinfo.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "kz.kursiv.media",
+      "reason": "timeout"
+    },
+    {
+      "domain": "devisen-handeln.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "onvista.ariva-services.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.wikibacklink.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "pyanil.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "twenty3extreme.bluesynergy.me",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dev.thecointribune.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gleent.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "test.dat-hen.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tfdesignstudios.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "center-bereg.ru",
+      "reason": "other_error"
+    },
+    {
+      "domain": "instalatorpitesti.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "carrefour18.centres-sociaux-rennais.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.boncre.co.jp",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nitter.fdn.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.gigwise.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "news22.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dneprcity.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "prostotech.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiral.lv",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.linkspropeller.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "65pluswerkt.info",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "onix-trade.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "eunaweb.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "dsf-weiss.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dymtea.lifelink.com.tw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "orygot.online",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.worthwebsites.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "pt.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.dmoztools.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.sharjahcityguide.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nitter.cc",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.androidetvous.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "red.metaversum.wtf",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blockspace.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "somoscastillalamancha.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.grandcafferubino.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "dnasoa.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.siteurl.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "atelierappoline.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tradingfacileonline.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bonco.com.sg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lesoutrali.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ifin.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.man.lt",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ippei.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.fortraders.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cy.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.deoatp.in",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kxhs.stratford-guesthouse.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "jeject.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "wp.tutorabc.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "signalmastermind.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "meilleurduweb.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "gtmarine.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.keywordsandjargon.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "edu.admiralmarkets.com.au",
+      "reason": "timeout"
+    },
+    {
+      "domain": "apkng.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.moldtips.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.piter.nev.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "risand.blog",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.svijetosiguranja.eu",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hoe-starten-met-beleggen.leejoo.nl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "categorie.francite.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hovary.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "katalog-stron.abix.com.pl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fa.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "news.trenddetail.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "demo3.efesta.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "yari1.xyz",
+      "reason": "timeout"
+    },
+    {
+      "domain": "maalem-group.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.pkgg.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "review.fuelcarddesigns.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ledefigabon.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.ban8.com.cn",
+      "reason": "timeout"
+    },
+    {
+      "domain": "testing.asiaforexmentor.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "de.reseauinternational.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "stats-site.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.sitelinks.info",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.e-konomista.pt",
+      "reason": "timeout"
+    },
+    {
+      "domain": "tpm.bolgpc.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "dev.finparty.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "deavita.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "in.login-vp.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.thefinancialfairytales.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "permcnti.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiralmarkets.spb24.net",
+      "reason": "other_error"
+    },
+    {
+      "domain": "huttil.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "news.lesite24.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ipapi.is",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fxnewinfo.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.webworld.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "coator.pics",
+      "reason": "timeout"
+    },
+    {
+      "domain": "libreddit.tiekoetter.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "specialevents.younglivesvscancer.org.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "sd.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cs-strikez.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "alboar.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "t.zotan.services",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "androidmag.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "linkarena.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "iw.econologie.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "royallamertahotel.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "muahanghoa.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cryptoguiding.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "anaunc.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.njtechus.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "produccionestoro.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hi.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "weblizar.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "gaavy.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.websitekeyworddensity.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "carnaval.co.jp",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hoangminhjsc.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.directorysiteslist.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.camer.be",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.gatewayautoclassic.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiralmarkets.de.prostats.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "rotativo.com.mx",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.addbloglink.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "affiliatepal.net",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.collective6.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "psagen.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.gacetamercantil.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nitter.pussthecat.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "odessa1.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "m.whlinkang.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forextrade.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tramite.muniwanchaq.gob.pe",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "vl-media.fr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "allaccesssoflo.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.biznews.com.pl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ap39tv.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bs.economiafinanzas.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "daytrader.linkexpert.eu",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fdlx.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.groupfrog.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "apmediatechrd.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.contabilidaddecostes.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "obscurelearn.thats.im",
+      "reason": "timeout"
+    },
+    {
+      "domain": "skrotbilpriser.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bklap.blackpass.pe",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "cadome.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.stockmonitor.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "quickpage.dowlatow.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fresh.org.ua",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nitter.mailstation.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "opck.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "zeno.fm",
+      "reason": "timeout"
+    },
+    {
+      "domain": "financer.pl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.inntechglobal.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "blinksofkuwait.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "mi.eturbonews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.biglistofwebsites.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "study-education.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "apkmoda.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "comparateur-panneau-solaire.fr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "rotaryprobitas.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.kontactr.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.rkinterior.com.my",
+      "reason": "timeout"
+    },
+    {
+      "domain": "anandentertainment.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "search.bt.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "gapher.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fdocuments.ec",
+      "reason": "other_error"
+    },
+    {
+      "domain": "tube.vhearts.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "lxnjnu.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "farsanet.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.volynpost.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.loginpn.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "menorcaaldia.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tavara.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bareando.es",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "olevalencia.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.sparkeclass.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "oupr.follow-the-rabbit.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "money.bg",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.geminianispecial.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.removalistsinbendigo.com.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forexbonuses.alafdal.net",
+      "reason": "timeout"
+    },
+    {
+      "domain": "shoproyal.ro",
+      "reason": "timeout"
+    },
+    {
+      "domain": "s263974156.websitehome.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.hartware.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kp.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "el.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "crypto.tradew.us",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.gullerupstrandkro.dk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "nouvelles.fiatlux.tk",
+      "reason": "other_error"
+    },
+    {
+      "domain": "kaarsen.macrostart.be",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fuhkorba.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "eo.eturbonews.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "tuhocforex.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "wp.fxempire.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.urlbacklinks.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.unicornseo.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "at.gruender.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.websitelists.in",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.globalweb.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "allstarcomicsandcollectibles.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mn.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.kreiszeitung-wochenblatt.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "forexstarted.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "acnema.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.usmarkets.nl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "vdzq.evolyoga.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nolier.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "almoheet.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.wachuuzi.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mmo4me.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "bestappsfinder.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "en.bitcoinwiki.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "unbate.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.tangierhabitat.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "admiralmarkets.si",
+      "reason": "timeout"
+    },
+    {
+      "domain": "arcto.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "kurskweb.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "invest-rating.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mainecoastconstruction.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "plebbit.tinfoil-hat.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "rubdin.blog",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "falco-jc.pl",
+      "reason": "timeout"
+    },
+    {
+      "domain": "presse.fiatlux.tk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "haswellandcornberg.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "apyrem.online",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "inspiration4generations.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "nitter.saty.re",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.topmillionwebsites.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.dalmacijanews.hr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "plamorit.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "flaremagazine.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hologram.shrishrijee.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mari.ter12.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.segodnya.ua",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mabulle.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "difloors.com.au",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "iaw01.server119617.vservers.es",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "chlogr.pics",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "bestportals.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.medicinecontact.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "wkqa.dofftours.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "ysfc.or.kr",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.jcount.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.titashindianrestaurant.co.uk",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "linkpls.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ml.brokercheck.co.za",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hattle.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "basic.instantreseller.club",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dilemaveche.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.pflumm.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.retefin.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "eagle.co.ug",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.forexsn.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "absorm.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "pagina3.com.br",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "rawranked.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.theinvestorscentre.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "innata.online",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "internetguard.spywareterminator.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.okex.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.tportal.hr",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forexfactory.site",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.sciresearchinstitute.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "grandcapital.ru",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.creativewebmindz.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.grundlagen-computer.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "peru.obsidiam.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "appliedaibusiness.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.materiasingular.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ru.forex-quote.org",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.topmillionweb.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.economywatch.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "eulati.best",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "enginairz.in",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.cryostasis-game.com",
+      "reason": "other_error"
+    },
+    {
+      "domain": "www.astralsilencio.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ex-markets.asia",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "blog.loveweddingbands.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "dotpim.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.khaokheowgolf.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "forexbrokersreviews.co.uk",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.pr-echo.de",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "rerano.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.ecommercemag.fr",
+      "reason": "other_error"
+    },
+    {
+      "domain": "mindanaotimes.net",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "fastnews.lv",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.urgyclasscla.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "pokerracebook.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "alfatelematica.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.joomlan.ru",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.88news.de",
+      "reason": "timeout"
+    },
+    {
+      "domain": "ufabet88.vip",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "haw.eturbonews.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "criteriul.ro",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "take-profit.org",
+      "reason": "timeout"
+    },
+    {
+      "domain": "essentialoilsforpainrelief.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "reviewsbird.es",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "www.foodandtravelitalia.it",
+      "reason": "timeout"
+    },
+    {
+      "domain": "info-kurs.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "lifedon.com.ua",
+      "reason": "timeout"
+    },
+    {
+      "domain": "getallcourses.net",
+      "reason": "other_error"
+    },
+    {
+      "domain": "mail.trendygadget.com",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "online-forex-broker.pw",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "hobilu.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "hrudnick.sitios.ing.uc.cl",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "snowballfire.co.ke",
+      "reason": "dns_error"
+    },
+    {
+      "domain": "mojech.best",
+      "reason": "timeout"
+    },
+    {
+      "domain": "cupdf.com",
+      "reason": "timeout"
+    },
+    {
+      "domain": "www.businessbourse.com",
+      "reason": "dns_error"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "url": "https://admiralmarkets.si/",
+  "timestamp": "2025-06-04T00:06:53.280787+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Markmonitor Inc.",
+      "creation_date": "2010-03-30 00:00:00",
+      "expiration_date": "2026-03-30 00:00:00",
+      "name_servers": [
+        "ns-1451.awsdns-53.org",
+        "ns-346.awsdns-43.com",
+        "ns-948.awsdns-54.net",
+        "ns-1682.awsdns-18.co.uk"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.55.51.30"
+      ],
+      "mx_records": [
+        "0 admiralmarkets-si.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"MS=ms29332274\"",
+        "\"facebook-domain-verification=7mxsxfskuwdoe69ozfrd7ntte4wy9x\"",
+        "\"v=spf1 a mx include:spf.mtasv.net include:_spf.jupiter.salesmanago.pl include:spf.protection.outlook.com -all\""
+      ]
+    },
+    "age_days": 5545,
+    "registrar": "Markmonitor Inc.",
+    "name_servers": [
+      "ns-1451.awsdns-53.org",
+      "ns-346.awsdns-43.com",
+      "ns-948.awsdns-54.net",
+      "ns-1682.awsdns-18.co.uk"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "LV",
+      "localityName": "Riga",
+      "organizationName": "GoGetSSL",
+      "commonName": "GoGetSSL RSA DV CA"
+    },
+    "subject": {
+      "commonName": "admiralmarkets.si"
+    },
+    "not_before": "2025-01-20T00:00:00",
+    "not_after": "2026-02-20T23:59:59",
+    "days_remaining": 261,
+    "san": [
+      "admiralmarkets.si",
+      "www.admiralmarkets.si"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

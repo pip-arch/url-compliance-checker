@@ -1,0 +1,73 @@
+{
+  "url": "https://www.credito.com.mx/articulo/nuevo-en-bolsa-descubre-como-mejorar-tu-tactica-con-simuladores-de-inversiones",
+  "timestamp": "2025-05-30T23:13:49.315590+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com",
+      "creation_date": "2002-03-04 00:00:00",
+      "expiration_date": "2026-03-03 00:00:00",
+      "name_servers": [
+        "ns37.domaincontrol.com",
+        "ns38.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "76.76.21.164",
+        "66.33.60.130"
+      ]
+    },
+    "age_days": 8488,
+    "registrar": "GoDaddy.com",
+    "name_servers": [
+      "ns37.domaincontrol.com",
+      "ns38.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "www.credito.com.mx"
+    },
+    "not_before": "2025-04-20T11:59:44",
+    "not_after": "2025-07-19T11:59:43",
+    "days_remaining": 49,
+    "san": [
+      "www.credito.com.mx"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Vercel",
+    "Powered by: Next.js",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

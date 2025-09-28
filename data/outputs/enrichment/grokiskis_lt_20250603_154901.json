@@ -1,0 +1,70 @@
+{
+  "url": "https://grokiskis.lt/laisvalaikis/ar-nekilnojamas-turtas-yra-saugiausia-investicine-priemone",
+  "timestamp": "2025-06-03T11:48:30.586071+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": "2002-11-26 00:00:00",
+      "expiration_date": "2029-11-26 00:00:00",
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "77.241.193.242"
+      ],
+      "mx_records": [
+        "10 gremlinas.serveriai.lt."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx include:spf.serveriai.lt\""
+      ]
+    },
+    "age_days": 8225,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "grokiskis.lt"
+    },
+    "not_before": "2025-05-23T05:34:11",
+    "not_after": "2025-08-21T05:34:10",
+    "days_remaining": 78,
+    "san": [
+      "grokiskis.lt",
+      "www.grokiskis.lt"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

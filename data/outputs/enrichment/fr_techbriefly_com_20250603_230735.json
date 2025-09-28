@@ -1,0 +1,85 @@
+{
+  "url": "https://fr.techbriefly.com/tout-savoir-sur-le-robot-de-trading-articles-59043/",
+  "timestamp": "2025-06-03T19:07:22.373659+00:00",
+  "screenshot_path": "data/outputs/screenshots/fr_techbriefly_com_20250603_230734.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cizgi Telekomunikasyon A.S.",
+      "creation_date": "2019-12-25 15:17:06",
+      "expiration_date": "2026-12-25 15:17:06",
+      "name_servers": [
+        "ANUJ.NS.CLOUDFLARE.COM",
+        "BRIANNA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.4.156",
+        "172.67.132.58"
+      ]
+    },
+    "age_days": 1987,
+    "registrar": "Cizgi Telekomunikasyon A.S.",
+    "name_servers": [
+      "ANUJ.NS.CLOUDFLARE.COM",
+      "BRIANNA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "techbriefly.com"
+    },
+    "not_before": "2025-05-22T07:36:39",
+    "not_after": "2025-08-20T08:32:47",
+    "days_remaining": 77,
+    "san": [
+      "techbriefly.com",
+      "*.techbriefly.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(254, 254, 254)",
+      "rgb(248, 248, 248)",
+      "rgb(247, 247, 247)"
+    ],
+    "image_dimensions": "1920x3821",
+    "file_size_kb": 1427.482421875
+  }
+}

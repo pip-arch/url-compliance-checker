@@ -1,0 +1,93 @@
+{
+  "url": "https://www.briskmagazine.nl/nieuws/4900/beleggen-als-ondernemer-vijf-tips.html",
+  "timestamp": "2025-06-03T09:44:37.493860+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_briskmagazine_nl_20250603_134446.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Realtime Register",
+      "creation_date": "2005-09-30 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "ns.naamserver.net",
+        "ns1.naamserver.net",
+        "ns2.naamserver.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.110.174.7"
+      ]
+    },
+    "age_days": 7186,
+    "registrar": "Realtime Register",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "ns.naamserver.net",
+      "ns1.naamserver.net",
+      "ns2.naamserver.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "briskmagazine.nl"
+    },
+    "not_before": "2025-04-15T08:34:47",
+    "not_after": "2025-07-14T08:34:46",
+    "days_remaining": 40,
+    "san": [
+      "briskmagazine.nl",
+      "webmail.briskmagazine.nl",
+      "www.briskmagazine.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/5.4.16",
+    "Framework: React"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(236, 235, 235)",
+      "rgb(255, 255, 255)",
+      "rgb(130, 129, 128)",
+      "rgb(235, 234, 234)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x4022",
+    "file_size_kb": 607.9521484375
+  }
+}

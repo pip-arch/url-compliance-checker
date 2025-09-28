@@ -1,0 +1,76 @@
+{
+  "url": "https://forex-up.com/ru/broker-reviews/admiral-markets-review/",
+  "timestamp": "2025-06-03T07:48:01.521078+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Realtime Register B.V.",
+      "creation_date": "2016-08-15 10:21:51",
+      "expiration_date": "2025-08-15 10:21:51",
+      "name_servers": [
+        "CLINT.NS.CLOUDFLARE.COM",
+        "ETTA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.15.8",
+        "172.67.160.250"
+      ],
+      "mx_records": [
+        "1 mail.forex-up.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:78.46.200.65 ~all\""
+      ]
+    },
+    "age_days": 3213,
+    "registrar": "Realtime Register B.V.",
+    "name_servers": [
+      "CLINT.NS.CLOUDFLARE.COM",
+      "ETTA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "forex-up.com"
+    },
+    "not_before": "2025-04-13T09:37:47",
+    "not_after": "2025-07-12T10:36:16",
+    "days_remaining": 38,
+    "san": [
+      "forex-up.com",
+      "*.forex-up.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

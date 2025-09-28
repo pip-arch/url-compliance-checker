@@ -1,0 +1,63 @@
+{
+  "url": "https://id.revieweek.com/review/admiral-markets/",
+  "timestamp": "2025-06-03T06:37:26.053281+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Internet Domain Service BS Corp.",
+      "creation_date": "2021-10-19 09:46:26",
+      "expiration_date": "2027-10-19 09:46:26",
+      "name_servers": [
+        "JILLIAN.NS.CLOUDFLARE.COM",
+        "PABLO.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.48.1",
+        "104.21.80.1",
+        "104.21.96.1",
+        "104.21.112.1",
+        "104.21.64.1",
+        "104.21.16.1",
+        "104.21.32.1"
+      ]
+    },
+    "age_days": 1322,
+    "registrar": "Internet Domain Service BS Corp.",
+    "name_servers": [
+      "JILLIAN.NS.CLOUDFLARE.COM",
+      "PABLO.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "revieweek.com"
+    },
+    "not_before": "2025-05-12T19:58:53",
+    "not_after": "2025-08-10T20:56:38",
+    "days_remaining": 68,
+    "san": [
+      "revieweek.com",
+      "*.revieweek.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: "
+    ]
+  },
+  "visual_analysis": {}
+}

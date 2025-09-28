@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+/env
+
+# SQLite
+*.db
+*.sqlite3
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Frontend
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+app/ui/dist/
+
+# Distribution / packaging
+bin/
+dist/
+build/
+*.egg-info/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+.env.*
+*.env
+
+# Ignore temporary upload directory

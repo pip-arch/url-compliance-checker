@@ -1,0 +1,90 @@
+{
+  "url": "https://crypto.webwinkel-boulevard.nl/",
+  "timestamp": "2025-06-03T10:44:50.158805+00:00",
+  "screenshot_path": "data/outputs/screenshots/crypto_webwinkel-boulevard_nl_20250603_144454.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "team.blue nl B.V.",
+      "creation_date": "2011-04-13 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "ns1.dns1dns2dns3.com",
+        "ns5.dns1dns2dns3.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "92.222.48.131"
+      ]
+    },
+    "age_days": 5165,
+    "registrar": "team.blue nl B.V.",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "ns1.dns1dns2dns3.com",
+      "ns5.dns1dns2dns3.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.webwinkel-boulevard.nl"
+    },
+    "not_before": "2025-05-10T12:47:31",
+    "not_after": "2025-08-08T12:47:30",
+    "days_remaining": 65,
+    "san": [
+      "*.webwinkel-boulevard.nl",
+      "webwinkel-boulevard.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2",
+    "Powered by: PHP/8.2.17",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(192, 192, 192)",
+      "rgb(193, 193, 193)",
+      "rgb(194, 194, 194)",
+      "rgb(190, 190, 190)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 133.0576171875
+  }
+}

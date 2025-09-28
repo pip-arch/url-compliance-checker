@@ -1,0 +1,89 @@
+{
+  "url": "https://bif.rs/category/slajder/page/139/",
+  "timestamp": "2025-06-03T18:17:06.187522+00:00",
+  "screenshot_path": "data/outputs/screenshots/bif_rs_20250603_221715.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Stanco d.o.o.",
+      "creation_date": "2008-04-03 06:52:07",
+      "expiration_date": "2026-04-03 06:52:07",
+      "name_servers": [
+        "ns1.prosend.net",
+        "ns2.prosend.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "116.203.220.95"
+      ],
+      "mx_records": [
+        "0 mail.bif.rs."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:148.251.237.233 +ip4:116.203.220.95 ~all\""
+      ]
+    },
+    "age_days": 6270,
+    "registrar": "Stanco d.o.o.",
+    "name_servers": [
+      "ns1.prosend.net",
+      "ns2.prosend.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "bif.rs"
+    },
+    "not_before": "2025-05-07T05:53:48",
+    "not_after": "2025-08-05T05:53:47",
+    "days_remaining": 62,
+    "san": [
+      "bif.rs"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(245, 245, 245)",
+      "rgb(242, 242, 242)",
+      "rgb(241, 241, 241)"
+    ],
+    "image_dimensions": "1920x24841",
+    "file_size_kb": 4690.48828125
+  }
+}

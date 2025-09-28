@@ -1,0 +1,90 @@
+{
+  "url": "https://tigerlillies.ru/treyding/esma-taisykles-cfd-prekybai-europoje/",
+  "timestamp": "2025-06-03T10:48:30.881306+00:00",
+  "screenshot_path": "data/outputs/screenshots/tigerlillies_ru_20250603_144837.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REGRU-RU",
+      "creation_date": "2019-09-10 14:30:16",
+      "expiration_date": "2025-09-10 14:30:17",
+      "name_servers": [
+        "ns1.firstvds.ru.",
+        "ns2.firstvds.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "92.63.193.105"
+      ],
+      "mx_records": [
+        "10 mail.tigerlillies.ru.",
+        "20 mail.tigerlillies.ru."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:82.146.58.140 a mx ~all\""
+      ]
+    },
+    "age_days": 2092,
+    "registrar": "REGRU-RU",
+    "name_servers": [
+      "ns1.firstvds.ru.",
+      "ns2.firstvds.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "tigerlillies.ru"
+    },
+    "not_before": "2025-05-22T23:30:39",
+    "not_after": "2025-08-20T23:30:38",
+    "days_remaining": 78,
+    "san": [
+      "tigerlillies.ru",
+      "www.tigerlillies.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.18.0 (Ubuntu)",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(35, 45, 53)",
+      "rgb(253, 253, 253)",
+      "rgb(31, 41, 49)"
+    ],
+    "image_dimensions": "1920x2570",
+    "file_size_kb": 695.9208984375
+  }
+}

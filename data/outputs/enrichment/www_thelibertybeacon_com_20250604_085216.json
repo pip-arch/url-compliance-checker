@@ -1,0 +1,84 @@
+{
+  "url": "https://www.thelibertybeacon.com/forex-the-dollar-is-yet-to-pick-up-despite-positive-economic-indicators/",
+  "timestamp": "2025-06-04T04:51:53.994450+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_thelibertybeacon_com_20250604_085203.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2012, 10, 15, 14, 42, 11), datetime.datetime(2012, 10, 15, 9, 42, 11)]",
+      "expiration_date": "[datetime.datetime(2025, 10, 15, 14, 42, 11), datetime.datetime(2025, 10, 15, 9, 42, 11)]",
+      "name_servers": [
+        "JACQUELINE.NS.CLOUDFLARE.COM",
+        "ODIN.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.168.116",
+        "104.21.46.111"
+      ]
+    },
+    "age_days": 4614,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "JACQUELINE.NS.CLOUDFLARE.COM",
+      "ODIN.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "thelibertybeacon.com"
+    },
+    "not_before": "2025-05-28T10:07:12",
+    "not_after": "2025-08-26T11:04:19",
+    "days_remaining": 83,
+    "san": [
+      "thelibertybeacon.com",
+      "*.thelibertybeacon.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.1.32",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 247, 247)",
+      "rgb(254, 254, 254)",
+      "rgb(245, 245, 245)",
+      "rgb(250, 250, 250)"
+    ],
+    "image_dimensions": "1920x4582",
+    "file_size_kb": 2367.2724609375
+  }
+}

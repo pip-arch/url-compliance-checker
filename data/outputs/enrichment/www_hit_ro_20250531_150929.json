@@ -1,0 +1,83 @@
+{
+  "url": "https://www.hit.ro/stiri/stiinta-generala/avantajele-de-a-juca-la-bursa_--a19669.html",
+  "timestamp": "2025-05-31T11:08:58.403424+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "CYBER_FOLKS S.R.L.",
+      "creation_date": "2003-10-23 00:00:00",
+      "expiration_date": "2026-06-01 00:00:00",
+      "name_servers": [
+        "augustus.ns.cloudflare.com",
+        "sima.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "94.176.134.220"
+      ]
+    },
+    "age_days": 7891,
+    "registrar": "CYBER_FOLKS S.R.L.",
+    "name_servers": [
+      "augustus.ns.cloudflare.com",
+      "sima.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "AT",
+      "organizationName": "ZeroSSL",
+      "commonName": "ZeroSSL RSA Domain Secure Site CA"
+    },
+    "subject": {
+      "commonName": "ele.ro"
+    },
+    "not_before": "2025-04-27T00:00:00",
+    "not_after": "2025-07-26T23:59:59",
+    "days_remaining": 56,
+    "san": [
+      "ele.ro",
+      "*.animale.ro",
+      "*.askmen.ro",
+      "*.calificativ.ro",
+      "*.ele.ro",
+      "*.hit.ro",
+      "*.studentie.ro",
+      "*.xtrem.ro",
+      "animale.ro",
+      "askmen.ro",
+      "calificativ.ro",
+      "hit.ro",
+      "studentie.ro",
+      "xtrem.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

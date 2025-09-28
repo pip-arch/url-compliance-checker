@@ -1,0 +1,81 @@
+{
+  "url": "https://www.fundlaunch.com/articles/the-biggest-market-in-the-world-forex",
+  "timestamp": "2025-06-03T12:46:26.871300+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_fundlaunch_com_20250603_164635.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2007, 4, 13, 1, 55, 38), datetime.datetime(2007, 4, 12, 20, 55, 38)]",
+      "expiration_date": "[datetime.datetime(2026, 4, 13, 1, 55, 38), datetime.datetime(2026, 4, 12, 20, 55, 38)]",
+      "name_servers": [
+        "JAKUB.NS.CLOUDFLARE.COM",
+        "SOFIA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "15.161.34.42",
+        "15.160.106.203",
+        "35.152.117.67"
+      ]
+    },
+    "age_days": 6626,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "JAKUB.NS.CLOUDFLARE.COM",
+      "SOFIA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "www.fundlaunch.com"
+    },
+    "not_before": "2025-06-02T22:12:41",
+    "not_after": "2025-08-31T22:12:40",
+    "days_remaining": 89,
+    "san": [
+      "www.fundlaunch.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Frame-Options",
+      "CSP"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(1, 1, 11)",
+      "rgb(254, 254, 254)",
+      "rgb(7, 7, 17)",
+      "rgb(127, 127, 132)"
+    ],
+    "image_dimensions": "1920x5139",
+    "file_size_kb": 1789.3046875
+  }
+}

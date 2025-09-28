@@ -1,0 +1,83 @@
+{
+  "url": "http://westerncarolinaweddings.com/dnevnik-trejdera-forex-myfxbook-com-%E2%8B%86-bagirovpro/",
+  "timestamp": "2025-06-03T10:43:01.031901+00:00",
+  "screenshot_path": "data/outputs/screenshots/westerncarolinaweddings_com_20250603_144327.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2012, 12, 8, 14, 37, 56), datetime.datetime(2012, 12, 8, 9, 37, 56)]",
+      "expiration_date": "[datetime.datetime(2025, 12, 8, 14, 37, 56), datetime.datetime(2025, 12, 8, 9, 37, 56)]",
+      "name_servers": [
+        "NS39.DOMAINCONTROL.COM",
+        "NS40.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "198.12.237.222"
+      ],
+      "mx_records": [
+        "0 westerncarolinaweddings-com.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:secureserver.net -all\"",
+        "\"NETORGFT10959093.onmicrosoft.com\""
+      ]
+    },
+    "age_days": 4559,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS39.DOMAINCONTROL.COM",
+      "NS40.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(227, 221, 213)",
+      "rgb(227, 222, 214)",
+      "rgb(227, 222, 213)",
+      "rgb(227, 221, 212)"
+    ],
+    "image_dimensions": "1920x4758",
+    "file_size_kb": 2233.4326171875
+  }
+}

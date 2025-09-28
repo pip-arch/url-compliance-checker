@@ -1,0 +1,83 @@
+{
+  "url": "https://www.glossaire-international.com/blog/tout-comprendre-a-la-cryptomonnaie-ripple.html",
+  "timestamp": "2025-06-03T18:22:31.729106+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_glossaire-international_com_20250603_222244.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH, SAS",
+      "creation_date": "2012-12-29 11:30:13",
+      "expiration_date": "[datetime.datetime(2025, 12, 29, 11, 30, 13), datetime.datetime(2024, 12, 29, 12, 30, 13, tzinfo=datetime.timezone(datetime.timedelta(seconds=3600)))]",
+      "name_servers": [
+        "NS1.E-MONSITE.COM",
+        "NS2.E-MONSITE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "212.83.158.154"
+      ]
+    },
+    "age_days": 4539,
+    "registrar": "OVH, SAS",
+    "name_servers": [
+      "NS1.E-MONSITE.COM",
+      "NS2.E-MONSITE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "www.glossaire-international.com"
+    },
+    "not_before": "2025-05-19T09:38:38",
+    "not_after": "2025-08-17T09:38:37",
+    "days_remaining": 74,
+    "san": [
+      "www.glossaire-international.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/8.2.6",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(223, 234, 242)",
+      "rgb(117, 173, 189)",
+      "rgb(118, 174, 190)",
+      "rgb(122, 176, 191)"
+    ],
+    "image_dimensions": "1920x2204",
+    "file_size_kb": 1394.4443359375
+  }
+}

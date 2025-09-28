@@ -1,0 +1,83 @@
+{
+  "url": "https://www.promoteproject.com/public/index.php/user/Admirals/startups",
+  "timestamp": "2025-06-03T14:04:54.146013+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_promoteproject_com_20250603_180504.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Acens Technologies, S.L.U.",
+      "creation_date": "[datetime.datetime(2016, 4, 27, 19, 34, 10), datetime.datetime(2016, 4, 27, 21, 34, 10)]",
+      "expiration_date": "[datetime.datetime(2026, 4, 27, 19, 34, 10), datetime.datetime(2026, 4, 27, 21, 34, 10)]",
+      "name_servers": [
+        "NS1.DOMINIOABSOLUTO.COM",
+        "NS2.DOMINIOABSOLUTO.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "74.208.61.143"
+      ]
+    },
+    "age_days": 3323,
+    "registrar": "Acens Technologies, S.L.U.",
+    "name_servers": [
+      "NS1.DOMINIOABSOLUTO.COM",
+      "NS2.DOMINIOABSOLUTO.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "promoteproject.com"
+    },
+    "not_before": "2025-04-16T16:18:39",
+    "not_after": "2025-07-15T16:18:38",
+    "days_remaining": 41,
+    "san": [
+      "promoteproject.com",
+      "www.promoteproject.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/8.2.28"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(234, 237, 239)",
+      "rgb(255, 255, 255)",
+      "rgb(13, 31, 117)",
+      "rgb(235, 238, 240)",
+      "rgb(8, 26, 114)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 59.755859375
+  }
+}

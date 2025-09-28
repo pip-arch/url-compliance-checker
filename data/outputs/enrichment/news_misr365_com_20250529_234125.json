@@ -1,0 +1,83 @@
+{
+  "url": "https://news.misr365.com/economy-news/396012/best-trading-software",
+  "timestamp": "2025-05-29T19:41:15.669674+00:00",
+  "screenshot_path": "data/outputs/screenshots/news_misr365_com_20250529_234124.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2015-02-10 19:52:35",
+      "expiration_date": "2026-02-10 19:52:35",
+      "name_servers": [
+        "GWEN.NS.CLOUDFLARE.COM",
+        "MILAN.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.56.222",
+        "172.67.156.33"
+      ]
+    },
+    "age_days": 3760,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "GWEN.NS.CLOUDFLARE.COM",
+      "MILAN.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "misr365.com"
+    },
+    "not_before": "2025-04-06T23:45:44",
+    "not_after": "2025-07-06T00:44:23",
+    "days_remaining": 37,
+    "san": [
+      "misr365.com",
+      "*.misr365.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(22, 22, 25)",
+      "rgb(247, 247, 247)",
+      "rgb(31, 32, 36)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x6285",
+    "file_size_kb": 1385.9541015625
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://rusjev.net/2018/05/22/chem-obuslovlena-privlekatelnost-ryinka-foreks/",
+  "timestamp": "2025-06-03T23:54:36.375732+00:00",
+  "screenshot_path": "data/outputs/screenshots/rusjev_net_20250604_035455.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Internet Invest, Ltd. dba Imena.ua",
+      "creation_date": "2014-04-03 10:42:23",
+      "expiration_date": "2026-04-03 10:42:23",
+      "name_servers": [
+        "NSA1.SRV53.ORG",
+        "NSA2.SRV53.COM",
+        "NSA3.SRV53.NET",
+        "NSB1.SRV53.NET",
+        "NSB1.SRV53.ORG",
+        "NSB2.SRV53.COM",
+        "NSC1.SRV53.NET",
+        "NSC2.SRV53.ORG",
+        "NSC4.SRV53.COM",
+        "NSD1.SRV53.NET",
+        "NSD2.SRV53.ORG",
+        "NSD3.SRV53.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "176.9.218.71"
+      ],
+      "mx_records": [
+        "10 mail.imena.com.ua."
+      ]
+    },
+    "age_days": 4079,
+    "registrar": "Internet Invest, Ltd. dba Imena.ua",
+    "name_servers": [
+      "NSA1.SRV53.ORG",
+      "NSA2.SRV53.COM",
+      "NSA3.SRV53.NET",
+      "NSB1.SRV53.NET",
+      "NSB1.SRV53.ORG",
+      "NSB2.SRV53.COM",
+      "NSC1.SRV53.NET",
+      "NSC2.SRV53.ORG",
+      "NSC4.SRV53.COM",
+      "NSD1.SRV53.NET",
+      "NSD2.SRV53.ORG",
+      "NSD3.SRV53.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "rusjev.com"
+    },
+    "not_before": "2025-06-02T17:10:23",
+    "not_after": "2025-08-31T17:10:22",
+    "days_remaining": 88,
+    "san": [
+      "rusjev.com",
+      "rusjev.net",
+      "www.rusjev.com",
+      "www.rusjev.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.25 (Debian)",
+    "Powered by: PHP/7.2.12",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(243, 243, 243)",
+      "rgb(238, 238, 238)",
+      "rgb(253, 253, 253)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x2215",
+    "file_size_kb": 440.5732421875
+  }
+}

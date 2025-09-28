@@ -1,0 +1,104 @@
+{
+  "url": "https://compareallbrokers.com/nl/reviews/",
+  "timestamp": "2025-06-03T16:40:11.677768+00:00",
+  "screenshot_path": "data/outputs/screenshots/compareallbrokers_com_20250603_204025.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Key-Systems GmbH",
+      "creation_date": "2019-09-21 10:43:26",
+      "expiration_date": "2025-09-21 10:43:26",
+      "name_servers": [
+        "NS0.NL",
+        "NS11.NET",
+        "NS5.BE"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "188.166.19.109"
+      ],
+      "mx_records": [
+        "10 ASPMX3.GOOGLEMAIL.com.",
+        "5 ALT1.ASPMX.L.GOOGLE.com.",
+        "5 ALT2.ASPMX.L.GOOGLE.com.",
+        "10 ASPMX2.GOOGLEMAIL.com.",
+        "1 ASPMX.L.GOOGLE.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.ns0.email include:_spf.google.com ~all\"",
+        "\"site-verification=270b83db15b16a7e4b0517d615493e22\"",
+        "\"google-site-verification=iCno5U5YjTt_PDcfRTHhfyygETJ2xFjr1XVcKIN4jH8\""
+      ]
+    },
+    "age_days": 2082,
+    "registrar": "Key-Systems GmbH",
+    "name_servers": [
+      "NS0.NL",
+      "NS11.NET",
+      "NS5.BE"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "webmail.compareallbrokers.com"
+    },
+    "not_before": "2025-04-15T09:02:41",
+    "not_after": "2025-07-14T09:02:40",
+    "days_remaining": 40,
+    "san": [
+      "compareallbrokers.com",
+      "cpanel.compareallbrokers.com",
+      "cpcalendars.compareallbrokers.com",
+      "cpcontacts.compareallbrokers.com",
+      "mail.compareallbrokers.com",
+      "webdisk.compareallbrokers.com",
+      "webmail.compareallbrokers.com",
+      "www.compareallbrokers.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 251, 254)",
+      "rgb(11, 126, 194)",
+      "rgb(253, 253, 253)",
+      "rgb(252, 253, 255)"
+    ],
+    "image_dimensions": "1920x6095",
+    "file_size_kb": 1067.685546875
+  }
+}

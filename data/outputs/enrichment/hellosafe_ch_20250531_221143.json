@@ -1,0 +1,78 @@
+{
+  "url": "https://hellosafe.ch/de/investieren/trading/copy-trading",
+  "timestamp": "2025-05-31T18:11:06.438107+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {},
+    "dns": {
+      "a_records": [
+        "104.21.14.125",
+        "172.67.203.90"
+      ],
+      "mx_records": [
+        "5 alt1.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"Sendinblue-code:8d39e4e90463ad97bb96b9e90b32526f\"",
+        "\"google-site-verification=LJYnsYLTewWdM-cRBcb6DE0H6d32y0HIR9CbHM83qHM\"",
+        "\"v=spf1 include:spf.mailjet.com include:_spf.google.com include:spf.sendinblue.com mx ~all\"",
+        "\"google-site-verification=iGV1Xcq85kTDUGmzJtB4Ak53xHarVaI7GXmPlyqSHos\"",
+        "\"google-site-verification=YfzrUFgD7V8fXxXZ9IK9NK7XcGWHoT9aMrC0ZAWiaJ8\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "hellosafe.ch"
+    },
+    "not_before": "2025-05-10T22:51:44",
+    "not_after": "2025-08-08T23:49:28",
+    "days_remaining": 69,
+    "san": [
+      "hellosafe.ch",
+      "*.hellosafe.ch"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.2.28",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

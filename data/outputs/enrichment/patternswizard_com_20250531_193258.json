@@ -1,0 +1,96 @@
+{
+  "url": "https://patternswizard.com/relative-strength-index-indicator/",
+  "timestamp": "2025-05-31T15:32:51.567365+00:00",
+  "screenshot_path": "data/outputs/screenshots/patternswizard_com_20250531_193257.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH, SAS",
+      "creation_date": "2020-05-01 09:25:21",
+      "expiration_date": "[datetime.datetime(2026, 5, 1, 9, 25, 21), datetime.datetime(2026, 5, 1, 11, 25, 21, tzinfo=datetime.timezone(datetime.timedelta(seconds=7200)))]",
+      "name_servers": [
+        "ARAGORN.NS.CLOUDFLARE.COM",
+        "MAGDALENA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.19.57",
+        "172.67.185.69"
+      ],
+      "mx_records": [
+        "20 mx2.forwardemail.net.",
+        "10 mx1.forwardemail.net."
+      ],
+      "txt_records": [
+        "\"ca3-78366a2eded443c6abeadd0942eb5311\"",
+        "\"1|www.patternswizard.com\"",
+        "\"google-site-verification=5YF7vmTTSFWHVlk0ozE1np2V1GCRAgj4lD4ATQiYbBo\"",
+        "\"forward-email=patternswizard@gmail.com\"",
+        "\"v=spf1 a mx include:spf.forwardemail.net include:mx.ovh.com include:_spf.mlsend.com ~all\""
+      ]
+    },
+    "age_days": 1856,
+    "registrar": "OVH, SAS",
+    "name_servers": [
+      "ARAGORN.NS.CLOUDFLARE.COM",
+      "MAGDALENA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "patternswizard.com"
+    },
+    "not_before": "2025-05-11T01:13:22",
+    "not_after": "2025-08-09T02:10:59",
+    "days_remaining": 69,
+    "san": [
+      "patternswizard.com",
+      "*.patternswizard.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(51, 51, 51)",
+      "rgb(254, 254, 254)",
+      "rgb(247, 247, 247)",
+      "rgb(248, 248, 248)"
+    ],
+    "image_dimensions": "1920x6800",
+    "file_size_kb": 1441.80078125
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://bitcoinethereumnews.com/crypto/making-crypto-trading-easy-best-crypto-brokers-in-2023/",
+  "timestamp": "2025-06-04T06:44:03.039056+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "NameCheap, Inc.",
+      "creation_date": "2020-03-11 23:40:18",
+      "expiration_date": "2026-03-11 23:40:18",
+      "name_servers": [
+        "ALINA.NS.CLOUDFLARE.COM",
+        "HANS.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.112.1",
+        "104.21.48.1",
+        "104.21.96.1",
+        "104.21.16.1",
+        "104.21.32.1",
+        "104.21.80.1",
+        "104.21.64.1"
+      ],
+      "txt_records": [
+        "\"19ff7bd5e0c5a13f7b1768688d0fe836\"",
+        "\"adex-publisher=0x9cE3776c6f49b41f10D7DFa76f646536566fb619\"",
+        "\"google-site-verification=f5M5MXJ2fPYDpLpuNxESSx4KQ9n0zk1yoZ-2XaFpNEs\"",
+        "\"MAltYWlsLmJpdGNvaW5ldGhlcmV1bW5ld3MuY29tLgo=\"",
+        "\"yandex-verification: 60d2cd5bc2c75c93\"",
+        "\"d279f6b4dc68aefc006d5feba8e3c3df\""
+      ]
+    },
+    "age_days": 1910,
+    "registrar": "NameCheap, Inc.",
+    "name_servers": [
+      "ALINA.NS.CLOUDFLARE.COM",
+      "HANS.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "bitcoinethereumnews.com"
+    },
+    "not_before": "2025-06-04T00:48:25",
+    "not_after": "2025-09-02T01:46:37",
+    "days_remaining": 89,
+    "san": [
+      "bitcoinethereumnews.com",
+      "*.bitcoinethereumnews.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

@@ -1,0 +1,95 @@
+{
+  "url": "https://5msh.com/how-to-start-and-benefit-from-online-stock-trading",
+  "timestamp": "2025-05-30T07:32:26.307379+00:00",
+  "screenshot_path": "data/outputs/screenshots/5msh_com_20250530_113233.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc.",
+      "creation_date": "2019-10-03 11:22:55",
+      "expiration_date": "2025-10-03 11:22:55",
+      "name_servers": [
+        "ELINORE.NS.CLOUDFLARE.COM",
+        "FRANK.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.48.1",
+        "104.21.112.1",
+        "104.21.96.1",
+        "104.21.32.1",
+        "104.21.80.1",
+        "104.21.64.1",
+        "104.21.16.1"
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:162.0.229.37 include:spf.web-hosting.com ~all\"",
+        "\"c9f273506ad95df4dd645e9a97aead5b\""
+      ]
+    },
+    "age_days": 2065,
+    "registrar": "Cloudflare, Inc.",
+    "name_servers": [
+      "ELINORE.NS.CLOUDFLARE.COM",
+      "FRANK.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "5msh.com"
+    },
+    "not_before": "2025-04-30T13:16:01",
+    "not_after": "2025-07-29T14:14:12",
+    "days_remaining": 60,
+    "san": [
+      "5msh.com",
+      "*.5msh.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.1.32",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(216, 219, 225)",
+      "rgb(255, 255, 255)",
+      "rgb(207, 212, 219)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x5196",
+    "file_size_kb": 1700.6181640625
+  }
+}

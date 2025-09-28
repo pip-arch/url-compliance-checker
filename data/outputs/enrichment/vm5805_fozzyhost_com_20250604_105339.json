@@ -1,0 +1,50 @@
+{
+  "url": "https://vm5805.fozzyhost.com/2018/01/04/indikator-adx-crossing/",
+  "timestamp": "2025-06-04T06:53:37.331383+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "URL SOLUTIONS INC.",
+      "creation_date": "2012-08-27 08:42:45",
+      "expiration_date": "2025-08-27 08:42:45",
+      "name_servers": [
+        "NS1.FOZZY.COM",
+        "NS2.FOZZY.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "88.212.253.128"
+      ]
+    },
+    "age_days": 4663,
+    "registrar": "URL SOLUTIONS INC.",
+    "name_servers": [
+      "NS1.FOZZY.COM",
+      "NS2.FOZZY.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vm5805.fozzyhost.com'. (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: Cannot connect to host vm5805.fozzyhost.com:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vm5805.fozzyhost.com'. (_ssl.c:1129)\")]"
+    ]
+  },
+  "visual_analysis": {}
+}

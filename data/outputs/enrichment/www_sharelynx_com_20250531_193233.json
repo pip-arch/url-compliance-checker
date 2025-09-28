@@ -1,0 +1,85 @@
+{
+  "url": "http://www.sharelynx.com/misc/ad/PreciousMetalsForex.php",
+  "timestamp": "2025-05-31T15:32:24.370400+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_sharelynx_com_20250531_193233.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "TUCOWS, INC.",
+      "creation_date": "2002-11-08 04:47:51",
+      "expiration_date": "2025-11-08 04:47:51",
+      "name_servers": [
+        "NS1.INMOTIONHOSTING.COM",
+        "NS2.INMOTIONHOSTING.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "23.235.222.246"
+      ],
+      "mx_records": [
+        "0 sharelynx.com."
+      ]
+    },
+    "age_days": 8240,
+    "registrar": "TUCOWS, INC.",
+    "name_servers": [
+      "NS1.INMOTIONHOSTING.COM",
+      "NS2.INMOTIONHOSTING.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "sharelynx.com"
+    },
+    "not_before": "2025-05-15T12:48:39",
+    "not_after": "2025-08-13T12:48:38",
+    "days_remaining": 73,
+    "san": [
+      "*.sharelynx.com",
+      "sharelynx.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(254, 254, 254)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 255, 255)",
+      "rgb(253, 253, 253)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x1736",
+    "file_size_kb": 663.84375
+  }
+}

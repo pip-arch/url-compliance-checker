@@ -1,0 +1,76 @@
+{
+  "url": "https://support.auvoriaprime.com/hc/hi/articles/14814534502551-%E0%A4%AB%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%95-%E0%A4%B8-%E0%A4%B6%E0%A4%BF%E0%A4%95-%E0%A4%B7%E0%A4%BE-%E0%A4%8F%E0%A4%A1%E0%A4%B5%E0%A4%BE%E0%A4%82%E0%A4%B8-%E0%A4%A1",
+  "timestamp": "2025-06-04T06:59:57.191865+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2020, 1, 1, 18, 0, 39), datetime.datetime(2020, 1, 1, 13, 0, 39)]",
+      "expiration_date": "[datetime.datetime(2027, 1, 1, 18, 0, 39), datetime.datetime(2027, 1, 1, 13, 0, 39)]",
+      "name_servers": [
+        "LORNA.NS.CLOUDFLARE.COM",
+        "NORMAN.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "216.198.53.6",
+        "216.198.54.6"
+      ],
+      "mx_records": [
+        "10 mail-pod-23.int.zendesk.com."
+      ],
+      "txt_records": [
+        "\"pod=23\"",
+        "\"v=spf1 include:mail.zendesk.com ~all\""
+      ]
+    },
+    "age_days": 1980,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "LORNA.NS.CLOUDFLARE.COM",
+      "NORMAN.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "support.auvoriaprime.com"
+    },
+    "not_before": "2025-05-29T23:40:48",
+    "not_after": "2025-08-27T23:40:47",
+    "days_remaining": 84,
+    "san": [
+      "support.auvoriaprime.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

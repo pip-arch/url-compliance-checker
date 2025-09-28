@@ -1,0 +1,80 @@
+{
+  "url": "https://www.keywordsandjargon.com/search/admiral-markets-scam",
+  "timestamp": "2025-06-04T02:19:08.297143+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_keywordsandjargon_com_20250604_061923.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NameSilo, LLC",
+      "creation_date": "[datetime.datetime(2021, 2, 5, 13, 45, 55), datetime.datetime(2021, 2, 5, 7, 0)]",
+      "expiration_date": "[datetime.datetime(2026, 2, 5, 13, 45, 55), datetime.datetime(2026, 2, 5, 7, 0)]",
+      "name_servers": [
+        "NS1.BRAINYDNS.COM",
+        "NS2.BRAINYDNS.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "37.48.65.144"
+      ]
+    },
+    "age_days": 1579,
+    "registrar": "NameSilo, LLC",
+    "name_servers": [
+      "NS1.BRAINYDNS.COM",
+      "NS2.BRAINYDNS.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "keywordsandjargon.com"
+    },
+    "not_before": "2025-05-11T16:15:05",
+    "not_after": "2025-08-09T16:15:04",
+    "days_remaining": 66,
+    "san": [
+      "*.keywordsandjargon.com",
+      "keywordsandjargon.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(43, 43, 43)",
+      "rgb(2, 25, 139)",
+      "rgb(42, 42, 42)",
+      "rgb(0, 20, 138)",
+      "rgb(0, 22, 138)"
+    ],
+    "image_dimensions": "1940x1080",
+    "file_size_kb": 42.6044921875
+  }
+}

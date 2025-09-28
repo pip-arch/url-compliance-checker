@@ -1,0 +1,188 @@
+{
+  "url": "https://eldorado.io/blog/arbitraje-de-criptomonedas-como-funciona-guia-practica/",
+  "timestamp": "2025-05-31T05:25:44.599834+00:00",
+  "screenshot_path": "data/outputs/screenshots/eldorado_io_20250531_092551.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc",
+      "creation_date": "2017-01-11 22:51:09",
+      "expiration_date": "2032-01-11 22:51:09",
+      "name_servers": [
+        "tina.ns.cloudflare.com",
+        "rene.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "151.101.65.195",
+        "151.101.1.195"
+      ],
+      "mx_records": [
+        "5 alt1.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "1 aspmx.l.google.com."
+      ]
+    },
+    "age_days": 3061,
+    "registrar": "Cloudflare, Inc",
+    "name_servers": [
+      "tina.ns.cloudflare.com",
+      "rene.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WR3"
+    },
+    "subject": {
+      "commonName": "lowes-kitchen-hub-cert.3dcloud.io"
+    },
+    "not_before": "2025-04-30T10:03:30",
+    "not_after": "2025-07-29T11:02:06",
+    "days_remaining": 59,
+    "san": [
+      "lowes-kitchen-hub-cert.3dcloud.io",
+      "perfectdiagnostic.in",
+      "jonaspiela.de",
+      "devt.visitors.yourscreen-setup.de",
+      "manager.blumswear.ro",
+      "app-stg.q-rank.com",
+      "platform.atoms.cloud",
+      "www.veert00x.com",
+      "eldorado.io",
+      "dat2416448.id.vn",
+      "gateway.re-marketing.click",
+      "nakasone-houriha.com",
+      "kitagames.com",
+      "link.gizlimoda.net",
+      "www.rvassociates.org.in",
+      "www.radiotania.com",
+      "duenow.nohtek.com",
+      "basometro.reinaldoalguz.com.br",
+      "app.primeshippingcourierservices.com",
+      "rgvstorage.net",
+      "airx.co.in",
+      "www.kanjisama.com",
+      "www.atkinsonwebconsulting.com",
+      "parent.alnair.stg.gotoloop.dev",
+      "qa-partner.goloadup.info",
+      "cancel.churni.io",
+      "link1.dev.vaulted.com",
+      "chalk.run",
+      "danielle.mt",
+      "www.freewayrickross.com",
+      "journals.uem.edu.in",
+      "pic-skywind-viral.mentor.neccton.com",
+      "app.test.adacreate.com",
+      "speed.samsam123.name.my",
+      "www.cheapershopping.eu",
+      "slidare.ducdang.dev",
+      "reactnshrm.nablasol.net",
+      "fifgrulesbot.com",
+      "auth.anushilon.net",
+      "s.icu.ac.jp",
+      "tinyvillagespirit.org",
+      "ez-engineering.it",
+      "www.marnen.org",
+      "tastesand.neko-cheese.app",
+      "www.msdonlinebet.com",
+      "2048pro.co",
+      "idle.florist",
+      "app.followu.net",
+      "scanner.hangoverparties.sk",
+      "zudyog.com",
+      "bestellen.pizzeriaamore-bo.de",
+      "projecth.co.kr",
+      "www.nhchan.com",
+      "www.ingeniomelamina.com",
+      "cloud.suratec.co",
+      "rooferintel.com",
+      "realassist.me",
+      "solidspanners.com",
+      "vishesh.dev",
+      "linseption.org",
+      "typewrite.me",
+      "go.holacar.vn",
+      "admin.gwapagt.com",
+      "www.favethebrand.com",
+      "links.machinex.com",
+      "rajatsuner.in",
+      "legaspi-tax.solerabank.com",
+      "securedpayment.hawkridgesys.com",
+      "valoreel.com",
+      "miamiredhawkscamps.com",
+      "www.theshopreal.com",
+      "www.iyuto.com",
+      "refractio.fr",
+      "jclideremdesmontagem.com.br",
+      "audits.jifeng.scalabs.de",
+      "www.ibus-peru.com",
+      "jobdorking.com",
+      "dev.plumesenvue.fr",
+      "meylertech.com",
+      "dashboard.aithor.io",
+      "auth.metronational.cyberhaven.io",
+      "joseef.com",
+      "www.newsengine.co",
+      "sharepointed.io",
+      "letsforecast.com.au",
+      "www.rssecurity.cl",
+      "ledgrify.com",
+      "protechsign.com",
+      "wifisticker.ru",
+      "keystonecrusade.com",
+      "kinect.tixologi.com",
+      "instapixy.com",
+      "wildsultan-mobile.staging-1.tlf.dev",
+      "kpapro.com",
+      "www.mapscmlc.club",
+      "www.adangonzalezlopez.com",
+      "muzricorp.com",
+      "admin-panel.aokitech.com.ar",
+      "teamlitmus.com",
+      "console.dev.getreach.co"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(245, 245, 245)",
+      "rgb(254, 254, 254)",
+      "rgb(255, 255, 255)",
+      "rgb(253, 253, 253)",
+      "rgb(242, 242, 242)"
+    ],
+    "image_dimensions": "1920x9675",
+    "file_size_kb": 2051.82421875
+  }
+}

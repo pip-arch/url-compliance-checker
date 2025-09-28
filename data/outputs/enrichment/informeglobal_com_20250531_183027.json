@@ -1,0 +1,91 @@
+{
+  "url": "https://informeglobal.com/consejos-para-iniciar-a-invertir-en-linea/",
+  "timestamp": "2025-05-31T14:30:17.476003+00:00",
+  "screenshot_path": "data/outputs/screenshots/informeglobal_com_20250531_183026.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2017-11-24 13:02:53",
+      "expiration_date": "2025-11-24 13:02:53",
+      "name_servers": [
+        "NS45.LATINOAMERICAHOSTING.COM",
+        "NS46.LATINOAMERICAHOSTING.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "51.222.44.24"
+      ],
+      "mx_records": [
+        "0 informeglobal.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:51.222.44.24 include:relay.mailchannels.net ip4:15.235.50.116 +a +mx +ip4:142.4.216.14 +ip4:51.79.99.155 +ip4:54.39.16.101 ~all\"",
+        "\"google-site-verification=IK_OnJ_8DocL-7nLL1F82Q3d0JkkAsjyxZKM5xmW61c\""
+      ]
+    },
+    "age_days": 2745,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "NS45.LATINOAMERICAHOSTING.COM",
+      "NS46.LATINOAMERICAHOSTING.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "informeglobal.com"
+    },
+    "not_before": "2025-04-03T19:02:26",
+    "not_after": "2025-07-02T19:02:25",
+    "days_remaining": 32,
+    "san": [
+      "*.informeglobal.com",
+      "informeglobal.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(253, 253, 253)",
+      "rgb(214, 214, 214)",
+      "rgb(241, 241, 241)"
+    ],
+    "image_dimensions": "1920x4293",
+    "file_size_kb": 999.0888671875
+  }
+}

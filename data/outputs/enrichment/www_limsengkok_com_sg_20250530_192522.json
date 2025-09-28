@@ -1,0 +1,63 @@
+{
+  "url": "http://www.limsengkok.com.sg/finmaks/",
+  "timestamp": "2025-05-30T15:24:50.480018+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Exabytes Network (Singapore) Pte Ltd",
+      "creation_date": "2009-10-08 07:50:59",
+      "expiration_date": "2025-10-08 07:50:58",
+      "name_servers": [
+        "ns811.sgcloudhosting.com",
+        "ns812.sgcloudhosting.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "103.7.8.31"
+      ],
+      "mx_records": [
+        "0 mail.limsengkok.com.sg."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx include:se.sgcloudhosting.online ~all\""
+      ]
+    },
+    "age_days": 5713,
+    "registrar": "Exabytes Network (Singapore) Pte Ltd",
+    "name_servers": [
+      "ns811.sgcloudhosting.com",
+      "ns812.sgcloudhosting.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.limsengkok.com.sg"
+    },
+    "not_before": "2025-04-20T03:15:00",
+    "not_after": "2025-07-19T03:14:59",
+    "days_remaining": 49,
+    "san": [
+      "*.limsengkok.com.sg",
+      "limsengkok.com.sg"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: "
+    ]
+  },
+  "visual_analysis": {}
+}

@@ -1,0 +1,74 @@
+{
+  "url": "https://bilgihanem.com/neden-forex-piyasasinda-yatirim-yapmali/",
+  "timestamp": "2025-05-31T15:32:12.594662+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2014, 10, 13, 7, 45, 26), datetime.datetime(2014, 10, 13, 2, 45, 26)]",
+      "expiration_date": "[datetime.datetime(2025, 10, 13, 7, 45, 26), datetime.datetime(2025, 10, 13, 2, 45, 26)]",
+      "name_servers": [
+        "EVERTON.NS.CLOUDFLARE.COM",
+        "SKY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.147.77",
+        "104.21.11.6"
+      ],
+      "mx_records": [
+        "1 mx.yandex.net."
+      ]
+    },
+    "age_days": 3883,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "EVERTON.NS.CLOUDFLARE.COM",
+      "SKY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "bilgihanem.com"
+    },
+    "not_before": "2025-05-25T10:34:06",
+    "not_after": "2025-08-23T11:32:35",
+    "days_remaining": 83,
+    "san": [
+      "bilgihanem.com",
+      "*.bilgihanem.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS"
+    ],
+    "issues": [
+      "Missing HSTS header"
+    ]
+  },
+  "visual_analysis": {}
+}

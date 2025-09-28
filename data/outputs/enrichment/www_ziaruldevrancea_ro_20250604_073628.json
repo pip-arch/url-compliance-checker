@@ -1,0 +1,80 @@
+{
+  "url": "https://www.ziaruldevrancea.ro/promo/brand-voice/95487-cum-s%C4%83-ajungi-money-manager-%C8%99i-s%C4%83-prime%C8%99ti-5.000$-%C3%AEn-administrare.html",
+  "timestamp": "2025-06-04T03:35:54.551981+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "SoftHost SRL",
+      "creation_date": "2002-06-24 00:00:00",
+      "expiration_date": "2025-08-22 00:00:00",
+      "name_servers": [
+        "ns1.softhost.ro",
+        "ns2.softhost.ro"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "188.212.152.99"
+      ],
+      "mx_records": [
+        "10 mail.ziaruldevrancea.ro."
+      ],
+      "txt_records": [
+        "\"softhost.ro-NET\"",
+        "\"v=spf1 a mx -all\"",
+        "\"google-site-verification=y9MhXkbbnXgbcELdeEed15-VzUVQWYeKuvjW5BH0YZk\"",
+        "\"_18whz40jsfqyznz4rbrsj65hznei27v\""
+      ]
+    },
+    "age_days": 8381,
+    "registrar": "SoftHost SRL",
+    "name_servers": [
+      "ns1.softhost.ro",
+      "ns2.softhost.ro"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "DigiCert Inc",
+      "organizationalUnitName": "www.digicert.com",
+      "commonName": "RapidSSL TLS RSA CA G1"
+    },
+    "subject": {
+      "commonName": "www.ziaruldevrancea.ro"
+    },
+    "not_before": "2024-07-24T00:00:00",
+    "not_after": "2025-08-01T23:59:59",
+    "days_remaining": 58,
+    "san": [
+      "www.ziaruldevrancea.ro",
+      "ziaruldevrancea.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

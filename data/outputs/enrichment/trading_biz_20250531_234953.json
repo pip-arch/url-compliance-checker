@@ -1,0 +1,91 @@
+{
+  "url": "https://trading.biz/ua/posts/torgivlya-i-navchannya-trejderiv-na-demo-rahunku",
+  "timestamp": "2025-05-31T19:49:41.875220+00:00",
+  "screenshot_path": "data/outputs/screenshots/trading_biz_20250531_234951.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2002-03-27 01:55:08",
+      "expiration_date": "2026-03-26 23:59:59",
+      "name_servers": [
+        "nash.ns.cloudflare.com",
+        "miki.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.22.73.153",
+        "172.67.24.243",
+        "104.22.72.153"
+      ],
+      "mx_records": [
+        "50 mx3.zoho.eu.",
+        "10 mx.zoho.eu.",
+        "20 mx2.zoho.eu."
+      ],
+      "txt_records": [
+        "\"ahrefs-site-verification_069709ac8d345df661aede9441f15fd65a62917b0c1eed54919a32d7f0082314\"",
+        "\"zoho-verification=zb34865598.zmverify.zoho.eu\"",
+        "\"v=spf1 include:zoho.eu ~all\"",
+        "\"google-site-verification=svVfTPqJe_vTQ9XHQ6GjQMZojuko9a_aBvJaCOvslSs\"",
+        "\"google-site-verification=_sC1I_3J09ww5CLECFKjSEQ_zputPjOoYBIAXnjenOU\""
+      ]
+    },
+    "age_days": 8466,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "nash.ns.cloudflare.com",
+      "miki.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "trading.biz"
+    },
+    "not_before": "2025-04-07T20:37:59",
+    "not_after": "2025-07-06T21:37:57",
+    "days_remaining": 35,
+    "san": [
+      "trading.biz",
+      "*.trading.biz"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(45, 45, 45)",
+      "rgb(235, 235, 235)",
+      "rgb(241, 241, 241)",
+      "rgb(240, 240, 240)"
+    ],
+    "image_dimensions": "1920x17044",
+    "file_size_kb": 2951.9404296875
+  }
+}

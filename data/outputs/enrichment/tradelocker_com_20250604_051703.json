@@ -1,0 +1,106 @@
+{
+  "url": "https://tradelocker.com/forex-universe/",
+  "timestamp": "2025-06-04T01:16:50.918290+00:00",
+  "screenshot_path": "data/outputs/screenshots/tradelocker_com_20250604_051700.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2005, 6, 10, 18, 16, 52), datetime.datetime(2005, 6, 10, 13, 16, 52)]",
+      "expiration_date": "[datetime.datetime(2033, 6, 10, 18, 16, 52), datetime.datetime(2033, 6, 10, 13, 16, 52)]",
+      "name_servers": [
+        "LIV.NS.CLOUDFLARE.COM",
+        "SKIP.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.18.28.67",
+        "104.18.29.67"
+      ],
+      "mx_records": [
+        "10 alt4.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.cloudflare.com include:_spf.google.com include:emsd1.com include:email.chargebee.com include:145268943.spf10.hubspotemail.net -all\"",
+        "\"mongodb-site-verification=2AjzvqBIVukI1LEBefim8iuHLWge8NEi\"",
+        "\"google-site-verification=QQuI4YQTafEcuElVVlCAzw09GpiCu00DC4flQIkyjFo\"",
+        "\"jetbrains-domain-verification=8dbmpowm80js7rcayvlb72vfe\"",
+        "\"google-site-verification=G_WXgdcL87kNH2Jz5YG9Pdd9mZvd-NzjJXhG6TocAdo\"",
+        "\"google-site-verification=G484pG5Q3O-hH70N-jP24VlZtKjn8tQcNJLgSStyXAc\"",
+        "\"atlassian-sending-domain-verification=c6225bb1-5a50-4fb3-b444-b9afa2633a52\"",
+        "\"atlassian-domain-verification=hZxwgUcaoxUbaAg1NQqNx9Y1GObIK8WRvpaZjY7ZkuPo5MIUZ5xgtLdxLjegkFGC\"",
+        "\"1password-site-verification=ANGZAI6XPVESLHDLLG5VQWKS5Y\"",
+        "\"Dynatrace-site-verification=f6eb3472-caed-498a-9956-56aa9a45c261__a5hot4p9oqikqhsidtdncchq26\"",
+        "\"slack-domain-verification=NWlMYXtBphXLtmoYfnElM1gL6GaELJGIpcb3vBaV\"",
+        "\"mandrill_verify.XJevgI8NRD_btbhel0L_-w\""
+      ]
+    },
+    "age_days": 7298,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "LIV.NS.CLOUDFLARE.COM",
+      "SKIP.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "tradelocker.com"
+    },
+    "not_before": "2025-05-25T13:34:31",
+    "not_after": "2025-08-23T13:34:30",
+    "days_remaining": 80,
+    "san": [
+      "tradelocker.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: WP Engine",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(0, 0, 0)",
+      "rgb(16, 17, 22)",
+      "rgb(15, 16, 21)",
+      "rgb(2, 2, 2)",
+      "rgb(15, 16, 20)"
+    ],
+    "image_dimensions": "1920x24359",
+    "file_size_kb": 2370.3017578125
+  }
+}

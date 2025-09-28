@@ -1,0 +1,86 @@
+{
+  "url": "http://www.forex-central.net/analyses.php",
+  "timestamp": "2025-05-30T22:38:08.117678+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_forex-central_net_20250531_023822.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NETISTRAR",
+      "creation_date": "2009-08-24 15:12:28",
+      "expiration_date": "2025-08-24 15:12:28",
+      "name_servers": [
+        "NS1.KRYSTAL.CO.UK",
+        "NS2.KRYSTAL.CO.UK"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.194.90.25"
+      ],
+      "mx_records": [
+        "10 mx1.krystal.uk.",
+        "20 mx2.krystal.uk."
+      ]
+    },
+    "age_days": 5758,
+    "registrar": "NETISTRAR",
+    "name_servers": [
+      "NS1.KRYSTAL.CO.UK",
+      "NS2.KRYSTAL.CO.UK"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "forex-central.net"
+    },
+    "not_before": "2025-05-01T21:20:44",
+    "not_after": "2025-07-30T21:20:43",
+    "days_remaining": 60,
+    "san": [
+      "*.forex-central.net",
+      "forex-central.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(246, 246, 246)",
+      "rgb(247, 247, 247)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x1084",
+    "file_size_kb": 900.9306640625
+  }
+}

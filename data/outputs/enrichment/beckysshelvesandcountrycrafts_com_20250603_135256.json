@@ -1,0 +1,85 @@
+{
+  "url": "https://beckysshelvesandcountrycrafts.com/articles/what-is-the-most-powerful-forex-indicator",
+  "timestamp": "2025-06-03T09:52:43.026472+00:00",
+  "screenshot_path": "data/outputs/screenshots/beckysshelvesandcountrycrafts_com_20250603_135256.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2024-01-01 01:32:56",
+      "expiration_date": "2026-01-01 01:32:56",
+      "name_servers": [
+        "TOM.NS.CLOUDFLARE.COM",
+        "YOLANDA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.181.84",
+        "104.21.75.201"
+      ]
+    },
+    "age_days": 519,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "TOM.NS.CLOUDFLARE.COM",
+      "YOLANDA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "beckysshelvesandcountrycrafts.com"
+    },
+    "not_before": "2025-05-25T19:14:55",
+    "not_after": "2025-08-23T20:13:41",
+    "days_remaining": 81,
+    "san": [
+      "beckysshelvesandcountrycrafts.com",
+      "*.beckysshelvesandcountrycrafts.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(239, 242, 253)",
+      "rgb(254, 255, 255)",
+      "rgb(254, 254, 255)",
+      "rgb(252, 253, 255)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 38.201171875
+  }
+}

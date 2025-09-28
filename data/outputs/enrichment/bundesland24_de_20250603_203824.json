@@ -1,0 +1,85 @@
+{
+  "url": "https://bundesland24.de/alles-ueber-fractional-shares-und-wie-man-sie-durch-investment-sub-shares-erwirbt/",
+  "timestamp": "2025-06-03T16:38:19.730062+00:00",
+  "screenshot_path": "data/outputs/screenshots/bundesland24_de_20250603_203823.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns5.kasserver.com",
+        "ns6.kasserver.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "85.13.150.121"
+      ],
+      "mx_records": [
+        "10 w011dcb7.kasserver.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 mx a ?all\"",
+        "\"google-site-verification=5TpoX9hyI7iawBaojZuSxKuBxDtqvIMrQAgZEK0ERgw\"",
+        "\"v=DMARC1; p=reject; rua=mailto:mail@bundesland24.de; ruf=mailto:mail@bundesland24.de; adkim=s; aspf=r\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns5.kasserver.com",
+      "ns6.kasserver.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "bundesland24.de"
+    },
+    "not_before": "2025-05-15T06:26:16",
+    "not_after": "2025-08-13T06:26:15",
+    "days_remaining": 70,
+    "san": [
+      "bundesland24.de",
+      "www.bundesland24.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(248, 249, 251)",
+      "rgb(237, 239, 242)",
+      "rgb(255, 255, 255)",
+      "rgb(193, 244, 244)",
+      "rgb(254, 255, 255)"
+    ],
+    "image_dimensions": "1920x5352",
+    "file_size_kb": 1324.236328125
+  }
+}

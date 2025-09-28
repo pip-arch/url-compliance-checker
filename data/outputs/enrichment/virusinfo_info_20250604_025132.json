@@ -1,0 +1,91 @@
+{
+  "url": "https://virusinfo.info/content.php?r=2983-regulyatory-finansovogo-rynka-na-forex-ohotyatsya-li-oni-za-vashimi-dengami",
+  "timestamp": "2025-06-03T22:51:23.467416+00:00",
+  "screenshot_path": "data/outputs/screenshots/virusinfo_info_20250604_025131.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2004-09-16 11:36:39",
+      "expiration_date": "2025-09-16 11:36:39",
+      "name_servers": [
+        "val.ns.cloudflare.com",
+        "boyd.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.29.25",
+        "172.67.148.77"
+      ],
+      "mx_records": [
+        "10 mx.yandex.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:138.201.35.14 include:_spf.yandex.net ~all\""
+      ]
+    },
+    "age_days": 7565,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "val.ns.cloudflare.com",
+      "boyd.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "virusinfo.info"
+    },
+    "not_before": "2025-05-13T06:39:54",
+    "not_after": "2025-08-11T07:37:34",
+    "days_remaining": 68,
+    "san": [
+      "virusinfo.info",
+      "*.virusinfo.info"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(238, 238, 238)",
+      "rgb(220, 220, 220)",
+      "rgb(239, 239, 239)",
+      "rgb(219, 219, 219)"
+    ],
+    "image_dimensions": "1920x2476",
+    "file_size_kb": 979.38671875
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "url": "https://affmaven.com/forex-affiliate-programs/",
+  "timestamp": "2025-06-03T23:53:02.783849+00:00",
+  "screenshot_path": "data/outputs/screenshots/affmaven_com_20250604_035311.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Porkbun LLC",
+      "creation_date": "2024-08-04 08:11:55",
+      "expiration_date": "2026-08-04 08:11:55",
+      "name_servers": [
+        "CURITIBA.NS.PORKBUN.COM",
+        "FORTALEZA.NS.PORKBUN.COM",
+        "MACEIO.NS.PORKBUN.COM",
+        "SALVADOR.NS.PORKBUN.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "162.159.137.54",
+        "162.159.136.54"
+      ],
+      "mx_records": [
+        "1 smtp.google.com."
+      ],
+      "txt_records": [
+        "\"hosted-email-verify=cofz1fp6\"",
+        "\"google-site-verification=Uq7xIG5uVjut--Jk9At64sDqEZ2hZmxCpeXvJJjYp3o\"",
+        "\"v=spf1 a mx include:_spf.elasticemail.com include:spf.migadu.com ~all\""
+      ]
+    },
+    "age_days": 303,
+    "registrar": "Porkbun LLC",
+    "name_servers": [
+      "CURITIBA.NS.PORKBUN.COM",
+      "FORTALEZA.NS.PORKBUN.COM",
+      "MACEIO.NS.PORKBUN.COM",
+      "SALVADOR.NS.PORKBUN.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "affmaven.com"
+    },
+    "not_before": "2025-04-11T07:47:49",
+    "not_after": "2025-07-10T08:47:39",
+    "days_remaining": 36,
+    "san": [
+      "affmaven.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x31472",
+    "file_size_kb": 3828.1728515625
+  }
+}

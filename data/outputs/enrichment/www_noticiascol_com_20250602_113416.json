@@ -1,0 +1,90 @@
+{
+  "url": "https://www.noticiascol.com/2019/07/03/aspectos-que-te-ayudaran-a-averiguar-que-brokers-son-los-mejores/",
+  "timestamp": "2025-06-02T07:34:04.086555+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_noticiascol_com_20250602_113416.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Name.com, Inc.",
+      "creation_date": "2011-11-02 22:54:33",
+      "expiration_date": "2025-11-02 23:54:33",
+      "name_servers": [
+        "NS-1062.AWSDNS-04.ORG",
+        "NS-1541.AWSDNS-00.CO.UK",
+        "NS-68.AWSDNS-08.COM",
+        "NS-966.AWSDNS-56.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "18.244.87.50",
+        "18.244.87.21",
+        "18.244.87.59",
+        "18.244.87.81"
+      ]
+    },
+    "age_days": 4960,
+    "registrar": "Name.com, Inc.",
+    "name_servers": [
+      "NS-1062.AWSDNS-04.ORG",
+      "NS-1541.AWSDNS-00.CO.UK",
+      "NS-68.AWSDNS-08.COM",
+      "NS-966.AWSDNS-56.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Amazon",
+      "commonName": "Amazon RSA 2048 M02"
+    },
+    "subject": {
+      "commonName": "noticiascol.com"
+    },
+    "not_before": "2025-03-15T00:00:00",
+    "not_after": "2026-04-13T23:59:59",
+    "days_remaining": 315,
+    "san": [
+      "noticiascol.com",
+      "*.noticiascol.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Powered by: Next.js",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(16, 32, 57)",
+      "rgb(233, 235, 237)",
+      "rgb(229, 231, 234)"
+    ],
+    "image_dimensions": "1920x5201",
+    "file_size_kb": 836.7421875
+  }
+}

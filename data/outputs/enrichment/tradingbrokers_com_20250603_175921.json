@@ -1,0 +1,95 @@
+{
+  "url": "https://tradingbrokers.com/forex-brokers-india/",
+  "timestamp": "2025-06-03T13:59:14.363431+00:00",
+  "screenshot_path": "data/outputs/screenshots/tradingbrokers_com_20250603_175921.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2003, 7, 16, 14, 13, 48), datetime.datetime(2003, 7, 16, 9, 13, 48)]",
+      "expiration_date": "[datetime.datetime(2026, 7, 16, 14, 13, 48), datetime.datetime(2026, 7, 16, 9, 13, 48)]",
+      "name_servers": [
+        "NS1.SITEGROUND.NET",
+        "NS2.SITEGROUND.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "34.149.36.179",
+        "34.160.17.71",
+        "35.244.153.44",
+        "35.190.31.54"
+      ],
+      "mx_records": [
+        "20 mx20.antispam.mailspamprotection.com.",
+        "30 mx30.antispam.mailspamprotection.com.",
+        "10 mx10.antispam.mailspamprotection.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +a:gukm2.siteground.biz  include:tradingbrokers.com.spf.auto.dnssmarthost.net ~all\""
+      ]
+    },
+    "age_days": 7992,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS1.SITEGROUND.NET",
+      "NS2.SITEGROUND.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "*.tradingbrokers.com"
+    },
+    "not_before": "2025-04-13T03:37:42",
+    "not_after": "2025-07-12T03:37:41",
+    "days_remaining": 38,
+    "san": [
+      "*.tradingbrokers.com",
+      "tradingbrokers.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(248, 247, 246)",
+      "rgb(85, 85, 85)",
+      "rgb(249, 248, 247)",
+      "rgb(250, 249, 248)",
+      "rgb(255, 255, 255)"
+    ],
+    "image_dimensions": "1920x4697",
+    "file_size_kb": 752.544921875
+  }
+}

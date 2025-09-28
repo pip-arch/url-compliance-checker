@@ -1,0 +1,88 @@
+{
+  "url": "https://allconsuming.net/one-highly-recommended-also-preferred-site-especially-comes-online-trading-platforms/",
+  "timestamp": "2025-06-03T11:45:02.831153+00:00",
+  "screenshot_path": "data/outputs/screenshots/allconsuming_net_20250603_154510.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2002, 7, 23, 17, 19, 15), datetime.datetime(2002, 7, 23, 12, 19, 15)]",
+      "expiration_date": "[datetime.datetime(2025, 7, 23, 17, 19, 15), datetime.datetime(2025, 7, 23, 12, 19, 15)]",
+      "name_servers": [
+        "NS57.DOMAINCONTROL.COM",
+        "NS58.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "86.38.202.93"
+      ],
+      "txt_records": [
+        "\"google-site-verification=RVHMrnqCZNKm2bdCE7R5ZJib1xDN0_FNdge0t_G9OgI\""
+      ]
+    },
+    "age_days": 8350,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS57.DOMAINCONTROL.COM",
+      "NS58.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "allconsuming.net"
+    },
+    "not_before": "2025-05-20T16:54:09",
+    "not_after": "2025-08-18T16:54:08",
+    "days_remaining": 76,
+    "san": [
+      "allconsuming.net",
+      "www.allconsuming.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(238, 238, 238)",
+      "rgb(239, 239, 239)",
+      "rgb(237, 237, 237)"
+    ],
+    "image_dimensions": "1920x4674",
+    "file_size_kb": 1355.662109375
+  }
+}

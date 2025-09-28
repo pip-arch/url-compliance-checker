@@ -1,0 +1,46 @@
+{
+  "url": "https://web.udi.edu.co/aviacion/2025/03/17/telegram-t-me-seo-anomaly-seo-backlinks-cross-8-3/",
+  "timestamp": "2025-06-03T09:47:44.703204+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": ".CO Internet S.A.S.",
+      "creation_date": "2003-05-05 00:00:00",
+      "expiration_date": "2028-05-08 23:59:59",
+      "name_servers": [
+        "dns4.udi.edu.co",
+        "dns2.udi.edu.co"
+      ]
+    },
+    "dns": {},
+    "age_days": 8065,
+    "registrar": ".CO Internet S.A.S.",
+    "name_servers": [
+      "dns4.udi.edu.co",
+      "dns2.udi.edu.co"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "Connection Error: [Errno 8] nodename nor servname provided, or not known"
+    ]
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: Cannot connect to host web.udi.edu.co:443 ssl:default [nodename nor servname provided, or not known]"
+    ]
+  },
+  "visual_analysis": {}
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.larampa.it/2021/08/paper-trading-come-funziona-trading-simulato/",
+  "timestamp": "2025-06-03T04:21:40.269059+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Aruba s.p.a.",
+      "creation_date": "2015-09-16 20:25:11",
+      "expiration_date": "2025-09-16 00:00:00",
+      "name_servers": "lakas.ns.cloudflare.com\n  sofia.ns.cloudflare.com"
+    },
+    "dns": {
+      "a_records": [
+        "172.67.163.12",
+        "104.21.41.80"
+      ]
+    },
+    "age_days": 3547,
+    "registrar": "Aruba s.p.a.",
+    "name_servers": "lakas.ns.cloudflare.com\n  sofia.ns.cloudflare.com"
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "larampa.it"
+    },
+    "not_before": "2025-05-17T10:57:13",
+    "not_after": "2025-08-15T11:54:43",
+    "days_remaining": 73,
+    "san": [
+      "larampa.it",
+      "*.larampa.it"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

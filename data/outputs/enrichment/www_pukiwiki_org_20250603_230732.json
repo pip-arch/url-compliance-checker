@@ -1,0 +1,91 @@
+{
+  "url": "https://www.pukiwiki.org/blog/high-interest-rate-forex-strategy/",
+  "timestamp": "2025-06-03T19:07:14.743598+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_pukiwiki_org_20250603_230728.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2009-12-20 14:30:14",
+      "expiration_date": "2025-12-20 14:30:14",
+      "name_servers": [
+        "ns1.pukiwiki.org",
+        "ns2.pukiwiki.org"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "91.134.146.194"
+      ],
+      "mx_records": [
+        "0 pukiwiki.org."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:57.128.98.8 +ip4:91.134.146.194 ~all\""
+      ]
+    },
+    "age_days": 5644,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ns1.pukiwiki.org",
+      "ns2.pukiwiki.org"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.pukiwiki.org"
+    },
+    "not_before": "2025-04-29T14:24:20",
+    "not_after": "2025-07-28T14:24:19",
+    "days_remaining": 54,
+    "san": [
+      "*.pukiwiki.org",
+      "pukiwiki.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/8.2.28",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(247, 247, 247)",
+      "rgb(255, 255, 255)",
+      "rgb(50, 50, 50)",
+      "rgb(252, 252, 252)",
+      "rgb(246, 246, 246)"
+    ],
+    "image_dimensions": "1920x4195",
+    "file_size_kb": 2544.572265625
+  }
+}

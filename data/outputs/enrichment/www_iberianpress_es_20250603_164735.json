@@ -1,0 +1,83 @@
+{
+  "url": "https://www.iberianpress.es/noticia/que-consejos-se-deben-seguir-a-la-hora-de-empezar-a-invertir-en-linea/45515",
+  "timestamp": "2025-06-03T12:47:19.536468+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_iberianpress_es_20250603_164734.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "85.208.102.125"
+      ],
+      "mx_records": [
+        "0 iberianpress.es."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:85.208.102.116 ip4:85.208.102.125 +a +mx +ip4:85.208.102.238 +ip4:77.246.188.189 +include:_spf.kmitd.com +include:_spf.google.com ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.iberianpress.es"
+    },
+    "not_before": "2025-05-09T12:12:49",
+    "not_after": "2025-08-07T12:12:48",
+    "days_remaining": 64,
+    "san": [
+      "*.iberianpress.es",
+      "iberianpress.es"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(236, 236, 236)",
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(251, 251, 251)",
+      "rgb(38, 40, 44)"
+    ],
+    "image_dimensions": "1920x3660",
+    "file_size_kb": 1108.501953125
+  }
+}

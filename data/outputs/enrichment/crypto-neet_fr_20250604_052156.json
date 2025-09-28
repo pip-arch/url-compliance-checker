@@ -1,0 +1,81 @@
+{
+  "url": "https://crypto-neet.fr/plateformes-cryptomonnaie/admiral-markets",
+  "timestamp": "2025-06-04T01:21:24.563389+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "ILKARI DOMAINS LIMITED",
+      "creation_date": "2022-06-02 09:12:37",
+      "expiration_date": "2026-06-02 09:12:37",
+      "name_servers": [
+        "annabel.ns.cloudflare.com",
+        "charles.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.11.111",
+        "172.67.191.248"
+      ],
+      "mx_records": [
+        "0 cryptoneet-fr01e.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=FHccUJcck8kreh73lEmLg6Isjfx9eGuGD87yriPod4I\"",
+        "\"v=spf1 include:spf.protection.outlook.com -all\"",
+        "\"MS=ms99504877\""
+      ]
+    },
+    "age_days": 1097,
+    "registrar": "ILKARI DOMAINS LIMITED",
+    "name_servers": [
+      "annabel.ns.cloudflare.com",
+      "charles.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "crypto-neet.fr"
+    },
+    "not_before": "2025-04-22T11:59:23",
+    "not_after": "2025-07-21T12:57:31",
+    "days_remaining": 47,
+    "san": [
+      "crypto-neet.fr",
+      "*.crypto-neet.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: Next.js"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

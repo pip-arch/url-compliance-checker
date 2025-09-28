@@ -1,0 +1,5 @@
+URL Checker Processing Summary
+Generated at: 2025-05-29 17:38:49.021387
+
+System is working end-to-end!
+Ready to process 67,693 Admiral Markets referrers

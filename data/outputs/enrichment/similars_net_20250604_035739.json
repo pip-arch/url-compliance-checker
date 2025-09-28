@@ -1,0 +1,90 @@
+{
+  "url": "https://similars.net/sites-about/%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D1%8B",
+  "timestamp": "2025-06-03T23:57:29.080386+00:00",
+  "screenshot_path": "data/outputs/screenshots/similars_net_20250604_035737.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc.",
+      "creation_date": "2019-01-20 02:45:14",
+      "expiration_date": "2026-01-20 02:45:14",
+      "name_servers": [
+        "ERIN.NS.CLOUDFLARE.COM",
+        "TIM.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.79.225",
+        "172.67.149.72"
+      ],
+      "mx_records": [
+        "5 _dc-mx.c47ac288a12d.similars.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx a:similars.net ip4:82.66.64.248 ip6:2a01:e0a:2a5:88b0:ddbd:a27f:dfe6:2e8c ?all\"",
+        "\"google-site-verification=Nn3sBlT9hrZQXEuCbkDEezmNs-sNoXky9unw8yLMz8Q\""
+      ]
+    },
+    "age_days": 2326,
+    "registrar": "Cloudflare, Inc.",
+    "name_servers": [
+      "ERIN.NS.CLOUDFLARE.COM",
+      "TIM.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "similars.net"
+    },
+    "not_before": "2025-05-03T13:07:35",
+    "not_after": "2025-08-01T14:06:07",
+    "days_remaining": 58,
+    "san": [
+      "similars.net",
+      "*.similars.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(246, 248, 250)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(254, 255, 255)"
+    ],
+    "image_dimensions": "1920x6098",
+    "file_size_kb": 901.4130859375
+  }
+}

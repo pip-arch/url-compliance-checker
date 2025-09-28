@@ -1,0 +1,70 @@
+{
+  "suspicious-site.com": {
+    "urls": [
+      "https://suspicious-site.com/admiral-bonus"
+    ],
+    "reasons": [
+      "real_llm: The content contains serious compliance issues that warrant blacklisting the URL. It makes misleading claims of 'guaranteed profits with no risk' which is false and violates financial advertising regulations. It also mentions an unauthorized '100% deposit bonus' special offer not officially sanctioned by Admiral Markets."
+    ],
+    "categories": [],
+    "confidence": 0.0,
+    "compliance_issues": [],
+    "batch_ids": [
+      "0.95"
+    ],
+    "first_added": "2025-04-17T12:50:51.001455",
+    "violation_count": 0,
+    "history": []
+  },
+  "scam-alert.com": {
+    "urls": [
+      "https://scam-alert.com/admiralmarkets-review"
+    ],
+    "reasons": [
+      "real_llm: The content makes misleading claims about Admiral Markets offering 'risk-free trading with 100% success rate'. This is a clear violation of financial advertising regulations. The phrasing also implies the site is questioning if Admiral Markets is a scam, which could damage brand reputation."
+    ],
+    "categories": [],
+    "confidence": 0.0,
+    "compliance_issues": [],
+    "batch_ids": [
+      "0.95"
+    ],
+    "first_added": "2025-04-17T12:50:51.001468",
+    "violation_count": 0,
+    "history": []
+  },
+  "fxonline24h.com": {
+    "urls": [
+      "https://fxonline24h.com/broker/review-san/"
+    ],
+    "reasons": [
+      "real_llm: The content appears to be an unauthorized review site promoting Admiral Markets with misleading claims. It uses Admiral Markets' logo and branding without permission, and mentions unauthorized offers like 'No Deposit Bonus' which Admiral Markets likely does not offer. This false representation and use of inappropriate marketing tactics is a serious compliance issue."
+    ],
+    "categories": [],
+    "confidence": 0.0,
+    "compliance_issues": [],
+    "batch_ids": [
+      "0.9"
+    ],
+    "first_added": "2025-04-17T12:50:51.001476",
+    "violation_count": 0,
+    "history": []
+  },
+  "wikifxka.com": {
+    "urls": [
+      "https://www.wikifxka.com/hi/dealer/0361967978.html"
+    ],
+    "reasons": [
+      "real_llm: This website appears to be an unauthorized clone or scam site falsely representing itself as Admiral Markets. It uses Admiral Markets branding and details but has a suspicious domain (admiralmarkets.sc) and contact information that does not match the legitimate Admiral Markets website. The content also mentions a customer complaint about fraud and asset seizure by an entity claiming to be Admiral Markets."
+    ],
+    "categories": [],
+    "confidence": 0.0,
+    "compliance_issues": [],
+    "batch_ids": [
+      "0.95"
+    ],
+    "first_added": "2025-04-17T12:50:51.001484",
+    "violation_count": 0,
+    "history": []
+  }
+}

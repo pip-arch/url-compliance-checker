@@ -1,0 +1,129 @@
+{
+  "url": "https://ellenbrown.com/2023/10/03/the-great-taking-how-they-plan-to-own-it-all/",
+  "timestamp": "2025-06-03T17:28:47.231516+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "IONOS SE",
+      "creation_date": "2002-06-16 01:10:05",
+      "expiration_date": "2025-06-16 01:10:05",
+      "name_servers": [
+        "NS1.WORDPRESS.COM",
+        "NS2.WORDPRESS.COM",
+        "NS3.WORDPRESS.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "192.0.78.24",
+        "192.0.78.25"
+      ],
+      "mx_records": [
+        "10 mx00.1and1.com.",
+        "10 mx01.1and1.com."
+      ]
+    },
+    "age_days": 8388,
+    "registrar": "IONOS SE",
+    "name_servers": [
+      "NS1.WORDPRESS.COM",
+      "NS2.WORDPRESS.COM",
+      "NS3.WORDPRESS.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "tls.automattic.com"
+    },
+    "not_before": "2025-04-15T05:37:30",
+    "not_after": "2025-07-14T05:37:29",
+    "days_remaining": 40,
+    "san": [
+      "banesbyte.link",
+      "chaimsprophone.fr",
+      "ellaraegrant.com",
+      "ellebellecakes.com",
+      "ellen-trezevant.com",
+      "ellenahurst.com",
+      "ellenasavage.com",
+      "ellenatthelibrary.com",
+      "ellenbardash.com",
+      "ellenbeatehansensandseter.com",
+      "ellenbesso.com",
+      "ellenbooks.com",
+      "ellenbrenna.com",
+      "ellenbrockediting.com",
+      "ellenbrown.com",
+      "ellenbull.com",
+      "ellenburt.com",
+      "ellenchaffee.com",
+      "eurasiancooks.com",
+      "guy.car.blog",
+      "mosartconstructioninc.ca",
+      "nzhconsult.com",
+      "shielyule.co.uk",
+      "thailandlottery.code.blog",
+      "tls.automattic.com",
+      "www.banesbyte.link",
+      "www.chaimsprophone.fr",
+      "www.drc.sd83.bc.ca",
+      "www.elizabethwillse.com",
+      "www.elizabethwinpennylawson.com",
+      "www.ellaraegrant.com",
+      "www.ellebellecakes.com",
+      "www.ellen-trezevant.com",
+      "www.ellenahurst.com",
+      "www.ellenasavage.com",
+      "www.ellenatthelibrary.com",
+      "www.ellenbardash.com",
+      "www.ellenbeatehansensandseter.com",
+      "www.ellenbesso.com",
+      "www.ellenbooks.com",
+      "www.ellenbrenna.com",
+      "www.ellenbrockediting.com",
+      "www.ellenbrown.com",
+      "www.ellenbull.com",
+      "www.ellenburt.com",
+      "www.eurasiancooks.com",
+      "www.shielyule.co.uk",
+      "www.ten24.com.au",
+      "www.thailandlottery.code.blog",
+      "www.zobellegalgroupgreeley.finance.blog",
+      "zobellegalgroupgreeley.finance.blog"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

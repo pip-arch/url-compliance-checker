@@ -1,0 +1,84 @@
+{
+  "url": "https://www.millavois.com/2023/02/28/erreurs-de-trading-a-eviter-en-2023/",
+  "timestamp": "2025-06-04T03:34:00.239363+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Scaleway SAS",
+      "creation_date": "2017-08-28 21:04:13",
+      "expiration_date": "2026-08-28 21:04:13",
+      "name_servers": [
+        "NS1.O2SWITCH.NET",
+        "NS2.O2SWITCH.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "109.234.166.73"
+      ],
+      "mx_records": [
+        "5 alt1.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +mx +a +ip4:109.234.166.73 +include:spf.jabatus.fr +include:_spf.google.com ~all\""
+      ]
+    },
+    "age_days": 2836,
+    "registrar": "Scaleway SAS",
+    "name_servers": [
+      "NS1.O2SWITCH.NET",
+      "NS2.O2SWITCH.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "millavois.com"
+    },
+    "not_before": "2025-04-15T12:43:37",
+    "not_after": "2025-07-14T12:43:36",
+    "days_remaining": 40,
+    "san": [
+      "mail.millavois.com",
+      "millavois.com",
+      "www.millavois.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: o2switch-PowerBoost-v3",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

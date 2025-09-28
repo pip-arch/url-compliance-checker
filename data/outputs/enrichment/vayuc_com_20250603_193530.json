@@ -1,0 +1,77 @@
+{
+  "url": "https://vayuc.com/website-list-2222/",
+  "timestamp": "2025-06-03T15:34:17.078759+00:00",
+  "screenshot_path": "data/outputs/screenshots/vayuc_com_20250603_193510.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2022-09-22 14:34:08",
+      "expiration_date": "2026-09-22 14:34:08",
+      "name_servers": [
+        "HEATHER.NS.CLOUDFLARE.COM",
+        "KARL.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.53.2",
+        "172.67.206.141"
+      ],
+      "mx_records": [
+        "10 eforward2.registrar-servers.com.",
+        "10 eforward1.registrar-servers.com.",
+        "10 eforward3.registrar-servers.com.",
+        "15 eforward4.registrar-servers.com.",
+        "20 eforward5.registrar-servers.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.efwd.registrar-servers.com ~all\""
+      ]
+    },
+    "age_days": 985,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "HEATHER.NS.CLOUDFLARE.COM",
+      "KARL.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "vayuc.com"
+    },
+    "not_before": "2025-05-16T07:03:28",
+    "not_after": "2025-08-14T08:01:53",
+    "days_remaining": 71,
+    "san": [
+      "vayuc.com",
+      "*.vayuc.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: "
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [],
+    "image_dimensions": null,
+    "file_size_kb": 11034.189453125
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://forexthai.in.th/moving-average-oscillator/",
+  "timestamp": "2025-06-03T10:40:49.904488+00:00",
+  "screenshot_path": "data/outputs/screenshots/forexthai_in_th_20250603_144101.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "THNIC",
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "TH77.HOSTATOM.COM",
+        "TH78.HOSTATOM.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "203.170.190.139"
+      ],
+      "mx_records": [
+        "10 mail.forexthai.in.th."
+      ],
+      "txt_records": [
+        "\"google-site-verification=r1o-Vex5Na770ZjGxc7rR68sZnd1qh_TzTFaa4ryXY8\"",
+        "\"google-site-verification=rX9UVEW9c5GWaInUVdO6kDw7RYbpElgH6JDqc1iAOAM\"",
+        "\"v=spf1 +a +mx +a:thsv39.hostatom.com -all\"",
+        "\"RewriteEngine On # Redirect all http to https and www to non-www RewriteCond %{HTTPS} off [OR] RewriteCond %{HTTP_HOST} ^www\\\\.(.*)$ [NC] RewriteRule ^(.*)$ https://forexthai.in.th/$1 [L,R=301]\""
+      ]
+    },
+    "age_days": null,
+    "registrar": "THNIC",
+    "name_servers": [
+      "TH77.HOSTATOM.COM",
+      "TH78.HOSTATOM.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "forexthai.in.th"
+    },
+    "not_before": "2025-05-20T18:12:47",
+    "not_after": "2025-08-18T18:12:46",
+    "days_remaining": 76,
+    "san": [
+      "forexthai.in.th",
+      "www.forexthai.in.th"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 247, 247)",
+      "rgb(99, 147, 196)",
+      "rgb(254, 254, 254)",
+      "rgb(249, 249, 249)"
+    ],
+    "image_dimensions": "1920x6721",
+    "file_size_kb": 1962.220703125
+  }
+}

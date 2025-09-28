@@ -1,0 +1,87 @@
+{
+  "url": "https://www.jorditoldra.com/kotirovka/",
+  "timestamp": "2025-06-03T14:47:59.254245+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_jorditoldra_com_20250603_184804.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Dinahosting s.l.",
+      "creation_date": "2012-12-20 08:53:28",
+      "expiration_date": "2025-12-20 08:53:28",
+      "name_servers": [
+        "NS.DINAHOSTING.COM",
+        "NS2.DINAHOSTING.COM",
+        "NS3.DINAHOSTING.COM",
+        "NS4.DINAHOSTING.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "82.98.165.81"
+      ]
+    },
+    "age_days": 4548,
+    "registrar": "Dinahosting s.l.",
+    "name_servers": [
+      "NS.DINAHOSTING.COM",
+      "NS2.DINAHOSTING.COM",
+      "NS3.DINAHOSTING.COM",
+      "NS4.DINAHOSTING.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "jorditoldra.com"
+    },
+    "not_before": "2025-04-12T05:18:37",
+    "not_after": "2025-07-11T05:18:36",
+    "days_remaining": 37,
+    "san": [
+      "jorditoldra.com",
+      "www.jorditoldra.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: HTTPd",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(244, 244, 244)",
+      "rgb(245, 245, 245)",
+      "rgb(246, 246, 246)",
+      "rgb(217, 217, 217)",
+      "rgb(216, 216, 216)"
+    ],
+    "image_dimensions": "1920x2749",
+    "file_size_kb": 547.6748046875
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "url": "https://www.startnederland.nl/nl/a/index.html",
+  "timestamp": "2025-06-03T19:04:46.015558+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_startnederland_nl_20250603_230450.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Denit Shared Hosting B.V.",
+      "creation_date": "2000-07-18 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "ns1.masterdns.nl",
+        "ns2.masterdns.nl"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "62.148.170.19"
+      ]
+    },
+    "age_days": 9086,
+    "registrar": "Denit Shared Hosting B.V.",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "ns1.masterdns.nl",
+      "ns2.masterdns.nl"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "GB",
+      "stateOrProvinceName": "Greater Manchester",
+      "localityName": "Salford",
+      "organizationName": "Sectigo Limited",
+      "commonName": "Sectigo RSA Organization Validation Secure Server CA"
+    },
+    "subject": {
+      "countryName": "NL",
+      "stateOrProvinceName": "Gelderland",
+      "organizationName": "StartNederland",
+      "commonName": "*.startnederland.nl"
+    },
+    "not_before": "2025-02-26T00:00:00",
+    "not_after": "2026-03-09T23:59:59",
+    "days_remaining": 279,
+    "san": [
+      "*.startnederland.nl",
+      "startnederland.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PleskLin",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(58, 110, 165)",
+      "rgb(56, 108, 164)",
+      "rgb(58, 111, 165)",
+      "rgb(58, 109, 165)",
+      "rgb(56, 108, 174)"
+    ],
+    "image_dimensions": "1920x16676",
+    "file_size_kb": 8811.8740234375
+  }
+}

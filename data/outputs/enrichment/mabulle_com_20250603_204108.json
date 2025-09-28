@@ -1,0 +1,91 @@
+{
+  "url": "https://mabulle.com/2021/11/22/effet-ricochet-est-de-retour-en-bourse/",
+  "timestamp": "2025-06-03T16:40:59.647244+00:00",
+  "screenshot_path": "data/outputs/screenshots/mabulle_com_20250603_204108.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH, SAS",
+      "creation_date": "2004-03-11 20:36:35",
+      "expiration_date": "[datetime.datetime(2026, 3, 11, 19, 36, 35), datetime.datetime(2025, 3, 11, 19, 36, 35, tzinfo=datetime.timezone(datetime.timedelta(seconds=3600)))]",
+      "name_servers": [
+        "NS1.O2SWITCH.NET",
+        "NS2.O2SWITCH.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "78.40.11.128"
+      ],
+      "mx_records": [
+        "0 mail.mabulle.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:109.234.164.57 +a +mx +ip4:109.234.164.108 ~all\""
+      ]
+    },
+    "age_days": 7753,
+    "registrar": "OVH, SAS",
+    "name_servers": [
+      "NS1.O2SWITCH.NET",
+      "NS2.O2SWITCH.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "mabulle.com"
+    },
+    "not_before": "2025-05-17T03:55:23",
+    "not_after": "2025-08-15T03:55:22",
+    "days_remaining": 72,
+    "san": [
+      "mabulle.com",
+      "mail.mabulle.com",
+      "www.mabulle.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: o2switch-PowerBoost-v3",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(249, 249, 249)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x3636",
+    "file_size_kb": 1429.8603515625
+  }
+}

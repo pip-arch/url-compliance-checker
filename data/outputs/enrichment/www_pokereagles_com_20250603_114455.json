@@ -1,0 +1,63 @@
+{
+  "url": "https://www.pokereagles.com/query/is-fixed-time-trade-halal",
+  "timestamp": "2025-06-03T07:44:13.968681+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "NameCheap, Inc.",
+      "creation_date": "2006-12-15 00:20:11",
+      "expiration_date": "2025-12-15 00:20:11",
+      "name_servers": [
+        "CASH.NS.CLOUDFLARE.COM",
+        "CORTNEY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.48.1",
+        "104.21.32.1",
+        "104.21.80.1",
+        "104.21.96.1",
+        "104.21.64.1",
+        "104.21.112.1",
+        "104.21.16.1"
+      ]
+    },
+    "age_days": 6745,
+    "registrar": "NameCheap, Inc.",
+    "name_servers": [
+      "CASH.NS.CLOUDFLARE.COM",
+      "CORTNEY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "pokereagles.com"
+    },
+    "not_before": "2025-05-10T10:30:22",
+    "not_after": "2025-08-08T11:28:32",
+    "days_remaining": 65,
+    "san": [
+      "pokereagles.com",
+      "*.pokereagles.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: "
+    ]
+  },
+  "visual_analysis": {}
+}

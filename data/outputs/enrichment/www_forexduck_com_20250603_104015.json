@@ -1,0 +1,85 @@
+{
+  "url": "https://www.forexduck.com/martingale-is/",
+  "timestamp": "2025-06-03T06:39:54.253559+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_forexduck_com_20250603_104015.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2021-05-25 12:22:01",
+      "expiration_date": "2026-05-25 12:22:01",
+      "name_servers": [
+        "AJAY.NS.CLOUDFLARE.COM",
+        "APRIL.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.183.33",
+        "104.21.18.187"
+      ]
+    },
+    "age_days": 1469,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "AJAY.NS.CLOUDFLARE.COM",
+      "APRIL.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "forexduck.com"
+    },
+    "not_before": "2025-05-21T02:37:09",
+    "not_after": "2025-08-19T03:33:08",
+    "days_remaining": 76,
+    "san": [
+      "forexduck.com",
+      "*.forexduck.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(242, 242, 242)",
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 251)",
+      "rgb(34, 34, 34)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x5866",
+    "file_size_kb": 1211.970703125
+  }
+}

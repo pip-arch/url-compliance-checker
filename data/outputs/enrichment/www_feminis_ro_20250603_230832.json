@@ -1,0 +1,74 @@
+{
+  "url": "https://www.feminis.ro/cum-se-efectueaza-tranzactionarea-online-_68804.html",
+  "timestamp": "2025-06-03T19:08:01.551426+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "ICI - Registrar",
+      "creation_date": "2005-08-17 00:00:00",
+      "expiration_date": "2029-10-04 00:00:00",
+      "name_servers": [
+        "alec.ns.cloudflare.com",
+        "tegan.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.24.211",
+        "172.67.220.207"
+      ]
+    },
+    "age_days": 7230,
+    "registrar": "ICI - Registrar",
+    "name_servers": [
+      "alec.ns.cloudflare.com",
+      "tegan.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "feminis.ro"
+    },
+    "not_before": "2025-05-18T08:26:22",
+    "not_after": "2025-08-16T09:23:47",
+    "days_remaining": 73,
+    "san": [
+      "feminis.ro",
+      "*.feminis.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

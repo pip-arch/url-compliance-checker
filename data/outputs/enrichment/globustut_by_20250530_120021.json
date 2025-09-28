@@ -1,0 +1,91 @@
+{
+  "url": "https://globustut.by/_extart/eug/2018-12/0015.htm",
+  "timestamp": "2025-05-30T08:00:16.468581+00:00",
+  "screenshot_path": "data/outputs/screenshots/globustut_by_20250530_120021.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Reliable Software, Ltd",
+      "creation_date": "2021-05-19 00:00:00",
+      "expiration_date": "2027-05-19 00:00:00",
+      "name_servers": [
+        "ns1.hoster.by",
+        "ns2.hoster.by"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "93.125.99.66"
+      ],
+      "mx_records": [
+        "0 globustut.by."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx include:_spf.hoster.by ~all\"",
+        "\"google-site-verification=JxCgo6C3fj8VUUDhkJZEQEhvw9xdYU_V_3eIHachKhg\""
+      ]
+    },
+    "age_days": 1472,
+    "registrar": "Reliable Software, Ltd",
+    "name_servers": [
+      "ns1.hoster.by",
+      "ns2.hoster.by"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "ipv6.globustut.by"
+    },
+    "not_before": "2025-04-23T10:17:46",
+    "not_after": "2025-07-22T10:17:45",
+    "days_remaining": 52,
+    "san": [
+      "globustut.by",
+      "ipv6.globustut.by",
+      "mail.globustut.by",
+      "www.globustut.by"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(196, 196, 196)",
+      "rgb(212, 212, 212)",
+      "rgb(211, 211, 211)",
+      "rgb(214, 214, 214)",
+      "rgb(198, 198, 198)"
+    ],
+    "image_dimensions": "1920x1806",
+    "file_size_kb": 473.767578125
+  }
+}

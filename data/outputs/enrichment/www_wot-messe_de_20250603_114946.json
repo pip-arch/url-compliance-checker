@@ -1,0 +1,85 @@
+{
+  "url": "https://www.wot-messe.de/aussteller/admiral-markets-uk",
+  "timestamp": "2025-06-03T07:49:41.288726+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_wot-messe_de_20250603_114946.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "a.ns14.net",
+        "b.ns14.net",
+        "c.ns14.net",
+        "d.ns14.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "5.75.154.195"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "a.ns14.net",
+      "b.ns14.net",
+      "c.ns14.net",
+      "d.ns14.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "wot-messe.de"
+    },
+    "not_before": "2025-05-17T09:17:00",
+    "not_after": "2025-08-15T09:16:59",
+    "days_remaining": 72,
+    "san": [
+      "wot-messe.de",
+      "www.wot-messe.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.24.0 (Ubuntu)",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(51, 51, 51)",
+      "rgb(1, 6, 9)",
+      "rgb(254, 254, 254)",
+      "rgb(0, 1, 4)"
+    ],
+    "image_dimensions": "1920x1833",
+    "file_size_kb": 368.75
+  }
+}

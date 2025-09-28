@@ -1,0 +1,86 @@
+{
+  "url": "https://www.regionalspiegel-sachsen.de/dax-derivate/",
+  "timestamp": "2025-05-31T14:31:00.412075+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_regionalspiegel-sachsen_de_20250531_183105.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns1.your-server.de",
+        "ns3.second-ns.de",
+        "ns.second-ns.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "168.119.26.116"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns1.your-server.de",
+      "ns3.second-ns.de",
+      "ns.second-ns.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.regionalspiegel-sachsen.de"
+    },
+    "not_before": "2025-04-22T04:01:01",
+    "not_after": "2025-07-21T04:01:00",
+    "days_remaining": 50,
+    "san": [
+      "*.regionalspiegel-sachsen.de",
+      "regionalspiegel-sachsen.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 128, 196)",
+      "rgb(241, 241, 241)",
+      "rgb(240, 240, 240)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x3564",
+    "file_size_kb": 1679.734375
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "url": "https://sraforex.monoblog.ir/post-11.html",
+  "timestamp": "2025-05-31T19:52:12.454997+00:00",
+  "screenshot_path": "data/outputs/screenshots/sraforex_monoblog_ir_20250531_235233.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "178.239.151.183"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "*.monoblog.ir"
+    },
+    "not_before": "2025-03-05T07:09:52",
+    "not_after": "2025-06-03T07:09:51",
+    "days_remaining": 2,
+    "san": [
+      "*.monoblog.ir",
+      "monoblog.ir"
+    ],
+    "issues": [
+      "Certificate expires in 2 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache/2",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(240, 240, 240)",
+      "rgb(255, 255, 255)",
+      "rgb(239, 239, 239)",
+      "rgb(238, 238, 238)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x4449",
+    "file_size_kb": 1104.5966796875
+  }
+}

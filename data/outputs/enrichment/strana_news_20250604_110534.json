@@ -1,0 +1,96 @@
+{
+  "url": "https://strana.news/news/112514-metatrader-5-dlja-android-osobennosti-torhovoho-terminala.html",
+  "timestamp": "2025-06-04T07:05:05.426302+00:00",
+  "screenshot_path": "data/outputs/screenshots/strana_news_20250604_110533.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2021-08-20 19:59:19",
+      "expiration_date": "2025-08-20 19:59:19",
+      "name_servers": [
+        "alec.ns.cloudflare.com",
+        "cora.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.32.9",
+        "172.67.182.30"
+      ],
+      "mx_records": [
+        "10 alt4.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=Qt4o7FXqo3Y_VtX1GzuR6_r4Jed8DUtpGO6pN_wNaYw\"",
+        "\"v=spf1 include:_spf.google.com -all\""
+      ]
+    },
+    "age_days": 1383,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "alec.ns.cloudflare.com",
+      "cora.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "strana.news"
+    },
+    "not_before": "2025-06-01T14:19:58",
+    "not_after": "2025-08-30T15:17:34",
+    "days_remaining": 87,
+    "san": [
+      "strana.news",
+      "*.strana.news"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.28",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(234, 234, 234)",
+      "rgb(250, 250, 250)",
+      "rgb(249, 249, 249)"
+    ],
+    "image_dimensions": "1920x5681",
+    "file_size_kb": 1834.3037109375
+  }
+}

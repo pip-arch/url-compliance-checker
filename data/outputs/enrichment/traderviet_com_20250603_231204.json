@@ -1,0 +1,95 @@
+{
+  "url": "https://traderviet.com/t/vantage-dau-tu-forex-co-an-toan-khong.65993/",
+  "timestamp": "2025-06-03T19:11:48.783083+00:00",
+  "screenshot_path": "data/outputs/screenshots/traderviet_com_20250603_231202.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Name.com, Inc.",
+      "creation_date": "2011-03-30 08:18:57",
+      "expiration_date": "2027-03-30 08:18:57",
+      "name_servers": [
+        "DALE.NS.CLOUDFLARE.COM",
+        "NIA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.70.83",
+        "172.67.221.225"
+      ],
+      "mx_records": [
+        "1 aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=nJ7Qn2cIUYQ-HQZ8C7ng_cvtO6Y_6PTlWURks2rgCEA\"",
+        "\"google-site-verification=CWJzW25IX_yLztJRJFUnk4gIuvVOOYcnV6FhrNZynhA\"",
+        "\"amazonses:7LPe060CcmtAHctuMqp8gfjPoHXA3BoOzSGEzUGFlCM=\"",
+        "\"zoho-verification=zb15383875.zmverify.zoho.com\""
+      ]
+    },
+    "age_days": 5179,
+    "registrar": "Name.com, Inc.",
+    "name_servers": [
+      "DALE.NS.CLOUDFLARE.COM",
+      "NIA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "traderviet.com"
+    },
+    "not_before": "2025-04-26T09:37:57",
+    "not_after": "2025-07-25T10:36:07",
+    "days_remaining": 51,
+    "san": [
+      "traderviet.com",
+      "*.traderviet.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(236, 236, 236)",
+      "rgb(118, 118, 118)",
+      "rgb(255, 255, 255)",
+      "rgb(6, 40, 76)",
+      "rgb(235, 235, 235)"
+    ],
+    "image_dimensions": "1920x7362",
+    "file_size_kb": 2212.6103515625
+  }
+}

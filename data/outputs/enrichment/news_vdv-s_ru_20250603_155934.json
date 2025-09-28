@@ -1,0 +1,64 @@
+{
+  "url": "https://news.vdv-s.ru/business/1527-trejdery-dlja-trejderov.html",
+  "timestamp": "2025-06-03T11:59:03.486905+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "BEGET-RU",
+      "creation_date": "1997-10-20 08:31:42",
+      "expiration_date": "2025-11-30 21:00:00",
+      "name_servers": [
+        "ns1.timeweb.ru.",
+        "ns2.timeweb.ru.",
+        "ns3.timeweb.org.",
+        "ns4.timeweb.org."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "89.191.225.171"
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:176.57.223.0/24 ip4:92.53.116.0/22 ip4:92.53.96.0/22 ip4:92.53.112.0/22 ip4:92.53.104.0/22 ip6:2a03:6f00::/32 ~all\""
+      ]
+    },
+    "age_days": 10088,
+    "registrar": "BEGET-RU",
+    "name_servers": [
+      "ns1.timeweb.ru.",
+      "ns2.timeweb.ru.",
+      "ns3.timeweb.org.",
+      "ns4.timeweb.org."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "news.vdv-s.ru"
+    },
+    "not_before": "2025-05-17T11:51:44",
+    "not_after": "2025-08-15T11:51:43",
+    "days_remaining": 72,
+    "san": [
+      "news.vdv-s.ru",
+      "www.news.vdv-s.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: "
+    ]
+  },
+  "visual_analysis": {}
+}

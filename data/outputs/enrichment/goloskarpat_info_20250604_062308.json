@@ -1,0 +1,81 @@
+{
+  "url": "https://goloskarpat.info/rus/associated/5d10a36b54639/",
+  "timestamp": "2025-06-04T02:22:35.199783+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Hosting Ukraine LLC",
+      "creation_date": "2011-03-14 17:29:57",
+      "expiration_date": "2026-03-14 17:29:57",
+      "name_servers": [
+        "rick.ns.cloudflare.com",
+        "jean.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.154.226",
+        "104.21.6.137"
+      ],
+      "mx_records": [
+        "20 mx2.goloskarpat.info."
+      ],
+      "txt_records": [
+        "\"v=spf1 mx a ip4:185.69.152.175 ~all\"",
+        "\"google-site-verification=0pOIe_dV0A8B7IaK_H-0OtnPhh6Mwt2AHwqe2uRdYwA\"",
+        "\"ahrefs-site-verification_55934f6122499070c930ae9948b56ebcf6160228351dde4b5fcf1b8979b3adaf\""
+      ]
+    },
+    "age_days": 5195,
+    "registrar": "Hosting Ukraine LLC",
+    "name_servers": [
+      "rick.ns.cloudflare.com",
+      "jean.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "goloskarpat.info"
+    },
+    "not_before": "2025-06-01T16:55:01",
+    "not_after": "2025-08-30T17:53:40",
+    "days_remaining": 87,
+    "san": [
+      "goloskarpat.info",
+      "*.goloskarpat.info"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

@@ -1,0 +1,98 @@
+{
+  "url": "https://negosentro.com/5-small-businesses-start/",
+  "timestamp": "2025-06-04T06:44:45.596170+00:00",
+  "screenshot_path": "data/outputs/screenshots/negosentro_com_20250604_104502.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2012, 2, 27, 7, 57, 5), datetime.datetime(2012, 2, 27, 2, 57, 5)]",
+      "expiration_date": "[datetime.datetime(2026, 2, 27, 7, 57, 5), datetime.datetime(2026, 2, 27, 2, 57, 5)]",
+      "name_servers": [
+        "NS1.WPWORLD.HOST",
+        "NS2.WPWORLD.HOST",
+        "NS3.WPWORLD.HOST",
+        "NS4.WPWORLD.HOST"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.146.167.193"
+      ],
+      "mx_records": [
+        "10 mx.stackmail.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.stackmail.com -all\"",
+        "\"v=spf1 include:spf.stackmail.com a mx -all\"",
+        "\"google-site-verification=UpCEw_Qz7eiuQ83zN0HGYGf_C5LyartGD0DC5MdevxM\""
+      ]
+    },
+    "age_days": 4845,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS1.WPWORLD.HOST",
+      "NS2.WPWORLD.HOST",
+      "NS3.WPWORLD.HOST",
+      "NS4.WPWORLD.HOST"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.negosentro.com"
+    },
+    "not_before": "2025-05-20T15:08:58",
+    "not_after": "2025-08-18T15:08:57",
+    "days_remaining": 75,
+    "san": [
+      "*.negosentro.com",
+      "negosentro.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/8.0.30",
+    "CMS: WordPress",
+    "Framework: Angular",
+    "Framework: Bootstrap"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(174, 174, 174)",
+      "rgb(179, 179, 179)",
+      "rgb(178, 178, 178)",
+      "rgb(168, 168, 168)",
+      "rgb(169, 169, 169)"
+    ],
+    "image_dimensions": "1920x6358",
+    "file_size_kb": 2270.7392578125
+  }
+}

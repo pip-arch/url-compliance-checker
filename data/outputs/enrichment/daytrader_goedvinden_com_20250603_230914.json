@@ -1,0 +1,84 @@
+{
+  "url": "https://daytrader.goedvinden.com/",
+  "timestamp": "2025-06-03T19:09:09.488509+00:00",
+  "screenshot_path": "data/outputs/screenshots/daytrader_goedvinden_com_20250603_230914.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Hosting Concepts B.V. d/b/a Registrar.eu",
+      "creation_date": "2004-07-08 19:34:04",
+      "expiration_date": "2025-07-08 19:34:04",
+      "name_servers": [
+        "JOSH.NS.CLOUDFLARE.COM",
+        "LIV.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "164.132.23.105"
+      ]
+    },
+    "age_days": 7634,
+    "registrar": "Hosting Concepts B.V. d/b/a Registrar.eu",
+    "name_servers": [
+      "JOSH.NS.CLOUDFLARE.COM",
+      "LIV.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "goedvinden.com"
+    },
+    "not_before": "2025-05-09T15:43:58",
+    "not_after": "2025-08-07T15:43:57",
+    "days_remaining": 64,
+    "san": [
+      "*.goedvinden.com",
+      "goedvinden.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/7.3.33",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(2, 109, 187)",
+      "rgb(1, 108, 187)",
+      "rgb(0, 107, 186)",
+      "rgb(0, 104, 185)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 83.4853515625
+  }
+}

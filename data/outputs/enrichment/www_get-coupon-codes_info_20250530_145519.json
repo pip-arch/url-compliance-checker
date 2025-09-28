@@ -1,0 +1,75 @@
+{
+  "url": "https://www.get-coupon-codes.info/stores/admiralmarkets.com/",
+  "timestamp": "2025-05-30T10:55:10.226898+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_get-coupon-codes_info_20250530_145518.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2018-12-11 08:24:13",
+      "expiration_date": "2025-12-11 08:24:13",
+      "name_servers": [
+        "ns1.parklogic.com",
+        "ns2.parklogic.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "69.16.230.165"
+      ],
+      "mx_records": [
+        "10 mx156.hostedmxserver.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 -all\""
+      ]
+    },
+    "age_days": 2362,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ns1.parklogic.com",
+      "ns2.parklogic.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "www.get-coupon-codes.info"
+    },
+    "not_before": "2025-03-02T23:24:20",
+    "not_after": "2025-05-31T23:24:19",
+    "days_remaining": 1,
+    "san": [
+      "www.get-coupon-codes.info"
+    ],
+    "issues": [
+      "Certificate expires in 1 days"
+    ]
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: Server disconnected"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(16, 28, 54)",
+      "rgb(17, 38, 77)",
+      "rgb(98, 101, 116)",
+      "rgb(18, 24, 46)",
+      "rgb(23, 29, 50)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 51.1376953125
+  }
+}

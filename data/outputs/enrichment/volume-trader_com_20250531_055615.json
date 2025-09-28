@@ -1,0 +1,82 @@
+{
+  "url": "https://volume-trader.com/blog/sicher-geld-an-der-b%C3%B6rse-verdienen",
+  "timestamp": "2025-05-31T01:55:54.501103+00:00",
+  "screenshot_path": "data/outputs/screenshots/volume-trader_com_20250531_055614.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cronon GmbH",
+      "creation_date": "2017-05-25 17:27:10",
+      "expiration_date": "2026-05-25 17:27:10",
+      "name_servers": [
+        "NS3.STRATOSERVER.NET",
+        "NS4.STRATOSERVER.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "199.60.103.23"
+      ],
+      "mx_records": [
+        "5 smtp.rzone.de."
+      ]
+    },
+    "age_days": 2927,
+    "registrar": "Cronon GmbH",
+    "name_servers": [
+      "NS3.STRATOSERVER.NET",
+      "NS4.STRATOSERVER.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "volume-trader.com"
+    },
+    "not_before": "2025-05-12T06:57:12",
+    "not_after": "2025-08-10T07:57:05",
+    "days_remaining": 71,
+    "san": [
+      "volume-trader.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(243, 243, 243)",
+      "rgb(244, 244, 244)",
+      "rgb(245, 245, 245)",
+      "rgb(243, 245, 246)",
+      "rgb(221, 221, 221)"
+    ],
+    "image_dimensions": "1920x27372",
+    "file_size_kb": 934.884765625
+  }
+}

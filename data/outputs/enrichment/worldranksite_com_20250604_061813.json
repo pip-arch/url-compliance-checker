@@ -1,0 +1,87 @@
+{
+  "url": "https://worldranksite.com/new-high-da-and-dr-websites-109/",
+  "timestamp": "2025-06-04T02:18:10.496152+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2022-11-17 18:34:23",
+      "expiration_date": "2025-11-17 18:34:23",
+      "name_servers": [
+        "MICHAEL.NS.CLOUDFLARE.COM",
+        "ROSALIE.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.80.1",
+        "104.21.32.1",
+        "104.21.48.1",
+        "104.21.96.1",
+        "104.21.64.1",
+        "104.21.112.1",
+        "104.21.16.1"
+      ],
+      "mx_records": [
+        "20 mx3-hosting.jellyfish.systems.",
+        "5 mx1-hosting.jellyfish.systems.",
+        "10 mx2-hosting.jellyfish.systems."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:69.57.162.20 +ip4:69.57.162.21 include:spf.web-hosting.com ~all\""
+      ]
+    },
+    "age_days": 929,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "MICHAEL.NS.CLOUDFLARE.COM",
+      "ROSALIE.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "worldranksite.com"
+    },
+    "not_before": "2025-05-27T22:06:58",
+    "not_after": "2025-08-25T23:05:41",
+    "days_remaining": 82,
+    "san": [
+      "worldranksite.com",
+      "*.worldranksite.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

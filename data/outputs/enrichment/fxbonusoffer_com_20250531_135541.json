@@ -1,0 +1,91 @@
+{
+  "url": "https://fxbonusoffer.com/get-forex-welcome-bonus-from-admiral-markets",
+  "timestamp": "2025-05-31T09:55:34.319314+00:00",
+  "screenshot_path": "data/outputs/screenshots/fxbonusoffer_com_20250531_135540.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2019, 3, 5, 23, 50, 12), datetime.datetime(2019, 3, 5, 18, 50, 12)]",
+      "expiration_date": "[datetime.datetime(2026, 3, 5, 23, 50, 12), datetime.datetime(2026, 3, 5, 18, 50, 12)]",
+      "name_servers": [
+        "ISLA.NS.CLOUDFLARE.COM",
+        "JAVIER.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.128.229",
+        "104.21.2.77"
+      ],
+      "mx_records": [
+        "0 _dc-mx.7cc48aac2204.fxbonusoffer.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:104.248.150.250 +a +mx ~all\"",
+        "\"google-site-verification=fgUJUmyuXcmW8U1xmW7r5hH9_KB37DYm6JD0hmwYKcc\""
+      ]
+    },
+    "age_days": 2278,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ISLA.NS.CLOUDFLARE.COM",
+      "JAVIER.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "fxbonusoffer.com"
+    },
+    "not_before": "2025-04-18T00:50:16",
+    "not_after": "2025-07-17T01:48:54",
+    "days_remaining": 46,
+    "san": [
+      "fxbonusoffer.com",
+      "*.fxbonusoffer.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 247, 247)",
+      "rgb(224, 224, 224)",
+      "rgb(223, 223, 223)",
+      "rgb(222, 222, 222)"
+    ],
+    "image_dimensions": "1920x5826",
+    "file_size_kb": 2469.29296875
+  }
+}

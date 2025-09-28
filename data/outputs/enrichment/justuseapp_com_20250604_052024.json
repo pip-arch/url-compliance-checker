@@ -1,0 +1,83 @@
+{
+  "url": "https://justuseapp.com/fr/app/1222861799/admiral-markets/problems",
+  "timestamp": "2025-06-04T01:20:10.615378+00:00",
+  "screenshot_path": "data/outputs/screenshots/justuseapp_com_20250604_052023.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NETIM",
+      "creation_date": "[datetime.datetime(2019, 8, 14, 21, 7, 17), datetime.datetime(2019, 8, 14, 0, 0)]",
+      "expiration_date": "[datetime.datetime(2025, 8, 14, 21, 7, 17), datetime.datetime(2025, 8, 14, 21, 0)]",
+      "name_servers": [
+        "ALEC.NS.CLOUDFLARE.COM",
+        "KIA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "192.53.122.254"
+      ],
+      "txt_records": [
+        "\"ahrefs-site-verification_03b1a5cad93064158dd743f1011c54048a0fd38b1e8343b1bc423eafeff61b7a\""
+      ]
+    },
+    "age_days": 2120,
+    "registrar": "NETIM",
+    "name_servers": [
+      "ALEC.NS.CLOUDFLARE.COM",
+      "KIA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "justuseapp.com"
+    },
+    "not_before": "2025-04-30T10:58:27",
+    "not_after": "2025-07-29T10:58:26",
+    "days_remaining": 55,
+    "san": [
+      "justuseapp.com",
+      "www.justuseapp.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.18.0",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(245, 245, 245)",
+      "rgb(255, 255, 255)",
+      "rgb(246, 246, 246)",
+      "rgb(254, 254, 254)",
+      "rgb(244, 244, 244)"
+    ],
+    "image_dimensions": "1920x4566",
+    "file_size_kb": 629.4794921875
+  }
+}

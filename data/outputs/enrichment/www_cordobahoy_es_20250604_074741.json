@@ -1,0 +1,78 @@
+{
+  "url": "https://www.cordobahoy.es/articulo/comunicados/mercados-baja-hora-invertir-oportunidades/20220906170239122554.html",
+  "timestamp": "2025-06-04T03:47:33.297420+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_cordobahoy_es_20250604_074739.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "104.21.48.216",
+        "172.67.138.14"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "cordobahoy.es"
+    },
+    "not_before": "2025-04-29T04:02:37",
+    "not_after": "2025-07-28T05:00:58",
+    "days_remaining": 53,
+    "san": [
+      "cordobahoy.es",
+      "*.cordobahoy.es"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: OpenNemas",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Frame-Options",
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(249, 249, 249)",
+      "rgb(0, 0, 0)",
+      "rgb(250, 250, 250)",
+      "rgb(247, 247, 247)"
+    ],
+    "image_dimensions": "1920x6974",
+    "file_size_kb": 1368.8505859375
+  }
+}

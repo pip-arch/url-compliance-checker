@@ -1,0 +1,79 @@
+{
+  "url": "https://www.asfera.info/news/114054",
+  "timestamp": "2025-06-03T18:15:41.100369+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Regional Network Information Center, JSC dba RU-CENTER",
+      "creation_date": "2006-10-04 02:05:32",
+      "expiration_date": "2025-10-04 02:05:32",
+      "name_servers": [
+        "ns1.timeweb.ru",
+        "ns2.timeweb.ru",
+        "ns3.timeweb.org",
+        "ns4.timeweb.org"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "45.8.97.203"
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.timeweb.ru ~all\""
+      ]
+    },
+    "age_days": 6817,
+    "registrar": "Regional Network Information Center, JSC dba RU-CENTER",
+    "name_servers": [
+      "ns1.timeweb.ru",
+      "ns2.timeweb.ru",
+      "ns3.timeweb.org",
+      "ns4.timeweb.org"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "admin.asfera.info"
+    },
+    "not_before": "2025-04-18T07:42:42",
+    "not_after": "2025-07-17T07:42:41",
+    "days_remaining": 43,
+    "san": [
+      "admin.asfera.info",
+      "asfera.info",
+      "www.asfera.info"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.18.0 (Ubuntu)"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

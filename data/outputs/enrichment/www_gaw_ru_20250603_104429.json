@@ -1,0 +1,76 @@
+{
+  "url": "http://www.gaw.ru/html.cgi/txt/gl/fin3/uspeshnyy-treyder-na-forex-7-glavnyh-principov.htm",
+  "timestamp": "2025-06-03T06:44:12.253815+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_gaw_ru_20250603_104429.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "R01-RU",
+      "creation_date": "1998-08-14 13:35:17",
+      "expiration_date": "2025-08-31 21:00:00",
+      "name_servers": [
+        "ns1.centre.ru.",
+        "ns2.centre.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "194.186.45.243"
+      ]
+    },
+    "age_days": 9789,
+    "registrar": "R01-RU",
+    "name_servers": [
+      "ns1.centre.ru.",
+      "ns2.centre.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "Connection Error: timed out"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 251)",
+      "rgb(0, 0, 0)",
+      "rgb(254, 254, 254)",
+      "rgb(246, 246, 246)"
+    ],
+    "image_dimensions": "1920x2534",
+    "file_size_kb": 1217.6494140625
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "url": "https://www.guidefinance.fr/actions-tesla/",
+  "timestamp": "2025-05-30T21:34:46.277351+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_guidefinance_fr_20250531_013451.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NETIM",
+      "creation_date": "2023-11-16 14:50:45.827800",
+      "expiration_date": "2025-11-16 14:50:45.798867",
+      "name_servers": [
+        "ns7.easyhoster.com",
+        "ns8.easyhoster.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "51.255.105.240"
+      ],
+      "mx_records": [
+        "0 guidefinance.fr."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:54.38.112.210 +ip4:51.255.105.240 +ip4:51.210.208.196 ~all\""
+      ]
+    },
+    "age_days": 561,
+    "registrar": "NETIM",
+    "name_servers": [
+      "ns7.easyhoster.com",
+      "ns8.easyhoster.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "monblogvoyage.com"
+    },
+    "not_before": "2025-05-20T06:00:58",
+    "not_after": "2025-08-18T06:00:57",
+    "days_remaining": 79,
+    "san": [
+      "*.blogdemaman.net",
+      "*.guidefinance.fr",
+      "*.monblogvoyage.com",
+      "blogdemaman.net",
+      "blogdemaman.net.guidefinance.fr",
+      "guidefinance.fr",
+      "monblogvoyage.com",
+      "www.blogdemaman.net.guidefinance.fr",
+      "www.monblogvoyage.guidefinance.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/8.1.32",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(231, 246, 255)",
+      "rgb(255, 255, 255)",
+      "rgb(249, 250, 251)",
+      "rgb(15, 23, 42)",
+      "rgb(232, 246, 255)"
+    ],
+    "image_dimensions": "1920x4595",
+    "file_size_kb": 766.7001953125
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://www.bitcoinbazis.hu/cme-bitcoin-futures/",
+  "timestamp": "2025-06-04T02:23:06.072106+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_bitcoinbazis_hu_20250604_062314.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "104.26.3.214",
+        "104.26.2.214",
+        "172.67.71.137"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "bitcoinbazis.hu"
+    },
+    "not_before": "2025-04-12T06:31:36",
+    "not_after": "2025-07-11T07:31:34",
+    "days_remaining": 37,
+    "san": [
+      "bitcoinbazis.hu",
+      "*.bitcoinbazis.hu"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(0, 186, 203)",
+      "rgb(252, 252, 252)",
+      "rgb(245, 245, 245)"
+    ],
+    "image_dimensions": "1920x3945",
+    "file_size_kb": 663.2666015625
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "url": "https://sayanogorsk.info/details/entry/2229-10-principov-professionalnoj-torgovli-na-forekse/",
+  "timestamp": "2025-05-31T14:32:13.064360+00:00",
+  "screenshot_path": "data/outputs/screenshots/sayanogorsk_info_20250531_183219.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Regional Network Information Center, JSC dba RU-CENTER",
+      "creation_date": "2004-09-05 06:23:55",
+      "expiration_date": "2025-09-05 06:23:55",
+      "name_servers": [
+        "ns1.sayanogorsk.info",
+        "ns2.sayanogorsk.info"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.134.120.233"
+      ],
+      "mx_records": [
+        "10 mail.sayanogorsk.info."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:91.225.208.143 ip4:185.134.120.233 ip6:2a01:620:1:5021::42 ~all\""
+      ]
+    },
+    "age_days": 7573,
+    "registrar": "Regional Network Information Center, JSC dba RU-CENTER",
+    "name_servers": [
+      "ns1.sayanogorsk.info",
+      "ns2.sayanogorsk.info"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "av.sayanogorsk.info"
+    },
+    "not_before": "2025-05-11T18:53:49",
+    "not_after": "2025-08-09T18:53:48",
+    "days_remaining": 70,
+    "san": [
+      "av.sayanogorsk.info",
+      "fonts.sayanogorsk.info",
+      "sayanogorsk.info",
+      "sm.sayanogorsk.info",
+      "static.sayanogorsk.info",
+      "www.sayanogorsk.info"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.14.1",
+    "Powered by: PHP/8.2.27"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(238, 238, 238)",
+      "rgb(248, 248, 248)",
+      "rgb(252, 252, 252)",
+      "rgb(249, 249, 249)"
+    ],
+    "image_dimensions": "1920x2937",
+    "file_size_kb": 1071.4892578125
+  }
+}

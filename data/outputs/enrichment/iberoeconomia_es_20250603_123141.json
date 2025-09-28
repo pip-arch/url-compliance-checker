@@ -1,0 +1,91 @@
+{
+  "url": "https://iberoeconomia.es/mercados/operaciones-cfd-sabias-que-son-muy-seguros/",
+  "timestamp": "2025-06-03T08:31:18.152697+00:00",
+  "screenshot_path": "data/outputs/screenshots/iberoeconomia_es_20250603_123140.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "172.67.190.73",
+        "104.21.81.188"
+      ],
+      "mx_records": [
+        "100 alt4.aspmx.l.google.com.",
+        "100 alt3.aspmx.l.google.com.",
+        "10 aspmx.l.google.com.",
+        "50 alt2.aspmx.l.google.com.",
+        "50 alt1.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=UPQSnk08KgYOjo0M3bpq4FEroBd2Nux8YgnkfOF6oWY\"",
+        "\"v=spf1 a mx include:_spf.google.com include:sendgrid.net include:u14844981.wl232.sendgrid.net ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "iberoeconomia.es"
+    },
+    "not_before": "2025-04-15T10:02:26",
+    "not_after": "2025-07-14T11:00:50",
+    "days_remaining": 40,
+    "san": [
+      "iberoeconomia.es",
+      "*.iberoeconomia.es"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PleskLin",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(247, 247, 247)",
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(243, 243, 243)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x5924",
+    "file_size_kb": 1434.9775390625
+  }
+}

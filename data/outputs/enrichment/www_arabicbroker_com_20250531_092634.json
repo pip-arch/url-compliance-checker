@@ -1,0 +1,80 @@
+{
+  "url": "https://www.arabicbroker.com/forum/node/948755",
+  "timestamp": "2025-05-31T05:26:26.801669+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_arabicbroker_com_20250531_092634.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Name.com, Inc.",
+      "creation_date": "2007-01-17 14:02:53",
+      "expiration_date": "2027-01-17 14:02:53",
+      "name_servers": [
+        "ADA.NS.CLOUDFLARE.COM",
+        "ALGIN.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.26.13.213",
+        "104.26.12.213",
+        "172.67.68.1"
+      ]
+    },
+    "age_days": 6708,
+    "registrar": "Name.com, Inc.",
+    "name_servers": [
+      "ADA.NS.CLOUDFLARE.COM",
+      "ALGIN.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "www.arabicbroker.com"
+    },
+    "not_before": "2025-04-30T18:06:40",
+    "not_after": "2025-07-29T18:06:39",
+    "days_remaining": 59,
+    "san": [
+      "www.arabicbroker.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP"
+    ],
+    "headers_missing": [
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(235, 244, 249)",
+      "rgb(230, 231, 232)",
+      "rgb(229, 230, 231)",
+      "rgb(200, 204, 206)"
+    ],
+    "image_dimensions": "1920x1727",
+    "file_size_kb": 646.984375
+  }
+}

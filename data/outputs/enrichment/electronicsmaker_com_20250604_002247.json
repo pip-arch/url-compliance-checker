@@ -1,0 +1,94 @@
+{
+  "url": "https://electronicsmaker.com/the-future-of-trading-belongs-to-artificial-intelligence",
+  "timestamp": "2025-06-03T20:22:38.387112+00:00",
+  "screenshot_path": "data/outputs/screenshots/electronicsmaker_com_20250604_002246.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Squarespace Domains II LLC",
+      "creation_date": "2004-03-24 10:35:10",
+      "expiration_date": "2026-03-24 09:35:10",
+      "name_servers": [
+        "NS-CLOUD-C1.GOOGLEDOMAINS.COM",
+        "NS-CLOUD-C2.GOOGLEDOMAINS.COM",
+        "NS-CLOUD-C3.GOOGLEDOMAINS.COM",
+        "NS-CLOUD-C4.GOOGLEDOMAINS.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "162.241.127.123"
+      ],
+      "txt_records": [
+        "\"v=spf1 include:emsd1.com ~all\"",
+        "\"google-site-verification=fENwbHd0R_dXb3OyTxOu4qiz3ULTfv_30ML01q1rxL0\""
+      ]
+    },
+    "age_days": 7741,
+    "registrar": "Squarespace Domains II LLC",
+    "name_servers": [
+      "NS-CLOUD-C1.GOOGLEDOMAINS.COM",
+      "NS-CLOUD-C2.GOOGLEDOMAINS.COM",
+      "NS-CLOUD-C3.GOOGLEDOMAINS.COM",
+      "NS-CLOUD-C4.GOOGLEDOMAINS.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "electronicsmaker.com"
+    },
+    "not_before": "2025-05-18T01:37:22",
+    "not_after": "2025-08-16T01:37:21",
+    "days_remaining": 73,
+    "san": [
+      "electronicsmaker.com",
+      "webmail.electronicsmaker.com",
+      "www.electronicsmaker.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(33, 33, 33)",
+      "rgb(228, 228, 228)",
+      "rgb(250, 250, 250)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x4336",
+    "file_size_kb": 2090.873046875
+  }
+}

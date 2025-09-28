@@ -1,0 +1,83 @@
+{
+  "url": "https://en.fxgaininfo.com/whats-new-this-week-program/get-free-forex-welcome-bonus-from-admiral-markets/",
+  "timestamp": "2025-05-31T10:36:44.000124+00:00",
+  "screenshot_path": "data/outputs/screenshots/en_fxgaininfo_com_20250531_143653.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2020, 1, 2, 23, 55, 30), datetime.datetime(2020, 1, 2, 18, 55, 30)]",
+      "expiration_date": "[datetime.datetime(2026, 1, 2, 23, 55, 30), datetime.datetime(2026, 1, 2, 18, 55, 30)]",
+      "name_servers": [
+        "ISLA.NS.CLOUDFLARE.COM",
+        "JAVIER.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "173.231.55.154"
+      ]
+    },
+    "age_days": 1975,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ISLA.NS.CLOUDFLARE.COM",
+      "JAVIER.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "en.fxgaininfo.com"
+    },
+    "not_before": "2025-05-10T19:13:31",
+    "not_after": "2025-08-08T19:13:30",
+    "days_remaining": 69,
+    "san": [
+      "en.fxgaininfo.com",
+      "www.en.fxgaininfo.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(6, 40, 61)",
+      "rgb(254, 254, 254)",
+      "rgb(231, 234, 236)",
+      "rgb(210, 216, 220)"
+    ],
+    "image_dimensions": "1920x2741",
+    "file_size_kb": 921.6650390625
+  }
+}

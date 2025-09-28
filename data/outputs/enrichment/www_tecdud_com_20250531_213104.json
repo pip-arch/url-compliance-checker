@@ -1,0 +1,87 @@
+{
+  "url": "https://www.tecdud.com/admiral-log-in/",
+  "timestamp": "2025-05-31T17:30:52.536138+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_tecdud_com_20250531_213103.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2017-04-01 11:02:58",
+      "expiration_date": "2026-04-01 11:02:58",
+      "name_servers": [
+        "DEREK.NS.CLOUDFLARE.COM",
+        "ZARA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.62.114",
+        "172.67.223.94"
+      ],
+      "txt_records": [
+        "\"yandex-verification: ffe033107969fcfc\""
+      ]
+    },
+    "age_days": 2982,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "DEREK.NS.CLOUDFLARE.COM",
+      "ZARA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "tecdud.com"
+    },
+    "not_before": "2025-05-05T03:53:07",
+    "not_after": "2025-08-03T04:51:37",
+    "days_remaining": 63,
+    "san": [
+      "tecdud.com",
+      "*.tecdud.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(247, 248, 249)",
+      "rgb(255, 255, 255)",
+      "rgb(240, 241, 242)",
+      "rgb(248, 249, 250)",
+      "rgb(249, 249, 249)"
+    ],
+    "image_dimensions": "1920x5668",
+    "file_size_kb": 659.40234375
+  }
+}

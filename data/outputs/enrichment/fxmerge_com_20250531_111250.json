@@ -1,0 +1,101 @@
+{
+  "url": "https://fxmerge.com/ja/reviews-search/3",
+  "timestamp": "2025-05-31T07:12:44.105770+00:00",
+  "screenshot_path": "data/outputs/screenshots/fxmerge_com_20250531_111250.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2019, 12, 29, 0, 17, 2), datetime.datetime(2019, 12, 28, 19, 17, 2)]",
+      "expiration_date": "[datetime.datetime(2033, 12, 29, 0, 17, 2), datetime.datetime(2033, 12, 28, 19, 17, 2)]",
+      "name_servers": [
+        "NS13.DOMAINCONTROL.COM",
+        "NS14.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "51.178.176.87"
+      ],
+      "mx_records": [
+        "1 mx0.mail.ovh.net.",
+        "100 mx3.mail.ovh.net.",
+        "50 mx2.mail.ovh.net.",
+        "5 mx1.mail.ovh.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:mx.ovh.com ~all\""
+      ]
+    },
+    "age_days": 1980,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS13.DOMAINCONTROL.COM",
+      "NS14.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "fxmerge.com"
+    },
+    "not_before": "2025-04-23T11:30:49",
+    "not_after": "2025-07-22T11:30:48",
+    "days_remaining": 52,
+    "san": [
+      "analysis.fxmerge.com",
+      "api.fxmerge.com",
+      "calendar.fxmerge.com",
+      "cms.fxmerge.com",
+      "fxmerge.com",
+      "pairs.fxmerge.com",
+      "project.fxmerge.com",
+      "signal.fxmerge.com",
+      "signals.fxmerge.com",
+      "support.fxmerge.com",
+      "www.fxmerge.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(213, 228, 251)",
+      "rgb(236, 233, 240)",
+      "rgb(255, 255, 255)",
+      "rgb(215, 227, 251)",
+      "rgb(238, 235, 241)"
+    ],
+    "image_dimensions": "1920x2439",
+    "file_size_kb": 960.509765625
+  }
+}

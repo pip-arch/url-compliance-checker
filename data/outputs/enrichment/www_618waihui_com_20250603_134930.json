@@ -1,0 +1,82 @@
+{
+  "url": "https://www.618waihui.com/a/jingjishang/14659.html",
+  "timestamp": "2025-06-03T09:49:17.628532+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_618waihui_com_20250603_134929.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)",
+      "creation_date": "2017-06-23 23:29:24",
+      "expiration_date": "2026-06-23 23:29:24",
+      "name_servers": [
+        "DNS11.HICHINA.COM",
+        "DNS12.HICHINA.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "47.114.119.200"
+      ]
+    },
+    "age_days": 2901,
+    "registrar": "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)",
+    "name_servers": [
+      "DNS11.HICHINA.COM",
+      "DNS12.HICHINA.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "CN",
+      "organizationName": "Shanghai Huandu Info Tech Co. Ltd.",
+      "commonName": "KeepTrust DV TLS RSA CA G2"
+    },
+    "subject": {
+      "commonName": "618waihui.com"
+    },
+    "not_before": "2024-09-10T13:59:28",
+    "not_after": "2025-10-10T15:59:59",
+    "days_remaining": 129,
+    "san": [
+      "618waihui.com",
+      "www.618waihui.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(241, 246, 251)",
+      "rgb(29, 30, 35)",
+      "rgb(254, 254, 254)",
+      "rgb(26, 25, 31)"
+    ],
+    "image_dimensions": "1920x3369",
+    "file_size_kb": 880.5380859375
+  }
+}

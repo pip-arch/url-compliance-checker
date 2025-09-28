@@ -1,0 +1,90 @@
+{
+  "url": "https://thaibrokerforex.com/%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C-admiral-markets-%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%82%E0%B9%89%E0%B8%AD/",
+  "timestamp": "2025-06-04T03:45:17.434769+00:00",
+  "screenshot_path": "data/outputs/screenshots/thaibrokerforex_com_20250604_074534.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2013-12-06 11:04:04",
+      "expiration_date": "2032-12-06 11:04:04",
+      "name_servers": [
+        "NS1.THAIBROKERFOREX.COM",
+        "NS2.THAIBROKERFOREX.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "103.80.48.26"
+      ],
+      "mx_records": [
+        "10 mail.thaibrokerforex.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +a:thsv26.hostatom.com -all\""
+      ]
+    },
+    "age_days": 4197,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "NS1.THAIBROKERFOREX.COM",
+      "NS2.THAIBROKERFOREX.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "thaibrokerforex.com"
+    },
+    "not_before": "2025-04-11T01:32:09",
+    "not_after": "2025-07-10T01:32:08",
+    "days_remaining": 35,
+    "san": [
+      "thaibrokerforex.com",
+      "www.thaibrokerforex.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(102, 102, 102)",
+      "rgb(90, 20, 13)",
+      "rgb(0, 0, 0)",
+      "rgb(82, 10, 3)"
+    ],
+    "image_dimensions": "1920x3229",
+    "file_size_kb": 688.2880859375
+  }
+}

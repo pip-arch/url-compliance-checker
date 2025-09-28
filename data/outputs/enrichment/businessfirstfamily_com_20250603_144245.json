@@ -1,0 +1,143 @@
+{
+  "url": "https://businessfirstfamily.com/money-required-start-trading-forex/",
+  "timestamp": "2025-06-03T10:42:37.255927+00:00",
+  "screenshot_path": "data/outputs/screenshots/businessfirstfamily_com_20250603_144245.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2010, 8, 1, 14, 33, 42), datetime.datetime(2010, 8, 1, 9, 33, 42)]",
+      "expiration_date": "[datetime.datetime(2025, 8, 1, 14, 33, 42), datetime.datetime(2025, 8, 1, 9, 33, 42)]",
+      "name_servers": [
+        "NS37.DOMAINCONTROL.COM",
+        "NS38.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "199.16.172.222",
+        "199.16.173.212"
+      ],
+      "mx_records": [
+        "10 mx.zoho.com.",
+        "50 mx3.zoho.com.",
+        "20 mx2.zoho.com."
+      ],
+      "txt_records": [
+        "\"zoho-verification=zb43718321.zmverify.zoho.com\"",
+        "\"v=spf1 include:zohomail.com ~all\""
+      ]
+    },
+    "age_days": 5419,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS37.DOMAINCONTROL.COM",
+      "NS38.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "tls.automattic.com"
+    },
+    "not_before": "2025-05-22T19:18:52",
+    "not_after": "2025-08-20T19:18:51",
+    "days_remaining": 78,
+    "san": [
+      "9gamemovie.movie.blog",
+      "acteurstylo.law.blog",
+      "adp-5k.com",
+      "apextrustedconsulting.com",
+      "arielbitran.com",
+      "belongorganizinganddesign.com",
+      "businessfirstfamily.com",
+      "elilovefashionshop.fashion.blog",
+      "faithintravel.com",
+      "harrisonbenchm.law.blog",
+      "healthcare-market-insight.com",
+      "honaleechildrenscenter.com",
+      "lepapillonbleu.family.blog",
+      "mangamaids.com",
+      "monoteista.com",
+      "mrslyker.code.blog",
+      "palette-mix.com",
+      "panvitalistpantheism.com",
+      "patelnahou6u05.music.blog",
+      "pdtoto.car.blog",
+      "perkembanganhidupdiriku.car.blog",
+      "pgzsouthfield.com",
+      "rape.code.blog",
+      "rendaonlinenainternet.fashion.blog",
+      "shivansh.law.blog",
+      "styledbyrjc.fashion.blog",
+      "tls.automattic.com",
+      "www.9gamemovie.movie.blog",
+      "www.a8ctest.com",
+      "www.adp-5k.com",
+      "www.apextrustedconsulting.com",
+      "www.belongorganizinganddesign.com",
+      "www.elilovefashionshop.fashion.blog",
+      "www.faithintravel.com",
+      "www.felsefe.music.blog",
+      "www.healthcare-market-insight.com",
+      "www.honaleechildrenscenter.com",
+      "www.lepapillonbleu.family.blog",
+      "www.mangamaids.com",
+      "www.marguliesinvestments.com",
+      "www.monoteista.com",
+      "www.mrslyker.code.blog",
+      "www.nontonfilmonline.movie.blog",
+      "www.palette-mix.com",
+      "www.panvitalistpantheism.com",
+      "www.pdtoto.car.blog",
+      "www.perkembanganhidupdiriku.car.blog",
+      "www.rape.code.blog",
+      "www.rendaonlinenainternet.fashion.blog",
+      "www.shivansh.law.blog",
+      "www.styledbyrjc.fashion.blog"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(227, 227, 227)",
+      "rgb(229, 229, 229)"
+    ],
+    "image_dimensions": "1920x2942",
+    "file_size_kb": 949.4541015625
+  }
+}

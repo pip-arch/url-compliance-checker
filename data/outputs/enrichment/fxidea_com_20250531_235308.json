@@ -1,0 +1,82 @@
+{
+  "url": "https://fxidea.com/forex-v-kazaxstane.html",
+  "timestamp": "2025-05-31T19:52:37.085830+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2006, 9, 4, 14, 48, 29), datetime.datetime(2006, 9, 4, 9, 48, 29)]",
+      "expiration_date": "[datetime.datetime(2025, 9, 4, 14, 48, 29), datetime.datetime(2025, 9, 4, 9, 48, 29)]",
+      "name_servers": [
+        "BRADY.NS.CLOUDFLARE.COM",
+        "NELCI.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.0.192",
+        "172.67.128.56"
+      ],
+      "mx_records": [
+        "20 mx20.antispam.mailspamprotection.com.",
+        "30 mx30.antispam.mailspamprotection.com.",
+        "10 mx10.antispam.mailspamprotection.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=tlI_j5r8h3ivMp-nFbQ0vhTb--X37WhLfZYQtp0UTas\"",
+        "\"v=spf1 +a +mx +ip4:35.209.178.28  include:fxidea.com.spf.auto.dnssmarthost.net ~all\""
+      ]
+    },
+    "age_days": 6844,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "BRADY.NS.CLOUDFLARE.COM",
+      "NELCI.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "fxidea.com"
+    },
+    "not_before": "2025-04-22T13:54:46",
+    "not_after": "2025-07-21T14:52:15",
+    "days_remaining": 50,
+    "san": [
+      "fxidea.com",
+      "*.fxidea.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

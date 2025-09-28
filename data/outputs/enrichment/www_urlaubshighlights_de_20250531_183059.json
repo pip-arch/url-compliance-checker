@@ -1,0 +1,86 @@
+{
+  "url": "https://www.urlaubshighlights.de/geld-verdienen-auf-reisen-so-funktionierts/",
+  "timestamp": "2025-05-31T14:30:53.760234+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_urlaubshighlights_de_20250531_183059.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns1.first-ns.de",
+        "robotns2.second-ns.de",
+        "robotns3.second-ns.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "157.90.205.248"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns1.first-ns.de",
+      "robotns2.second-ns.de",
+      "robotns3.second-ns.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "urlaubshighlights.de"
+    },
+    "not_before": "2025-04-29T10:09:44",
+    "not_after": "2025-07-28T10:09:43",
+    "days_remaining": 57,
+    "san": [
+      "urlaubshighlights.de",
+      "www.urlaubshighlights.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(246, 246, 246)",
+      "rgb(172, 172, 172)",
+      "rgb(247, 247, 247)",
+      "rgb(171, 171, 171)"
+    ],
+    "image_dimensions": "1920x2756",
+    "file_size_kb": 1126.822265625
+  }
+}

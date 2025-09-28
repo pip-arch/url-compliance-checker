@@ -1,0 +1,73 @@
+{
+  "url": "http://safa.ps/post/266493",
+  "timestamp": "2025-06-04T01:16:56.262718+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "176.222.53.234"
+      ],
+      "mx_records": [
+        "0 e77c3d627f7a409d6fad04dc8f312c.pamx1.hotmail.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=zuJeMay961Y3LSQi6clzF0taUyB3OH7rZbDZcSt0YAE\"",
+        "\"google-site-verification=Fx7xahZm0LggbknBXU1H6dIiUzlD2F0RWdLRhe8t1Cs\"",
+        "\"v=msv1 t=e77c3d627f7a409d6fad04dc8f312c\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "safa.ps"
+    },
+    "not_before": "2025-05-01T02:49:33",
+    "not_after": "2025-07-30T02:49:32",
+    "days_remaining": 55,
+    "san": [
+      "safa.ps",
+      "www.safa.ps"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

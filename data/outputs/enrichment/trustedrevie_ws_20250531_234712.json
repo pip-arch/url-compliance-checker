@@ -1,0 +1,81 @@
+{
+  "url": "https://trustedrevie.ws/reviews/admiralmarkets.fr",
+  "timestamp": "2025-05-31T19:46:54.441720+00:00",
+  "screenshot_path": "data/outputs/screenshots/trustedrevie_ws_20250531_234712.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "172.67.194.181",
+        "104.21.20.223"
+      ],
+      "mx_records": [
+        "21600 mx.yandex.net."
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "trustedrevie.ws"
+    },
+    "not_before": "2025-05-15T04:02:35",
+    "not_after": "2025-08-13T05:00:57",
+    "days_remaining": 73,
+    "san": [
+      "trustedrevie.ws",
+      "*.trustedrevie.ws"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.33"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 50)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(243, 243, 247)"
+    ],
+    "image_dimensions": "1920x3207",
+    "file_size_kb": 391.759765625
+  }
+}

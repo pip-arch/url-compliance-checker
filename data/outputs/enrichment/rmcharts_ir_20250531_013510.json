@@ -1,0 +1,83 @@
+{
+  "url": "https://rmcharts.ir/mobile-trading-software/",
+  "timestamp": "2025-05-30T21:35:04.072266+00:00",
+  "screenshot_path": "data/outputs/screenshots/rmcharts_ir_20250531_013509.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns1.rmcharts.ir",
+        "ns2.rmcharts.ir"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "88.198.38.144"
+      ],
+      "mx_records": [
+        "10 mail.rmcharts.ir."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx a:smtprelay6.limoodns.com ip4:88.198.38.144 ip4:51.75.29.139 ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns1.rmcharts.ir",
+      "ns2.rmcharts.ir"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "rmcharts.ir"
+    },
+    "not_before": "2025-04-25T19:34:40",
+    "not_after": "2025-07-24T19:34:39",
+    "days_remaining": 54,
+    "san": [
+      "*.rmcharts.ir",
+      "rmcharts.ir"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Powered by: Dragonizer",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(245, 245, 253)",
+      "rgb(255, 255, 255)",
+      "rgb(243, 243, 243)",
+      "rgb(242, 242, 242)",
+      "rgb(244, 244, 244)"
+    ],
+    "image_dimensions": "1920x10710",
+    "file_size_kb": 1713.6083984375
+  }
+}

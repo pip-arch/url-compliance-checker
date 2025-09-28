@@ -1,0 +1,84 @@
+{
+  "url": "http://yopolis.ru/publikacii/3022-kak-pravilno-testirovat-torgovuyu-strategiyu-na-rynke-foreks.html",
+  "timestamp": "2025-06-04T01:15:04.639192+00:00",
+  "screenshot_path": "data/outputs/screenshots/yopolis_ru_20250604_051514.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REGRU-RU",
+      "creation_date": "2016-05-06 14:07:01",
+      "expiration_date": "2026-05-06 14:07:02",
+      "name_servers": [
+        "ns1.masterhost.ru.",
+        "ns2.masterhost.ru.",
+        "ns.masterhost.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "90.156.201.60",
+        "90.156.201.19",
+        "90.156.201.111",
+        "90.156.201.99"
+      ],
+      "mx_records": [
+        "10 mx1.masterhost.ru."
+      ]
+    },
+    "age_days": 3315,
+    "registrar": "REGRU-RU",
+    "name_servers": [
+      "ns1.masterhost.ru.",
+      "ns2.masterhost.ru.",
+      "ns.masterhost.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(48, 48, 48)",
+      "rgb(229, 229, 229)",
+      "rgb(228, 228, 228)",
+      "rgb(226, 226, 226)"
+    ],
+    "image_dimensions": "1920x3399",
+    "file_size_kb": 1564.1357421875
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://www.spam-info.de/13308/was-sind-cfds-warum-sollte-ich-damit-traden/",
+  "timestamp": "2025-06-03T15:32:26.776149+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_spam-info_de_20250603_193233.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns1.domainoffensive.de",
+        "ns2.domainoffensive.de",
+        "ns3.domainoffensive.de"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "84.19.163.83"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns1.domainoffensive.de",
+      "ns2.domainoffensive.de",
+      "ns3.domainoffensive.de"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "www.spam-info.de"
+    },
+    "not_before": "2025-05-01T03:02:08",
+    "not_after": "2025-07-30T03:02:07",
+    "days_remaining": 56,
+    "san": [
+      "www.spam-info.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(228, 228, 231)",
+      "rgb(255, 255, 255)",
+      "rgb(106, 106, 108)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x4728",
+    "file_size_kb": 1006.4970703125
+  }
+}

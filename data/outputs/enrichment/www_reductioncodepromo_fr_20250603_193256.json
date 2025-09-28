@@ -1,0 +1,81 @@
+{
+  "url": "https://www.reductioncodepromo.fr/codes-promo-admiral-markets",
+  "timestamp": "2025-06-03T15:32:51.248653+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_reductioncodepromo_fr_20250603_193256.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "EURODNS S.A.",
+      "creation_date": "2018-03-04 11:55:22",
+      "expiration_date": "2026-03-04 11:55:22",
+      "name_servers": [
+        "art.ns.cloudflare.com",
+        "lucy.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.19.32",
+        "172.67.184.237"
+      ]
+    },
+    "age_days": 2648,
+    "registrar": "EURODNS S.A.",
+    "name_servers": [
+      "art.ns.cloudflare.com",
+      "lucy.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "reductioncodepromo.fr"
+    },
+    "not_before": "2025-04-12T22:28:19",
+    "not_after": "2025-07-11T23:26:56",
+    "days_remaining": 38,
+    "san": [
+      "reductioncodepromo.fr",
+      "*.reductioncodepromo.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(250, 250, 250)",
+      "rgb(45, 45, 45)",
+      "rgb(60, 60, 60)",
+      "rgb(229, 229, 229)",
+      "rgb(225, 225, 225)"
+    ],
+    "image_dimensions": "1920x8071",
+    "file_size_kb": 1779.6796875
+  }
+}

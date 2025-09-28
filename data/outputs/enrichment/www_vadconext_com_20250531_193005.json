@@ -1,0 +1,85 @@
+{
+  "url": "http://www.vadconext.com/trading-pourquoi-devez-vous-suivre-une-formation-avant-de-vous-lancer%E2%80%89/",
+  "timestamp": "2025-05-31T15:29:58.369488+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_vadconext_com_20250531_193004.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "TurnCommerce, Inc. DBA NameBright.com",
+      "creation_date": "2018-01-26 19:27:56",
+      "expiration_date": "2026-01-26 19:27:56",
+      "name_servers": [
+        "AJAY.NS.CLOUDFLARE.COM",
+        "LUCY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.145.173",
+        "104.21.79.127"
+      ]
+    },
+    "age_days": 2681,
+    "registrar": "TurnCommerce, Inc. DBA NameBright.com",
+    "name_servers": [
+      "AJAY.NS.CLOUDFLARE.COM",
+      "LUCY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "vadconext.com"
+    },
+    "not_before": "2025-05-24T19:18:39",
+    "not_after": "2025-08-22T20:17:06",
+    "days_remaining": 83,
+    "san": [
+      "vadconext.com",
+      "*.vadconext.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(254, 254, 254)",
+      "rgb(236, 236, 236)",
+      "rgb(235, 235, 235)"
+    ],
+    "image_dimensions": "1920x4250",
+    "file_size_kb": 1038.3681640625
+  }
+}

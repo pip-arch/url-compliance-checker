@@ -1,0 +1,92 @@
+{
+  "url": "https://news-nachrichten.de/admiral-markets-servicenews-dax30-spread-und-paypal/",
+  "timestamp": "2025-05-31T05:52:40.697007+00:00",
+  "screenshot_path": "data/outputs/screenshots/news-nachrichten_de_20250531_095246.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns5.kasserver.com",
+        "ns6.kasserver.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "85.13.130.177"
+      ],
+      "mx_records": [
+        "10 w0184b5f.kasserver.com."
+      ],
+      "txt_records": [
+        "\"ec997d429e2d7b024c28ce3fb53e9762b2111ed6\"",
+        "\"v=spf1 mx a ?all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns5.kasserver.com",
+      "ns6.kasserver.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "news-nachrichten.de"
+    },
+    "not_before": "2025-03-30T00:31:45",
+    "not_after": "2025-06-28T00:31:44",
+    "days_remaining": 27,
+    "san": [
+      "news-nachrichten.de",
+      "www.news-nachrichten.de"
+    ],
+    "issues": [
+      "Certificate expires in 27 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(30, 115, 190)",
+      "rgb(255, 255, 255)",
+      "rgb(48, 48, 48)",
+      "rgb(254, 254, 254)",
+      "rgb(255, 254, 254)"
+    ],
+    "image_dimensions": "1920x2076",
+    "file_size_kb": 292.9951171875
+  }
+}

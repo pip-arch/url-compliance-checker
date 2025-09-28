@@ -1,0 +1,85 @@
+{
+  "url": "https://traderviet.tv/t/ly-giai-vi-sao-forex-la-thi-truong-dang-de-trader-giao-dich-nhat.25957/",
+  "timestamp": "2025-05-31T06:39:09.163903+00:00",
+  "screenshot_path": "data/outputs/screenshots/traderviet_tv_20250531_103930.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Name.com, Inc.",
+      "creation_date": "2024-03-18 04:39:12",
+      "expiration_date": "2026-03-18 04:39:12",
+      "name_servers": [
+        "nia.ns.cloudflare.com",
+        "dale.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.79.155",
+        "172.67.146.117"
+      ],
+      "txt_records": [
+        "\"google-site-verification=xsoK9hOqbhZyCpNUheCO-A6DAU-XI8BXdlzhDqJtddw\""
+      ]
+    },
+    "age_days": 439,
+    "registrar": "Name.com, Inc.",
+    "name_servers": [
+      "nia.ns.cloudflare.com",
+      "dale.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "traderviet.tv"
+    },
+    "not_before": "2025-05-12T06:09:25",
+    "not_after": "2025-08-10T07:06:55",
+    "days_remaining": 70,
+    "san": [
+      "traderviet.tv",
+      "*.traderviet.tv"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(236, 236, 236)",
+      "rgb(118, 118, 118)",
+      "rgb(6, 40, 76)",
+      "rgb(255, 255, 255)",
+      "rgb(235, 235, 235)"
+    ],
+    "image_dimensions": "1920x8795",
+    "file_size_kb": 2417.720703125
+  }
+}

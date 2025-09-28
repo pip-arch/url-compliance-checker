@@ -1,0 +1,82 @@
+{
+  "url": "https://wayseodirectory.com/website-list-1973/",
+  "timestamp": "2025-06-03T10:41:37.883900+00:00",
+  "screenshot_path": "data/outputs/screenshots/wayseodirectory_com_20250603_144216.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NameCheap, Inc.",
+      "creation_date": "2023-01-06 07:09:49",
+      "expiration_date": "2026-01-06 07:09:49",
+      "name_servers": [
+        "ANUJ.NS.CLOUDFLARE.COM",
+        "ULLA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.64.1",
+        "104.21.48.1",
+        "104.21.16.1",
+        "104.21.96.1",
+        "104.21.32.1",
+        "104.21.112.1",
+        "104.21.80.1"
+      ],
+      "mx_records": [
+        "5 mx1-hosting.jellyfish.systems.",
+        "20 mx3-hosting.jellyfish.systems.",
+        "10 mx2-hosting.jellyfish.systems."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:66.29.146.29 include:spf.web-hosting.com ~all\""
+      ]
+    },
+    "age_days": 879,
+    "registrar": "NameCheap, Inc.",
+    "name_servers": [
+      "ANUJ.NS.CLOUDFLARE.COM",
+      "ULLA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "wayseodirectory.com"
+    },
+    "not_before": "2025-04-26T05:26:47",
+    "not_after": "2025-07-25T06:24:30",
+    "days_remaining": 51,
+    "san": [
+      "wayseodirectory.com",
+      "*.wayseodirectory.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: "
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(241, 241, 241)",
+      "rgb(255, 255, 255)",
+      "rgb(239, 239, 239)",
+      "rgb(239, 239, 240)",
+      "rgb(250, 250, 251)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 15.015625
+  }
+}

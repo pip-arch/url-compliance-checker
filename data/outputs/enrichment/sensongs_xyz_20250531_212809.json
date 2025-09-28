@@ -1,0 +1,85 @@
+{
+  "url": "https://sensongs.xyz/why-you-should-consider-crypto-trading-as-your-next-business-venture/",
+  "timestamp": "2025-05-31T17:28:03.075920+00:00",
+  "screenshot_path": "data/outputs/screenshots/sensongs_xyz_20250531_212808.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Dynadot LLC",
+      "creation_date": "2018-01-17 08:51:07",
+      "expiration_date": "2026-01-17 23:59:59",
+      "name_servers": [
+        "AMANDA.NS.CLOUDFLARE.COM",
+        "JERRY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.75.151",
+        "172.67.177.230"
+      ]
+    },
+    "age_days": 2691,
+    "registrar": "Dynadot LLC",
+    "name_servers": [
+      "AMANDA.NS.CLOUDFLARE.COM",
+      "JERRY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "sensongs.xyz"
+    },
+    "not_before": "2025-05-10T12:13:02",
+    "not_after": "2025-08-08T13:10:36",
+    "days_remaining": 68,
+    "san": [
+      "sensongs.xyz",
+      "*.sensongs.xyz"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(4, 4, 4)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)",
+      "rgb(238, 238, 238)"
+    ],
+    "image_dimensions": "1920x3175",
+    "file_size_kb": 1048.6396484375
+  }
+}

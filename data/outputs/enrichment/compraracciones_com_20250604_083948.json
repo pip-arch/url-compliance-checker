@@ -1,0 +1,86 @@
+{
+  "url": "https://compraracciones.com/",
+  "timestamp": "2025-06-04T04:39:45.553528+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2016, 12, 15, 19, 4, 26), datetime.datetime(2016, 12, 15, 14, 4, 26)]",
+      "expiration_date": "[datetime.datetime(2025, 12, 15, 19, 4, 26), datetime.datetime(2025, 12, 15, 14, 4, 26)]",
+      "name_servers": [
+        "ATHENA.NS.CLOUDFLARE.COM",
+        "CHIP.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.150.142",
+        "104.21.30.46"
+      ],
+      "mx_records": [
+        "10 alt4.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=JjiPO9URPjpnXTdsOKoKK3X6anKMMfGGdCUfN_boPz0\"",
+        "\"brevo-code:6a59841ab423024b95f75b4c9b7b64d4\"",
+        "\"v=spf1 include:_spf.google.com -all\""
+      ]
+    },
+    "age_days": 3092,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ATHENA.NS.CLOUDFLARE.COM",
+      "CHIP.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "compraracciones.com"
+    },
+    "not_before": "2025-04-12T02:48:52",
+    "not_after": "2025-07-11T03:47:06",
+    "days_remaining": 36,
+    "san": [
+      "compraracciones.com",
+      "*.compraracciones.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

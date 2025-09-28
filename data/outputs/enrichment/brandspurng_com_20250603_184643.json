@@ -1,0 +1,93 @@
+{
+  "url": "https://brandspurng.com/2023/01/21/what-are-south-africans-investing-in-2023/",
+  "timestamp": "2025-06-03T14:46:33.644263+00:00",
+  "screenshot_path": "data/outputs/screenshots/brandspurng_com_20250603_184642.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2016-09-03 17:09:01",
+      "expiration_date": "2025-09-03 17:09:01",
+      "name_servers": [
+        "DNS1.REGISTRAR-SERVERS.COM",
+        "DNS2.REGISTRAR-SERVERS.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "162.159.136.54",
+        "162.159.137.54"
+      ],
+      "mx_records": [
+        "10 mx1.emailsrvr.com.",
+        "20 mx2.emailsrvr.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=PxRk4vzOuKcPSID7gxHvNWWKCjcQ0mfvhr1jXbgbXuI\"",
+        "\"v=spf1 include:emailsrvr.com ~all\"",
+        "\"ca3-4920e2f0b00a4858ba92dc1a67f8d4dd\""
+      ]
+    },
+    "age_days": 3194,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "DNS1.REGISTRAR-SERVERS.COM",
+      "DNS2.REGISTRAR-SERVERS.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "brandspurng.com"
+    },
+    "not_before": "2025-05-24T19:13:47",
+    "not_after": "2025-08-22T19:13:46",
+    "days_remaining": 80,
+    "san": [
+      "brandspurng.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(54, 54, 54)"
+    ],
+    "image_dimensions": "1920x6709",
+    "file_size_kb": 933.55078125
+  }
+}

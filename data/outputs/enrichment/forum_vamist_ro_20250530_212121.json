@@ -1,0 +1,79 @@
+{
+  "url": "https://forum.vamist.ro/topic/2981-despre-experti/page/4/",
+  "timestamp": "2025-05-30T17:21:14.030069+00:00",
+  "screenshot_path": "data/outputs/screenshots/forum_vamist_ro_20250530_212121.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "EXTREME SOLUTIONS SRL",
+      "creation_date": "2008-09-03 00:00:00",
+      "expiration_date": "2025-10-01 00:00:00",
+      "name_servers": [
+        "ns1.digitalocean.com",
+        "ns2.digitalocean.com",
+        "ns3.digitalocean.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "157.230.16.40"
+      ]
+    },
+    "age_days": 6113,
+    "registrar": "EXTREME SOLUTIONS SRL",
+    "name_servers": [
+      "ns1.digitalocean.com",
+      "ns2.digitalocean.com",
+      "ns3.digitalocean.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "forum.vamist.ro"
+    },
+    "not_before": "2025-04-12T17:56:48",
+    "not_after": "2025-07-11T17:56:47",
+    "days_remaining": 41,
+    "san": [
+      "forum.vamist.ro",
+      "www.forum.vamist.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/8.1.32",
+    "Framework: React"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(237, 240, 244)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(236, 239, 243)",
+      "rgb(247, 248, 250)"
+    ],
+    "image_dimensions": "1920x4993",
+    "file_size_kb": 807.224609375
+  }
+}

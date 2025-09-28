@@ -1,0 +1,82 @@
+{
+  "url": "https://www.malagaldia.es/2022/06/16/es-posible-mantenerse-economicamente-operando-en-forex/",
+  "timestamp": "2025-06-03T09:45:27.015967+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_malagaldia_es_20250603_134535.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "104.21.80.1",
+        "104.21.112.1",
+        "104.21.16.1",
+        "104.21.32.1",
+        "104.21.96.1",
+        "104.21.64.1",
+        "104.21.48.1"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "malagaldia.es"
+    },
+    "not_before": "2025-05-26T14:20:24",
+    "not_after": "2025-08-24T15:18:57",
+    "days_remaining": 82,
+    "san": [
+      "malagaldia.es",
+      "*.malagaldia.es"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(254, 254, 254)",
+      "rgb(226, 226, 226)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x4490",
+    "file_size_kb": 1964.9033203125
+  }
+}

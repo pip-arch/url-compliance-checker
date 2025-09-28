@@ -1,0 +1,93 @@
+{
+  "url": "https://www.b2b-infos.com/13252/pouvez-vous-gagner-votre-vie-en-tradant-le-forex-en-2022/",
+  "timestamp": "2025-06-03T11:45:47.693844+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_b2b-infos_com_20250603_154554.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH, SAS",
+      "creation_date": "2018-09-04 00:57:13",
+      "expiration_date": "[datetime.datetime(2025, 9, 4, 0, 57, 13), datetime.datetime(2025, 9, 4, 2, 57, 13, tzinfo=datetime.timezone(datetime.timedelta(seconds=7200)))]",
+      "name_servers": [
+        "DNS112.OVH.NET",
+        "NS112.OVH.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "188.165.53.185"
+      ],
+      "mx_records": [
+        "5 mx2.mail.ovh.net.",
+        "1 mx1.mail.ovh.net.",
+        "100 mx3.mail.ovh.net."
+      ],
+      "txt_records": [
+        "\"l|fr\"",
+        "\"3|welcome\""
+      ]
+    },
+    "age_days": 2464,
+    "registrar": "OVH, SAS",
+    "name_servers": [
+      "DNS112.OVH.NET",
+      "NS112.OVH.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "b2b-infos.com"
+    },
+    "not_before": "2025-04-19T17:02:00",
+    "not_after": "2025-07-18T17:01:59",
+    "days_remaining": 45,
+    "san": [
+      "b2b-infos.com",
+      "www.b2b-infos.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: OVHcloud",
+    "Powered by: PHP/7.4",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 251)",
+      "rgb(235, 235, 235)",
+      "rgb(252, 252, 252)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x4555",
+    "file_size_kb": 1116.9462890625
+  }
+}

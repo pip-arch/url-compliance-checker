@@ -1,0 +1,93 @@
+{
+  "url": "https://www.diariocarioca.com/economia/bitcoin-a-influencia-dela-no-mercado-das-criptomoedas/",
+  "timestamp": "2025-06-03T06:46:26.804082+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_diariocarioca_com_20250603_104640.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2020-10-30 06:09:03",
+      "expiration_date": "2025-10-30 06:09:03",
+      "name_servers": [
+        "PAM.NS.CLOUDFLARE.COM",
+        "SETH.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "190.89.238.130",
+        "190.89.239.244"
+      ],
+      "mx_records": [
+        "0 mail.diariocarioca.com."
+      ],
+      "txt_records": [
+        "\"D9954564\"",
+        "\"v=spf1 +a +mx +ip4:190.89.239.234 ~all\"",
+        "\"google-site-verification=fMrYno7m63ejtFP64NcVjsXIswAATCddc7Yp5A4M39k\""
+      ]
+    },
+    "age_days": 1677,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "PAM.NS.CLOUDFLARE.COM",
+      "SETH.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "diariocarioca.com"
+    },
+    "not_before": "2025-04-19T09:19:04",
+    "not_after": "2025-07-18T09:19:03",
+    "days_remaining": 44,
+    "san": [
+      "diariocarioca.com",
+      "www.diariocarioca.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.24.0",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(236, 236, 236)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x7132",
+    "file_size_kb": 1613.8779296875
+  }
+}

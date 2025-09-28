@@ -1,0 +1,86 @@
+{
+  "url": "http://australianwomenonline.com/a-deep-insight-into-admiral-markets/",
+  "timestamp": "2025-06-03T05:46:18.402271+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2007, 10, 9, 21, 59, 27), datetime.datetime(2007, 10, 9, 16, 59, 27)]",
+      "expiration_date": "[datetime.datetime(2026, 10, 9, 21, 59, 27), datetime.datetime(2026, 10, 9, 16, 59, 27)]",
+      "name_servers": [
+        "NS51.DOMAINCONTROL.COM",
+        "NS52.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "148.72.83.186"
+      ],
+      "mx_records": [
+        "0 australianwomenonline-com.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=FJpZNUu51QRp-Oq7W3FWHwkIIYUsc8I7ZExmnVxGJ7M\"",
+        "\"google-site-verification=S_cCo6kXhY-8a9UBTnieZuP1IehG9EpLugOQI2rQx7I\"",
+        "\"NETORGFT9153012.onmicrosoft.com\"",
+        "\"v=spf1 include:secureserver.net -all\""
+      ]
+    },
+    "age_days": 6446,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS51.DOMAINCONTROL.COM",
+      "NS52.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "www.australianwomenonline.com"
+    },
+    "not_before": "2025-04-17T01:34:02",
+    "not_after": "2025-07-16T01:34:01",
+    "days_remaining": 42,
+    "san": [
+      "australianwomenonline.com",
+      "cpanel.australianwomenonline.com",
+      "mail.australianwomenonline.com",
+      "webdisk.australianwomenonline.com",
+      "www.australianwomenonline.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

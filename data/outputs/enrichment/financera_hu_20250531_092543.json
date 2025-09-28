@@ -1,0 +1,86 @@
+{
+  "url": "https://financera.hu/befektetesek/cikkek/arutozsde/",
+  "timestamp": "2025-05-31T05:25:37.403031+00:00",
+  "screenshot_path": "data/outputs/screenshots/financera_hu_20250531_092542.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "172.67.159.96",
+        "104.21.74.146"
+      ],
+      "mx_records": [
+        "10 mx1.netim.net.",
+        "10 mx2.netim.net."
+      ],
+      "txt_records": [
+        "\"google-site-verification=kUAsGoo1YKUW3RYAMAMCALBSxFsSm3uSfbsyKdUoLb8\"",
+        "\"v=spf1 ip4:185.26.104.0/22 ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "financera.hu"
+    },
+    "not_before": "2025-04-28T02:49:13",
+    "not_after": "2025-07-27T03:46:22",
+    "days_remaining": 56,
+    "san": [
+      "financera.hu",
+      "*.financera.hu"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(12, 76, 105)",
+      "rgb(244, 246, 247)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x17949",
+    "file_size_kb": 2435.51953125
+  }
+}

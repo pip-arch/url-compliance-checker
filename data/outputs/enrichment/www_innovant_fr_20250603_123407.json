@@ -1,0 +1,85 @@
+{
+  "url": "https://www.innovant.fr/2018/10/02/comment-trader-avec-le-point-pivot-sur-mt4/",
+  "timestamp": "2025-06-03T08:34:01.389685+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_innovant_fr_20250603_123406.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "TLD Registrar Solutions Ltd",
+      "creation_date": "2016-09-23 07:35:05",
+      "expiration_date": "2025-10-03 09:20:18",
+      "name_servers": [
+        "ivan.ns.cloudflare.com",
+        "ruth.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.26.15.124",
+        "104.26.14.124",
+        "172.67.72.82"
+      ]
+    },
+    "age_days": 3175,
+    "registrar": "TLD Registrar Solutions Ltd",
+    "name_servers": [
+      "ivan.ns.cloudflare.com",
+      "ruth.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "innovant.fr"
+    },
+    "not_before": "2025-04-23T05:10:38",
+    "not_after": "2025-07-22T06:05:37",
+    "days_remaining": 48,
+    "san": [
+      "innovant.fr",
+      "*.innovant.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(252, 252, 252)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(247, 247, 247)"
+    ],
+    "image_dimensions": "1920x6174",
+    "file_size_kb": 1475.01171875
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "url": "https://www.beyond2015.org/forex-trading-strategies-for-beginners/",
+  "timestamp": "2025-06-04T04:44:13.416127+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_beyond2015_org_20250604_084429.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "DropCatch.com 489 LLC",
+      "creation_date": "2018-05-09 14:30:08",
+      "expiration_date": "2026-05-09 14:30:08",
+      "name_servers": [
+        "ns-cloud-c1.googledomains.com",
+        "ns-cloud-c2.googledomains.com",
+        "ns-cloud-c3.googledomains.com",
+        "ns-cloud-c4.googledomains.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "35.198.226.16"
+      ]
+    },
+    "age_days": 2582,
+    "registrar": "DropCatch.com 489 LLC",
+    "name_servers": [
+      "ns-cloud-c1.googledomains.com",
+      "ns-cloud-c2.googledomains.com",
+      "ns-cloud-c3.googledomains.com",
+      "ns-cloud-c4.googledomains.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "beyond2015.org"
+    },
+    "not_before": "2025-05-25T21:26:53",
+    "not_after": "2025-08-23T21:26:52",
+    "days_remaining": 80,
+    "san": [
+      "beyond2015.org",
+      "www.beyond2015.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(14, 16, 21)",
+      "rgb(250, 250, 250)",
+      "rgb(246, 246, 246)",
+      "rgb(245, 245, 245)"
+    ],
+    "image_dimensions": "1920x10102",
+    "file_size_kb": 2678.931640625
+  }
+}

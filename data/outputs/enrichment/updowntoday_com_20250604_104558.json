@@ -1,0 +1,86 @@
+{
+  "url": "https://updowntoday.com/ms/sites/admiral.ru",
+  "timestamp": "2025-06-04T06:45:36.102664+00:00",
+  "screenshot_path": "data/outputs/screenshots/updowntoday_com_20250604_104556.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2018, 10, 27, 23, 1, 19), datetime.datetime(2018, 10, 27, 18, 1, 19)]",
+      "expiration_date": "[datetime.datetime(2026, 10, 27, 23, 1, 19), datetime.datetime(2026, 10, 27, 18, 1, 19)]",
+      "name_servers": [
+        "ROSALIE.NS.CLOUDFLARE.COM",
+        "YISROEL.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.58.188",
+        "172.67.206.66"
+      ],
+      "txt_records": [
+        "\"google-site-verification=Wz7xjHknJqRFQaxIyMpVkO9yfuFi_ZiAW3u0ol0u9fU\""
+      ]
+    },
+    "age_days": 2411,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ROSALIE.NS.CLOUDFLARE.COM",
+      "YISROEL.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "updowntoday.com"
+    },
+    "not_before": "2025-04-26T09:23:02",
+    "not_after": "2025-07-25T10:21:29",
+    "days_remaining": 50,
+    "san": [
+      "updowntoday.com",
+      "*.updowntoday.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(244, 248, 250)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 254, 254)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x4266",
+    "file_size_kb": 564.9736328125
+  }
+}

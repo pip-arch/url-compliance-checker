@@ -1,0 +1,90 @@
+{
+  "url": "https://entuzio.cz/nejlepsi-broker-na-kryptomeny/",
+  "timestamp": "2025-06-03T19:06:05.651920+00:00",
+  "screenshot_path": "data/outputs/screenshots/entuzio_cz_20250603_230616.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REG-WEBGLOBE",
+      "creation_date": "2019-02-23 09:40:08",
+      "expiration_date": "2026-02-23 00:00:00",
+      "name_servers": [
+        "ns.wedos.net",
+        "ns.wedos.eu",
+        "ns.wedos.com",
+        "ns.wedos.cz (45.138.106.1, 185.8.238.1, 2a0e:acc0:2::c:1:c1, 2a0e:acc0:1::caff:caff:cafb)"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "217.16.182.48"
+      ],
+      "mx_records": [
+        "20 274ff4043baca95c.mx1.emailprofi.seznam.cz.",
+        "10 274ff4043baca95c.mx2.emailprofi.seznam.cz."
+      ]
+    },
+    "age_days": 2292,
+    "registrar": "REG-WEBGLOBE",
+    "name_servers": [
+      "ns.wedos.net",
+      "ns.wedos.eu",
+      "ns.wedos.com",
+      "ns.wedos.cz (45.138.106.1, 185.8.238.1, 2a0e:acc0:2::c:1:c1, 2a0e:acc0:1::caff:caff:cafb)"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "entuzio.cz"
+    },
+    "not_before": "2025-05-10T19:36:03",
+    "not_after": "2025-08-08T19:36:02",
+    "days_remaining": 65,
+    "san": [
+      "entuzio.cz",
+      "www.entuzio.cz"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(244, 245, 236)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(242, 242, 242)"
+    ],
+    "image_dimensions": "1920x17762",
+    "file_size_kb": 3089.4267578125
+  }
+}

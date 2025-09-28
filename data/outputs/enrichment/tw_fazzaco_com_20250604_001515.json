@@ -1,0 +1,88 @@
+{
+  "url": "https://tw.fazzaco.com/companydetail/admirals-admiral-markets",
+  "timestamp": "2025-06-03T20:14:52.457046+00:00",
+  "screenshot_path": "data/outputs/screenshots/tw_fazzaco_com_20250604_001515.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2019, 2, 7, 9, 40, 18), datetime.datetime(2019, 2, 7, 4, 40, 18)]",
+      "expiration_date": "[datetime.datetime(2031, 2, 7, 9, 40, 18), datetime.datetime(2031, 2, 7, 4, 40, 18)]",
+      "name_servers": [
+        "NS-1406.AWSDNS-47.ORG",
+        "NS-1819.AWSDNS-35.CO.UK",
+        "NS-418.AWSDNS-52.COM",
+        "NS-548.AWSDNS-04.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "18.165.72.117",
+        "18.165.72.62",
+        "18.165.72.109",
+        "18.165.72.55"
+      ]
+    },
+    "age_days": 2308,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS-1406.AWSDNS-47.ORG",
+      "NS-1819.AWSDNS-35.CO.UK",
+      "NS-418.AWSDNS-52.COM",
+      "NS-548.AWSDNS-04.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Amazon",
+      "commonName": "Amazon RSA 2048 M02"
+    },
+    "subject": {
+      "commonName": "*.fazzaco.com"
+    },
+    "not_before": "2024-10-29T00:00:00",
+    "not_after": "2025-11-28T23:59:59",
+    "days_remaining": 177,
+    "san": [
+      "*.fazzaco.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: openresty"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(254, 254, 254)",
+      "rgb(39, 97, 181)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x1647",
+    "file_size_kb": 326.8544921875
+  }
+}

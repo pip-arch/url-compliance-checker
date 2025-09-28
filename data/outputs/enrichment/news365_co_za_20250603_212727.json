@@ -1,0 +1,148 @@
+{
+  "url": "https://news365.co.za/how-cryptocurrency-the-financial-in-south-africa/",
+  "timestamp": "2025-06-03T17:27:19.267112+00:00",
+  "screenshot_path": "data/outputs/screenshots/news365_co_za_20250603_212727.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "1-Grid",
+      "creation_date": "2017-10-12 07:08:23",
+      "expiration_date": "2025-10-12 07:08:23",
+      "name_servers": [
+        "ns1.wordpress.com",
+        "ns2.wordpress.com",
+        "ns3.wordpress.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "192.0.78.128",
+        "192.0.78.236"
+      ],
+      "mx_records": [
+        "1 aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"_globalsign-domain-verification=dtlcz75hVdLhqVHF6gL3lIhQK5YQwpg-ns22Dq26sv\"",
+        "\"google-site-verification=5gAZc3b4cHauXyvHJjH8fsTflyBDoXgRhOZXsGdL99E\"",
+        "\"v=spf1 include:_spf.wpcloud.com ~all\""
+      ]
+    },
+    "age_days": 2791,
+    "registrar": "1-Grid",
+    "name_servers": [
+      "ns1.wordpress.com",
+      "ns2.wordpress.com",
+      "ns3.wordpress.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "tls.automattic.com"
+    },
+    "not_before": "2025-05-11T14:06:16",
+    "not_after": "2025-08-09T14:06:15",
+    "days_remaining": 66,
+    "san": [
+      "cosmiagirl.com",
+      "eleanejacklinj3d1n.science.blog",
+      "faithinpositive.health.blog",
+      "foreverindigo.com",
+      "goodvibespdx.com",
+      "investmoneybd.code.blog",
+      "jawapos.sport.blog",
+      "kandbartevents.com",
+      "leath128.blog",
+      "legendsofsora.com",
+      "lifeorsomethinglikeit.rocks",
+      "linzihoarebrows.com",
+      "locationunlimited.com",
+      "motart.fr",
+      "news365.co.za",
+      "skillnovaacademy.de",
+      "softsticksstudios.com",
+      "specialtyvillaservices.com",
+      "sunshinesoldier.blog",
+      "tls.automattic.com",
+      "trevinotechnologycom.tech.blog",
+      "untneurocognitivelab.com",
+      "usmite.law.blog",
+      "www.cosmiagirl.com",
+      "www.eleanejacklinj3d1n.science.blog",
+      "www.faithinpositive.health.blog",
+      "www.foreverindigo.com",
+      "www.gis.fashion.blog",
+      "www.goodvibespdx.com",
+      "www.hobbsandcompany.ca",
+      "www.investmoneybd.code.blog",
+      "www.kandbartevents.com",
+      "www.legendsofsora.com",
+      "www.lifeorsomethinglikeit.rocks",
+      "www.linzihoarebrows.com",
+      "www.locationunlimited.com",
+      "www.luxepowerwash.com",
+      "www.news365.co.za",
+      "www.poemsofadad.com",
+      "www.ponderacioncorteconstitucionallegal.law.blog",
+      "www.psychotherapie-praxis-wartenberg.com",
+      "www.skillnovaacademy.de",
+      "www.softsticksstudios.com",
+      "www.sunshinesoldier.blog",
+      "www.teknologikubank.finance.blog",
+      "www.untneurocognitivelab.com",
+      "www.usmite.law.blog",
+      "www.yourjea.org",
+      "www.yourkattankudy.com",
+      "yourjea.org",
+      "yourkattankudy.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(0, 0, 0)",
+      "rgb(253, 253, 253)",
+      "rgb(225, 225, 225)"
+    ],
+    "image_dimensions": "1920x3517",
+    "file_size_kb": 1358.3828125
+  }
+}

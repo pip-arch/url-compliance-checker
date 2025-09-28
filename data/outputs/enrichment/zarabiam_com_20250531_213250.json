@@ -1,0 +1,100 @@
+{
+  "url": "https://zarabiam.com/printthread.php?tid=175705",
+  "timestamp": "2025-05-31T17:32:44.976844+00:00",
+  "screenshot_path": "data/outputs/screenshots/zarabiam_com_20250531_213250.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH, SAS",
+      "creation_date": "2007-10-01 00:57:34",
+      "expiration_date": "[datetime.datetime(2025, 10, 1, 0, 57, 34), datetime.datetime(2025, 10, 1, 0, 57, 34, tzinfo=datetime.timezone(datetime.timedelta(seconds=7200)))]",
+      "name_servers": [
+        "JAKE.NS.CLOUDFLARE.COM",
+        "LOLA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.48.1",
+        "104.21.64.1",
+        "104.21.112.1",
+        "104.21.16.1",
+        "104.21.32.1",
+        "104.21.80.1",
+        "104.21.96.1"
+      ],
+      "mx_records": [
+        "10 aspmx4.googlemail.com.",
+        "10 aspmx3.googlemail.com.",
+        "10 aspmx2.googlemail.com.",
+        "1 aspmx.l.google.com.",
+        "10 aspmx5.googlemail.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 a include:_spf.google.com ip4:188.165.214.150 ~all\"",
+        "\"google-site-verification=fsPM39N80VWypiH7o8Zq899hO-O2ADwA9Y32FKU-TEY\""
+      ]
+    },
+    "age_days": 6452,
+    "registrar": "OVH, SAS",
+    "name_servers": [
+      "JAKE.NS.CLOUDFLARE.COM",
+      "LOLA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "zarabiam.com"
+    },
+    "not_before": "2025-05-23T11:10:27",
+    "not_after": "2025-08-21T12:08:12",
+    "days_remaining": 81,
+    "san": [
+      "zarabiam.com",
+      "*.zarabiam.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 247, 247)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(246, 246, 246)"
+    ],
+    "image_dimensions": "1920x1592",
+    "file_size_kb": 260.0546875
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "http://www.zvj.ro/articole-19671-Cum+s+++ajungi+Money+Manager+++i+s+++prime++ti+5+000++in+administrare.html",
+  "timestamp": "2025-05-31T12:36:09.206453+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_zvj_ro_20250531_163617.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Romarg SRL",
+      "creation_date": "2008-08-08 00:00:00",
+      "expiration_date": "2032-08-20 00:00:00",
+      "name_servers": [
+        "ns1.romarg.com",
+        "ns2.romarg.com",
+        "ns3.romarg.com",
+        "ns4.romarg.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "89.42.218.80"
+      ],
+      "mx_records": [
+        "10 mx01.whmpanels.com.",
+        "30 mx03.whmpanels.com.",
+        "20 mx02.whmpanels.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:89.42.218.80 include:relay.romarg.net -all\""
+      ]
+    },
+    "age_days": 6140,
+    "registrar": "Romarg SRL",
+    "name_servers": [
+      "ns1.romarg.com",
+      "ns2.romarg.com",
+      "ns3.romarg.com",
+      "ns4.romarg.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "zvj.ro"
+    },
+    "not_before": "2025-04-30T08:43:48",
+    "not_after": "2025-07-29T08:43:47",
+    "days_remaining": 58,
+    "san": [
+      "*.zvj.ro",
+      "zvj.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Frame-Options header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(250, 250, 250)",
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 251)",
+      "rgb(1, 85, 133)",
+      "rgb(9, 91, 137)"
+    ],
+    "image_dimensions": "1920x6770",
+    "file_size_kb": 1989.751953125
+  }
+}

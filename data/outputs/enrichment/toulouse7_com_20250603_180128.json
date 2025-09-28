@@ -1,0 +1,80 @@
+{
+  "url": "https://toulouse7.com/2022/01/26/les-devises-les-plus-echangees-au-monde/",
+  "timestamp": "2025-06-03T14:00:56.856364+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Infomaniak Network SA",
+      "creation_date": "2008-01-05 17:02:42",
+      "expiration_date": "2026-01-05 17:02:42",
+      "name_servers": [
+        "NSANY1.INFOMANIAK.COM",
+        "NSANY2.INFOMANIAK.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "83.166.139.17"
+      ],
+      "mx_records": [
+        "5 mta-gw.infomaniak.ch."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.infomaniak.ch include:_spf.elasticemail.com\"",
+        "\"v=spf1 include:spf.infomaniak.ch include:sparkpostmail.com ~all\"",
+        "\"google-site-verification=818p5WDWzf-C7s02fBlf-VbFOWhZnkimugbFA4vdbjU\""
+      ]
+    },
+    "age_days": 6358,
+    "registrar": "Infomaniak Network SA",
+    "name_servers": [
+      "NSANY1.INFOMANIAK.COM",
+      "NSANY2.INFOMANIAK.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "toulouse7.com"
+    },
+    "not_before": "2025-06-02T19:51:09",
+    "not_after": "2025-08-31T19:51:08",
+    "days_remaining": 89,
+    "san": [
+      "toulouse7.com",
+      "www.toulouse7.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

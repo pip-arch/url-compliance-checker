@@ -1,0 +1,77 @@
+{
+  "url": "https://www.gorod.cn.ua/news/gorod-i-region/76593-torgovyi-simuljator-pomoshnik-dlja-poluchenija-maksimalnoi-pribyli-po-sdelkam-treidinga.html",
+  "timestamp": "2025-06-03T20:17:58.360213+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "\u0422\u041e\u0412 \"\u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0406\u043d\u0432\u0435\u0441\u0442\"",
+      "creation_date": "['2008-09-01 00:00:00+03', '2013-05-23 17:58:53+03', '2013-05-23 17:58:54+03']",
+      "expiration_date": "2025-09-01 00:00:00+03",
+      "name_servers": [
+        "khloe.ns.cloudflare.com",
+        "kipp.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.16.1",
+        "104.21.80.1",
+        "104.21.96.1",
+        "104.21.112.1",
+        "104.21.32.1",
+        "104.21.64.1",
+        "104.21.48.1"
+      ]
+    },
+    "age_days": null,
+    "registrar": "\u0422\u041e\u0412 \"\u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0406\u043d\u0432\u0435\u0441\u0442\"",
+    "name_servers": [
+      "khloe.ns.cloudflare.com",
+      "kipp.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "gorod.cn.ua"
+    },
+    "not_before": "2025-05-29T18:19:20",
+    "not_after": "2025-08-27T19:17:54",
+    "days_remaining": 84,
+    "san": [
+      "gorod.cn.ua",
+      "*.gorod.cn.ua"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

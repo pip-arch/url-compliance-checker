@@ -1,0 +1,77 @@
+{
+  "url": "https://soehoe.id/daftar-link-download-mt4-broker.t757/",
+  "timestamp": "2025-05-31T19:46:15.805758+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "104.21.64.1",
+        "104.21.96.1",
+        "104.21.80.1",
+        "104.21.32.1",
+        "104.21.48.1",
+        "104.21.112.1",
+        "104.21.16.1"
+      ],
+      "mx_records": [
+        "0 _dc-mx.dde0335e8558.soehoe.id."
+      ],
+      "txt_records": [
+        "\"google-site-verification=VY7CfdFQeD69DodNKp8WpWGpJQIOjANkV_0E3SvT3vM\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "soehoe.id"
+    },
+    "not_before": "2025-04-20T02:26:57",
+    "not_after": "2025-07-19T03:25:21",
+    "days_remaining": 48,
+    "san": [
+      "soehoe.id",
+      "*.soehoe.id"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

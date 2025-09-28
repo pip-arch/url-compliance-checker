@@ -1,0 +1,91 @@
+{
+  "url": "https://kartuzy.info/artykul/5-najlepszych-brokerow-n1088614",
+  "timestamp": "2025-06-04T03:42:49.475770+00:00",
+  "screenshot_path": "data/outputs/screenshots/kartuzy_info_20250604_074316.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2003-11-19 07:14:21",
+      "expiration_date": "2025-11-19 07:14:21",
+      "name_servers": [
+        "dana.ns.cloudflare.com",
+        "clyde.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.29.216",
+        "172.67.171.222"
+      ],
+      "mx_records": [
+        "10 mx.kartuzy.info."
+      ],
+      "txt_records": [
+        "\"google-site-verification=BWGibXwKSaNTbtF3_kFGKrV4h21lOT68avgoXTu6kSY\"",
+        "\"google-site-verification=U-b8MAXwg_VQQVVyg9HENZn4UFOL9amPBPWKfTY03GQ\"",
+        "\"v=spf1 a mx include:sendgrid.net redirect=_spf.ogicom.pl\""
+      ]
+    },
+    "age_days": 7867,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "dana.ns.cloudflare.com",
+      "clyde.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "kartuzy.info"
+    },
+    "not_before": "2025-05-01T18:30:00",
+    "not_after": "2025-07-30T19:28:19",
+    "days_remaining": 56,
+    "san": [
+      "kartuzy.info",
+      "*.kartuzy.info"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(119, 119, 119)",
+      "rgb(232, 232, 232)",
+      "rgb(231, 231, 231)",
+      "rgb(237, 237, 237)"
+    ],
+    "image_dimensions": "1920x7487",
+    "file_size_kb": 3240.013671875
+  }
+}

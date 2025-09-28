@@ -1,0 +1,84 @@
+{
+  "url": "https://www.yourharlow.com/2024/12/11/what-determines-the-value-of-stocks/",
+  "timestamp": "2025-06-03T10:44:23.233398+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_yourharlow_com_20250603_144433.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REGISTER S.P.A.",
+      "creation_date": "[datetime.datetime(2011, 5, 19, 2, 30, 4), datetime.datetime(2011, 5, 19, 0, 0)]",
+      "expiration_date": "[datetime.datetime(2027, 5, 19, 2, 30, 4), datetime.datetime(2027, 5, 19, 0, 0)]",
+      "name_servers": [
+        "NS1.C45756.SGVPS.NET",
+        "NS2.C45756.SGVPS.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.193.94",
+        "104.21.76.109"
+      ]
+    },
+    "age_days": 5129,
+    "registrar": "REGISTER S.P.A.",
+    "name_servers": [
+      "NS1.C45756.SGVPS.NET",
+      "NS2.C45756.SGVPS.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "www.yourharlow.com"
+    },
+    "not_before": "2025-04-13T15:46:31",
+    "not_after": "2025-07-12T16:46:28",
+    "days_remaining": 39,
+    "san": [
+      "www.yourharlow.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(252, 252, 252)",
+      "rgb(254, 254, 254)",
+      "rgb(251, 251, 251)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1935x6545",
+    "file_size_kb": 1915.5810546875
+  }
+}

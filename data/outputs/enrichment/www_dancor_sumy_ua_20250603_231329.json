@@ -1,0 +1,78 @@
+{
+  "url": "http://www.dancor.sumy.ua/forum/ekonomika-i-biznes/191838",
+  "timestamp": "2025-06-03T19:12:58.658503+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "\u0424\u041e\u041f \u041f\u0410\u0414\u042e\u041a\u041e\u0412 \u0412. \u0411.",
+      "creation_date": "1970-01-01 03:00:00+03",
+      "expiration_date": "2026-10-23 11:55:51+03",
+      "name_servers": [
+        "indie.ns.cloudflare.com",
+        "rodney.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.96.1",
+        "104.21.64.1",
+        "104.21.32.1",
+        "104.21.112.1",
+        "104.21.48.1",
+        "104.21.16.1",
+        "104.21.80.1"
+      ]
+    },
+    "age_days": null,
+    "registrar": "\u0424\u041e\u041f \u041f\u0410\u0414\u042e\u041a\u041e\u0412 \u0412. \u0411.",
+    "name_servers": [
+      "indie.ns.cloudflare.com",
+      "rodney.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "dancor.sumy.ua"
+    },
+    "not_before": "2025-04-09T08:15:10",
+    "not_after": "2025-07-08T09:13:38",
+    "days_remaining": 34,
+    "san": [
+      "dancor.sumy.ua",
+      "*.dancor.sumy.ua"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

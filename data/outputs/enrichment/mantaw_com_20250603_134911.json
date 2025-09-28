@@ -1,0 +1,96 @@
+{
+  "url": "https://mantaw.com/website-list-643/",
+  "timestamp": "2025-06-03T09:49:01.235937+00:00",
+  "screenshot_path": "data/outputs/screenshots/mantaw_com_20250603_134911.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2024-09-08 14:17:16",
+      "expiration_date": "2025-09-08 14:17:16",
+      "name_servers": [
+        "KIKI.NS.CLOUDFLARE.COM",
+        "MCGRORY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.222.66",
+        "104.21.38.110"
+      ],
+      "mx_records": [
+        "10 eforward3.registrar-servers.com.",
+        "10 eforward2.registrar-servers.com.",
+        "20 eforward5.registrar-servers.com.",
+        "15 eforward4.registrar-servers.com.",
+        "10 eforward1.registrar-servers.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.efwd.registrar-servers.com ~all\""
+      ]
+    },
+    "age_days": 267,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "KIKI.NS.CLOUDFLARE.COM",
+      "MCGRORY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "mantaw.com"
+    },
+    "not_before": "2025-04-10T08:43:19",
+    "not_after": "2025-07-09T09:41:56",
+    "days_remaining": 35,
+    "san": [
+      "mantaw.com",
+      "*.mantaw.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular",
+    "Library: jQuery"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(17, 17, 51)",
+      "rgb(110, 110, 131)",
+      "rgb(15, 15, 49)",
+      "rgb(28, 28, 61)"
+    ],
+    "image_dimensions": "1920x1929",
+    "file_size_kb": 388.8505859375
+  }
+}

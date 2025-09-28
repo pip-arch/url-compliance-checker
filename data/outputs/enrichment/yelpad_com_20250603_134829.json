@@ -1,0 +1,96 @@
+{
+  "url": "https://yelpad.com/website-list-643/",
+  "timestamp": "2025-06-03T09:48:13.881052+00:00",
+  "screenshot_path": "data/outputs/screenshots/yelpad_com_20250603_134829.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2024-09-08 14:17:16",
+      "expiration_date": "2025-09-08 14:17:16",
+      "name_servers": [
+        "KIKI.NS.CLOUDFLARE.COM",
+        "MCGRORY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.33.80",
+        "172.67.142.207"
+      ],
+      "mx_records": [
+        "15 eforward4.registrar-servers.com.",
+        "10 eforward2.registrar-servers.com.",
+        "10 eforward3.registrar-servers.com.",
+        "10 eforward1.registrar-servers.com.",
+        "20 eforward5.registrar-servers.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.efwd.registrar-servers.com ~all\""
+      ]
+    },
+    "age_days": 267,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "KIKI.NS.CLOUDFLARE.COM",
+      "MCGRORY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "yelpad.com"
+    },
+    "not_before": "2025-04-10T08:54:53",
+    "not_after": "2025-07-09T09:40:46",
+    "days_remaining": 35,
+    "san": [
+      "yelpad.com",
+      "*.yelpad.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular",
+    "Library: jQuery"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(17, 17, 51)",
+      "rgb(14, 14, 48)",
+      "rgb(16, 16, 50)",
+      "rgb(88, 88, 112)"
+    ],
+    "image_dimensions": "1920x1901",
+    "file_size_kb": 389.611328125
+  }
+}

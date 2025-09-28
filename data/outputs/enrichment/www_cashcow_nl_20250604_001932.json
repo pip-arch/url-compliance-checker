@@ -1,0 +1,79 @@
+{
+  "url": "https://www.cashcow.nl/waarom-aex-handelaren-dax30-trading-moeten-overwegen/",
+  "timestamp": "2025-06-03T20:19:01.586448+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Hostnet B.V.",
+      "creation_date": "2000-03-16 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "ns01.hostnet.nl",
+        "ns02.hostnet.nl"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "62.221.214.60"
+      ]
+    },
+    "age_days": 9210,
+    "registrar": "Hostnet B.V.",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "ns01.hostnet.nl",
+      "ns02.hostnet.nl"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "www.cashcow.nl"
+    },
+    "not_before": "2025-05-26T22:30:17",
+    "not_after": "2025-08-24T22:30:16",
+    "days_remaining": 81,
+    "san": [
+      "www.cashcow.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: openresty",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

@@ -1,0 +1,90 @@
+{
+  "url": "https://thaibrokerforex.com/jsc/",
+  "timestamp": "2025-06-04T03:44:54.422335+00:00",
+  "screenshot_path": "data/outputs/screenshots/thaibrokerforex_com_20250604_074525.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2013-12-06 11:04:04",
+      "expiration_date": "2032-12-06 11:04:04",
+      "name_servers": [
+        "NS1.THAIBROKERFOREX.COM",
+        "NS2.THAIBROKERFOREX.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "103.80.48.26"
+      ],
+      "mx_records": [
+        "10 mail.thaibrokerforex.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +a:thsv26.hostatom.com -all\""
+      ]
+    },
+    "age_days": 4197,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "NS1.THAIBROKERFOREX.COM",
+      "NS2.THAIBROKERFOREX.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "thaibrokerforex.com"
+    },
+    "not_before": "2025-04-11T01:32:09",
+    "not_after": "2025-07-10T01:32:08",
+    "days_remaining": 35,
+    "san": [
+      "thaibrokerforex.com",
+      "www.thaibrokerforex.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(102, 102, 102)",
+      "rgb(103, 103, 103)",
+      "rgb(69, 69, 69)",
+      "rgb(198, 198, 198)"
+    ],
+    "image_dimensions": "1920x11257",
+    "file_size_kb": 2354.9375
+  }
+}

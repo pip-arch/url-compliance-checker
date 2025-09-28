@@ -1,0 +1,83 @@
+{
+  "url": "https://www.alwakeelnews.com/Section_10/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%85%D8%B1%D8%A9-%D8%A3%D8%AE%D8%B1%D9%89-%D9%88%D9%8A%D8%AA%D8%B9%D8%A7%D9%81%D9%89-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D8%B1%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D9%82%D8%B5%D9%8A%D8%A9_544949",
+  "timestamp": "2025-06-03T23:52:46.287497+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_alwakeelnews_com_20250604_035255.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Name.com, Inc.",
+      "creation_date": "2011-12-18 09:34:09",
+      "expiration_date": "2025-12-18 09:34:09",
+      "name_servers": [
+        "CORY.NS.CLOUDFLARE.COM",
+        "MOLLY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.177.2",
+        "104.21.35.154"
+      ]
+    },
+    "age_days": 4916,
+    "registrar": "Name.com, Inc.",
+    "name_servers": [
+      "CORY.NS.CLOUDFLARE.COM",
+      "MOLLY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "alwakeelnews.com"
+    },
+    "not_before": "2025-04-24T03:01:45",
+    "not_after": "2025-07-23T03:59:03",
+    "days_remaining": 49,
+    "san": [
+      "alwakeelnews.com",
+      "*.alwakeelnews.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(235, 235, 235)",
+      "rgb(234, 234, 234)",
+      "rgb(236, 236, 236)",
+      "rgb(243, 243, 243)"
+    ],
+    "image_dimensions": "1920x7185",
+    "file_size_kb": 1724.2919921875
+  }
+}

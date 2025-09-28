@@ -1,0 +1,83 @@
+{
+  "url": "https://cn.forex-ratings.com/promo/?id=205",
+  "timestamp": "2025-06-03T18:12:31.300218+00:00",
+  "screenshot_path": "data/outputs/screenshots/cn_forex-ratings_com_20250603_221241.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "DREAMHOST",
+      "creation_date": "[datetime.datetime(2006, 6, 19, 6, 54, 42), datetime.datetime(2006, 6, 18, 23, 54, 42)]",
+      "expiration_date": "2026-06-19 06:54:42",
+      "name_servers": [
+        "NS1.DIGITALOCEAN.COM",
+        "NS2.DIGITALOCEAN.COM",
+        "NS3.DIGITALOCEAN.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "69.163.185.17"
+      ]
+    },
+    "age_days": 6924,
+    "registrar": "DREAMHOST",
+    "name_servers": [
+      "NS1.DIGITALOCEAN.COM",
+      "NS2.DIGITALOCEAN.COM",
+      "NS3.DIGITALOCEAN.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "cn.forex-ratings.com"
+    },
+    "not_before": "2025-05-22T12:36:09",
+    "not_after": "2025-08-20T12:36:08",
+    "days_remaining": 77,
+    "san": [
+      "cn.forex-ratings.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(130, 119, 23)",
+      "rgb(247, 247, 249)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x1790",
+    "file_size_kb": 378.6376953125
+  }
+}

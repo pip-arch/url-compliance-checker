@@ -1,0 +1,91 @@
+{
+  "url": "https://msuee.ru/2018/12/31/bitkoin-i-altkoiny-v-2019-godu-vybor-kriptovalyuty-dlya-investirovaniya/",
+  "timestamp": "2025-05-29T18:07:41.059879+00:00",
+  "screenshot_path": "data/outputs/screenshots/msuee_ru_20250529_220752.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "DOMAINSHOP-RU",
+      "creation_date": "2016-04-01 14:06:26",
+      "expiration_date": "2026-04-01 14:06:26",
+      "name_servers": [
+        "ns1.fornex.com.",
+        "ns2.fornex.com."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "5.187.7.162"
+      ],
+      "mx_records": [
+        "10 mail.msuee.ru."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:185.195.69.193 ~all\""
+      ]
+    },
+    "age_days": 3345,
+    "registrar": "DOMAINSHOP-RU",
+    "name_servers": [
+      "ns1.fornex.com.",
+      "ns2.fornex.com."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "mail.msuee.ru"
+    },
+    "not_before": "2025-05-11T15:02:00",
+    "not_after": "2025-08-09T15:01:59",
+    "days_remaining": 71,
+    "san": [
+      "mail.msuee.ru",
+      "msuee.ru",
+      "www.msuee.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(238, 238, 238)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 255)",
+      "rgb(184, 227, 152)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x5110",
+    "file_size_kb": 2463.826171875
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://www.rup.ee/rus/novosti/ekonomika-i-biznes/ekonomicheskii-forum-na-zlobu-dnia",
+  "timestamp": "2025-06-03T18:18:19.838335+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_rup_ee_20250603_221832.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Zone Media O\u00dc",
+      "creation_date": "2010-07-04 06:23:19 +03:00",
+      "expiration_date": "2025-12-07 00:00:00",
+      "name_servers": [
+        "chip.ns.cloudflare.com",
+        "melinda.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.26.15.49",
+        "104.26.14.49",
+        "172.67.70.162"
+      ]
+    },
+    "age_days": null,
+    "registrar": "Zone Media O\u00dc",
+    "name_servers": [
+      "chip.ns.cloudflare.com",
+      "melinda.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "rup.ee"
+    },
+    "not_before": "2025-04-27T10:58:34",
+    "not_after": "2025-07-26T11:58:21",
+    "days_remaining": 52,
+    "san": [
+      "rup.ee",
+      "*.rup.ee"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 80, 136)",
+      "rgb(254, 254, 254)",
+      "rgb(0, 81, 136)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x4353",
+    "file_size_kb": 1615.767578125
+  }
+}

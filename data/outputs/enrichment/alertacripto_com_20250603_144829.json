@@ -1,0 +1,92 @@
+{
+  "url": "https://alertacripto.com/trading/broker-una-herramienta-indispensable-para-el-trading/",
+  "timestamp": "2025-06-03T10:48:21.380370+00:00",
+  "screenshot_path": "data/outputs/screenshots/alertacripto_com_20250603_144828.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NameSilo, LLC",
+      "creation_date": "[datetime.datetime(2022, 2, 25, 7, 25, 34), datetime.datetime(2022, 2, 25, 7, 0)]",
+      "expiration_date": "[datetime.datetime(2026, 2, 25, 7, 25, 34), datetime.datetime(2026, 2, 25, 7, 0)]",
+      "name_servers": [
+        "NS1.DNS-PARKING.COM",
+        "NS2.DNS-PARKING.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.164.109.84"
+      ],
+      "mx_records": [
+        "5 mx1.hostinger.com.",
+        "10 mx2.hostinger.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.mail.hostinger.com ~all\"",
+        "\"google-site-verification=CxUPwCE2cPctmHS6nmcUewyutswxRaaHMNkmkf48ecU\""
+      ]
+    },
+    "age_days": 1194,
+    "registrar": "NameSilo, LLC",
+    "name_servers": [
+      "NS1.DNS-PARKING.COM",
+      "NS2.DNS-PARKING.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "alertacripto.com"
+    },
+    "not_before": "2025-06-02T10:16:10",
+    "not_after": "2025-08-31T10:16:09",
+    "days_remaining": 88,
+    "san": [
+      "alertacripto.com",
+      "www.alertacripto.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(10, 10, 10)",
+      "rgb(254, 254, 254)",
+      "rgb(245, 245, 245)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x4501",
+    "file_size_kb": 778.9814453125
+  }
+}

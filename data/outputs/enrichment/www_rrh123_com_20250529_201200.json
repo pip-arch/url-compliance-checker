@@ -1,0 +1,80 @@
+{
+  "url": "https://www.rrh123.com/broker/8785.html",
+  "timestamp": "2025-05-29T16:11:32.752165+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_rrh123_com_20250529_201200.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "eName Technology Co.,Ltd.",
+      "creation_date": "2015-10-25 11:02:48",
+      "expiration_date": "2026-10-25 11:02:48",
+      "name_servers": [
+        "CRUZ.NS.CLOUDFLARE.COM",
+        "DOUG.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "8.218.116.101"
+      ]
+    },
+    "age_days": 3504,
+    "registrar": "eName Technology Co.,Ltd.",
+    "name_servers": [
+      "CRUZ.NS.CLOUDFLARE.COM",
+      "DOUG.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "www.rrh123.com"
+    },
+    "not_before": "2025-04-29T15:07:47",
+    "not_after": "2025-07-28T15:07:46",
+    "days_remaining": 59,
+    "san": [
+      "www.rrh123.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.20.1"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Frame-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(242, 242, 242)",
+      "rgb(248, 251, 255)",
+      "rgb(252, 252, 252)",
+      "rgb(20, 20, 20)"
+    ],
+    "image_dimensions": "1920x1839",
+    "file_size_kb": 85.7236328125
+  }
+}

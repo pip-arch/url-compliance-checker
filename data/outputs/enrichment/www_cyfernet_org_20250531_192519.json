@@ -1,0 +1,91 @@
+{
+  "url": "https://www.cyfernet.org/trading-en-ligne-idee/",
+  "timestamp": "2025-05-31T15:25:07.614850+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_cyfernet_org_20250531_192518.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Key-Systems GmbH",
+      "creation_date": "2021-10-09 14:30:25",
+      "expiration_date": "2025-10-09 14:30:25",
+      "name_servers": [
+        "ns15.easyhoster.com",
+        "ns14.easyhoster.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "54.36.246.26"
+      ],
+      "mx_records": [
+        "0 cyfernet.org."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:141.94.73.95 +ip4:54.36.246.26 +ip4:141.94.141.165 ~all\""
+      ]
+    },
+    "age_days": 1330,
+    "registrar": "Key-Systems GmbH",
+    "name_servers": [
+      "ns15.easyhoster.com",
+      "ns14.easyhoster.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.cyfernet.org"
+    },
+    "not_before": "2025-04-10T18:09:26",
+    "not_after": "2025-07-09T18:09:25",
+    "days_remaining": 38,
+    "san": [
+      "*.cyfernet.org",
+      "cyfernet.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/8.1.32",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(33, 39, 40)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(248, 248, 248)"
+    ],
+    "image_dimensions": "1920x4090",
+    "file_size_kb": 1237.1865234375
+  }
+}

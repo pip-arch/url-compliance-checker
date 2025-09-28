@@ -1,0 +1,77 @@
+{
+  "url": "https://investingintheweb.com/broker-list/",
+  "timestamp": "2025-06-03T21:25:12.014832+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Launchpad.com Inc.",
+      "creation_date": "2019-09-04 21:17:26",
+      "expiration_date": "2025-09-04 21:17:26",
+      "name_servers": [
+        "LAKAS.NS.CLOUDFLARE.COM",
+        "NICOLE.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.212.3",
+        "104.21.53.105"
+      ],
+      "mx_records": [
+        "0 mail.investingintheweb.com."
+      ]
+    },
+    "age_days": 2099,
+    "registrar": "Launchpad.com Inc.",
+    "name_servers": [
+      "LAKAS.NS.CLOUDFLARE.COM",
+      "NICOLE.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "investingintheweb.com"
+    },
+    "not_before": "2025-04-24T06:43:47",
+    "not_after": "2025-07-23T07:43:41",
+    "days_remaining": 49,
+    "san": [
+      "investingintheweb.com",
+      "*.investingintheweb.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "X-Content-Type-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

@@ -1,0 +1,93 @@
+{
+  "url": "http://usdailyreview.com/whats-the-big-deal-about-metatrader-4/",
+  "timestamp": "2025-06-03T15:35:57.640299+00:00",
+  "screenshot_path": "data/outputs/screenshots/usdailyreview_com_20250603_193607.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2009, 3, 23, 20, 54, 18), datetime.datetime(2009, 3, 23, 15, 54, 18)]",
+      "expiration_date": "[datetime.datetime(2026, 3, 23, 20, 54, 18), datetime.datetime(2026, 3, 23, 15, 54, 18)]",
+      "name_servers": [
+        "ANAHI.NS.CLOUDFLARE.COM",
+        "GARRET.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.80.1",
+        "104.21.48.1",
+        "104.21.16.1",
+        "104.21.112.1",
+        "104.21.96.1",
+        "104.21.64.1",
+        "104.21.32.1"
+      ],
+      "mx_records": [
+        "10 _dc-mx.79285e7b3e41.usdailyreview.com."
+      ]
+    },
+    "age_days": 5915,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ANAHI.NS.CLOUDFLARE.COM",
+      "GARRET.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "usdailyreview.com"
+    },
+    "not_before": "2025-05-15T19:19:45",
+    "not_after": "2025-08-13T20:19:41",
+    "days_remaining": 71,
+    "san": [
+      "usdailyreview.com",
+      "*.usdailyreview.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.0.30",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(254, 254, 254)",
+      "rgb(7, 7, 7)",
+      "rgb(40, 40, 40)"
+    ],
+    "image_dimensions": "1920x5933",
+    "file_size_kb": 3491.962890625
+  }
+}

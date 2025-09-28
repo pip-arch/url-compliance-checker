@@ -1,0 +1,96 @@
+{
+  "url": "https://vnrebates.net/bang-so-sanh-top-10-brokers-tai-viet-nam-2020.html",
+  "timestamp": "2025-05-31T08:00:16.381654+00:00",
+  "screenshot_path": "data/outputs/screenshots/vnrebates_net_20250531_120028.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2015, 5, 12, 4, 25, 54), datetime.datetime(2015, 5, 11, 23, 25, 54)]",
+      "expiration_date": "[datetime.datetime(2026, 5, 12, 4, 25, 54), datetime.datetime(2026, 5, 11, 23, 25, 54)]",
+      "name_servers": [
+        "AMBER.NS.CLOUDFLARE.COM",
+        "AMIT.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.65.164",
+        "172.67.164.237"
+      ],
+      "mx_records": [
+        "10 mailstore1.secureserver.net.",
+        "0 smtp.secureserver.net."
+      ],
+      "txt_records": [
+        "\"14b1bc425bfa55e07855af74bb279ef2\"",
+        "\"google-site-verification=imQJXx8CM95-Rzs5gLHBFOKumMGcHcUNC_AJJaD9VYo\"",
+        "\"D5063543\"",
+        "\"v=spf1 include:secureserver.net -all\""
+      ]
+    },
+    "age_days": 3672,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "AMBER.NS.CLOUDFLARE.COM",
+      "AMIT.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "vnrebates.net"
+    },
+    "not_before": "2025-04-15T22:55:44",
+    "not_after": "2025-07-14T23:53:24",
+    "days_remaining": 44,
+    "san": [
+      "vnrebates.net",
+      "*.vnrebates.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.25.4",
+    "Powered by: Next.js",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(244, 244, 244)",
+      "rgb(243, 243, 243)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x30111",
+    "file_size_kb": 7518.04296875
+  }
+}

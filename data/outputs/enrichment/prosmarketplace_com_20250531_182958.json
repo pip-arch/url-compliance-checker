@@ -1,0 +1,98 @@
+{
+  "url": "https://prosmarketplace.com/es/remoteworker/profile/alexandrecosta",
+  "timestamp": "2025-05-31T14:29:45.014850+00:00",
+  "screenshot_path": "data/outputs/screenshots/prosmarketplace_com_20250531_182958.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2023, 2, 15, 17, 37, 57), datetime.datetime(2023, 2, 15, 12, 37, 57)]",
+      "expiration_date": "[datetime.datetime(2030, 2, 15, 17, 37, 57), datetime.datetime(2030, 2, 15, 12, 37, 57)]",
+      "name_servers": [
+        "ARCH.NS.CLOUDFLARE.COM",
+        "NADIA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "35.169.145.87"
+      ],
+      "mx_records": [
+        "1 aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"NETORGFT14188050.onmicrosoft.com\"",
+        "\"v=spf1 +ip4:172.104.4.142 +ip4:35.169.145.87 +include:spf.antispamcloud.com +include:secureserver.net -all\"",
+        "\"google-site-verification=LUs-gNzPMHR4njUiYvnB7O7owGhsm1t38YBImB6M5Zg\"",
+        "\"google-site-verification=hVqbI_eAzKwPW8PBT47uKBT_hiDFBQzBpB6AkRI10As\"",
+        "\"v=spf1 include:_spf.google.com ~all\"",
+        "\"Brevo-code:4ae68b09a32e3ba1e476d94663aea194\"",
+        "\"v=spf1 include:zcsend.net ~all\"",
+        "\"google-site-verification=yj0jTPXKBzJMA5r87zXfbntYgm_223qtkxHrZt61kCQ\""
+      ]
+    },
+    "age_days": 835,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ARCH.NS.CLOUDFLARE.COM",
+      "NADIA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "prosmarketplace.com"
+    },
+    "not_before": "2025-04-04T23:31:09",
+    "not_after": "2025-07-03T23:31:08",
+    "days_remaining": 33,
+    "san": [
+      "prosmarketplace.com",
+      "www.prosmarketplace.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.18.0 (Ubuntu)",
+    "Powered by: Express"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(240, 245, 246)",
+      "rgb(254, 254, 254)",
+      "rgb(237, 242, 243)",
+      "rgb(236, 241, 242)"
+    ],
+    "image_dimensions": "1920x3087",
+    "file_size_kb": 1100.013671875
+  }
+}

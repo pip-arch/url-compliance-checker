@@ -1,0 +1,73 @@
+{
+  "url": "https://www.au-e.com/web/admiralmarkets.com",
+  "timestamp": "2025-06-04T01:18:30.934248+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "NameSilo, LLC",
+      "creation_date": "[datetime.datetime(2017, 7, 6, 16, 18, 8), datetime.datetime(2017, 7, 6, 7, 0)]",
+      "expiration_date": "[datetime.datetime(2025, 7, 6, 16, 18, 8), datetime.datetime(2025, 7, 6, 7, 0)]",
+      "name_servers": [
+        "BART.NS.CLOUDFLARE.COM",
+        "VENUS.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.88.229",
+        "172.67.153.182"
+      ]
+    },
+    "age_days": 2889,
+    "registrar": "NameSilo, LLC",
+    "name_servers": [
+      "BART.NS.CLOUDFLARE.COM",
+      "VENUS.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "au-e.com"
+    },
+    "not_before": "2025-05-20T16:17:32",
+    "not_after": "2025-08-18T17:16:07",
+    "days_remaining": 75,
+    "san": [
+      "au-e.com",
+      "*.au-e.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

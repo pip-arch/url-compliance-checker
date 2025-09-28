@@ -1,0 +1,90 @@
+{
+  "url": "https://whmcs.host/lichnyj-kabinet-pol%D1%8Czovatelja-forex-optimum/",
+  "timestamp": "2025-06-04T00:04:11.983200+00:00",
+  "screenshot_path": "data/outputs/screenshots/whmcs_host_20250604_040439.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Dotserve Inc",
+      "creation_date": "2015-06-15 11:46:25",
+      "expiration_date": "2027-06-15 23:59:59",
+      "name_servers": [
+        "ELMA.NS.CLOUDFLARE.COM",
+        "ANDY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.209.106",
+        "104.21.45.42"
+      ],
+      "mx_records": [
+        "100 us2.mx2.mailhostbox.com.",
+        "100 us2.mx1.mailhostbox.com.",
+        "100 us2.mx3.mailhostbox.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:65.99.237.55 +include:relay.mailchannels.net ~all\""
+      ]
+    },
+    "age_days": 3641,
+    "registrar": "Dotserve Inc",
+    "name_servers": [
+      "ELMA.NS.CLOUDFLARE.COM",
+      "ANDY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "whmcs.host"
+    },
+    "not_before": "2025-04-16T12:08:36",
+    "not_after": "2025-07-15T13:06:03",
+    "days_remaining": 41,
+    "san": [
+      "whmcs.host",
+      "*.whmcs.host"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(61, 64, 69)",
+      "rgb(254, 254, 254)",
+      "rgb(239, 239, 239)",
+      "rgb(240, 240, 240)"
+    ],
+    "image_dimensions": "1920x3557",
+    "file_size_kb": 701.408203125
+  }
+}

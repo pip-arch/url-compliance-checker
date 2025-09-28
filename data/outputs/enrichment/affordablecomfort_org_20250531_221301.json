@@ -1,0 +1,83 @@
+{
+  "url": "https://affordablecomfort.org/business/discover-the-fact-behind-the-trend-by-using-momentum-indicator/",
+  "timestamp": "2025-05-31T18:12:53.665893+00:00",
+  "screenshot_path": "data/outputs/screenshots/affordablecomfort_org_20250531_221301.png",
+  "domain_info": {
+    "whois": {},
+    "dns": {
+      "a_records": [
+        "149.28.64.37"
+      ],
+      "mx_records": [
+        "1 aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=zqpbUVI-xkYa2ZVvVgc-Cuisx_85WYq8Zo41BjAOrXw\"",
+        "\"v=spf1 include:dc-aa8e722993._spfm.affordablecomfort.org ~all\"",
+        "\"google-site-verification=ROgLuze6V_i4QAaHI0UwpjqSxDVxYLHR6YAq9pSVOFw\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "affordablecomfort.org"
+    },
+    "not_before": "2025-04-03T14:33:52",
+    "not_after": "2025-07-02T14:33:51",
+    "days_remaining": 31,
+    "san": [
+      "affordablecomfort.org",
+      "www.affordablecomfort.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx-rc",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(233, 233, 233)",
+      "rgb(232, 232, 232)",
+      "rgb(234, 234, 234)"
+    ],
+    "image_dimensions": "1920x4279",
+    "file_size_kb": 1361.3271484375
+  }
+}

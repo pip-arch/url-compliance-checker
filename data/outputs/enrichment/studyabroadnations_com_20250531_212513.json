@@ -1,0 +1,75 @@
+{
+  "url": "https://studyabroadnations.com/hi/%E0%A4%AE%E0%A5%81%E0%A4%AB%E0%A5%8D%E0%A4%A4-%E0%A4%91%E0%A4%A8%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A5%80-%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BE-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%B0-%E0%A4%AA%E0%A4%BE%E0%A4%A0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE/",
+  "timestamp": "2025-05-31T17:24:54.957306+00:00",
+  "screenshot_path": "data/outputs/screenshots/studyabroadnations_com_20250531_212511.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2017-11-24 20:30:40",
+      "expiration_date": "2025-11-24 20:30:40",
+      "name_servers": [
+        "DNS1.REGISTRAR-SERVERS.COM",
+        "DNS2.REGISTRAR-SERVERS.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "143.198.30.161"
+      ],
+      "mx_records": [
+        "20 mx2.emailsrvr.com.",
+        "10 mx1.emailsrvr.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:emailsrvr.com ~all\"",
+        "\"v=spf1 include:spf.easywp.com ~all\""
+      ]
+    },
+    "age_days": 2744,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "DNS1.REGISTRAR-SERVERS.COM",
+      "DNS2.REGISTRAR-SERVERS.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "studyabroadnations.com"
+    },
+    "not_before": "2025-05-01T01:46:48",
+    "not_after": "2025-07-30T01:46:47",
+    "days_remaining": 59,
+    "san": [
+      "studyabroadnations.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: "
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(207, 211, 196)",
+      "rgb(250, 250, 250)",
+      "rgb(255, 255, 255)",
+      "rgb(253, 253, 253)",
+      "rgb(206, 211, 195)"
+    ],
+    "image_dimensions": "1920x9868",
+    "file_size_kb": 1598.267578125
+  }
+}

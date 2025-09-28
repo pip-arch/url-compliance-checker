@@ -1,0 +1,84 @@
+{
+  "url": "http://uzhgorod.in/novosti/2016/dekabr/kak_novichku_bystro_zarabotat_na_forekse",
+  "timestamp": "2025-05-31T05:52:11.657573+00:00",
+  "screenshot_path": "data/outputs/screenshots/uzhgorod_in_20250531_095223.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Endurance Digital Domain Technology Private Limited",
+      "creation_date": "2010-11-16 16:54:06.297000",
+      "expiration_date": "2025-11-16 16:54:06.297000",
+      "name_servers": [
+        "ns35.inhostedns.org",
+        "ns15.inhostedns.com",
+        "ns25.inhostedns.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.233.36.29"
+      ],
+      "mx_records": [
+        "20 mx20.ukraine.com.ua.",
+        "15 mx15.ukraine.com.ua."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.ukraine.com.ua ~all\""
+      ]
+    },
+    "age_days": 5309,
+    "registrar": "Endurance Digital Domain Technology Private Limited",
+    "name_servers": [
+      "ns35.inhostedns.org",
+      "ns15.inhostedns.com",
+      "ns25.inhostedns.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "Connection Error: [Errno 61] Connection refused"
+    ]
+  },
+  "technology_stack": [
+    "Server: nginx/1.18.0 (Ubuntu)"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(247, 247, 247)",
+      "rgb(255, 255, 255)",
+      "rgb(250, 250, 250)",
+      "rgb(244, 244, 244)",
+      "rgb(204, 204, 204)"
+    ],
+    "image_dimensions": "1920x2968",
+    "file_size_kb": 843.7216796875
+  }
+}

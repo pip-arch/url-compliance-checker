@@ -1,0 +1,92 @@
+{
+  "url": "http://www.ldmstudio.com/director/detalii_site.php?id=14511",
+  "timestamp": "2025-06-03T17:28:29.305336+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_ldmstudio_com_20250603_212842.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2004-11-17 21:50:25",
+      "expiration_date": "2025-11-17 21:50:25",
+      "name_servers": [
+        "NS.ROMANIA-WEBHOSTING.COM",
+        "NS1.CLAUS.RO",
+        "NS2.CLAUS.RO"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "89.44.105.89"
+      ],
+      "mx_records": [
+        "0 ldmstudio.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:86.107.43.38 +ip4:89.44.105.89 +ip4:86.107.43.57 +ip4:89.42.13.133 +ip4:85.9.53.120 +ip4:72.232.247.154 +ip4:72.36.216.162 -all\""
+      ]
+    },
+    "age_days": 7502,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "NS.ROMANIA-WEBHOSTING.COM",
+      "NS1.CLAUS.RO",
+      "NS2.CLAUS.RO"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "*.ldmstudio.com"
+    },
+    "not_before": "2025-04-20T22:30:50",
+    "not_after": "2025-07-19T22:30:49",
+    "days_remaining": 46,
+    "san": [
+      "*.ldmstudio.com",
+      "ldmstudio.com",
+      "www.directory.ldmstudio.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Powered by: PHP/5.3.29"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(241, 241, 241)",
+      "rgb(242, 242, 242)",
+      "rgb(243, 243, 243)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x1140",
+    "file_size_kb": 179.4453125
+  }
+}

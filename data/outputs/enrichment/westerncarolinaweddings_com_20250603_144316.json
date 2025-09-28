@@ -1,0 +1,57 @@
+{
+  "url": "https://westerncarolinaweddings.com/freshforex-vremja-raboty-kak-dobrat%D1%8Csja/",
+  "timestamp": "2025-06-03T10:43:13.748731+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2012, 12, 8, 14, 37, 56), datetime.datetime(2012, 12, 8, 9, 37, 56)]",
+      "expiration_date": "[datetime.datetime(2025, 12, 8, 14, 37, 56), datetime.datetime(2025, 12, 8, 9, 37, 56)]",
+      "name_servers": [
+        "NS39.DOMAINCONTROL.COM",
+        "NS40.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "198.12.237.222"
+      ],
+      "mx_records": [
+        "0 westerncarolinaweddings-com.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:secureserver.net -all\"",
+        "\"NETORGFT10959093.onmicrosoft.com\""
+      ]
+    },
+    "age_days": 4559,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS39.DOMAINCONTROL.COM",
+      "NS40.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: Cannot connect to host westerncarolinaweddings.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')]"
+    ]
+  },
+  "visual_analysis": {}
+}

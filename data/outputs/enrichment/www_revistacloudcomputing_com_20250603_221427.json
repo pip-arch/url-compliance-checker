@@ -1,0 +1,96 @@
+{
+  "url": "https://www.revistacloudcomputing.com/2021/03/los-trucos-que-maximizan-ganancias-en-el-comercio-de-acciones-en-linea/",
+  "timestamp": "2025-06-03T18:14:19.011824+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_revistacloudcomputing_com_20250603_221427.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "10DENCEHISPAHARD, S.L",
+      "creation_date": "[datetime.datetime(2011, 2, 2, 7, 20, 27), datetime.datetime(2011, 2, 2, 6, 20, 27)]",
+      "expiration_date": "[datetime.datetime(2026, 2, 2, 7, 20, 27), datetime.datetime(2026, 2, 2, 6, 20, 27)]",
+      "name_servers": [
+        "NS1.CDMON.NET",
+        "NS2.CDMON.NET",
+        "NS3.CDMON.NET",
+        "NS4.CDMONDNS-01.ORG",
+        "NS5.CDMONDNS-01.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.34.194.120"
+      ],
+      "mx_records": [
+        "10 mail.revistacloudcomputing.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.ipzmarketing.com include:_spf.mlsend.com include:_spf.srv.cat ~all\""
+      ]
+    },
+    "age_days": 5235,
+    "registrar": "10DENCEHISPAHARD, S.L",
+    "name_servers": [
+      "NS1.CDMON.NET",
+      "NS2.CDMON.NET",
+      "NS3.CDMON.NET",
+      "NS4.CDMONDNS-01.ORG",
+      "NS5.CDMONDNS-01.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.revistacloudcomputing.com"
+    },
+    "not_before": "2025-05-16T02:35:02",
+    "not_after": "2025-08-14T02:35:01",
+    "days_remaining": 71,
+    "san": [
+      "*.revistacloudcomputing.com",
+      "revistacloudcomputing.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(19, 22, 26)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(18, 21, 25)"
+    ],
+    "image_dimensions": "1920x6765",
+    "file_size_kb": 1319.208984375
+  }
+}

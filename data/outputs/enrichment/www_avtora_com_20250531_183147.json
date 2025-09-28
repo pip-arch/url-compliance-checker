@@ -1,0 +1,89 @@
+{
+  "url": "https://www.avtora.com/magiiata-na-finansovite-pazari",
+  "timestamp": "2025-05-31T14:31:32.975395+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_avtora_com_20250531_183146.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "ENOM, INC.",
+      "creation_date": "[datetime.datetime(2001, 9, 28, 12, 25, 13), datetime.datetime(2001, 9, 28, 12, 25)]",
+      "expiration_date": "2025-09-28 12:25:13",
+      "name_servers": [
+        "ERIN.NS.CLOUDFLARE.COM",
+        "HAL.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.16.1",
+        "104.21.80.1",
+        "104.21.48.1",
+        "104.21.32.1",
+        "104.21.64.1",
+        "104.21.112.1",
+        "104.21.96.1"
+      ]
+    },
+    "age_days": 8646,
+    "registrar": "ENOM, INC.",
+    "name_servers": [
+      "ERIN.NS.CLOUDFLARE.COM",
+      "HAL.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "avtora.com"
+    },
+    "not_before": "2025-05-02T05:57:10",
+    "not_after": "2025-07-31T06:55:48",
+    "days_remaining": 60,
+    "san": [
+      "avtora.com",
+      "*.avtora.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.1.8"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(228, 228, 228)",
+      "rgb(229, 229, 229)",
+      "rgb(227, 227, 227)"
+    ],
+    "image_dimensions": "1920x4430",
+    "file_size_kb": 1771.04296875
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://tqsmagazine.co.uk/magazines/",
+  "timestamp": "2025-06-03T09:48:03.862216+00:00",
+  "screenshot_path": "data/outputs/screenshots/tqsmagazine_co_uk_20250603_134810.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Namecheap, Inc. [Tag = NAMECHEAP-INC]",
+      "creation_date": "2019-09-07 00:00:00",
+      "expiration_date": "2025-09-07 00:00:00",
+      "name_servers": [
+        "ns58.wpx.net",
+        "ns59.wpx.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "194.1.147.30",
+        "194.1.147.63"
+      ],
+      "mx_records": [
+        "5 mail.tqsmagazine.co.uk."
+      ],
+      "txt_records": [
+        "\"google-site-verification=QpoKaRwcd5HhjlvDL_xiQgk1z_ZeWmhrZzs3WY9dAGY\"",
+        "\"v=spf1 a mx a:tqsmagazine.co.uk ip4:67.202.92.23 ip4:208.100.34.156 ?all\""
+      ]
+    },
+    "age_days": 2096,
+    "registrar": "Namecheap, Inc. [Tag = NAMECHEAP-INC]",
+    "name_servers": [
+      "ns58.wpx.net",
+      "ns59.wpx.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "tqsmagazine.co.uk"
+    },
+    "not_before": "2025-05-18T18:22:25",
+    "not_after": "2025-08-16T18:22:24",
+    "days_remaining": 74,
+    "san": [
+      "tqsmagazine.co.uk",
+      "www.tqsmagazine.co.uk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: WPX CLOUD/SOF01",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(218, 242, 243)",
+      "rgb(220, 243, 244)",
+      "rgb(219, 242, 243)",
+      "rgb(217, 242, 243)"
+    ],
+    "image_dimensions": "1920x51778",
+    "file_size_kb": 14868.458984375
+  }
+}

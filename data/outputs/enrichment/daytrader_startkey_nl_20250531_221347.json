@@ -1,0 +1,90 @@
+{
+  "url": "https://daytrader.startkey.nl/",
+  "timestamp": "2025-05-31T18:13:42.642885+00:00",
+  "screenshot_path": "data/outputs/screenshots/daytrader_startkey_nl_20250531_221347.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Registrar.eu",
+      "creation_date": "2008-01-10 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "josh.ns.cloudflare.com",
+        "liv.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "212.192.219.219"
+      ]
+    },
+    "age_days": 6351,
+    "registrar": "Registrar.eu",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "josh.ns.cloudflare.com",
+      "liv.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "startkey.nl"
+    },
+    "not_before": "2025-04-02T12:48:36",
+    "not_after": "2025-07-01T12:48:35",
+    "days_remaining": 30,
+    "san": [
+      "*.startkey.nl",
+      "startkey.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/8.0.30",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(145, 180, 199)",
+      "rgb(249, 227, 106)",
+      "rgb(144, 180, 200)",
+      "rgb(147, 181, 198)",
+      "rgb(231, 219, 122)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 97.1123046875
+  }
+}

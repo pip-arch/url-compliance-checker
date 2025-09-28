@@ -1,0 +1,105 @@
+{
+  "url": "https://homesgofast.com/fr/monnaie/cela-acc%C3%A9l%C3%A9rera-votre-voyage-vers-la-maison-de-vos-r%C3%AAves/",
+  "timestamp": "2025-06-04T00:02:04.643617+00:00",
+  "screenshot_path": "data/outputs/screenshots/homesgofast_com_20250604_040248.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2004, 5, 2, 18, 48, 58), datetime.datetime(2004, 5, 2, 13, 48, 58)]",
+      "expiration_date": "[datetime.datetime(2026, 5, 2, 18, 48, 58), datetime.datetime(2026, 5, 2, 13, 48, 58)]",
+      "name_servers": [
+        "ALEC.NS.CLOUDFLARE.COM",
+        "BETTY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.80.1",
+        "104.21.16.1",
+        "104.21.48.1",
+        "104.21.64.1",
+        "104.21.32.1",
+        "104.21.96.1",
+        "104.21.112.1"
+      ],
+      "mx_records": [
+        "1 aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"pinterest-site-verification=c17ef77e5d4b7f2d4414cb1c10631b62\"",
+        "\"facebook-domain-verification=wvfqa5h7xm7i4fw4lb1na8nqgcalqg\"",
+        "\"google-site-verification=ADMVNLI6UFLy1Rzn_7VvF76snC88pRwRrMWXmQjTvR0\"",
+        "\"mailerlite-domain-verification=ed5369c174a43e6eca274fb77268c38134522be3\"",
+        "\"v=spf1 a mx ip4:77.68.127.127 ip4:77.68.37.75 include:mail.zendesk.com include:_spf.google.com include:_spf.mlsend.com ~all\"",
+        "\"201804230625263s7n3vi4nn6jjbwvhpxxvp0ee57j3td6q383x12zyqjjp0f0ji\"",
+        "\"201806110547121uubv1rc5885krwbwplkddwf8z8ax92hwo9o0l1orydxoejcvf\""
+      ]
+    },
+    "age_days": 7702,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ALEC.NS.CLOUDFLARE.COM",
+      "BETTY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "homesgofast.com"
+    },
+    "not_before": "2025-04-09T20:14:53",
+    "not_after": "2025-07-08T21:12:17",
+    "days_remaining": 34,
+    "san": [
+      "homesgofast.com",
+      "*.homesgofast.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.2.28, PHP/8.2.28, PleskLin",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(251, 251, 251)",
+      "rgb(230, 230, 230)",
+      "rgb(228, 228, 228)"
+    ],
+    "image_dimensions": "1920x10723",
+    "file_size_kb": 1684.451171875
+  }
+}

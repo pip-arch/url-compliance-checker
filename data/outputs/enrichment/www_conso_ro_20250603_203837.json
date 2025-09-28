@@ -1,0 +1,79 @@
+{
+  "url": "https://www.conso.ro/investitii/p-forexball-2011.-concurs-de-tranzacionare-cu-premii-de-peste-50.000-usd",
+  "timestamp": "2025-06-03T16:38:31.512470+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_conso_ro_20250603_203836.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "ICI - Registrar",
+      "creation_date": "2006-03-02 00:00:00",
+      "expiration_date": "2028-06-29 00:00:00",
+      "name_servers": [
+        "ns11.zooku.eu",
+        "ns12.zooku.com",
+        "ns13.zooku.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "46.102.236.76"
+      ]
+    },
+    "age_days": 7033,
+    "registrar": "ICI - Registrar",
+    "name_servers": [
+      "ns11.zooku.eu",
+      "ns12.zooku.com",
+      "ns13.zooku.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.conso.ro"
+    },
+    "not_before": "2025-05-29T14:01:52",
+    "not_after": "2025-08-27T14:01:51",
+    "days_remaining": 84,
+    "san": [
+      "*.conso.ro",
+      "conso.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: Next.js, Phusion Passenger(R) 6.0.20",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(102, 102, 102)",
+      "rgb(254, 254, 254)",
+      "rgb(249, 249, 247)",
+      "rgb(241, 241, 241)"
+    ],
+    "image_dimensions": "1920x10010",
+    "file_size_kb": 1144.392578125
+  }
+}

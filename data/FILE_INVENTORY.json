@@ -1,0 +1,736 @@
+{
+  "timestamp": "2025-05-27T16:27:59.526227",
+  "directories": {
+    "data/inputs": {
+      "type": "directory",
+      "files": [
+        {
+          "name": "README.md",
+          "size": "714.0B"
+        },
+        {
+          "name": "admiralmarkets.com-backlinks-subdomains_2025-04-16_13-31-57.csv",
+          "size": "71.5MB"
+        }
+      ],
+      "subdirs": {
+        "admiral_markets": {
+          "type": "directory",
+          "files": [
+            {
+              "name": "admiralmarkets_clean.csv",
+              "size": "4.4MB"
+            },
+            {
+              "name": "admiralmarkets_fixed.csv",
+              "size": "4.4MB"
+            },
+            {
+              "name": "admiralmarkets_latest_utf8.csv",
+              "size": "37.6MB"
+            },
+            {
+              "name": "admiralmarkets_utf8.csv",
+              "size": "37.6MB"
+            },
+            {
+              "name": "referring_urls.txt",
+              "size": "4.8MB"
+            }
+          ],
+          "subdirs": {}
+        },
+        "blacklist_keywords": {
+          "type": "directory",
+          "files": [
+            {
+              "name": "Blacklist keywords (1).xlsx",
+              "size": "14.6KB"
+            },
+            {
+              "name": "Blacklist keywords.csv",
+              "size": "1.5KB"
+            },
+            {
+              "name": "Blacklist keywords.xlsx",
+              "size": "10.8KB"
+            }
+          ],
+          "subdirs": {}
+        },
+        "raw_backlinks": {
+          "type": "directory",
+          "files": [
+            {
+              "name": "admiralmarkets.com-backlinks-subdomains_2025-04-16_13-30-28.csv",
+              "size": "78.4MB"
+            },
+            {
+              "name": "admiralmarkets.com-backlinks-subdomains_2025-04-16_13-31-57.csv",
+              "size": "71.5MB"
+            }
+          ],
+          "subdirs": {}
+        }
+      }
+    },
+    "data/outputs": {
+      "type": "directory",
+      "files": [
+        {
+          "name": "README.md",
+          "size": "593.0B"
+        },
+        {
+          "name": "blacklisted_urls.csv",
+          "size": "59.6KB"
+        }
+      ],
+      "subdirs": {
+        "analysis_results": {
+          "type": "directory",
+          "files": [],
+          "subdirs": {}
+        },
+        "archive": {
+          "type": "directory",
+          "files": [],
+          "subdirs": {}
+        },
+        "blacklists": {
+          "type": "directory",
+          "files": [
+            {
+              "name": "blacklist_consolidated_master.csv",
+              "size": "748.3KB"
+            },
+            {
+              "name": "blacklist_direct.csv",
+              "size": "32.3KB"
+            }
+          ],
+          "subdirs": {}
+        },
+        "domain_analysis": {
+          "type": "directory",
+          "files": [],
+          "subdirs": {}
+        },
+        "enrichment": {
+          "type": "directory",
+          "files": [],
+          "subdirs": {}
+        },
+        "organized": {
+          "type": "directory",
+          "files": [
+            {
+              "name": "blacklist_final_20250527_152428.csv",
+              "size": "710.0KB"
+            },
+            {
+              "name": "blacklist_final_20250527_152838.csv",
+              "size": "92.0B"
+            },
+            {
+              "name": "blacklist_final_20250527_152858.csv",
+              "size": "3.6KB"
+            },
+            {
+              "name": "blacklist_final_20250527_152917.csv",
+              "size": "3.6KB"
+            },
+            {
+              "name": "domain_summary_20250527_152428.csv",
+              "size": "61.5KB"
+            },
+            {
+              "name": "domain_summary_20250527_152917.csv",
+              "size": "2.5KB"
+            },
+            {
+              "name": "review_needed_20250527_152917.csv",
+              "size": "42.5KB"
+            },
+            {
+              "name": "whitelist_verified_20250527_152858.csv",
+              "size": "61.0B"
+            },
+            {
+              "name": "whitelist_verified_20250527_152917.csv",
+              "size": "11.7KB"
+            }
+          ],
+          "subdirs": {}
+        },
+        "qa_reports": {
+          "type": "directory",
+          "files": [],
+          "subdirs": {}
+        },
+        "review": {
+          "type": "directory",
+          "files": [
+            {
+              "name": "review_needed_tmp.csv",
+              "size": "71.0B"
+            }
+          ],
+          "subdirs": {}
+        },
+        "screenshots": {
+          "type": "directory",
+          "files": [],
+          "subdirs": {}
+        },
+        "whitelists": {
+          "type": "directory",
+          "files": [],
+          "subdirs": {}
+        }
+      }
+    },
+    "data/test_files": {
+      "type": "directory",
+      "files": [
+        {
+          "name": "all_admiral_urls.csv",
+          "size": "6.8MB"
+        },
+        {
+          "name": "test_100_urls.csv",
+          "size": "7.5KB"
+        },
+        {
+          "name": "test_10_urls.csv",
+          "size": "741.0B"
+        }
+      ],
+      "subdirs": {
+        "archive": {
+          "type": "directory",
+          "files": [
+            {
+              "name": "final_test_url.csv",
+              "size": "32.0B"
+            },
+            {
+              "name": "more_test_urls.csv",
+              "size": "64.0B"
+            },
+            {
+              "name": "new_test_urls.csv",
+              "size": "95.0B"
+            },
+            {
+              "name": "test_new_urls.csv",
+              "size": "305.0B"
+            },
+            {
+              "name": "test_url_example.csv",
+              "size": "24.0B"
+            },
+            {
+              "name": "test_url_openai.csv",
+              "size": "23.0B"
+            },
+            {
+              "name": "test_urls.csv",
+              "size": "23.0B"
+            }
+          ],
+          "subdirs": {}
+        }
+      }
+    },
+    "data/archive": {
+      "type": "directory",
+      "files": [
+        {
+          "name": "README.md",
+          "size": "221.0B"
+        }
+      ],
+      "subdirs": {
+        "old_inputs": {
+          "type": "directory",
+          "files": [],
+          "subdirs": {}
+        },
+        "tmp_backup": {
+          "type": "directory",
+          "files": [
+            {
+              "name": "blacklist_consolidated.csv.bak",
+              "size": "747.4KB"
+            },
+            {
+              "name": "blacklist_consolidated_backup.csv",
+              "size": "5.5KB"
+            },
+            {
+              "name": "blacklist_consolidated_urls_20250428_182932.csv",
+              "size": "62.8KB"
+            }
+          ],
+          "subdirs": {
+            "backups": {
+              "type": "directory",
+              "files": [
+                {
+                  "name": "blacklist_consolidated.csv.20250422_153040.bak",
+                  "size": "98.7KB"
+                },
+                {
+                  "name": "blacklist_consolidated.csv.20250422_153713.bak",
+                  "size": "77.2KB"
+                },
+                {
+                  "name": "blacklist_consolidated.csv.20250422_180044.bak",
+                  "size": "443.8KB"
+                },
+                {
+                  "name": "blacklist_direct.csv.20250422_153040.bak",
+                  "size": "32.3KB"
+                },
+                {
+                  "name": "blacklist_direct.csv.20250422_153713.bak",
+                  "size": "32.3KB"
+                },
+                {
+                  "name": "blacklist_direct.csv.20250422_180044.bak",
+                  "size": "32.3KB"
+                },
+                {
+                  "name": "blacklist_export_20250416_191628.json",
+                  "size": "3.7KB"
+                },
+                {
+                  "name": "blacklist_export_20250416_191628.txt",
+                  "size": "35.0B"
+                },
+                {
+                  "name": "blacklist_export_20250416_212121.json",
+                  "size": "3.3KB"
+                },
+                {
+                  "name": "blacklist_export_20250416_212121.txt",
+                  "size": "51.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_125450.json",
+                  "size": "2.7KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_125450.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_125453.json",
+                  "size": "2.7KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_125453.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_125459.json",
+                  "size": "2.7KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_125459.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132634.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132634.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132635.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132635.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132636.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132636.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132650.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132650.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132651.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132651.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132703.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132703.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132704.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132704.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132706.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132706.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132901.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132901.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132902.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132902.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132904.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132904.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132945.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132945.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132946.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132946.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132947.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132947.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_132948.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_132948.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133015.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133015.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133016.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133016.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133017.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133017.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133022.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133022.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133254.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133254.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133255.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133255.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133256.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133256.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133257.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133257.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133258.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133258.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133259.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133259.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133300.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133300.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133531.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133531.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133532.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133532.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133533.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133533.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133534.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133534.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133535.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133535.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133537.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133537.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133539.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133539.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133541.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133541.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133542.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133542.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133543.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133543.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133544.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133544.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133545.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133545.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133547.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133547.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133548.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133548.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133549.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133549.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "blacklist_export_20250417_133551.json",
+                  "size": "2.8KB"
+                },
+                {
+                  "name": "blacklist_export_20250417_133551.txt",
+                  "size": "64.0B"
+                },
+                {
+                  "name": "reanalyze_remaining.py.20250422_153040.bak",
+                  "size": "11.8KB"
+                },
+                {
+                  "name": "reanalyze_remaining.py.20250422_153713.bak",
+                  "size": "11.8KB"
+                },
+                {
+                  "name": "reanalyze_remaining.py.20250422_180044.bak",
+                  "size": "11.8KB"
+                },
+                {
+                  "name": "reanalyze_remaining_with_fallback.py.20250422_153040.bak",
+                  "size": "13.5KB"
+                },
+                {
+                  "name": "reanalyze_remaining_with_fallback.py.20250422_153713.bak",
+                  "size": "13.5KB"
+                },
+                {
+                  "name": "reanalyze_remaining_with_fallback.py.20250422_180044.bak",
+                  "size": "13.5KB"
+                },
+                {
+                  "name": "reanalyze_remaining_with_openai.py.20250422_153040.bak",
+                  "size": "19.7KB"
+                },
+                {
+                  "name": "reanalyze_remaining_with_openai.py.20250422_153713.bak",
+                  "size": "19.7KB"
+                },
+                {
+                  "name": "reanalyze_remaining_with_openai.py.20250422_180044.bak",
+                  "size": "19.7KB"
+                },
+                {
+                  "name": "url_analyzer_direct.py.20250422_153040.bak",
+                  "size": "14.3KB"
+                },
+                {
+                  "name": "url_analyzer_direct.py.20250422_153713.bak",
+                  "size": "14.3KB"
+                },
+                {
+                  "name": "url_analyzer_direct.py.20250422_180044.bak",
+                  "size": "15.6KB"
+                }
+              ],
+              "subdirs": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

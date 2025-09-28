@@ -1,0 +1,93 @@
+{
+  "url": "https://joon.co.ke/gu/%E0%AA%B6%E0%AB%8D%E0%AA%B0%E0%AB%87%E0%AA%B7%E0%AB%8D%E0%AA%A0-%E0%AA%93%E0%AA%A8%E0%AA%B2%E0%AA%BE%E0%AA%88%E0%AA%A8-%E0%AA%9F%E0%AB%8D%E0%AA%B0%E0%AB%87%E0%AA%A1%E0%AA%BF%E0%AA%82%E0%AA%97-%E0%AA%85%E0%AA%AD%E0%AB%8D%E0%AA%AF%E0%AA%BE%E0%AA%B8%E0%AA%95%E0%AB%8D%E0%AA%B0%E0%AA%AE%E0%AB%8B/",
+  "timestamp": "2025-05-29T18:52:21.650982+00:00",
+  "screenshot_path": "data/outputs/screenshots/joon_co_ke_20250529_225228.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Truehost Cloud Limited",
+      "creation_date": "2018-12-07 09:59:48",
+      "expiration_date": "2025-12-07 09:59:48",
+      "name_servers": [
+        "hope.ns.cloudflare.com",
+        "clayton.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.4.232",
+        "172.67.132.150"
+      ],
+      "mx_records": [
+        "10 mx1.emailsrvr.com.",
+        "20 mx2.emailsrvr.com."
+      ],
+      "txt_records": [
+        "\"ca3-b931685f8366448a58f62fb7a5751d0\"",
+        "\"v=spf1 a mx include:_spf.elasticemail.com include:emailsrvr.com ~all\\010v=spf1 mx a ip4:10.0.0.1 ~all\""
+      ]
+    },
+    "age_days": 2365,
+    "registrar": "Truehost Cloud Limited",
+    "name_servers": [
+      "hope.ns.cloudflare.com",
+      "clayton.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "joon.co.ke"
+    },
+    "not_before": "2025-05-01T12:45:40",
+    "not_after": "2025-07-30T12:34:24",
+    "days_remaining": 61,
+    "san": [
+      "joon.co.ke",
+      "*.joon.co.ke"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(252, 252, 252)",
+      "rgb(254, 254, 254)",
+      "rgb(251, 251, 251)",
+      "rgb(240, 240, 240)"
+    ],
+    "image_dimensions": "1920x10539",
+    "file_size_kb": 1621.5595703125
+  }
+}

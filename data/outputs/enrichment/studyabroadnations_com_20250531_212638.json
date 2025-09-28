@@ -1,0 +1,90 @@
+{
+  "url": "https://studyabroadnations.com/de/Kostenlose-Online-Devisenhandelskurse/",
+  "timestamp": "2025-05-31T17:26:28.064804+00:00",
+  "screenshot_path": "data/outputs/screenshots/studyabroadnations_com_20250531_212637.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2017-11-24 20:30:40",
+      "expiration_date": "2025-11-24 20:30:40",
+      "name_servers": [
+        "DNS1.REGISTRAR-SERVERS.COM",
+        "DNS2.REGISTRAR-SERVERS.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "143.198.30.161"
+      ],
+      "mx_records": [
+        "20 mx2.emailsrvr.com.",
+        "10 mx1.emailsrvr.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.easywp.com ~all\"",
+        "\"v=spf1 include:emailsrvr.com ~all\""
+      ]
+    },
+    "age_days": 2744,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "DNS1.REGISTRAR-SERVERS.COM",
+      "DNS2.REGISTRAR-SERVERS.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "studyabroadnations.com"
+    },
+    "not_before": "2025-05-01T01:46:48",
+    "not_after": "2025-07-30T01:46:47",
+    "days_remaining": 59,
+    "san": [
+      "studyabroadnations.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(207, 211, 196)",
+      "rgb(250, 250, 250)",
+      "rgb(255, 255, 255)",
+      "rgb(234, 234, 234)",
+      "rgb(246, 246, 246)"
+    ],
+    "image_dimensions": "1920x10680",
+    "file_size_kb": 1336.6357421875
+  }
+}

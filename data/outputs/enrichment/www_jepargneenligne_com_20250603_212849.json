@@ -1,0 +1,81 @@
+{
+  "url": "https://www.jepargneenligne.com/bourse/nos-conseils-pour-bien-investir-en-bourse-2/",
+  "timestamp": "2025-06-03T17:28:40.452012+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_jepargneenligne_com_20250603_212849.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Launchpad.com Inc.",
+      "creation_date": "2016-07-11 17:44:48",
+      "expiration_date": "2025-07-11 17:44:48",
+      "name_servers": [
+        "NS5999.HOSTGATOR.COM",
+        "NS6000.HOSTGATOR.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "164.92.193.61"
+      ]
+    },
+    "age_days": 3248,
+    "registrar": "Launchpad.com Inc.",
+    "name_servers": [
+      "NS5999.HOSTGATOR.COM",
+      "NS6000.HOSTGATOR.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "jepargneenligne.com"
+    },
+    "not_before": "2025-04-19T18:45:57",
+    "not_after": "2025-07-18T18:45:56",
+    "days_remaining": 44,
+    "san": [
+      "jepargneenligne.com",
+      "www.jepargneenligne.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(252, 252, 252)",
+      "rgb(255, 255, 255)",
+      "rgb(3, 43, 63)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x4754",
+    "file_size_kb": 1270.7158203125
+  }
+}

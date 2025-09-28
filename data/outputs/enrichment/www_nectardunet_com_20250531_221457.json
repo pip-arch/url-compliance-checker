@@ -1,0 +1,77 @@
+{
+  "url": "https://www.nectardunet.com/4930/investissement-en-bourse-qu-est-ce-que-le-trading/",
+  "timestamp": "2025-05-31T18:14:52.055429+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_nectardunet_com_20250531_221457.png",
+  "domain_info": {
+    "whois": {},
+    "dns": {
+      "a_records": [
+        "87.98.154.146"
+      ],
+      "txt_records": [
+        "\"4|nectardunet.com\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "nectardunet.com"
+    },
+    "not_before": "2025-05-29T10:03:08",
+    "not_after": "2025-08-27T10:03:07",
+    "days_remaining": 87,
+    "san": [
+      "nectardunet.com",
+      "www.nectardunet.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: OVHcloud",
+    "Powered by: PHP/7.4",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(248, 248, 248)",
+      "rgb(230, 230, 230)"
+    ],
+    "image_dimensions": "1920x5318",
+    "file_size_kb": 1048.3857421875
+  }
+}

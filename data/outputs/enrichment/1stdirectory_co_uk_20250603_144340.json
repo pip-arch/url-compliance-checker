@@ -1,0 +1,90 @@
+{
+  "url": "https://1stdirectory.co.uk/companies/dokumentai-ltd/",
+  "timestamp": "2025-06-03T10:43:29.751824+00:00",
+  "screenshot_path": "data/outputs/screenshots/1stdirectory_co_uk_20250603_144340.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc. [Tag = CLOUDFLARE]",
+      "creation_date": "2000-01-10 00:00:00",
+      "expiration_date": "2026-01-10 00:00:00",
+      "name_servers": [
+        "heather.ns.cloudflare.com",
+        "max.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.163.215",
+        "104.21.73.157"
+      ],
+      "mx_records": [
+        "10 mail.1stdirectory.co.uk."
+      ],
+      "txt_records": [
+        "\"v=spf1 mx a ip4:46.249.215.64/16 include:sendgrid.net include:brainlogic.co.uk ~all\""
+      ]
+    },
+    "age_days": 9276,
+    "registrar": "Cloudflare, Inc. [Tag = CLOUDFLARE]",
+    "name_servers": [
+      "heather.ns.cloudflare.com",
+      "max.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "1stdirectory.co.uk"
+    },
+    "not_before": "2025-06-03T05:33:22",
+    "not_after": "2025-09-01T06:28:10",
+    "days_remaining": 89,
+    "san": [
+      "1stdirectory.co.uk",
+      "*.1stdirectory.co.uk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(252, 252, 252)",
+      "rgb(119, 119, 119)",
+      "rgb(253, 253, 253)",
+      "rgb(251, 251, 251)",
+      "rgb(123, 0, 123)"
+    ],
+    "image_dimensions": "1920x2571",
+    "file_size_kb": 349.5048828125
+  }
+}

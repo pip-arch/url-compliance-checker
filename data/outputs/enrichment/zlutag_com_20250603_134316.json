@@ -1,0 +1,96 @@
+{
+  "url": "https://zlutag.com/so-what-is-seo-anyway-helpful-info-about-search-engine-optimization-or-seo/",
+  "timestamp": "2025-06-03T09:42:53.967470+00:00",
+  "screenshot_path": "data/outputs/screenshots/zlutag_com_20250603_134316.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2024-09-08 14:17:29",
+      "expiration_date": "2025-09-08 14:17:29",
+      "name_servers": [
+        "CHRISTIAN.NS.CLOUDFLARE.COM",
+        "ISABEL.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.169.73",
+        "104.21.95.24"
+      ],
+      "mx_records": [
+        "15 eforward4.registrar-servers.com.",
+        "10 eforward3.registrar-servers.com.",
+        "20 eforward5.registrar-servers.com.",
+        "10 eforward1.registrar-servers.com.",
+        "10 eforward2.registrar-servers.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.efwd.registrar-servers.com ~all\""
+      ]
+    },
+    "age_days": 267,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "CHRISTIAN.NS.CLOUDFLARE.COM",
+      "ISABEL.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "zlutag.com"
+    },
+    "not_before": "2025-04-12T11:19:54",
+    "not_after": "2025-07-11T12:19:30",
+    "days_remaining": 37,
+    "san": [
+      "zlutag.com",
+      "*.zlutag.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular",
+    "Library: jQuery"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(17, 17, 51)",
+      "rgb(254, 254, 254)",
+      "rgb(248, 248, 249)",
+      "rgb(52, 52, 81)"
+    ],
+    "image_dimensions": "1920x1849",
+    "file_size_kb": 412.806640625
+  }
+}

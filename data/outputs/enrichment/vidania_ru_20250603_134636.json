@@ -1,0 +1,81 @@
+{
+  "url": "http://vidania.ru/history/sovetniki-dlya-torgovli-na-malyh-depozitah.html",
+  "timestamp": "2025-06-03T09:46:22.853863+00:00",
+  "screenshot_path": "data/outputs/screenshots/vidania_ru_20250603_134635.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "RU-CENTER-RU",
+      "creation_date": "2009-11-26 21:00:00",
+      "expiration_date": "2025-11-26 21:00:00",
+      "name_servers": [
+        "ns1.spaceweb.ru.",
+        "ns2.spaceweb.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "77.222.61.81"
+      ],
+      "mx_records": [
+        "20 mx2.spaceweb.ru.",
+        "10 mx1.spaceweb.ru."
+      ]
+    },
+    "age_days": 5667,
+    "registrar": "RU-CENTER-RU",
+    "name_servers": [
+      "ns1.spaceweb.ru.",
+      "ns2.spaceweb.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [
+    "Server: nginx/1.27.4",
+    "Powered by: PHP/5.3.29-pl0-gentoo",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(235, 245, 250)",
+      "rgb(236, 246, 251)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1936x4465",
+    "file_size_kb": 2779.8369140625
+  }
+}

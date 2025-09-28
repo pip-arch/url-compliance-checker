@@ -1,0 +1,108 @@
+{
+  "url": "http://propertymillionaire.com.my/2020/09/03/obzor-brokera-finmaxfx-na-foreks/",
+  "timestamp": "2025-06-03T08:37:39.584925+00:00",
+  "screenshot_path": "data/outputs/screenshots/propertymillionaire_com_my_20250603_123750.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Shinjiru Technology Sdn Bhd",
+      "creation_date": "2016-04-20 16:00:00",
+      "expiration_date": "2026-04-20 16:00:00",
+      "name_servers": [
+        "dns3.ip-asia.com",
+        "dns4.ip-asia.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "111.90.135.98"
+      ],
+      "mx_records": [
+        "0 propertymillionaire.com.my."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:111.90.135.90 ip4:111.90.135.117 include:spf.mailsentinel.net ip4:111.90.135.92 +a +mx +ip4:101.99.69.40 +ip4:101.99.69.207 +a:spf.mailsentinel.net ~all\""
+      ]
+    },
+    "age_days": 3330,
+    "registrar": "Shinjiru Technology Sdn Bhd",
+    "name_servers": [
+      "dns3.ip-asia.com",
+      "dns4.ip-asia.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "v2.swhengtee.com.my"
+    },
+    "not_before": "2025-05-06T09:02:32",
+    "not_after": "2025-08-04T09:02:31",
+    "days_remaining": 61,
+    "san": [
+      "autodiscover.propertymillionaire.com.my",
+      "cpanel.propertymillionaire.com.my",
+      "cpanel.swhengtee.com.my",
+      "cpcalendars.propertymillionaire.com.my",
+      "cpcalendars.swhengtee.com.my",
+      "cpcontacts.propertymillionaire.com.my",
+      "cpcontacts.swhengtee.com.my",
+      "mail.propertymillionaire.com.my",
+      "propertymillionaire.com.my",
+      "propertymillionaire.swhengtee.com.my",
+      "swhengtee.com.my",
+      "v2.swhengtee.com.my",
+      "webdisk.propertymillionaire.com.my",
+      "webdisk.swhengtee.com.my",
+      "webmail.propertymillionaire.com.my",
+      "webmail.swhengtee.com.my",
+      "www.propertymillionaire.com.my",
+      "www.propertymillionaire.swhengtee.com.my",
+      "www.swhengtee.com.my",
+      "www.v2.swhengtee.com.my",
+      "www.webmail.swhengtee.com.my"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(51, 51, 51)",
+      "rgb(204, 204, 204)",
+      "rgb(215, 215, 215)",
+      "rgb(206, 206, 206)"
+    ],
+    "image_dimensions": "1920x2240",
+    "file_size_kb": 1091.0234375
+  }
+}

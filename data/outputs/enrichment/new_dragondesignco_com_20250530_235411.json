@@ -1,0 +1,86 @@
+{
+  "url": "http://new.dragondesignco.com/jekspertnyj-obzor-alfaforex-com/",
+  "timestamp": "2025-05-30T19:53:57.350267+00:00",
+  "screenshot_path": "data/outputs/screenshots/new_dragondesignco_com_20250530_235411.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Hostopia Canada Corp",
+      "creation_date": "2006-04-27 01:25:44",
+      "expiration_date": "2026-04-27 01:25:44",
+      "name_servers": [
+        "NS1.ABAC.COM",
+        "NS2.ABAC.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "64.29.151.221"
+      ],
+      "mx_records": [
+        "10 ALT4.ASPMX.L.GOOGLE.com.",
+        "10 ALT3.ASPMX.L.GOOGLE.com.",
+        "5 ALT1.ASPMX.L.GOOGLE.com.",
+        "5 ALT2.ASPMX.L.GOOGLE.com.",
+        "1 ASPMX.L.GOOGLE.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx include:spfc40.carrierzone.com ~all\""
+      ]
+    },
+    "age_days": 6973,
+    "registrar": "Hostopia Canada Corp",
+    "name_servers": [
+      "NS1.ABAC.COM",
+      "NS2.ABAC.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(82, 67, 67)",
+      "rgb(246, 246, 246)",
+      "rgb(81, 66, 66)",
+      "rgb(241, 241, 241)",
+      "rgb(80, 65, 65)"
+    ],
+    "image_dimensions": "1920x4059",
+    "file_size_kb": 831.2734375
+  }
+}

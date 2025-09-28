@@ -1,0 +1,94 @@
+{
+  "url": "https://comparic.com/christmas-comes-early-trading-spread-rebate-admiral-markets/",
+  "timestamp": "2025-05-31T09:55:05.389829+00:00",
+  "screenshot_path": "data/outputs/screenshots/comparic_com_20250531_135511.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH, SAS",
+      "creation_date": "2012-07-12 15:43:12",
+      "expiration_date": "[datetime.datetime(2025, 7, 12, 15, 43, 12), datetime.datetime(2025, 7, 12, 17, 43, 12, tzinfo=datetime.timezone(datetime.timedelta(seconds=7200)))]",
+      "name_servers": [
+        "DNS102.OVH.NET",
+        "NS102.OVH.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "195.242.116.113"
+      ],
+      "mx_records": [
+        "1 mx1.mail.ovh.net.",
+        "5 mx2.mail.ovh.net.",
+        "100 mx3.mail.ovh.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:mx.ovh.com include:getresponse-mail.com ~all\"",
+        "\"google-site-verification=H69NBbgngWb0DJ0qmrW1798zgmxQteIc3tfc-WSYgfw\"",
+        "\"1|www.comparic.com\""
+      ]
+    },
+    "age_days": 4705,
+    "registrar": "OVH, SAS",
+    "name_servers": [
+      "DNS102.OVH.NET",
+      "NS102.OVH.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "comparic.com"
+    },
+    "not_before": "2025-04-30T21:35:26",
+    "not_after": "2025-07-29T21:35:25",
+    "days_remaining": 59,
+    "san": [
+      "comparic.com",
+      "www.comparic.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(34, 34, 34)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)",
+      "rgb(236, 236, 236)"
+    ],
+    "image_dimensions": "1920x7251",
+    "file_size_kb": 1141.0654296875
+  }
+}

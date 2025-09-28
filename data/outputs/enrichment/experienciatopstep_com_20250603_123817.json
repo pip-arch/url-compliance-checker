@@ -1,0 +1,91 @@
+{
+  "url": "https://experienciatopstep.com/cursos-de-trading/bolsa-para-torpes/",
+  "timestamp": "2025-06-03T08:38:06.198409+00:00",
+  "screenshot_path": "data/outputs/screenshots/experienciatopstep_com_20250603_123815.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2017, 5, 29, 15, 19, 41), datetime.datetime(2017, 5, 29, 10, 19, 41)]",
+      "expiration_date": "[datetime.datetime(2027, 5, 29, 15, 19, 41), datetime.datetime(2027, 5, 29, 10, 19, 41)]",
+      "name_servers": [
+        "NS21.DOMAINCONTROL.COM",
+        "NS22.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "192.124.249.40"
+      ],
+      "mx_records": [
+        "0 mail.experienciatopstep.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=PTJpM7Zp2ZwWJLHpPoy4CouoUjkCF4dT8UmjRNmpqHU\"",
+        "\"v=spf1 +a +mx include:secureserver.net ~all\"",
+        "\"v=spf1 a mx ptr include:secureserver.net include:4545694.spf10.hubspotemail.net ~all\""
+      ]
+    },
+    "age_days": 2926,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS21.DOMAINCONTROL.COM",
+      "NS22.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "stateOrProvinceName": "Arizona",
+      "localityName": "Scottsdale",
+      "organizationName": "GoDaddy.com, Inc.",
+      "organizationalUnitName": "http://certs.godaddy.com/repository/",
+      "commonName": "Go Daddy Secure Certificate Authority - G2"
+    },
+    "subject": {
+      "commonName": "experienciatopstep.com"
+    },
+    "not_before": "2025-04-14T10:28:26",
+    "not_after": "2025-07-13T10:28:26",
+    "days_remaining": 39,
+    "san": [
+      "www.experienciatopstep.com",
+      "experienciatopstep.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Sucuri/Cloudproxy",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(251, 251, 251)",
+      "rgb(250, 250, 250)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x26495",
+    "file_size_kb": 4084.4609375
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "url": "https://www.mignews.co.il/news/economics/prop-treiding-stoit-li-vviazyvatsia-v-igru.html",
+  "timestamp": "2025-05-29T18:24:11.180281+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_mignews_co_il_20250529_222424.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "InterSpace Ltd",
+      "creation_date": null,
+      "expiration_date": "2025-12-08 00:00:00",
+      "name_servers": [
+        "cloe.ns.cloudflare.com",
+        "coleman.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.64.243",
+        "172.67.138.46"
+      ]
+    },
+    "age_days": null,
+    "registrar": "InterSpace Ltd",
+    "name_servers": [
+      "cloe.ns.cloudflare.com",
+      "coleman.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "mignews.co.il"
+    },
+    "not_before": "2025-05-07T18:16:43",
+    "not_after": "2025-08-05T19:14:52",
+    "days_remaining": 67,
+    "san": [
+      "mignews.co.il",
+      "*.mignews.co.il"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(33, 37, 41)",
+      "rgb(220, 220, 220)",
+      "rgb(217, 217, 217)",
+      "rgb(216, 216, 216)"
+    ],
+    "image_dimensions": "1920x4959",
+    "file_size_kb": 1043.55078125
+  }
+}

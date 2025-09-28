@@ -1,0 +1,85 @@
+{
+  "url": "https://www.brokerxplorer.com/article/what-traders-should-look-for-in-a-forex-broker-platform-26",
+  "timestamp": "2025-05-31T10:37:24.420770+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_brokerxplorer_com_20250531_143731.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2019-11-22 04:13:56",
+      "expiration_date": "2025-11-22 04:13:56",
+      "name_servers": [
+        "GANNON.NS.CLOUDFLARE.COM",
+        "NIA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.26.0.193",
+        "104.26.1.193",
+        "172.67.73.42"
+      ]
+    },
+    "age_days": 2017,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "GANNON.NS.CLOUDFLARE.COM",
+      "NIA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "brokerxplorer.com"
+    },
+    "not_before": "2025-05-16T07:30:13",
+    "not_after": "2025-08-14T08:26:30",
+    "days_remaining": 74,
+    "san": [
+      "brokerxplorer.com",
+      "*.brokerxplorer.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Frame-Options",
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(249, 249, 249)",
+      "rgb(232, 232, 232)",
+      "rgb(243, 243, 243)"
+    ],
+    "image_dimensions": "1920x5800",
+    "file_size_kb": 1318.4609375
+  }
+}

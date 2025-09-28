@@ -1,0 +1,81 @@
+{
+  "url": "http://bitlysdowssl-aws.com/ciencia-y-tecnologia/realmente-el-trading-puede-generar-ganancias-para-vivir-2/",
+  "timestamp": "2025-05-29T18:07:36.555061+00:00",
+  "screenshot_path": "data/outputs/screenshots/bitlysdowssl-aws_com_20250529_220807.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc.",
+      "creation_date": "2022-10-18 14:49:07",
+      "expiration_date": "2025-10-18 14:49:07",
+      "name_servers": [
+        "CLAY.NS.CLOUDFLARE.COM",
+        "ROXY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.67.187",
+        "172.67.179.123"
+      ]
+    },
+    "age_days": 954,
+    "registrar": "Cloudflare, Inc.",
+    "name_servers": [
+      "CLAY.NS.CLOUDFLARE.COM",
+      "ROXY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "bitlysdowssl-aws.com"
+    },
+    "not_before": "2025-05-26T05:05:36",
+    "not_after": "2025-08-24T06:03:22",
+    "days_remaining": 86,
+    "san": [
+      "bitlysdowssl-aws.com",
+      "*.bitlysdowssl-aws.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 251)",
+      "rgb(241, 241, 241)",
+      "rgb(243, 243, 243)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 15.5419921875
+  }
+}

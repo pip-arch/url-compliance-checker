@@ -1,0 +1,83 @@
+{
+  "url": "https://www.miradiols.cl/2024/12/23/cuando-comprar-acciones-para-cobrar-dividendo/",
+  "timestamp": "2025-06-03T06:51:34.301788+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_miradiols_cl_20250603_105145.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NIC Chile",
+      "creation_date": "2017-01-14 11:03:20 CLST",
+      "expiration_date": "2034-01-14 11:03:20 CLST",
+      "name_servers": [
+        "ns1.siteground.net",
+        "ns2.siteground.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "34.174.69.25"
+      ]
+    },
+    "age_days": null,
+    "registrar": "NIC Chile",
+    "name_servers": [
+      "ns1.siteground.net",
+      "ns2.siteground.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "*.miradiols.cl"
+    },
+    "not_before": "2025-05-24T21:19:44",
+    "not_after": "2025-08-22T21:19:43",
+    "days_remaining": 80,
+    "san": [
+      "*.miradiols.cl",
+      "miradiols.cl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(247, 247, 247)",
+      "rgb(249, 249, 249)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x6100",
+    "file_size_kb": 2003.5849609375
+  }
+}

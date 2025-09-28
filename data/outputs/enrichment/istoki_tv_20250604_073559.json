@@ -1,0 +1,87 @@
+{
+  "url": "https://istoki.tv/news/company/pravilnyy-vybor-valyutnoy-pary-na-rynke-foreks/",
+  "timestamp": "2025-06-04T03:35:23.578947+00:00",
+  "screenshot_path": "data/outputs/screenshots/istoki_tv_20250604_073556.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2014-02-14 09:12:51",
+      "expiration_date": "2026-02-14 09:12:51",
+      "name_servers": [
+        "dns1.yandex.net",
+        "dns2.yandex.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "77.247.237.153"
+      ],
+      "mx_records": [
+        "10 mx.yandex.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 redirect=_spf.yandex.net\""
+      ]
+    },
+    "age_days": 4127,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "dns1.yandex.net",
+      "dns2.yandex.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "istoki.tv"
+    },
+    "not_before": "2025-04-25T22:01:52",
+    "not_after": "2025-07-24T22:01:51",
+    "days_remaining": 50,
+    "san": [
+      "istoki.tv"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(252, 252, 252)",
+      "rgb(75, 75, 75)",
+      "rgb(255, 255, 255)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x5579",
+    "file_size_kb": 2207.5244140625
+  }
+}

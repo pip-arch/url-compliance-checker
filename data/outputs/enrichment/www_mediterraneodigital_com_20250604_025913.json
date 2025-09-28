@@ -1,0 +1,86 @@
+{
+  "url": "https://www.mediterraneodigital.com/finanzas/cuenta-demo",
+  "timestamp": "2025-06-03T22:59:05.454320+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_mediterraneodigital_com_20250604_025912.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "TUCOWS, INC.",
+      "creation_date": "2010-10-06 12:55:47",
+      "expiration_date": "2026-10-06 12:55:47",
+      "name_servers": [
+        "NS1.SITEGROUND.NET",
+        "NS2.SITEGROUND.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "34.149.36.179",
+        "34.160.17.71",
+        "35.244.153.44",
+        "35.190.31.54"
+      ]
+    },
+    "age_days": 5354,
+    "registrar": "TUCOWS, INC.",
+    "name_servers": [
+      "NS1.SITEGROUND.NET",
+      "NS2.SITEGROUND.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.mediterraneodigital.com"
+    },
+    "not_before": "2025-05-12T11:09:59",
+    "not_after": "2025-08-10T11:09:58",
+    "days_remaining": 67,
+    "san": [
+      "*.mediterraneodigital.com",
+      "mediterraneodigital.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)",
+      "rgb(245, 245, 245)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x3127",
+    "file_size_kb": 1195.38671875
+  }
+}

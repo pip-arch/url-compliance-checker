@@ -1,0 +1,93 @@
+{
+  "url": "https://www.grandmagazine.com/2019/09/how-to-choose-the-right-forex-broker/",
+  "timestamp": "2025-06-03T22:53:53.830203+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_grandmagazine_com_20250604_025404.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2001, 7, 12, 16, 1, 57), datetime.datetime(2001, 7, 12, 11, 1, 57)]",
+      "expiration_date": "[datetime.datetime(2026, 7, 12, 16, 1, 57), datetime.datetime(2026, 7, 12, 11, 1, 57)]",
+      "name_servers": [
+        "NS1.C29035.SGVPS.NET",
+        "NS2.C29035.SGVPS.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "34.174.183.117"
+      ],
+      "mx_records": [
+        "30 mx30.antispam.mailspamprotection.com.",
+        "20 mx20.antispam.mailspamprotection.com.",
+        "10 mx10.antispam.mailspamprotection.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:emsd1.com  include:grandmagazine.com.spf.auto.dnssmarthost.net ~all\"",
+        "\"83a5m779ckqreeklntubq84qs3\""
+      ]
+    },
+    "age_days": 8727,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS1.C29035.SGVPS.NET",
+      "NS2.C29035.SGVPS.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.grandmagazine.com"
+    },
+    "not_before": "2025-05-19T01:27:50",
+    "not_after": "2025-08-17T01:27:49",
+    "days_remaining": 73,
+    "san": [
+      "*.grandmagazine.com",
+      "grandmagazine.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(239, 239, 239)",
+      "rgb(240, 240, 240)",
+      "rgb(238, 238, 238)",
+      "rgb(12, 17, 21)"
+    ],
+    "image_dimensions": "1920x4390",
+    "file_size_kb": 2118.337890625
+  }
+}

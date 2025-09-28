@@ -1,0 +1,96 @@
+{
+  "url": "https://www.newtrading.fr/tradingview-alternatives",
+  "timestamp": "2025-05-29T18:50:32.639167+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_newtrading_fr_20250529_225038.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH",
+      "creation_date": "2013-11-02 16:54:40",
+      "expiration_date": "2025-10-01 22:07:09",
+      "name_servers": [
+        "aurora.ns.cloudflare.com",
+        "gabriel.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.26.1.248",
+        "172.67.74.153",
+        "104.26.0.248"
+      ],
+      "mx_records": [
+        "100 mx3.mail.ovh.net.",
+        "1 mx1.mail.ovh.net.",
+        "50 mx2.mail.ovh.net.",
+        "5 mx1.mail.ovh.net."
+      ],
+      "txt_records": [
+        "\"3|welcome\"",
+        "\"l|fr\""
+      ]
+    },
+    "age_days": 4226,
+    "registrar": "OVH",
+    "name_servers": [
+      "aurora.ns.cloudflare.com",
+      "gabriel.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "newtrading.fr"
+    },
+    "not_before": "2025-04-26T18:49:47",
+    "not_after": "2025-07-25T19:49:41",
+    "days_remaining": 56,
+    "san": [
+      "newtrading.fr",
+      "*.newtrading.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(254, 254, 254)",
+      "rgb(236, 236, 236)",
+      "rgb(228, 228, 228)"
+    ],
+    "image_dimensions": "1920x8744",
+    "file_size_kb": 1833.958984375
+  }
+}

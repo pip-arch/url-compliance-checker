@@ -1,0 +1,75 @@
+{
+  "url": "http://snn.gr/com/a/a_032500_com.html",
+  "timestamp": "2025-06-03T10:48:18.304085+00:00",
+  "screenshot_path": "data/outputs/screenshots/snn_gr_20250603_144827.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "64.136.20.37"
+      ],
+      "mx_records": [
+        "10 mail.bluetie.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.bluetie.com ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "Connection Error: [Errno 61] Connection refused"
+    ]
+  },
+  "technology_stack": [
+    "Server: .V11 Apache"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 225)",
+      "rgb(255, 255, 255)",
+      "rgb(235, 255, 255)",
+      "rgb(232, 241, 222)",
+      "rgb(231, 240, 222)"
+    ],
+    "image_dimensions": "1921x27219",
+    "file_size_kb": 2743.4208984375
+  }
+}

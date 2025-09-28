@@ -1,0 +1,94 @@
+{
+  "url": "https://vgolos.ua/news/chomu-deyaki-psyhology-pratsyuyut-uspishnishe-za-ekonomistiv_299810.html",
+  "timestamp": "2025-06-04T03:42:08.513311+00:00",
+  "screenshot_path": "data/outputs/screenshots/vgolos_ua_20250604_074221.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "\u0422\u041e\u0412 \"\u0425\u041e\u0421\u0422\u0406\u041d\u0413 \u0423\u041a\u0420\u0410\u0407\u041d\u0410\"",
+      "creation_date": "['2015-12-16 14:02:36+02', '2015-12-16 10:43:09+02']",
+      "expiration_date": "2025-12-16 14:02:36+02",
+      "name_servers": [
+        "adrian.ns.cloudflare.com",
+        "yichun.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.41.104",
+        "172.67.146.141"
+      ],
+      "mx_records": [
+        "20 mini.ova.in.ua.",
+        "10 ova.in.ua."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:95.215.157.210 ip4:65.21.151.184 mx -all\"",
+        "\"google-site-verification=K9_18ihVYqIxS73XDQPy_mPp0V56ThEtEuvD4LOSLj4\"",
+        "\"google-site-verification=VxyEm6RB_rf3Lfym2P88J9dxcnh9BhNk1cDvb97f7TM\""
+      ]
+    },
+    "age_days": null,
+    "registrar": "\u0422\u041e\u0412 \"\u0425\u041e\u0421\u0422\u0406\u041d\u0413 \u0423\u041a\u0420\u0410\u0407\u041d\u0410\"",
+    "name_servers": [
+      "adrian.ns.cloudflare.com",
+      "yichun.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "vgolos.ua"
+    },
+    "not_before": "2025-04-06T11:52:49",
+    "not_after": "2025-07-05T12:51:18",
+    "days_remaining": 31,
+    "san": [
+      "vgolos.ua",
+      "*.vgolos.ua"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.29",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(246, 247, 251)",
+      "rgb(254, 254, 254)",
+      "rgb(250, 251, 253)",
+      "rgb(216, 216, 216)"
+    ],
+    "image_dimensions": "1920x2565",
+    "file_size_kb": 1915.134765625
+  }
+}

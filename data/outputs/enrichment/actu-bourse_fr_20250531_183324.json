@@ -1,0 +1,89 @@
+{
+  "url": "https://actu-bourse.fr/meilleur-courtier-day-trading/",
+  "timestamp": "2025-05-31T14:33:19.409099+00:00",
+  "screenshot_path": "data/outputs/screenshots/actu-bourse_fr_20250531_183324.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "SCALEWAY",
+      "creation_date": "2017-09-12 21:07:11",
+      "expiration_date": "2025-09-20 18:12:42",
+      "name_servers": [
+        "ns1.o2switch.net",
+        "ns2.o2switch.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "109.234.161.194"
+      ],
+      "mx_records": [
+        "0 actu-bourse.fr."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:109.234.161.194 +a +mx +include:spf.jabatus.fr ~all\"",
+        "\"google-site-verification=dsuuB1RlgtEI1Klwhsfx7yfmnAudrJQzwrAgVlkZkYI\""
+      ]
+    },
+    "age_days": 2817,
+    "registrar": "SCALEWAY",
+    "name_servers": [
+      "ns1.o2switch.net",
+      "ns2.o2switch.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "actu-bourse.fr"
+    },
+    "not_before": "2025-04-19T13:28:10",
+    "not_after": "2025-07-18T13:28:09",
+    "days_remaining": 47,
+    "san": [
+      "actu-bourse.fr",
+      "mail.actu-bourse.fr",
+      "www.actu-bourse.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: o2switch-PowerBoost-v3",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(50, 50, 50)",
+      "rgb(245, 245, 245)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x6050",
+    "file_size_kb": 862.42578125
+  }
+}

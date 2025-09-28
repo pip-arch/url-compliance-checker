@@ -1,0 +1,90 @@
+{
+  "url": "https://vladivostok.com/business/19/08/osnovnye-preimushchestva-i-osobennosti-torgovli-zolotom-na-birzhe-foreks.asp",
+  "timestamp": "2025-05-31T14:28:39.663598+00:00",
+  "screenshot_path": "data/outputs/screenshots/vladivostok_com_20250531_182845.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc.",
+      "creation_date": "1996-05-29 04:00:00",
+      "expiration_date": "2026-05-28 04:00:00",
+      "name_servers": [
+        "DAVE.NS.CLOUDFLARE.COM",
+        "JO.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.77.104",
+        "172.67.206.181"
+      ],
+      "mx_records": [
+        "10 mx1.masterhost.ru."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.masterhost.ru include:_spf.yandex.net ~all\"",
+        "\"google-site-verification=jjXBkGSNKp458f8MKe1sXFBQzbcxRAAa7NrwXTztT_s\""
+      ]
+    },
+    "age_days": 10594,
+    "registrar": "Cloudflare, Inc.",
+    "name_servers": [
+      "DAVE.NS.CLOUDFLARE.COM",
+      "JO.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "vladivostok.com"
+    },
+    "not_before": "2025-05-28T03:28:22",
+    "not_after": "2025-08-26T04:26:50",
+    "days_remaining": 86,
+    "san": [
+      "vladivostok.com",
+      "*.vladivostok.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: ASP.NET"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(217, 217, 217)",
+      "rgb(225, 225, 225)",
+      "rgb(219, 219, 219)",
+      "rgb(218, 218, 218)"
+    ],
+    "image_dimensions": "1920x1894",
+    "file_size_kb": 847.2763671875
+  }
+}

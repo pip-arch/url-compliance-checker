@@ -1,0 +1,86 @@
+{
+  "url": "http://ea666.cn/article.php?id=56",
+  "timestamp": "2025-06-03T10:47:53.656760+00:00",
+  "screenshot_path": "data/outputs/screenshots/ea666_cn_20250603_144806.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "\u5e7f\u5dde\u4e91\u8baf\u4fe1\u606f\u79d1\u6280\u6709\u9650\u516c\u53f8",
+      "creation_date": "2019-01-28 15:32:38",
+      "expiration_date": "2030-01-28 15:32:38",
+      "name_servers": [
+        "dns19.hichina.com",
+        "dns20.hichina.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "47.243.53.125"
+      ],
+      "txt_records": [
+        "\"google-site-verification=w1C_fT4GSA8M4BpXNvYQOaOLeHMuTqf6yrZPzNf1Onk\""
+      ]
+    },
+    "age_days": 2317,
+    "registrar": "\u5e7f\u5dde\u4e91\u8baf\u4fe1\u606f\u79d1\u6280\u6709\u9650\u516c\u53f8",
+    "name_servers": [
+      "dns19.hichina.com",
+      "dns20.hichina.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "ea666.cn"
+    },
+    "not_before": "2025-05-28T00:04:38",
+    "not_after": "2025-08-26T00:04:37",
+    "days_remaining": 83,
+    "san": [
+      "ea666.cn",
+      "www.ea666.cn"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(247, 247, 247)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x1502",
+    "file_size_kb": 335.96484375
+  }
+}

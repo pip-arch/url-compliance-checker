@@ -1,0 +1,97 @@
+{
+  "url": "https://neue-pressemitteilungen.de/bonus-so-einfach-wie-1-2-3.html",
+  "timestamp": "2025-06-03T16:43:15.575554+00:00",
+  "screenshot_path": "data/outputs/screenshots/neue-pressemitteilungen_de_20250603_204319.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns17.domaincontrol.com",
+        "ns18.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "94.16.108.55"
+      ],
+      "mx_records": [
+        "5 alt2.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "10 feedback-smtp.eu-central-1.amazonses.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 mx a ip4:92.51.147.149  ~all\"",
+        "\"google-site-verification=AywtC-0ky9dKdFhzR4TEVp43qtY5o-VvWi_iirHCDXs\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns17.domaincontrol.com",
+      "ns18.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "neue-pressemitteilungen.de"
+    },
+    "not_before": "2025-05-15T23:05:52",
+    "not_after": "2025-08-13T23:05:51",
+    "days_remaining": 71,
+    "san": [
+      "neue-pressemitteilungen.de",
+      "www.neue-pressemitteilungen.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(57, 57, 57)",
+      "rgb(249, 249, 249)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x3850",
+    "file_size_kb": 583.2109375
+  }
+}

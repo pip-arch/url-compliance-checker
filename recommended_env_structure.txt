@@ -1,0 +1,68 @@
+# URL Checker Environment Variables - Development
+# Last updated: April 2023
+
+# ======== APPLICATION SETTINGS ========
+# FastAPI Settings
+APP_ENV=development
+DEBUG=true
+SECRET_KEY=your_secret_key_here
+
+# Database Settings
+DATABASE_URL=sqlite:///./data/url_checker.db
+
+# ======== API INTEGRATIONS ========
+# Pinecone Vector Database Settings
+PINECONE_API_KEY=your_pinecone_api_key_here
+PINECONE_ENVIRONMENT=gcp-starter
+PINECONE_INDEX_NAME=url-checker-index
+EMBEDDING_MODEL=all-MiniLM-L6-v2
+EMBEDDING_DIMENSION=384
+
+# OpenRouter AI Model Settings
+# IMPORTANT: Make sure your OpenRouter API key is in the correct format: sk-or-v1-xxxxxxxxxxxxxxxxx
+# and doesn't contain any trailing spaces, line breaks, or other characters
+OPENROUTER_API_KEY=your_openrouter_api_key_here
+OPENROUTER_MODEL=meta/llama3-70b-instruct
+
+# Firecrawl Web Crawler Settings
+FIRECRAWL_API_KEY=your_firecrawl_api_key_here
+FIRECRAWL_API_URL=https://api.firecrawl.dev/v1/crawl
+FIRECRAWL_CREDITS_USED=603
+USE_MOCK_PERCENTAGE=95
+FIRECRAWL_CREDIT_LIMIT=99000
+
+# ======== CRAWLING SETTINGS ========
+# Web Crawling Configuration
+MAX_URLS_PER_BATCH=1000
+CRAWL_DELAY=2
+REQUEST_TIMEOUT=30
+MAX_RETRIES=3
+USER_AGENT=URL-Checker Bot/1.0 (Compliance monitoring for Admiral Markets)
+
+# ======== DOMAIN SETTINGS ========
+# Admiral Markets Domain Settings - URLs from these domains will be skipped
+OWN_DOMAINS=admiralmarkets.com,admirals.com
+
+# Regulator Domain Settings - URLs from these domains will be skipped
+REGULATOR_DOMAINS=cysec.gov.cy,fca.org.uk,bafin.de
+
+# ======== PERFORMANCE TUNING ========
+# Batch Processing Settings
+MAX_CONCURRENT_REQUESTS=25  # Maximum number of concurrent URL requests
+MAX_REQUESTS_PER_DOMAIN=2   # Limit requests to same domain to avoid rate limiting
+DOMAIN_COOLDOWN_PERIOD=3.0  # Time in seconds to wait between requests to same domain
+MAX_CPU_PERCENT=87.0        # Maximum CPU usage before throttling
+MAX_MEMORY_PERCENT=80.0     # Maximum memory usage before throttling
+MEMORY_CHECKPOINT_INTERVAL=1000  # How often to check memory usage (in URLs processed)
+GC_THRESHOLD=75.0           # Memory percentage to trigger garbage collection
+
+# ======== ERROR HANDLING ========
+DOMAIN_FAILURE_THRESHOLD=5   # Number of failures before blacklisting a domain temporarily
+CIRCUIT_BREAKER_TIMEOUT=3600 # Seconds to wait before retrying a problematic domain (1 hour)
+DEFAULT_MAX_RETRIES=3        # Default number of retries for failed operations
+
+# ======== FILE PATHS ========
+# Directory Configuration
+DATA_DIR=./data
+RESULTS_DIR=./data/test_results
+BATCH_STATE_DIR=./data/batch_state 

@@ -1,0 +1,90 @@
+{
+  "url": "https://jo24.net/article/418309",
+  "timestamp": "2025-06-03T20:25:05.382153+00:00",
+  "screenshot_path": "data/outputs/screenshots/jo24_net_20250604_002529.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2012, 1, 9, 15, 24, 13), datetime.datetime(2012, 1, 9, 10, 24, 13)]",
+      "expiration_date": "[datetime.datetime(2032, 1, 9, 15, 24, 13), datetime.datetime(2032, 1, 9, 10, 24, 13)]",
+      "name_servers": [
+        "CDNS.OVH.NET",
+        "NS2.JO24.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "15.235.115.27"
+      ],
+      "mx_records": [
+        "10 mail.jo24.net."
+      ],
+      "txt_records": [
+        "\"k3vs3n8b4gkq2byxvz8z0lkqw8pwt9m3\"",
+        "\"v=spf1 ip4:15.235.115.27 ip4:135.125.244.131 a mx +ip4:198.154.99.60 +ip4:198.154.99.76 +ip4:198.154.99.36 -all\""
+      ]
+    },
+    "age_days": 4894,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "CDNS.OVH.NET",
+      "NS2.JO24.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "DigiCert Inc",
+      "organizationalUnitName": "www.digicert.com",
+      "commonName": "Thawte TLS RSA CA G1"
+    },
+    "subject": {
+      "commonName": "jo24.net"
+    },
+    "not_before": "2025-01-16T00:00:00",
+    "not_after": "2026-01-15T23:59:59",
+    "days_remaining": 225,
+    "san": [
+      "jo24.net",
+      "www.jo24.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(233, 235, 239)",
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x5354",
+    "file_size_kb": 3203.26953125
+  }
+}

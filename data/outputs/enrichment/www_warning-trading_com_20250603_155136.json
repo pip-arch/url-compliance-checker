@@ -1,0 +1,73 @@
+{
+  "url": "https://www.warning-trading.com/trading-forex-cfds-options-binaires/les-sites-de-trading-vers-lesquels-renvoient-de-faux-profils-tinder-meetic-happn-lovoo/",
+  "timestamp": "2025-06-03T11:51:04.375145+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Namebay",
+      "creation_date": "[datetime.datetime(2013, 11, 15, 8, 7, 12), '2013-11-15 00:00:00.000']",
+      "expiration_date": "[datetime.datetime(2026, 11, 15, 8, 7, 12), '2026-11-15 00:00:00.000']",
+      "name_servers": [
+        "ARCH.NS.CLOUDFLARE.COM",
+        "VAL.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.70.13",
+        "104.26.10.149",
+        "104.26.11.149"
+      ]
+    },
+    "age_days": 4218,
+    "registrar": "Namebay",
+    "name_servers": [
+      "ARCH.NS.CLOUDFLARE.COM",
+      "VAL.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "warning-trading.com"
+    },
+    "not_before": "2025-05-12T07:14:24",
+    "not_after": "2025-08-10T08:13:56",
+    "days_remaining": 67,
+    "san": [
+      "warning-trading.com",
+      "*.warning-trading.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

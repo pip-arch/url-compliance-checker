@@ -1,0 +1,80 @@
+{
+  "url": "https://icmsmt.com/list-1270/",
+  "timestamp": "2025-05-30T11:18:30.909763+00:00",
+  "screenshot_path": "data/outputs/screenshots/icmsmt_com_20250530_151842.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2018, 7, 29, 5, 15, 50), datetime.datetime(2018, 7, 29, 0, 15, 50)]",
+      "expiration_date": "[datetime.datetime(2025, 7, 29, 5, 15, 50), datetime.datetime(2025, 7, 29, 0, 15, 50)]",
+      "name_servers": [
+        "NS1.DIGITALOCEAN.COM",
+        "NS2.DIGITALOCEAN.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "139.59.6.245"
+      ]
+    },
+    "age_days": 2497,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS1.DIGITALOCEAN.COM",
+      "NS2.DIGITALOCEAN.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "GB",
+      "stateOrProvinceName": "Greater Manchester",
+      "localityName": "Salford",
+      "organizationName": "Sectigo Limited",
+      "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+    },
+    "subject": {
+      "commonName": "icmsmt.com"
+    },
+    "not_before": "2024-11-22T00:00:00",
+    "not_after": "2025-11-22T23:59:59",
+    "days_remaining": 176,
+    "san": [
+      "icmsmt.com",
+      "www.icmsmt.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.18 (Ubuntu)",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [],
+    "image_dimensions": null,
+    "file_size_kb": 8061.7607421875
+  }
+}

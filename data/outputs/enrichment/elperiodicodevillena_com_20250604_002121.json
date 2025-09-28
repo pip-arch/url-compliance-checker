@@ -1,0 +1,81 @@
+{
+  "url": "https://elperiodicodevillena.com/bitcoin-trading/",
+  "timestamp": "2025-06-03T20:20:48.450322+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Tecnocratica Centro de Datos, S.L.",
+      "creation_date": "2005-08-01 17:53:52",
+      "expiration_date": "2025-08-01 17:53:52",
+      "name_servers": [
+        "AMBER.NS.CLOUDFLARE.COM",
+        "JOEL.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "51.75.202.66"
+      ],
+      "mx_records": [
+        "10 aspmx2.googlemail.com.",
+        "10 aspmx5.googlemail.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 aspmx3.googlemail.com.",
+        "10 aspmx4.googlemail.com.",
+        "1 aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=FRfj-NNi5Ey5cCFutxwTuMu8xOcyim0W-EkgCT7a5jo\"",
+        "\"v=spf1 include:_spf.google.com ~all\"",
+        "\"facebook-domain-verification\\\" content=\\\"oixlnc2sydwa5v2l2sl6wslxujk29u\""
+      ]
+    },
+    "age_days": 7246,
+    "registrar": "Tecnocratica Centro de Datos, S.L.",
+    "name_servers": [
+      "AMBER.NS.CLOUDFLARE.COM",
+      "JOEL.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "elperiodicodevillena.com"
+    },
+    "not_before": "2025-04-20T02:48:43",
+    "not_after": "2025-07-19T02:48:42",
+    "days_remaining": 45,
+    "san": [
+      "elperiodicodevillena.com",
+      "www.elperiodicodevillena.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/8.1.32",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {}
+}

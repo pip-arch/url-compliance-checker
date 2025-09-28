@@ -1,0 +1,94 @@
+{
+  "url": "https://www.mrsmummypenny.co.uk/earning-money-from-home-how-to-thrive-during-a-cost-of-living-crisis/",
+  "timestamp": "2025-06-03T14:05:21.124508+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_mrsmummypenny_co_uk_20250603_180531.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Kualo Ltd [Tag = KUALO]",
+      "creation_date": "2013-06-12 00:00:00",
+      "expiration_date": "2026-06-12 00:00:00",
+      "name_servers": [
+        "ns1.lingoliz.co.uk",
+        "ns2.lingoliz.co.uk",
+        "ns3.lingoliz.co.uk"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.181.117.67"
+      ],
+      "mx_records": [
+        "0 mrsmummypenny-co-uk.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=s6u-H6GnIGa_m4FqSF6YvY4RFfUMzb0jNAex3xSytB8\"",
+        "\"v=spf1 +a +mx +ip4:185.181.117.20 include:spf.filteredmx.net +include:spf.protection.outlook.com +include:servers.mcsv.net ~all\"",
+        "\"MS=ms47043386\""
+      ]
+    },
+    "age_days": 4374,
+    "registrar": "Kualo Ltd [Tag = KUALO]",
+    "name_servers": [
+      "ns1.lingoliz.co.uk",
+      "ns2.lingoliz.co.uk",
+      "ns3.lingoliz.co.uk"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "mrsmummypenny.co.uk"
+    },
+    "not_before": "2025-04-21T00:59:35",
+    "not_after": "2025-07-20T00:59:34",
+    "days_remaining": 46,
+    "san": [
+      "*.mrsmummypenny.co.uk",
+      "mrsmummypenny.co.uk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(93, 52, 130)",
+      "rgb(29, 52, 97)",
+      "rgb(253, 253, 253)",
+      "rgb(236, 234, 237)"
+    ],
+    "image_dimensions": "1920x7650",
+    "file_size_kb": 1720.0263671875
+  }
+}

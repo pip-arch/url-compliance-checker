@@ -1,0 +1,86 @@
+{
+  "url": "https://www.howestreet.com/2023/10/the-great-taking-how-they-can-own-it-all/",
+  "timestamp": "2025-06-03T21:23:47.423351+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_howestreet_com_20250604_012356.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2001-12-10 20:43:38",
+      "expiration_date": "2029-12-10 20:43:38",
+      "name_servers": [
+        "KAI.NS.CLOUDFLARE.COM",
+        "MARJORY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.26.13.65",
+        "172.67.68.87",
+        "104.26.12.65"
+      ]
+    },
+    "age_days": 8576,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "KAI.NS.CLOUDFLARE.COM",
+      "MARJORY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "howestreet.com"
+    },
+    "not_before": "2025-05-21T13:06:53",
+    "not_after": "2025-08-19T14:06:51",
+    "days_remaining": 76,
+    "san": [
+      "howestreet.com",
+      "*.howestreet.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(246, 246, 246)",
+      "rgb(248, 248, 248)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 1158.701171875
+  }
+}

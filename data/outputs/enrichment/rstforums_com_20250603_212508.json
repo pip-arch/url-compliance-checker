@@ -1,0 +1,85 @@
+{
+  "url": "https://rstforums.com/forum/profile/113477-andrei98m/content/page/5/?type=forums_topic_post",
+  "timestamp": "2025-06-03T17:25:00.025053+00:00",
+  "screenshot_path": "data/outputs/screenshots/rstforums_com_20250603_212507.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2012, 12, 16, 12, 12, 46), datetime.datetime(2012, 12, 16, 7, 12, 46)]",
+      "expiration_date": "[datetime.datetime(2025, 12, 16, 12, 12, 46), datetime.datetime(2025, 12, 16, 7, 12, 46)]",
+      "name_servers": [
+        "NS.RSTFORUMS.COM",
+        "NS39.DOMAINCONTROL.COM",
+        "NS40.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "137.74.202.89"
+      ],
+      "mx_records": [
+        "0 rstforums.com."
+      ],
+      "txt_records": [
+        "\"RST\"",
+        "\"v=spf1 ip4:137.74.202.89 -all\""
+      ]
+    },
+    "age_days": 4552,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS.RSTFORUMS.COM",
+      "NS39.DOMAINCONTROL.COM",
+      "NS40.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "rstforums.com"
+    },
+    "not_before": "2025-05-13T15:38:34",
+    "not_after": "2025-08-11T15:38:33",
+    "days_remaining": 68,
+    "san": [
+      "rstforums.com",
+      "www.rstforums.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Framework: React"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(13, 17, 20)",
+      "rgb(28, 28, 28)",
+      "rgb(18, 18, 18)",
+      "rgb(29, 29, 29)",
+      "rgb(38, 38, 38)"
+    ],
+    "image_dimensions": "1920x11194",
+    "file_size_kb": 1334.69140625
+  }
+}

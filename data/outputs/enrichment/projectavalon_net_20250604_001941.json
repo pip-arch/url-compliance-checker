@@ -1,0 +1,90 @@
+{
+  "url": "https://projectavalon.net/forum4/showthread.php?122020-The-Great-Taking-How-They-Can-Own-It-All-Ellen-Brown-on-David-Roger-Webb-s-Book&p=1586889",
+  "timestamp": "2025-06-03T20:19:28.437606+00:00",
+  "screenshot_path": "data/outputs/screenshots/projectavalon_net_20250604_001938.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "DYNADOT LLC",
+      "creation_date": "2008-07-21 18:27:13",
+      "expiration_date": "2025-07-21 18:27:13",
+      "name_servers": [
+        "NS1.MESSAGINGENGINE.COM",
+        "NS2.MESSAGINGENGINE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "142.93.203.225"
+      ],
+      "mx_records": [
+        "10 in1-smtp.messagingengine.com.",
+        "20 in2-smtp.messagingengine.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.messagingengine.com ?all\""
+      ]
+    },
+    "age_days": 6161,
+    "registrar": "DYNADOT LLC",
+    "name_servers": [
+      "NS1.MESSAGINGENGINE.COM",
+      "NS2.MESSAGINGENGINE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "projectavalon.net"
+    },
+    "not_before": "2025-05-19T23:09:44",
+    "not_after": "2025-08-17T23:09:43",
+    "days_remaining": 74,
+    "san": [
+      "projectavalon.net",
+      "www.projectavalon.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(250, 250, 250)",
+      "rgb(0, 0, 0)",
+      "rgb(242, 246, 248)",
+      "rgb(251, 251, 251)",
+      "rgb(255, 255, 255)"
+    ],
+    "image_dimensions": "1920x10412",
+    "file_size_kb": 3623.2890625
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "url": "https://ye.ua/news/news_27008.html",
+  "timestamp": "2025-06-03T18:15:34.185315+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "\u0422\u041e\u0412 \"\u0412\u0415\u0411\u041a\u0420\u0410\u0424\u0422\"",
+      "creation_date": "['2007-10-03 16:45:54+03', '2015-01-19 01:30:01+02']",
+      "expiration_date": "2025-10-03 16:45:50+03",
+      "name_servers": [
+        "brady.ns.cloudflare.com",
+        "lila.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.22.60.250",
+        "172.67.43.213",
+        "104.22.61.250"
+      ],
+      "mx_records": [
+        "30 alt2.aspmx.l.google.com.",
+        "50 aspmx3.googlemail.com.",
+        "70 aspmx5.googlemail.com.",
+        "10 aspmx.l.google.com.",
+        "20 alt1.aspmx.l.google.com.",
+        "60 aspmx4.googlemail.com.",
+        "40 aspmx2.googlemail.com."
+      ]
+    },
+    "age_days": null,
+    "registrar": "\u0422\u041e\u0412 \"\u0412\u0415\u0411\u041a\u0420\u0410\u0424\u0422\"",
+    "name_servers": [
+      "brady.ns.cloudflare.com",
+      "lila.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "ye.ua"
+    },
+    "not_before": "2025-05-18T23:27:44",
+    "not_after": "2025-08-17T00:27:40",
+    "days_remaining": 74,
+    "san": [
+      "ye.ua",
+      "*.ye.ua"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

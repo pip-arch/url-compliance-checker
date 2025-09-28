@@ -1,0 +1,72 @@
+{
+  "url": "https://vinnitsa.info/news/forexball-unikalniy-konkurs-dlya-treyderov-vsego-mira.html",
+  "timestamp": "2025-06-03T20:21:48.911782+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Internet Invest, Ltd. dba Imena.ua",
+      "creation_date": "2004-06-14 08:50:23",
+      "expiration_date": "2027-06-14 08:50:23",
+      "name_servers": [
+        "evan.ns.cloudflare.com",
+        "irena.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.132.109",
+        "104.21.4.204"
+      ],
+      "mx_records": [
+        "10 mail.imena.com.ua."
+      ]
+    },
+    "age_days": 7659,
+    "registrar": "Internet Invest, Ltd. dba Imena.ua",
+    "name_servers": [
+      "evan.ns.cloudflare.com",
+      "irena.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "vinnitsa.info"
+    },
+    "not_before": "2025-06-01T06:49:02",
+    "not_after": "2025-08-30T07:45:00",
+    "days_remaining": 87,
+    "san": [
+      "vinnitsa.info",
+      "*.vinnitsa.info"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

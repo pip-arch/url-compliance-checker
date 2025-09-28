@@ -1,0 +1,89 @@
+{
+  "url": "https://www.adn-mundo.com/los-consejos-esenciales-de-los-mejores-inversores-en-2023-lo-que-tienes-que-saber/",
+  "timestamp": "2025-06-03T09:48:27.271013+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_adn-mundo_com_20250603_134834.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Soluciones Corporativas IP, SL",
+      "creation_date": "2020-03-25 14:17:02",
+      "expiration_date": "2026-03-25 14:17:02",
+      "name_servers": [
+        "NS5110.BANAHOSTING.COM",
+        "NS5111.BANAHOSTING.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "50.31.176.53"
+      ],
+      "mx_records": [
+        "0 adn-mundo.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:50.31.176.50 ip4:198.136.62.57 +a +mx include:relay.mailchannels.net ~all\""
+      ]
+    },
+    "age_days": 1895,
+    "registrar": "Soluciones Corporativas IP, SL",
+    "name_servers": [
+      "NS5110.BANAHOSTING.COM",
+      "NS5111.BANAHOSTING.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "*.adn-mundo.com"
+    },
+    "not_before": "2025-04-29T08:27:10",
+    "not_after": "2025-07-28T08:27:09",
+    "days_remaining": 54,
+    "san": [
+      "*.adn-mundo.com",
+      "adn-mundo.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 29, 66)",
+      "rgb(247, 247, 247)",
+      "rgb(254, 254, 254)",
+      "rgb(249, 249, 249)"
+    ],
+    "image_dimensions": "1920x3916",
+    "file_size_kb": 631.2109375
+  }
+}

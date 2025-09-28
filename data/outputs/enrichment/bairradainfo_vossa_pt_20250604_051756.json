@@ -1,0 +1,82 @@
+{
+  "url": "http://bairradainfo.vossa.pt/2021/04/24/top-5-dos-melhores-smartphones-para-trading-online-em-2021/",
+  "timestamp": "2025-06-04T01:17:36.379291+00:00",
+  "screenshot_path": "data/outputs/screenshots/bairradainfo_vossa_pt_20250604_051755.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "94.46.183.37"
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:94.46.183.37 include:_spf.cleanmx.pt +a +mx +ip4:94.46.14.11 ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "www.bairradainfo.vossa.pt"
+    },
+    "not_before": "2025-04-12T19:33:05",
+    "not_after": "2025-07-11T19:33:04",
+    "days_remaining": 37,
+    "san": [
+      "bairradainfo.vossa.pt",
+      "www.bairradainfo.vossa.pt"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 247, 247)",
+      "rgb(33, 33, 33)",
+      "rgb(25, 25, 25)",
+      "rgb(126, 126, 126)"
+    ],
+    "image_dimensions": "1920x6237",
+    "file_size_kb": 1901.19140625
+  }
+}

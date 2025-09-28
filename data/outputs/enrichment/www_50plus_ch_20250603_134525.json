@@ -1,0 +1,78 @@
+{
+  "url": "https://www.50plus.ch/article/bewiesene-investitionsstrategien-fuer-anfaenger.html",
+  "timestamp": "2025-06-03T09:45:16.369164+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_50plus_ch_20250603_134525.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "18.244.87.123",
+        "18.244.87.117",
+        "18.244.87.45",
+        "18.244.87.43"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Amazon",
+      "commonName": "Amazon RSA 2048 M03"
+    },
+    "subject": {
+      "commonName": "www.50plus.ch"
+    },
+    "not_before": "2024-09-22T00:00:00",
+    "not_after": "2025-10-22T23:59:59",
+    "days_remaining": 141,
+    "san": [
+      "www.50plus.ch"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.41 (Ubuntu)",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(16, 101, 147)",
+      "rgb(223, 223, 223)",
+      "rgb(222, 222, 222)",
+      "rgb(224, 224, 224)"
+    ],
+    "image_dimensions": "1940x4106",
+    "file_size_kb": 1350.0751953125
+  }
+}

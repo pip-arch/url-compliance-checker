@@ -1,0 +1,94 @@
+{
+  "url": "https://pr-cy.io/admiralmarkets.com/",
+  "timestamp": "2025-06-03T06:50:47.355391+00:00",
+  "screenshot_path": "data/outputs/screenshots/pr-cy_io_20250603_105104.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Name.com, Inc.",
+      "creation_date": "2021-03-09 08:39:25",
+      "expiration_date": "2026-03-09 08:39:25",
+      "name_servers": [
+        "sid.ns.cloudflare.com",
+        "sharon.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.18.11.47",
+        "104.18.10.47"
+      ],
+      "mx_records": [
+        "10 mx.yandex.net."
+      ],
+      "txt_records": [
+        "\"yandex-verification: 917dc97f7b56a850\"",
+        "\"ahrefs-site-verification_09ba53ad3404b40edabed09fa03eb214d604c1fa28c3321441bebda4e4b7b7b3\"",
+        "\"ahrefs-site-verification_795b9daa35d939d81ab52b456758f2dbd3547aa07018e14c0bfd1aedfc924e3a\"",
+        "\"google-site-verification=005NegWfEuNkBEUi6bltBuhRRGvoHRTbwRm3i_qcg_M\"",
+        "\"yandex-verification: 8b8886f0ec0ace72\""
+      ]
+    },
+    "age_days": 1546,
+    "registrar": "Name.com, Inc.",
+    "name_servers": [
+      "sid.ns.cloudflare.com",
+      "sharon.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "pr-cy.io"
+    },
+    "not_before": "2025-04-10T06:33:05",
+    "not_after": "2025-07-09T07:32:40",
+    "days_remaining": 35,
+    "san": [
+      "pr-cy.io",
+      "*.pr-cy.io"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: Express"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(248, 249, 250)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x7802",
+    "file_size_kb": 812.236328125
+  }
+}

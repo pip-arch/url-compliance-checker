@@ -1,0 +1,79 @@
+{
+  "url": "https://www.brokersview.com/news/up-to-750-eurusdgbp-referral-reward-in-admiral-markets-7583",
+  "timestamp": "2025-06-03T21:19:51.871849+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2017, 9, 8, 10, 6, 58), datetime.datetime(2017, 9, 8, 5, 6, 58)]",
+      "expiration_date": "[datetime.datetime(2031, 9, 8, 10, 6, 58), datetime.datetime(2031, 9, 8, 5, 6, 58)]",
+      "name_servers": [
+        "NS-1371.AWSDNS-43.ORG",
+        "NS-2013.AWSDNS-59.CO.UK",
+        "NS-337.AWSDNS-42.COM",
+        "NS-858.AWSDNS-43.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "18.165.72.50",
+        "18.165.72.33",
+        "18.165.72.70",
+        "18.165.72.98"
+      ]
+    },
+    "age_days": 2825,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS-1371.AWSDNS-43.ORG",
+      "NS-2013.AWSDNS-59.CO.UK",
+      "NS-337.AWSDNS-42.COM",
+      "NS-858.AWSDNS-43.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Amazon",
+      "commonName": "Amazon RSA 2048 M03"
+    },
+    "subject": {
+      "commonName": "brokersview.com"
+    },
+    "not_before": "2024-09-24T00:00:00",
+    "not_after": "2025-10-23T23:59:59",
+    "days_remaining": 141,
+    "san": [
+      "brokersview.com",
+      "*.brokersview.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: openresty",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

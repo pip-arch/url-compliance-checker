@@ -1,0 +1,91 @@
+{
+  "url": "https://www.eurasischesmagazin.de/artikel/Internationaler-Devisenhandel-hochspekulatives-Geschaeftsmodell-immense-Gewinne-grosze-Pleiten/20170217",
+  "timestamp": "2025-05-31T17:28:32.295140+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_eurasischesmagazin_de_20250531_212839.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "a.ns14.net",
+        "b.ns14.net",
+        "c.ns14.net",
+        "d.ns14.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "5.44.107.52"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "a.ns14.net",
+      "b.ns14.net",
+      "c.ns14.net",
+      "d.ns14.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "GB",
+      "stateOrProvinceName": "Greater Manchester",
+      "localityName": "Salford",
+      "organizationName": "Sectigo Limited",
+      "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+    },
+    "subject": {
+      "commonName": "www.medizin-welt.info"
+    },
+    "not_before": "2024-06-08T00:00:00",
+    "not_after": "2025-06-08T23:59:59",
+    "days_remaining": 8,
+    "san": [
+      "www.medizin-welt.info",
+      "www.eurasischesmagazin.de"
+    ],
+    "issues": [
+      "Certificate expires in 8 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: Microsoft-IIS/10.0",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 102, 51)",
+      "rgb(232, 232, 232)",
+      "rgb(231, 231, 231)",
+      "rgb(230, 230, 230)"
+    ],
+    "image_dimensions": "1920x3884",
+    "file_size_kb": 1426.4326171875
+  }
+}

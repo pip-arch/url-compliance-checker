@@ -1,0 +1,75 @@
+{
+  "suspicious-site.com": {
+    "urls": [
+      "https://suspicious-site.com/admiral-bonus"
+    ],
+    "reasons": [
+      "real_llm: The content contains serious compliance issues that warrant blacklisting the URL. It makes misleading claims of 'guaranteed profits with no risk' which is false and violates financial advertising regulations. It also mentions an unauthorized '100% deposit bonus' special offer not officially sanctioned by Admiral Markets."
+    ],
+    "categories": [],
+    "confidence": 0.0,
+    "compliance_issues": [],
+    "batch_ids": [
+      "0.95"
+    ],
+    "first_added": "2025-04-16T20:06:33.955093",
+    "violation_count": 0,
+    "history": []
+  },
+  "scam-alert.com": {
+    "urls": [
+      "https://scam-alert.com/admiralmarkets-review"
+    ],
+    "reasons": [
+      "real_llm: The content makes misleading claims about Admiral Markets offering 'risk-free trading with 100% success rate'. This is a clear violation of financial advertising regulations. The phrasing also implies the site is questioning if Admiral Markets is a scam, which could damage brand reputation."
+    ],
+    "categories": [],
+    "confidence": 0.0,
+    "compliance_issues": [],
+    "batch_ids": [
+      "0.95"
+    ],
+    "first_added": "2025-04-16T20:06:33.955102",
+    "violation_count": 0,
+    "history": []
+  },
+  "fxonline24h.com": {
+    "urls": [
+      "https://fxonline24h.com/broker/review-san/"
+    ],
+    "reasons": [
+      "real_llm: The content appears to be an unauthorized review site promoting Admiral Markets with misleading claims. It uses Admiral Markets' logo and branding without permission, and mentions unauthorized offers like 'No Deposit Bonus' which Admiral Markets likely does not offer. This false representation and use of inappropriate marketing tactics is a serious compliance issue."
+    ],
+    "categories": [
+      "URLCategory.BLACKLIST"
+    ],
+    "confidence": 0.9,
+    "compliance_issues": [
+      "Overall misleading promotional content not in line with regulations",
+      "Mention of 'No Deposit Bonus' which is likely an unauthorized offer",
+      "Unauthorized use of Admiral Markets logo and branding",
+      "False representation, claiming unauthorized partnership"
+    ],
+    "batch_ids": [
+      "real_batch_20250416_200634_1"
+    ],
+    "first_added": "2025-04-16T21:20:28.524015",
+    "violation_count": 1,
+    "history": [
+      {
+        "timestamp": "2025-04-16T21:20:28.524046",
+        "url": "https://fxonline24h.com/broker/review-san/",
+        "reason": "real_llm: The content appears to be an unauthorized review site promoting Admiral Markets with misleading claims. It uses Admiral Markets' logo and branding without permission, and mentions unauthorized offers like 'No Deposit Bonus' which Admiral Markets likely does not offer. This false representation and use of inappropriate marketing tactics is a serious compliance issue.",
+        "confidence": 0.9,
+        "category": "URLCategory.BLACKLIST",
+        "compliance_issues": [
+          "Unauthorized use of Admiral Markets logo and branding",
+          "False representation, claiming unauthorized partnership",
+          "Mention of 'No Deposit Bonus' which is likely an unauthorized offer",
+          "Overall misleading promotional content not in line with regulations"
+        ],
+        "batch_id": "real_batch_20250416_200634_1"
+      }
+    ]
+  }
+}

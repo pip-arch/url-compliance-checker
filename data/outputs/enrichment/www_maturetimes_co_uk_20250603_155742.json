@@ -1,0 +1,91 @@
+{
+  "url": "http://www.maturetimes.co.uk/investing-in-your-retirement-is-forex-trading-a-viable-option/",
+  "timestamp": "2025-06-03T11:57:34.402324+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_maturetimes_co_uk_20250603_155742.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "123-Reg Limited t/a 123-reg [Tag = 123-REG]",
+      "creation_date": "2004-06-21 00:00:00",
+      "expiration_date": "2027-06-21 00:00:00",
+      "name_servers": [
+        "ns31.domaincontrol.com",
+        "ns32.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "92.205.11.83"
+      ]
+    },
+    "age_days": 7652,
+    "registrar": "123-Reg Limited t/a 123-reg [Tag = 123-REG]",
+    "name_servers": [
+      "ns31.domaincontrol.com",
+      "ns32.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "webdisk.maturetimes.co.uk"
+    },
+    "not_before": "2025-05-30T01:01:19",
+    "not_after": "2025-08-28T01:01:18",
+    "days_remaining": 85,
+    "san": [
+      "autodiscover.maturetimes.co.uk",
+      "cpanel.maturetimes.co.uk",
+      "cpcalendars.maturetimes.co.uk",
+      "cpcontacts.maturetimes.co.uk",
+      "maturetimes.co.uk",
+      "webdisk.maturetimes.co.uk",
+      "webmail.maturetimes.co.uk",
+      "www.maturetimes.co.uk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(245, 245, 245)",
+      "rgb(255, 255, 255)",
+      "rgb(34, 42, 48)",
+      "rgb(224, 224, 224)",
+      "rgb(225, 225, 225)"
+    ],
+    "image_dimensions": "1920x3378",
+    "file_size_kb": 1143.8681640625
+  }
+}

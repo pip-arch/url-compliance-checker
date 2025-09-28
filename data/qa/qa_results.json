@@ -1,0 +1,10 @@
+{
+  "qa_history": {},
+  "accuracy_metrics": {
+    "overall_accuracy": 0.0,
+    "blacklist_precision": 0.0,
+    "whitelist_precision": 0.0,
+    "confidence_correlation": 0.0,
+    "last_updated": null
+  }
+}

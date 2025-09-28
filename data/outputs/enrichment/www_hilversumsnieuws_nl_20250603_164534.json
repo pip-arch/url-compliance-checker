@@ -1,0 +1,87 @@
+{
+  "url": "https://www.hilversumsnieuws.nl/nieuws/advertorial/253112/massale-forex-en-cryptohandel-zwendel-overzeese-arrestaties-gaa",
+  "timestamp": "2025-06-03T12:45:26.094390+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_hilversumsnieuws_nl_20250603_164533.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Metaregistrar B.V.",
+      "creation_date": "2011-10-16 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "nsn1.mijndomein.nl",
+        "nsn2.mijndomein.nl"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "13.107.253.72"
+      ]
+    },
+    "age_days": 4979,
+    "registrar": "Metaregistrar B.V.",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "nsn1.mijndomein.nl",
+      "nsn2.mijndomein.nl"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "DigiCert, Inc.",
+      "commonName": "GeoTrust Global TLS RSA4096 SHA256 2022 CA1"
+    },
+    "subject": {
+      "commonName": "www.hilversumsnieuws.nl"
+    },
+    "not_before": "2025-03-19T00:00:00",
+    "not_after": "2025-09-19T23:59:59",
+    "days_remaining": 108,
+    "san": [
+      "www.hilversumsnieuws.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(31, 41, 55)",
+      "rgb(229, 231, 235)",
+      "rgb(248, 248, 248)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x5094",
+    "file_size_kb": 2360.1982421875
+  }
+}

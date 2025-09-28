@@ -1,0 +1,80 @@
+{
+  "url": "https://www.leipzig-online.de/news-lesen/top-3-trading-tipps-fuer-anfaenger.html",
+  "timestamp": "2025-06-03T22:57:50.240135+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_leipzig-online_de_20250604_025757.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns5.kasserver.com",
+        "ns6.kasserver.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "85.13.136.173"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns5.kasserver.com",
+      "ns6.kasserver.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "leipzig-online.de"
+    },
+    "not_before": "2025-04-20T00:19:22",
+    "not_after": "2025-07-19T00:19:21",
+    "days_remaining": 44,
+    "san": [
+      "leipzig-online.de",
+      "www.leipzig-online.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(242, 242, 242)",
+      "rgb(243, 243, 243)",
+      "rgb(241, 241, 241)",
+      "rgb(255, 255, 255)",
+      "rgb(244, 244, 244)"
+    ],
+    "image_dimensions": "1920x2330",
+    "file_size_kb": 1492.1064453125
+  }
+}

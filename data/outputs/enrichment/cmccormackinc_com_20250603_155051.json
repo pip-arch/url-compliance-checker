@@ -1,0 +1,83 @@
+{
+  "url": "http://cmccormackinc.com/investicii-v-pamm-scheta/",
+  "timestamp": "2025-06-03T11:50:39.512794+00:00",
+  "screenshot_path": "data/outputs/screenshots/cmccormackinc_com_20250603_155051.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2012, 5, 1, 19, 39, 45), datetime.datetime(2012, 5, 1, 14, 39, 45)]",
+      "expiration_date": "[datetime.datetime(2026, 5, 1, 19, 39, 45), datetime.datetime(2026, 5, 1, 14, 39, 45)]",
+      "name_servers": [
+        "NS33.DOMAINCONTROL.COM",
+        "NS34.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "50.63.7.191"
+      ],
+      "mx_records": [
+        "50 aspmx3.googlemail.com.",
+        "40 aspmx2.googlemail.com.",
+        "20 alt1.aspmx.l.google.com.",
+        "10 aspmx.l.google.com.",
+        "30 alt2.aspmx.l.google.com."
+      ]
+    },
+    "age_days": 4780,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS33.DOMAINCONTROL.COM",
+      "NS34.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/5.6.40"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(251, 251, 251)",
+      "rgb(234, 234, 234)",
+      "rgb(235, 235, 235)"
+    ],
+    "image_dimensions": "1920x3090",
+    "file_size_kb": 1297.5341796875
+  }
+}

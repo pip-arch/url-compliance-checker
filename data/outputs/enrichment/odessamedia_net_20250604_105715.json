@@ -1,0 +1,87 @@
+{
+  "url": "https://odessamedia.net/obzor-pressy/048-ua/voorujaemsya-pribilnoi-strategiei-dlya-rinka-foreks",
+  "timestamp": "2025-06-04T06:56:27.778694+00:00",
+  "screenshot_path": "data/outputs/screenshots/odessamedia_net_20250604_105659.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Onlinenic Inc",
+      "creation_date": "[datetime.datetime(2011, 8, 5, 13, 14, 27), datetime.datetime(2011, 8, 5, 4, 0)]",
+      "expiration_date": "[datetime.datetime(2025, 8, 5, 13, 14, 27), datetime.datetime(2025, 8, 4, 4, 0)]",
+      "name_servers": [
+        "AUSTIN.NS.CLOUDFLARE.COM",
+        "KIKI.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.61.47",
+        "172.67.206.5"
+      ],
+      "mx_records": [
+        "5 mail.smartmail.club.",
+        "10 mx.yandex.net."
+      ]
+    },
+    "age_days": 5051,
+    "registrar": "Onlinenic Inc",
+    "name_servers": [
+      "AUSTIN.NS.CLOUDFLARE.COM",
+      "KIKI.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "odessamedia.net"
+    },
+    "not_before": "2025-06-01T13:21:41",
+    "not_after": "2025-08-30T14:20:08",
+    "days_remaining": 87,
+    "san": [
+      "odessamedia.net",
+      "*.odessamedia.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(249, 249, 249)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)",
+      "rgb(25, 58, 106)"
+    ],
+    "image_dimensions": "1920x2931",
+    "file_size_kb": 1823.0537109375
+  }
+}

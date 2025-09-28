@@ -1,0 +1,108 @@
+{
+  "url": "http://lesoutrali.com/fr/ads/quel-effet-de-levier-choisir/",
+  "timestamp": "2025-05-30T06:34:18.909696+00:00",
+  "screenshot_path": "data/outputs/screenshots/lesoutrali_com_20250530_103429.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "LWS dba Ligne Web Services",
+      "creation_date": "[datetime.datetime(2019, 9, 30, 15, 41), datetime.datetime(2019, 9, 30, 17, 41)]",
+      "expiration_date": "[datetime.datetime(2025, 9, 30, 15, 41), datetime.datetime(2025, 9, 30, 17, 41)]",
+      "name_servers": [
+        "NS5.LWSDNS.COM",
+        "NS6.LWSDNS.COM",
+        "NS7.LWSDNS.COM",
+        "NS8.LWSDNS.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.98.139.56"
+      ],
+      "mx_records": [
+        "10 mail.lesoutrali.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 mx:lesoutrali.com a:mail.lesoutrali.com a:mailphp.lws-hosting.com -all\""
+      ]
+    },
+    "age_days": 2068,
+    "registrar": "LWS dba Ligne Web Services",
+    "name_servers": [
+      "NS5.LWSDNS.COM",
+      "NS6.LWSDNS.COM",
+      "NS7.LWSDNS.COM",
+      "NS8.LWSDNS.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "benqturf.lesoutrali.com"
+    },
+    "not_before": "2025-05-17T13:27:55",
+    "not_after": "2025-08-15T13:27:54",
+    "days_remaining": 77,
+    "san": [
+      "benqturf.lesoutrali.com",
+      "e-turf.lesoutrali.com",
+      "faceturf.lesoutrali.com",
+      "franceturfiste.lesoutrali.com",
+      "lateleturf.lesoutrali.com",
+      "lejournalduturf.lesoutrali.com",
+      "lemediaturf.lesoutrali.com",
+      "lesoutrali.com",
+      "leturfacademy.lesoutrali.com",
+      "pronosgratuit.lesoutrali.com",
+      "pronosrevelation.lesoutrali.com",
+      "samturf.lesoutrali.com",
+      "topbookmaker.lesoutrali.com",
+      "turf365plus.lesoutrali.com",
+      "turfbookplus.lesoutrali.com",
+      "www.lesoutrali.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(57, 151, 198)",
+      "rgb(254, 254, 254)",
+      "rgb(56, 150, 198)",
+      "rgb(54, 150, 197)"
+    ],
+    "image_dimensions": "1920x8478",
+    "file_size_kb": 1058.5810546875
+  }
+}

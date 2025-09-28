@@ -1,0 +1,85 @@
+{
+  "url": "https://www.marbach-academy.de/mit-admiral-markets-weihnachtsbonus-sichern/",
+  "timestamp": "2025-05-29T21:17:20.257935+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_marbach-academy_de_20250530_011725.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns01.1blu.de",
+        "ns02.1blu.de"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "178.254.10.188"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns01.1blu.de",
+      "ns02.1blu.de"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "www.marbach-academy.de"
+    },
+    "not_before": "2025-03-21T13:07:00",
+    "not_after": "2025-06-19T13:06:59",
+    "days_remaining": 20,
+    "san": [
+      "marbach-academy.de",
+      "www.marbach-academy.de"
+    ],
+    "issues": [
+      "Certificate expires in 20 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(252, 252, 252)",
+      "rgb(253, 253, 253)",
+      "rgb(248, 248, 248)",
+      "rgb(249, 249, 249)"
+    ],
+    "image_dimensions": "1920x1096",
+    "file_size_kb": 158.5849609375
+  }
+}

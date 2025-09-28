@@ -1,0 +1,84 @@
+{
+  "url": "https://ccbank.us/admiral-markets-forex-investing-online-login/",
+  "timestamp": "2025-05-31T09:25:42.615060+00:00",
+  "screenshot_path": "data/outputs/screenshots/ccbank_us_20250531_132552.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2015-10-30 19:50:50",
+      "expiration_date": "2025-10-29 23:59:59",
+      "name_servers": [
+        "ns58.domaincontrol.com",
+        "ns57.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "162.240.65.78"
+      ]
+    },
+    "age_days": 3500,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ns58.domaincontrol.com",
+      "ns57.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "www.ccbank.us"
+    },
+    "not_before": "2025-04-18T09:50:00",
+    "not_after": "2025-07-17T09:49:59",
+    "days_remaining": 46,
+    "san": [
+      "ccbank.us",
+      "www.ccbank.us"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(228, 226, 221)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(101, 156, 239)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1970x5240",
+    "file_size_kb": 1139.3447265625
+  }
+}

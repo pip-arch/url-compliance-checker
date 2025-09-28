@@ -1,0 +1,96 @@
+{
+  "url": "https://forexbrokerlisting.com/ko/education/how-to-trade-eurusd/",
+  "timestamp": "2025-05-30T21:35:30.707295+00:00",
+  "screenshot_path": "data/outputs/screenshots/forexbrokerlisting_com_20250531_013540.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "TUCOWS, INC.",
+      "creation_date": "2017-01-11 15:45:27",
+      "expiration_date": "2027-01-11 15:45:27",
+      "name_servers": [
+        "NS1.SITEGROUND.NET",
+        "NS2.SITEGROUND.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "35.244.153.44",
+        "34.149.120.3",
+        "34.120.190.48",
+        "34.160.81.203"
+      ],
+      "mx_records": [
+        "30 mx30.antispam.mailspamprotection.com.",
+        "10 mx10.antispam.mailspamprotection.com.",
+        "20 mx20.antispam.mailspamprotection.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=DsFQ_UMD0Py13uC6VJ8S1MPkYxDuUorWsajoF1oNVdU\"",
+        "\"v=spf1 +a +mx include:forexbrokerlisting.com.spf.auto.dnssmarthost.net ~all\""
+      ]
+    },
+    "age_days": 3061,
+    "registrar": "TUCOWS, INC.",
+    "name_servers": [
+      "NS1.SITEGROUND.NET",
+      "NS2.SITEGROUND.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.forexbrokerlisting.com"
+    },
+    "not_before": "2025-04-30T23:59:09",
+    "not_after": "2025-07-29T23:59:08",
+    "days_remaining": 59,
+    "san": [
+      "*.forexbrokerlisting.com",
+      "forexbrokerlisting.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(248, 248, 248)",
+      "rgb(255, 255, 255)",
+      "rgb(249, 249, 249)",
+      "rgb(223, 223, 225)",
+      "rgb(225, 225, 227)"
+    ],
+    "image_dimensions": "2066x19037",
+    "file_size_kb": 5205.6201171875
+  }
+}

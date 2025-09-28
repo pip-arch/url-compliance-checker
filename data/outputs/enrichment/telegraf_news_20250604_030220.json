@@ -1,0 +1,86 @@
+{
+  "url": "https://telegraf.news/business/355367-kak-torgovat-zolotom-i-serebrom/",
+  "timestamp": "2025-06-03T23:01:43.211057+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2021-12-09 11:35:56",
+      "expiration_date": "2025-12-09 11:35:56",
+      "name_servers": [
+        "aitana.ns.cloudflare.com",
+        "trace.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "93.125.48.227"
+      ],
+      "mx_records": [
+        "63 route1.mx.cloudflare.net.",
+        "10 mailbe07.hoster.by.",
+        "42 route2.mx.cloudflare.net.",
+        "30 mx3.zoho.eu.",
+        "20 mx2.zoho.eu.",
+        "48 route3.mx.cloudflare.net."
+      ],
+      "txt_records": [
+        "\"b49c6c2008c3bd8db769705473d703ee\"",
+        "\"yandex-verification: fd7e3677e1e8defd\"",
+        "\"v=spf1 +a +mx include:_spf.hoster.by ~all\"",
+        "\"google-site-verification=sn0LHUZq_3G2JInB4mVA-UoLmzXT29IeFhWGHjgERb0\"",
+        "\"zoho-verification=zb37967699.zmverify.zoho.eu\""
+      ]
+    },
+    "age_days": 1272,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "aitana.ns.cloudflare.com",
+      "trace.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "telegraf.news"
+    },
+    "not_before": "2025-05-24T08:03:30",
+    "not_after": "2025-08-22T08:03:29",
+    "days_remaining": 79,
+    "san": [
+      "telegraf.news"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

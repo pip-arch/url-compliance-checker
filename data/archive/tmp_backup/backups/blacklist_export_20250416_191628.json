@@ -1,0 +1,86 @@
+{
+  "suspicious-site.com": {
+    "urls": [
+      "https://suspicious-site.com/admiral-bonus"
+    ],
+    "reasons": [
+      "real_llm: The content contains serious compliance issues that warrant blacklisting the URL. It makes misleading claims of 'guaranteed profits with no risk' which is false and violates financial advertising regulations. It also mentions an unauthorized '100% deposit bonus' special offer not officially sanctioned by Admiral Markets."
+    ],
+    "categories": [
+      "URLCategory.BLACKLIST"
+    ],
+    "confidence": 0.95,
+    "compliance_issues": [
+      "Misleading claim of guaranteed profits",
+      "MISLEADING_INFO: guaranteed profit",
+      "Unauthorized bonus/special offer",
+      "False representation of Admiral Markets' offerings",
+      "Misleading claim of no-risk trading"
+    ],
+    "batch_ids": [
+      "test-batch-20250416-191554"
+    ],
+    "first_added": "2025-04-16T19:16:06.413424",
+    "violation_count": 1,
+    "history": [
+      {
+        "timestamp": "2025-04-16T19:16:06.413460",
+        "url": "https://suspicious-site.com/admiral-bonus",
+        "reason": "real_llm: The content contains serious compliance issues that warrant blacklisting the URL. It makes misleading claims of 'guaranteed profits with no risk' which is false and violates financial advertising regulations. It also mentions an unauthorized '100% deposit bonus' special offer not officially sanctioned by Admiral Markets.",
+        "confidence": 0.95,
+        "category": "URLCategory.BLACKLIST",
+        "compliance_issues": [
+          "Misleading claim of guaranteed profits",
+          "Misleading claim of no-risk trading",
+          "Unauthorized bonus/special offer",
+          "False representation of Admiral Markets' offerings",
+          "MISLEADING_INFO: guaranteed profit"
+        ],
+        "batch_id": "test-batch-20250416-191554"
+      }
+    ]
+  },
+  "scam-alert.com": {
+    "urls": [
+      "https://scam-alert.com/admiralmarkets-review"
+    ],
+    "reasons": [
+      "real_llm: The content makes misleading claims about Admiral Markets offering 'risk-free trading with 100% success rate'. This is a clear violation of financial advertising regulations. The phrasing also implies the site is questioning if Admiral Markets is a scam, which could damage brand reputation."
+    ],
+    "categories": [
+      "URLCategory.BLACKLIST"
+    ],
+    "confidence": 0.95,
+    "compliance_issues": [
+      "Misleading claim of risk-free trading",
+      "Potential reputational damage from association with the site",
+      "Misleading claim of 100% success rate",
+      "MISLEADING_INFO: risk-free trading",
+      "Implies Admiral Markets may be a scam",
+      "MISLEADING_INFO: 100% success"
+    ],
+    "batch_ids": [
+      "test-batch-20250416-191554"
+    ],
+    "first_added": "2025-04-16T19:16:24.088272",
+    "violation_count": 1,
+    "history": [
+      {
+        "timestamp": "2025-04-16T19:16:24.088299",
+        "url": "https://scam-alert.com/admiralmarkets-review",
+        "reason": "real_llm: The content makes misleading claims about Admiral Markets offering 'risk-free trading with 100% success rate'. This is a clear violation of financial advertising regulations. The phrasing also implies the site is questioning if Admiral Markets is a scam, which could damage brand reputation.",
+        "confidence": 0.95,
+        "category": "URLCategory.BLACKLIST",
+        "compliance_issues": [
+          "Misleading claim of risk-free trading",
+          "Misleading claim of 100% success rate",
+          "Implies Admiral Markets may be a scam",
+          "Potential reputational damage from association with the site",
+          "MISLEADING_INFO: risk-free trading",
+          "MISLEADING_INFO: 100% success"
+        ],
+        "batch_id": "test-batch-20250416-191554"
+      }
+    ]
+  }
+}

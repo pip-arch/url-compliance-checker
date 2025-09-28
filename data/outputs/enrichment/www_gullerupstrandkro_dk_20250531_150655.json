@@ -1,0 +1,84 @@
+{
+  "url": "http://www.gullerupstrandkro.dk/2020/04/10/%E2%99%A6%EF%B8%8F-rejting-luchshih-servisov-dlja-obmena-bitkoin/",
+  "timestamp": "2025-05-31T11:06:48.517367+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_gullerupstrandkro_dk_20250531_150654.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": "2006-08-13 00:00:00",
+      "expiration_date": "2025-08-31 00:00:00",
+      "name_servers": [
+        "ns01.one.com",
+        "ns02.one.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "46.30.213.69"
+      ]
+    },
+    "age_days": 6866,
+    "registrar": null,
+    "name_servers": [
+      "ns01.one.com",
+      "ns02.one.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "*.gullerupstrandkro.dk"
+    },
+    "not_before": "2025-04-29T10:37:22",
+    "not_after": "2025-07-28T10:37:21",
+    "days_remaining": 57,
+    "san": [
+      "*.gullerupstrandkro.dk",
+      "gullerupstrandkro.dk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/8.0.30",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(26, 25, 25)",
+      "rgb(229, 229, 229)",
+      "rgb(228, 228, 228)",
+      "rgb(227, 227, 227)"
+    ],
+    "image_dimensions": "1920x4017",
+    "file_size_kb": 731.064453125
+  }
+}

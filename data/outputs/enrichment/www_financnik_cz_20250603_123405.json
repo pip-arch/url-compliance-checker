@@ -1,0 +1,84 @@
+{
+  "url": "https://www.financnik.cz/forum/topic/2022-admiral-markets/page/3/",
+  "timestamp": "2025-06-03T08:33:59.351525+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_financnik_cz_20250603_123404.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REG-WEBGLOBE",
+      "creation_date": "2003-11-16 17:35:00",
+      "expiration_date": "2025-11-16 00:00:00",
+      "name_servers": [
+        "ns1.ignum.com",
+        "ns2.ignum.cz"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "89.221.212.156"
+      ]
+    },
+    "age_days": 7869,
+    "registrar": "REG-WEBGLOBE",
+    "name_servers": [
+      "ns1.ignum.com",
+      "ns2.ignum.cz"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "akcie.financnik.cz"
+    },
+    "not_before": "2025-05-12T18:46:50",
+    "not_after": "2025-08-10T18:46:49",
+    "days_remaining": 68,
+    "san": [
+      "akcie.financnik.cz",
+      "burza.financnik.cz",
+      "daytrading.financnik.cz",
+      "financnik.cz",
+      "office.financnik.cz",
+      "spready.financnik.cz",
+      "www.financnik.cz"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(246, 246, 246)",
+      "rgb(255, 255, 255)",
+      "rgb(250, 250, 250)",
+      "rgb(252, 252, 252)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x5744",
+    "file_size_kb": 1035.7177734375
+  }
+}

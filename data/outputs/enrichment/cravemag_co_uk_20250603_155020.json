@@ -1,0 +1,94 @@
+{
+  "url": "https://cravemag.co.uk/what-are-the-best-online-careers-when-travelling/",
+  "timestamp": "2025-06-03T11:50:12.841356+00:00",
+  "screenshot_path": "data/outputs/screenshots/cravemag_co_uk_20250603_155020.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "123-Reg Limited t/a 123-reg [Tag = 123-REG]",
+      "creation_date": "2020-03-30 00:00:00",
+      "expiration_date": "2026-03-30 00:00:00",
+      "name_servers": [
+        "ns27.domaincontrol.com",
+        "ns28.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "35.214.94.58"
+      ],
+      "mx_records": [
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=9NWVhck0WiNlWrcS-1lEMl3xfAYw5E-kZ0wL-wA63CE\""
+      ]
+    },
+    "age_days": 1891,
+    "registrar": "123-Reg Limited t/a 123-reg [Tag = 123-REG]",
+    "name_servers": [
+      "ns27.domaincontrol.com",
+      "ns28.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "cravemag.co.uk"
+    },
+    "not_before": "2025-04-08T08:04:34",
+    "not_after": "2025-07-07T08:04:33",
+    "days_remaining": 33,
+    "san": [
+      "cravemag.co.uk",
+      "www.cravemag.co.uk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(250, 250, 250)",
+      "rgb(251, 251, 251)",
+      "rgb(222, 222, 222)",
+      "rgb(225, 225, 225)"
+    ],
+    "image_dimensions": "1920x3262",
+    "file_size_kb": 1075.322265625
+  }
+}

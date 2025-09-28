@@ -1,0 +1,74 @@
+{
+  "url": "https://www.areacucuta.com/las-mejores-plataformas-para-operar-en-forex-para-principiantes/",
+  "timestamp": "2025-05-31T19:46:08.291754+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2004, 3, 16, 6, 52, 44), datetime.datetime(2004, 3, 16, 1, 52, 44)]",
+      "expiration_date": "[datetime.datetime(2026, 3, 16, 5, 52, 44), datetime.datetime(2026, 3, 16, 0, 52, 44)]",
+      "name_servers": [
+        "MITCHELL.NS.CLOUDFLARE.COM",
+        "NELCI.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.136.163",
+        "104.21.78.194"
+      ]
+    },
+    "age_days": 7746,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "MITCHELL.NS.CLOUDFLARE.COM",
+      "NELCI.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "areacucuta.com"
+    },
+    "not_before": "2025-05-16T03:23:27",
+    "not_after": "2025-08-14T04:22:09",
+    "days_remaining": 74,
+    "san": [
+      "areacucuta.com",
+      "*.areacucuta.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PleskLin",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

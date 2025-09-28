@@ -1,0 +1,90 @@
+{
+  "url": "https://ostpreussen.net/2021/01/19/die-drei-bekanntesten-trader-aller-zeiten/",
+  "timestamp": "2025-05-31T14:31:38.745675+00:00",
+  "screenshot_path": "data/outputs/screenshots/ostpreussen_net_20250531_183149.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "RegistryGate GmbH",
+      "creation_date": "2001-11-22 12:34:12",
+      "expiration_date": "2025-11-22 12:34:12",
+      "name_servers": [
+        "NS5.KASSERVER.COM",
+        "NS6.KASSERVER.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "83.171.238.83"
+      ],
+      "mx_records": [
+        "10 w006d292.kasserver.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 mx a ?all\""
+      ]
+    },
+    "age_days": 8591,
+    "registrar": "RegistryGate GmbH",
+    "name_servers": [
+      "NS5.KASSERVER.COM",
+      "NS6.KASSERVER.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "ostpreussen.net"
+    },
+    "not_before": "2025-05-03T06:35:50",
+    "not_after": "2025-08-01T06:35:49",
+    "days_remaining": 61,
+    "san": [
+      "ostpreussen.net",
+      "www.ostpreussen.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/8.1.32",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(102, 102, 102)",
+      "rgb(0, 0, 0)",
+      "rgb(90, 69, 70)",
+      "rgb(103, 103, 103)"
+    ],
+    "image_dimensions": "1920x1948",
+    "file_size_kb": 401.11328125
+  }
+}

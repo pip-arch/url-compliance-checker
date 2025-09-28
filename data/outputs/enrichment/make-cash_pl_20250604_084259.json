@@ -1,0 +1,94 @@
+{
+  "url": "https://make-cash.pl/admirals-market-15%E2%82%AC-t53251/?page=4",
+  "timestamp": "2025-06-04T04:42:48.720854+00:00",
+  "screenshot_path": "data/outputs/screenshots/make-cash_pl_20250604_084257.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "cyber_Folks S.A.",
+      "creation_date": "2013-09-16 21:52:04",
+      "expiration_date": "2025-09-16 21:52:04",
+      "name_servers": [
+        "jim.ns.cloudflare.com",
+        "rose.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.12.179",
+        "172.67.195.44"
+      ],
+      "mx_records": [
+        "5 alt1.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:148.251.151.59 include:_spf.emaillabs.net.pl include:_spf.google.com ~all\"",
+        "\"google-site-verification=2CuORoUiSPBScj5J76akzXkrM_skGR7n5CIA4pZ46P0\"",
+        "\"google-site-verification=N3UoCZ_zy_Kn6tB7MvaJufxQ0RiJPCoJvhTbwRK-CJk\""
+      ]
+    },
+    "age_days": 4278,
+    "registrar": "cyber_Folks S.A.",
+    "name_servers": [
+      "jim.ns.cloudflare.com",
+      "rose.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "make-cash.pl"
+    },
+    "not_before": "2025-05-03T10:17:53",
+    "not_after": "2025-08-01T11:16:11",
+    "days_remaining": 58,
+    "san": [
+      "make-cash.pl",
+      "*.make-cash.pl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(253, 255, 252)",
+      "rgb(53, 60, 65)",
+      "rgb(252, 254, 251)",
+      "rgb(238, 238, 238)",
+      "rgb(254, 255, 253)"
+    ],
+    "image_dimensions": "1920x11597",
+    "file_size_kb": 2007.1923828125
+  }
+}

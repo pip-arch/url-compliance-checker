@@ -1,0 +1,89 @@
+{
+  "url": "https://joon.co.ke/fa/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%AF%D9%88%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86/",
+  "timestamp": "2025-05-29T18:52:00.452700+00:00",
+  "screenshot_path": "data/outputs/screenshots/joon_co_ke_20250529_225206.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Truehost Cloud Limited",
+      "creation_date": "2018-12-07 09:59:48",
+      "expiration_date": "2025-12-07 09:59:48",
+      "name_servers": [
+        "hope.ns.cloudflare.com",
+        "clayton.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.132.150",
+        "104.21.4.232"
+      ],
+      "mx_records": [
+        "20 mx2.emailsrvr.com.",
+        "10 mx1.emailsrvr.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx include:_spf.elasticemail.com include:emailsrvr.com ~all\\010v=spf1 mx a ip4:10.0.0.1 ~all\"",
+        "\"ca3-b931685f8366448a58f62fb7a5751d0\""
+      ]
+    },
+    "age_days": 2365,
+    "registrar": "Truehost Cloud Limited",
+    "name_servers": [
+      "hope.ns.cloudflare.com",
+      "clayton.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "joon.co.ke"
+    },
+    "not_before": "2025-05-01T12:45:40",
+    "not_after": "2025-07-30T12:34:24",
+    "days_remaining": 61,
+    "san": [
+      "joon.co.ke",
+      "*.joon.co.ke"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)"
+    ],
+    "image_dimensions": "15907x10753",
+    "file_size_kb": 516.119140625
+  }
+}

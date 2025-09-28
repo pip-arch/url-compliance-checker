@@ -1,0 +1,94 @@
+{
+  "url": "https://stiri.botosani.ro/stiri/advertorial/in-romania-lipseste-educatia-financiara-care-este-solutia.html",
+  "timestamp": "2025-06-04T06:47:21.765611+00:00",
+  "screenshot_path": "data/outputs/screenshots/stiri_botosani_ro_20250604_104736.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Internet Resources Management SRL",
+      "creation_date": "2001-01-01 00:00:00",
+      "expiration_date": "2028-12-08 00:00:00",
+      "name_servers": [
+        "ns1.botosani.net",
+        "ns2.botosani.net",
+        "ns3.botosani.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "195.64.179.197"
+      ],
+      "mx_records": [
+        "0 stiri-botosani-ro.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:195.64.179.198 +ip4:195.64.179.167 +include:spf.protection.outlook.com -all\"",
+        "\"MS=ms85012866\""
+      ]
+    },
+    "age_days": 8920,
+    "registrar": "Internet Resources Management SRL",
+    "name_servers": [
+      "ns1.botosani.net",
+      "ns2.botosani.net",
+      "ns3.botosani.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "GB",
+      "stateOrProvinceName": "Greater Manchester",
+      "localityName": "Salford",
+      "organizationName": "Sectigo Limited",
+      "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+    },
+    "subject": {
+      "commonName": "stiri.botosani.ro"
+    },
+    "not_before": "2024-08-21T00:00:00",
+    "not_after": "2025-09-02T23:59:59",
+    "days_remaining": 90,
+    "san": [
+      "stiri.botosani.ro",
+      "www.stiri.botosani.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(248, 248, 248)",
+      "rgb(255, 255, 255)",
+      "rgb(41, 41, 41)",
+      "rgb(252, 252, 252)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x4268",
+    "file_size_kb": 2782.6806640625
+  }
+}

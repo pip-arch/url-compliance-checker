@@ -1,0 +1,90 @@
+{
+  "url": "https://hoseinifinance.com/blog/use-divergence-trading/",
+  "timestamp": "2025-06-03T12:47:03.288885+00:00",
+  "screenshot_path": "data/outputs/screenshots/hoseinifinance_com_20250603_164709.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "CSL Computer Service Langenbach GmbH d/b/a joker.com",
+      "creation_date": "2019-05-23 10:22:26",
+      "expiration_date": "2030-05-23 10:22:26",
+      "name_servers": [
+        "NS1.HOSEINIFINANCE.COM",
+        "NS2.HOSEINIFINANCE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "78.158.166.38"
+      ],
+      "mx_records": [
+        "10 mail.hoseinifinance.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx ip4:78.158.166.37 -all\""
+      ]
+    },
+    "age_days": 2203,
+    "registrar": "CSL Computer Service Langenbach GmbH d/b/a joker.com",
+    "name_servers": [
+      "NS1.HOSEINIFINANCE.COM",
+      "NS2.HOSEINIFINANCE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "ftp.hoseinifinance.com"
+    },
+    "not_before": "2025-04-09T16:36:02",
+    "not_after": "2025-07-08T16:36:01",
+    "days_remaining": 34,
+    "san": [
+      "ftp.hoseinifinance.com",
+      "hoseinifinance.com",
+      "www.hoseinifinance.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(37, 37, 37)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(248, 248, 248)"
+    ],
+    "image_dimensions": "1920x7658",
+    "file_size_kb": 1680.498046875
+  }
+}

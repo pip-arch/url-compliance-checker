@@ -1,0 +1,73 @@
+{
+  "url": "https://www.santarve.lt/voreno-bafeto-investavimo-patarimai/",
+  "timestamp": "2025-05-31T10:36:54.956907+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": "2022-05-11 00:00:00",
+      "expiration_date": "2027-05-12 00:00:00",
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "109.235.66.15"
+      ],
+      "mx_records": [
+        "0 santarve.hostingas.lt."
+      ],
+      "txt_records": [
+        "\"google-site-verification=6w-uWsiYclYjZiRW55jrBKDeTApczbulNh5nybRpJKc\"",
+        "\"v=spf1 mx ip4:109.235.66.15 mx:santarve.hostingas.lt.santarve.lt -all\""
+      ]
+    },
+    "age_days": 1116,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "santarve.lt"
+    },
+    "not_before": "2025-05-29T14:25:11",
+    "not_after": "2025-08-27T14:25:10",
+    "days_remaining": 87,
+    "san": [
+      "santarve.lt",
+      "www.santarve.lt"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

@@ -1,0 +1,87 @@
+{
+  "url": "https://forexstarted.com/da/bedste-forex-maeglere",
+  "timestamp": "2025-05-30T21:12:42.716367+00:00",
+  "screenshot_path": "data/outputs/screenshots/forexstarted_com_20250531_011251.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Shinjiru Technology Sdn Bhd",
+      "creation_date": "2020-07-16 09:12:06",
+      "expiration_date": "2027-07-16 09:12:06",
+      "name_servers": [
+        "RENAN.NS.CLOUDFLARE.COM",
+        "RITA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.30.53",
+        "172.67.150.154"
+      ],
+      "txt_records": [
+        "\"google-site-verification=k9vYShh8huTyxP6nWAXaGaURGN1oZbIlotK7G6Oz2pU\""
+      ]
+    },
+    "age_days": 1779,
+    "registrar": "Shinjiru Technology Sdn Bhd",
+    "name_servers": [
+      "RENAN.NS.CLOUDFLARE.COM",
+      "RITA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "forexstarted.com"
+    },
+    "not_before": "2025-04-08T15:14:38",
+    "not_after": "2025-07-07T16:10:46",
+    "days_remaining": 37,
+    "san": [
+      "forexstarted.com",
+      "*.forexstarted.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.33"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(241, 241, 241)",
+      "rgb(255, 255, 255)",
+      "rgb(45, 62, 82)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x14311",
+    "file_size_kb": 1670.9970703125
+  }
+}

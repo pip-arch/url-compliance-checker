@@ -1,0 +1,90 @@
+{
+  "url": "https://www.directorysiteslist.com/search/admirals-bank-merger",
+  "timestamp": "2025-06-03T21:27:33.237071+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_directorysiteslist_com_20250604_012741.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc.",
+      "creation_date": "2019-10-25 01:24:22",
+      "expiration_date": "2025-10-25 01:24:22",
+      "name_servers": [
+        "BART.NS.CLOUDFLARE.COM",
+        "VENUS.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.48.1",
+        "104.21.16.1",
+        "104.21.80.1",
+        "104.21.112.1",
+        "104.21.64.1",
+        "104.21.96.1",
+        "104.21.32.1"
+      ]
+    },
+    "age_days": 2048,
+    "registrar": "Cloudflare, Inc.",
+    "name_servers": [
+      "BART.NS.CLOUDFLARE.COM",
+      "VENUS.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "directorysiteslist.com"
+    },
+    "not_before": "2025-05-16T01:44:03",
+    "not_after": "2025-08-14T02:42:33",
+    "days_remaining": 71,
+    "san": [
+      "directorysiteslist.com",
+      "*.directorysiteslist.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(249, 249, 249)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x5768",
+    "file_size_kb": 1148.0341796875
+  }
+}

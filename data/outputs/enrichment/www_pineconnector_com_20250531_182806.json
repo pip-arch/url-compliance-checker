@@ -1,0 +1,78 @@
+{
+  "url": "https://www.pineconnector.com/blogs/pico-blog/how-to-get-started-with-automated-trading",
+  "timestamp": "2025-05-31T14:27:55.588535+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_pineconnector_com_20250531_182805.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NameSilo, LLC",
+      "creation_date": "[datetime.datetime(2021, 1, 27, 2, 6, 33), datetime.datetime(2021, 1, 26, 7, 0)]",
+      "expiration_date": "[datetime.datetime(2026, 1, 27, 2, 6, 33), datetime.datetime(2026, 1, 26, 7, 0)]",
+      "name_servers": [
+        "DELL.NS.CLOUDFLARE.COM",
+        "ERIC.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "23.227.38.74"
+      ]
+    },
+    "age_days": 1585,
+    "registrar": "NameSilo, LLC",
+    "name_servers": [
+      "DELL.NS.CLOUDFLARE.COM",
+      "ERIC.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "www.pineconnector.com"
+    },
+    "not_before": "2025-04-03T02:37:34",
+    "not_after": "2025-07-02T03:37:32",
+    "days_remaining": 31,
+    "san": [
+      "www.pineconnector.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(254, 254, 254)",
+      "rgb(79, 79, 79)",
+      "rgb(228, 228, 228)"
+    ],
+    "image_dimensions": "1920x8144",
+    "file_size_kb": 2121.6083984375
+  }
+}

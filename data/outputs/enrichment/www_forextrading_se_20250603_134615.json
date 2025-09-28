@@ -1,0 +1,84 @@
+{
+  "url": "https://www.forextrading.se/valutamaklare/",
+  "timestamp": "2025-06-03T09:45:56.737562+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_forextrading_se_20250603_134614.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Loopia AB",
+      "creation_date": "2005-01-07 00:00:00",
+      "expiration_date": "2031-12-07 00:00:00",
+      "name_servers": [
+        "ken.ns.cloudflare.com",
+        "leah.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.75.187",
+        "172.67.180.135"
+      ]
+    },
+    "age_days": 7452,
+    "registrar": "Loopia AB",
+    "name_servers": [
+      "ken.ns.cloudflare.com",
+      "leah.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "forextrading.se"
+    },
+    "not_before": "2025-04-14T10:52:46",
+    "not_after": "2025-07-13T11:51:19",
+    "days_remaining": 39,
+    "san": [
+      "forextrading.se",
+      "*.forextrading.se"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/5.6.40",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(239, 239, 239)",
+      "rgb(254, 254, 254)",
+      "rgb(12, 36, 51)",
+      "rgb(30, 67, 90)"
+    ],
+    "image_dimensions": "1920x3540",
+    "file_size_kb": 852.427734375
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "url": "https://wordyou.ru/299903-kuda-luchshe-investirovat-dengi.html",
+  "timestamp": "2025-06-03T14:50:02.188194+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "REGRU-RU",
+      "creation_date": "2011-03-20 16:09:09",
+      "expiration_date": "2026-03-20 16:09:09",
+      "name_servers": [
+        "ns1.reg.ru.",
+        "ns2.reg.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "135.181.129.174"
+      ]
+    },
+    "age_days": 5188,
+    "registrar": "REGRU-RU",
+    "name_servers": [
+      "ns1.reg.ru.",
+      "ns2.reg.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "wordyou.ru"
+    },
+    "not_before": "2025-04-30T23:26:50",
+    "not_after": "2025-07-29T23:26:49",
+    "days_remaining": 56,
+    "san": [
+      "wordyou.ru",
+      "www.wordyou.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.16.1",
+    "Powered by: PHP/7.1.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

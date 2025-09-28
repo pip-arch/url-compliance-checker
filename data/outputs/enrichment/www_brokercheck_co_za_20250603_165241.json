@@ -1,0 +1,85 @@
+{
+  "url": "https://www.brokercheck.co.za/what-is-an-ea-how-to-get-started-with-your-expert-advisor/",
+  "timestamp": "2025-06-03T12:52:34.671709+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_brokercheck_co_za_20250603_165240.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NETIM",
+      "creation_date": "2019-11-28 15:07:27",
+      "expiration_date": "2025-11-28 15:07:27",
+      "name_servers": [
+        "greg.ns.cloudflare.com",
+        "jasmine.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.162.159",
+        "104.21.15.127"
+      ]
+    },
+    "age_days": 2013,
+    "registrar": "NETIM",
+    "name_servers": [
+      "greg.ns.cloudflare.com",
+      "jasmine.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "brokercheck.co.za"
+    },
+    "not_before": "2025-06-02T02:52:11",
+    "not_after": "2025-08-31T03:49:35",
+    "days_remaining": 88,
+    "san": [
+      "brokercheck.co.za",
+      "*.brokercheck.co.za"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(45, 48, 50)",
+      "rgb(242, 242, 242)",
+      "rgb(251, 251, 251)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x7589",
+    "file_size_kb": 1883.76953125
+  }
+}

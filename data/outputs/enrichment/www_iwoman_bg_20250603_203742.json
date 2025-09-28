@@ -1,0 +1,85 @@
+{
+  "url": "https://www.iwoman.bg/uspeshna/kariera/top-predizvikatelstva-za-pravene-na-biznes-v-bylgarija-698144.html",
+  "timestamp": "2025-06-03T16:37:15.792109+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_iwoman_bg_20250603_203741.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "79.124.75.39"
+      ],
+      "mx_records": [
+        "10 webmail.webground.bg."
+      ],
+      "txt_records": [
+        "\"facebook-domain-verification=qagzzbiatftk4zvd8p2f6jn0ye7gdb\"",
+        "\"v=spf1 mx ip4:5.104.175.5 ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "iwoman.bg"
+    },
+    "not_before": "2025-04-28T23:10:44",
+    "not_after": "2025-07-27T23:10:43",
+    "days_remaining": 54,
+    "san": [
+      "iwoman.bg",
+      "www.iwoman.bg"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Powered by: PHP/7.4.28",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(47, 48, 57)",
+      "rgb(48, 49, 58)",
+      "rgb(250, 254, 255)",
+      "rgb(46, 47, 56)"
+    ],
+    "image_dimensions": "1920x4635",
+    "file_size_kb": 1986.1474609375
+  }
+}

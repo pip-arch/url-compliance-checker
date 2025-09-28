@@ -1,0 +1,83 @@
+{
+  "url": "https://stereotrader.eu/ru/%D0%BF%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C/",
+  "timestamp": "2025-05-29T21:49:59.584707+00:00",
+  "screenshot_path": "data/outputs/screenshots/stereotrader_eu_20250530_015004.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "RegistryGate GmbH",
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": "ns5.kasserver.com\n        ns6.kasserver.com\n\nPlease visit www.eurid.eu for more info."
+    },
+    "dns": {
+      "a_records": [
+        "85.13.153.210"
+      ],
+      "mx_records": [
+        "10 w01eeece.kasserver.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 mx a ?all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": "RegistryGate GmbH",
+    "name_servers": "ns5.kasserver.com\n        ns6.kasserver.com\n\nPlease visit www.eurid.eu for more info."
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "stereotrader.eu"
+    },
+    "not_before": "2025-04-19T16:59:02",
+    "not_after": "2025-07-18T16:59:01",
+    "days_remaining": 49,
+    "san": [
+      "stereotrader.eu",
+      "www.stereotrader.eu"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(68, 68, 68)",
+      "rgb(34, 34, 34)",
+      "rgb(30, 135, 188)",
+      "rgb(69, 69, 69)"
+    ],
+    "image_dimensions": "1920x1534",
+    "file_size_kb": 241.5595703125
+  }
+}

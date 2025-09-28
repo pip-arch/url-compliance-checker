@@ -1,0 +1,83 @@
+{
+  "url": "http://survivealive.org/var/RsDsGC/quel-est-le-salaire-d%27un-pleg-au-cameroun-%3F",
+  "timestamp": "2025-05-31T03:25:08.321268+00:00",
+  "screenshot_path": "data/outputs/screenshots/survivealive_org_20250531_072514.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "eNom, LLC",
+      "creation_date": "1997-04-02 05:00:00",
+      "expiration_date": "2026-04-03 05:00:00",
+      "name_servers": [
+        "dns1.name-services.com",
+        "dns2.name-services.com",
+        "dns3.name-services.com",
+        "dns4.name-services.com",
+        "dns5.name-services.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "34.69.27.90"
+      ]
+    },
+    "age_days": 10285,
+    "registrar": "eNom, LLC",
+    "name_servers": [
+      "dns1.name-services.com",
+      "dns2.name-services.com",
+      "dns3.name-services.com",
+      "dns4.name-services.com",
+      "dns5.name-services.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "Connection Error: [Errno 61] Connection refused"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.34 (Ubuntu)",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(253, 253, 253)",
+      "rgb(252, 252, 252)",
+      "rgb(251, 251, 251)",
+      "rgb(249, 249, 249)"
+    ],
+    "image_dimensions": "1920x1443",
+    "file_size_kb": 879.41796875
+  }
+}

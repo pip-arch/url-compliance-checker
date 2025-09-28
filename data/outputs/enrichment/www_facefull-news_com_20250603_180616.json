@@ -1,0 +1,93 @@
+{
+  "url": "https://www.facefull-news.com/les-bases-du-trading-forex/",
+  "timestamp": "2025-06-03T14:06:00.982583+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_facefull-news_com_20250603_180616.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NETIM",
+      "creation_date": "[datetime.datetime(2017, 4, 20, 18, 10, 30), datetime.datetime(2017, 4, 20, 0, 0)]",
+      "expiration_date": "[datetime.datetime(2026, 4, 20, 18, 10, 30), datetime.datetime(2026, 4, 20, 21, 0)]",
+      "name_servers": [
+        "NS1.NETIM.NET",
+        "NS2.NETIM.NET",
+        "NS3.NETIM.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "37.59.203.253"
+      ],
+      "mx_records": [
+        "10 mx1.netim.net.",
+        "10 mx2.netim.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:185.26.104.0/22 ~all\""
+      ]
+    },
+    "age_days": 2965,
+    "registrar": "NETIM",
+    "name_servers": [
+      "NS1.NETIM.NET",
+      "NS2.NETIM.NET",
+      "NS3.NETIM.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "www.facefull-news.com"
+    },
+    "not_before": "2025-04-25T19:14:11",
+    "not_after": "2025-07-24T19:14:10",
+    "days_remaining": 51,
+    "san": [
+      "facefull-news.com",
+      "www.facefull-news.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(37, 39, 41)",
+      "rgb(238, 238, 238)",
+      "rgb(249, 249, 249)",
+      "rgb(248, 248, 248)"
+    ],
+    "image_dimensions": "1920x3306",
+    "file_size_kb": 1168.6123046875
+  }
+}

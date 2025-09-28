@@ -1,0 +1,79 @@
+{
+  "url": "http://mixednews.ru/archives/73180",
+  "timestamp": "2025-06-03T15:39:24.002262+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "RU-CENTER-RU",
+      "creation_date": "2010-09-23 13:14:38",
+      "expiration_date": "2025-09-23 14:14:38",
+      "name_servers": [
+        "ns1.ipserver.su.",
+        "ns2.ipserver.su."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.158.115.64"
+      ],
+      "mx_records": [
+        "10 emx.mail.ru."
+      ],
+      "txt_records": [
+        "\"_globalsign-domain-verification=GLkmdinUim8FASAL1uvbKB2PBJz41M12xCGDqVsRMK\""
+      ]
+    },
+    "age_days": 5367,
+    "registrar": "RU-CENTER-RU",
+    "name_servers": [
+      "ns1.ipserver.su.",
+      "ns2.ipserver.su."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "mixednews.ru"
+    },
+    "not_before": "2025-05-07T23:05:51",
+    "not_after": "2025-08-05T23:05:50",
+    "days_remaining": 63,
+    "san": [
+      "mixednews.ru",
+      "www.mixednews.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.20.2",
+    "Powered by: PHP/5.6.40",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

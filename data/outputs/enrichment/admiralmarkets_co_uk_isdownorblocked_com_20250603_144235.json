@@ -1,0 +1,74 @@
+{
+  "url": "http://admiralmarkets.co.uk.isdownorblocked.com/fr",
+  "timestamp": "2025-06-03T10:42:27.754298+00:00",
+  "screenshot_path": "data/outputs/screenshots/admiralmarkets_co_uk_isdownorblocked_com_20250603_144234.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2011-02-26 17:02:26",
+      "expiration_date": "2026-02-26 17:02:26",
+      "name_servers": [
+        "NORM.NS.CLOUDFLARE.COM",
+        "RUTH.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.186.137",
+        "104.21.92.48"
+      ]
+    },
+    "age_days": 5210,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "NORM.NS.CLOUDFLARE.COM",
+      "RUTH.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(250, 250, 250)",
+      "rgb(42, 85, 113)",
+      "rgb(255, 255, 255)",
+      "rgb(43, 87, 114)",
+      "rgb(41, 82, 111)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 1059.337890625
+  }
+}

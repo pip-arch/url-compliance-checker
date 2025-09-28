@@ -1,0 +1,85 @@
+{
+  "url": "https://www.podcasts-online.org/it/2-treidera-1507995859",
+  "timestamp": "2025-06-03T22:58:41.242115+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_podcasts-online_org_20250604_025852.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2020-05-25 10:29:57",
+      "expiration_date": "2026-05-25 10:29:57",
+      "name_servers": [
+        "ns13.domaincontrol.com",
+        "ns14.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "162.19.80.171"
+      ],
+      "txt_records": [
+        "\"google-site-verification=MY7Mgto2UtlxfS7UNdW8Lqumd9XQFTghWjB6w258BkA\""
+      ]
+    },
+    "age_days": 1835,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ns13.domaincontrol.com",
+      "ns14.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "podcasts-online.org"
+    },
+    "not_before": "2025-05-28T11:13:54",
+    "not_after": "2025-08-26T11:13:53",
+    "days_remaining": 83,
+    "san": [
+      "podcasts-online.org",
+      "www.podcasts-online.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(249, 238, 239)",
+      "rgb(249, 239, 240)",
+      "rgb(247, 234, 235)",
+      "rgb(255, 254, 254)"
+    ],
+    "image_dimensions": "1920x2611",
+    "file_size_kb": 942.787109375
+  }
+}

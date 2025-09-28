@@ -1,0 +1,90 @@
+{
+  "url": "https://edelmetaal.linktoevoegen.nl/",
+  "timestamp": "2025-06-03T21:28:02.858553+00:00",
+  "screenshot_path": "data/outputs/screenshots/edelmetaal_linktoevoegen_nl_20250604_012807.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Registrar.eu",
+      "creation_date": "2007-10-13 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "josh.ns.cloudflare.com",
+        "liv.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "54.36.89.77"
+      ]
+    },
+    "age_days": 6443,
+    "registrar": "Registrar.eu",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "josh.ns.cloudflare.com",
+      "liv.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "linktoevoegen.nl"
+    },
+    "not_before": "2025-04-29T19:44:02",
+    "not_after": "2025-07-28T19:44:01",
+    "days_remaining": 54,
+    "san": [
+      "*.linktoevoegen.nl",
+      "linktoevoegen.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/7.3.33",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(2, 109, 187)",
+      "rgb(0, 103, 184)",
+      "rgb(254, 254, 254)",
+      "rgb(0, 104, 185)"
+    ],
+    "image_dimensions": "1920x1272",
+    "file_size_kb": 173.376953125
+  }
+}

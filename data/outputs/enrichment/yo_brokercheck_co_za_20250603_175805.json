@@ -1,0 +1,127 @@
+{
+  "url": "https://yo.brokercheck.co.za/Kini-ea-bi-o-%E1%B9%A3e-le-b%E1%BA%B9r%E1%BA%B9-p%E1%BA%B9lu-onim%E1%BB%8Dran-onim%E1%BB%8Dran-r%E1%BA%B9/",
+  "timestamp": "2025-06-03T13:57:58.980859+00:00",
+  "screenshot_path": "data/outputs/screenshots/yo_brokercheck_co_za_20250603_175805.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NETIM",
+      "creation_date": "2019-11-28 15:07:27",
+      "expiration_date": "2025-11-28 15:07:27",
+      "name_servers": [
+        "greg.ns.cloudflare.com",
+        "jasmine.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "54.38.227.216"
+      ]
+    },
+    "age_days": 2013,
+    "registrar": "NETIM",
+    "name_servers": [
+      "greg.ns.cloudflare.com",
+      "jasmine.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "th.brokercheck.co.za"
+    },
+    "not_before": "2025-04-21T03:05:11",
+    "not_after": "2025-07-20T03:05:10",
+    "days_remaining": 46,
+    "san": [
+      "af.brokercheck.co.za",
+      "am.brokercheck.co.za",
+      "az.brokercheck.co.za",
+      "bg.brokercheck.co.za",
+      "bn.brokercheck.co.za",
+      "ceb.brokercheck.co.za",
+      "fa.brokercheck.co.za",
+      "gu.brokercheck.co.za",
+      "ha.brokercheck.co.za",
+      "hr.brokercheck.co.za",
+      "ig.brokercheck.co.za",
+      "ja.brokercheck.co.za",
+      "kk.brokercheck.co.za",
+      "km.brokercheck.co.za",
+      "kn.brokercheck.co.za",
+      "ko.brokercheck.co.za",
+      "ky.brokercheck.co.za",
+      "lo.brokercheck.co.za",
+      "mg.brokercheck.co.za",
+      "ml.brokercheck.co.za",
+      "mn.brokercheck.co.za",
+      "mr.brokercheck.co.za",
+      "ms.brokercheck.co.za",
+      "ny.brokercheck.co.za",
+      "pa.brokercheck.co.za",
+      "ps.brokercheck.co.za",
+      "sd.brokercheck.co.za",
+      "si.brokercheck.co.za",
+      "sn.brokercheck.co.za",
+      "so.brokercheck.co.za",
+      "st.brokercheck.co.za",
+      "su.brokercheck.co.za",
+      "sw.brokercheck.co.za",
+      "ta.brokercheck.co.za",
+      "te.brokercheck.co.za",
+      "tg.brokercheck.co.za",
+      "th.brokercheck.co.za",
+      "tr.brokercheck.co.za",
+      "ur.brokercheck.co.za",
+      "uz.brokercheck.co.za",
+      "xh.brokercheck.co.za",
+      "yi.brokercheck.co.za",
+      "yo.brokercheck.co.za",
+      "zh-tw.brokercheck.co.za",
+      "zu.brokercheck.co.za"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: gtranslate",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(45, 48, 50)",
+      "rgb(242, 242, 242)",
+      "rgb(245, 245, 245)",
+      "rgb(243, 243, 243)"
+    ],
+    "image_dimensions": "1920x7447",
+    "file_size_kb": 1823.9853515625
+  }
+}

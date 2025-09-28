@@ -1,0 +1,86 @@
+{
+  "url": "https://termolionline.it/2021/04/attualita/gli-errori-comuni-da-evitare-quando-investi-in-azioni-se-sei-un-principiante/",
+  "timestamp": "2025-06-04T04:44:03.144123+00:00",
+  "screenshot_path": "data/outputs/screenshots/termolionline_it_20250604_084416.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Netsons S.r.l.",
+      "creation_date": "2000-06-02 00:00:00",
+      "expiration_date": "2025-10-16 00:00:00",
+      "name_servers": "dns1.netsons.net\n  dns2.netsons.net\n  dns3.netsons.net\n  dns4.netsons.net"
+    },
+    "dns": {
+      "a_records": [
+        "89.46.229.28"
+      ],
+      "mx_records": [
+        "10 mx10.mailspamprotection.com.",
+        "20 mx20.mailspamprotection.com.",
+        "30 mx30.mailspamprotection.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:35.214.172.88 include:_spf.mailspamprotection.com ~all\""
+      ]
+    },
+    "age_days": 9133,
+    "registrar": "Netsons S.r.l.",
+    "name_servers": "dns1.netsons.net\n  dns2.netsons.net\n  dns3.netsons.net\n  dns4.netsons.net"
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "cpcalendars.termolionline.it"
+    },
+    "not_before": "2025-04-30T00:30:39",
+    "not_after": "2025-07-29T00:30:38",
+    "days_remaining": 54,
+    "san": [
+      "cpcalendars.termolionline.it",
+      "termolionline.it",
+      "www.termolionline.it"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(236, 248, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(226, 226, 226)"
+    ],
+    "image_dimensions": "1920x4055",
+    "file_size_kb": 1292.0830078125
+  }
+}

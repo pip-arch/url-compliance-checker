@@ -1,0 +1,66 @@
+{
+  "url": "http://www.upgrademag.com/web/2018/06/03/software-essentials-for-budding-forex-traders/",
+  "timestamp": "2025-05-31T18:14:18.711561+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_upgrademag_com_20250531_221431.png",
+  "domain_info": {
+    "whois": {},
+    "dns": {
+      "a_records": [
+        "206.188.192.147"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [
+    "Server: openresty/1.25.3.1",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(240, 240, 240)",
+      "rgb(239, 239, 239)",
+      "rgb(247, 247, 247)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x7892",
+    "file_size_kb": 1350.0205078125
+  }
+}

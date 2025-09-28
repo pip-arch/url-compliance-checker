@@ -1,0 +1,86 @@
+{
+  "url": "https://www.kryptoportal.pl/jak-kupic-ypredict/",
+  "timestamp": "2025-06-03T09:48:54.966440+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_kryptoportal_pl_20250603_134903.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Netim",
+      "creation_date": "2017-08-03 06:34:40",
+      "expiration_date": "2025-08-03 06:34:40",
+      "name_servers": [
+        "athena.ns.cloudflare.com",
+        "chip.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.171.205",
+        "104.21.47.183"
+      ]
+    },
+    "age_days": 2861,
+    "registrar": "Netim",
+    "name_servers": [
+      "athena.ns.cloudflare.com",
+      "chip.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "kryptoportal.pl"
+    },
+    "not_before": "2025-05-28T08:35:15",
+    "not_after": "2025-08-26T09:33:07",
+    "days_remaining": 83,
+    "san": [
+      "kryptoportal.pl",
+      "*.kryptoportal.pl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(249, 249, 249)",
+      "rgb(26, 28, 32)",
+      "rgb(245, 200, 66)"
+    ],
+    "image_dimensions": "1920x13966",
+    "file_size_kb": 3135.072265625
+  }
+}

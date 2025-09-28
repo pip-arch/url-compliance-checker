@@ -1,0 +1,89 @@
+{
+  "url": "http://www.spbex.ru/1/9846",
+  "timestamp": "2025-06-03T17:30:13.251498+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_spbex_ru_20250603_213019.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "RU-CENTER-RU",
+      "creation_date": "1997-09-03 14:47:42",
+      "expiration_date": "2025-09-30 21:00:00",
+      "name_servers": [
+        "ns1.selectel.ru.",
+        "ns2.selectel.ru.",
+        "ns3.selectel.ru.",
+        "ns4.selectel.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.71.64.129"
+      ]
+    },
+    "age_days": 10135,
+    "registrar": "RU-CENTER-RU",
+    "name_servers": [
+      "ns1.selectel.ru.",
+      "ns2.selectel.ru.",
+      "ns3.selectel.ru.",
+      "ns4.selectel.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "spbex.ru"
+    },
+    "not_before": "2025-03-29T07:32:29",
+    "not_after": "2025-06-27T07:32:28",
+    "days_remaining": 23,
+    "san": [
+      "spbex.ru",
+      "www.spbex.ru"
+    ],
+    "issues": [
+      "Certificate expires in 23 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: ASP.NET"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(250, 252, 254)",
+      "rgb(199, 219, 242)",
+      "rgb(245, 246, 247)"
+    ],
+    "image_dimensions": "1920x1201",
+    "file_size_kb": 322.3330078125
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "url": "https://www.eldiariosantiago.cl/2025/03/28/informacion-oficial-sobre-las-acciones-tsm/",
+  "timestamp": "2025-05-31T01:57:06.080125+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_eldiariosantiago_cl_20250531_055739.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NIC Chile",
+      "creation_date": "2021-01-12 19:06:03 CLST",
+      "expiration_date": "2026-01-12 19:06:03 CLST",
+      "name_servers": [
+        "ns1.hostdom.info",
+        "ns2.hostdom.info"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "198.20.111.54"
+      ],
+      "mx_records": [
+        "0 eldiariosantiago.cl."
+      ],
+      "txt_records": [
+        "\"google-site-verification=w59Lbw4ivzhgURyTb7bZpjLyjen7XbncFDfkTnWhwSk\""
+      ]
+    },
+    "age_days": null,
+    "registrar": "NIC Chile",
+    "name_servers": [
+      "ns1.hostdom.info",
+      "ns2.hostdom.info"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "eldiariosantiago.cl"
+    },
+    "not_before": "2025-04-07T02:36:07",
+    "not_after": "2025-07-06T02:36:06",
+    "days_remaining": 35,
+    "san": [
+      "*.eldiariosantiago.cl",
+      "eldiariosantiago.cl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(254, 253, 243)",
+      "rgb(244, 244, 244)",
+      "rgb(255, 254, 244)",
+      "rgb(253, 252, 242)",
+      "rgb(252, 251, 241)"
+    ],
+    "image_dimensions": "1920x5558",
+    "file_size_kb": 1647.103515625
+  }
+}

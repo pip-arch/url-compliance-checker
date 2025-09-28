@@ -1,0 +1,84 @@
+{
+  "url": "https://www.qomparo.de/vergleiche/krypto-wallet/",
+  "timestamp": "2025-05-31T09:26:26.401754+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_qomparo_de_20250531_132631.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "clay.ns.cloudflare.com",
+        "meilani.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.47.195",
+        "172.67.172.38"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "clay.ns.cloudflare.com",
+      "meilani.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "qomparo.de"
+    },
+    "not_before": "2025-05-31T06:31:03",
+    "not_after": "2025-08-29T07:29:20",
+    "days_remaining": 89,
+    "san": [
+      "qomparo.de",
+      "*.qomparo.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(224, 251, 252)",
+      "rgb(255, 255, 255)",
+      "rgb(225, 252, 253)",
+      "rgb(202, 227, 230)",
+      "rgb(201, 226, 229)"
+    ],
+    "image_dimensions": "1920x10360",
+    "file_size_kb": 3078.4912109375
+  }
+}

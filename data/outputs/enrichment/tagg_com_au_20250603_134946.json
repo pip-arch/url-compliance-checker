@@ -1,0 +1,92 @@
+{
+  "url": "https://tagg.com.au/how-to-become-a-forex-expert/",
+  "timestamp": "2025-06-03T09:49:32.713806+00:00",
+  "screenshot_path": "data/outputs/screenshots/tagg_com_au_20250603_134945.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Domain Directors Pty Ltd trading as Instra",
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns2.nocservers.net.au",
+        "ns1.nocservers.net.au"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "27.50.75.35"
+      ],
+      "mx_records": [
+        "1 mail.tagg.com.au."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:27.50.75.35 ~all\"",
+        "\"google-site-verification=N2eZuHtOmE4kbNMwqSgsryUe-rpXkAYtyHMFC5IcJOI\""
+      ]
+    },
+    "age_days": null,
+    "registrar": "Domain Directors Pty Ltd trading as Instra",
+    "name_servers": [
+      "ns2.nocservers.net.au",
+      "ns1.nocservers.net.au"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "mail.tagg.com.au"
+    },
+    "not_before": "2025-05-25T09:35:45",
+    "not_after": "2025-08-23T09:35:44",
+    "days_remaining": 80,
+    "san": [
+      "mail.tagg.com.au",
+      "tagg.com.au",
+      "www.tagg.com.au"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(227, 227, 227)",
+      "rgb(237, 237, 237)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x6205",
+    "file_size_kb": 2059.6650390625
+  }
+}

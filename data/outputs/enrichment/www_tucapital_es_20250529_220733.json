@@ -1,0 +1,84 @@
+{
+  "url": "https://www.tucapital.es/blogs/guias/alternativas-interesantes-de-inversion-para-considerar-en-este-2024/",
+  "timestamp": "2025-05-29T18:07:25.792855+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_tucapital_es_20250529_220733.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "178.32.3.144"
+      ],
+      "mx_records": [
+        "0 tucapital.es."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:178.32.3.144 ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "www.tucapital.es"
+    },
+    "not_before": "2025-05-12T21:41:59",
+    "not_after": "2025-08-10T21:41:58",
+    "days_remaining": 72,
+    "san": [
+      "tucapital.es",
+      "www.tucapital.es"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.48 (Unix) OpenSSL/1.0.2k-fips",
+    "Powered by: PHP/5.6.37",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(85, 85, 85)",
+      "rgb(236, 224, 229)",
+      "rgb(236, 224, 230)",
+      "rgb(242, 230, 227)"
+    ],
+    "image_dimensions": "1920x1282",
+    "file_size_kb": 461.03125
+  }
+}

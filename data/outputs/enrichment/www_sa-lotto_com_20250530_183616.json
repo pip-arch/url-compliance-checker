@@ -1,0 +1,89 @@
+{
+  "url": "https://www.sa-lotto.com/forex/trading/forex-trading-platform-top-best-online-brokers-AdmiralMarkets.php",
+  "timestamp": "2025-05-30T14:36:07.112649+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_sa-lotto_com_20250530_183616.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2017-11-17 05:09:08",
+      "expiration_date": "2025-11-17 05:09:08",
+      "name_servers": [
+        "NS1.LOTOHOLIC.COM",
+        "NS2.LOTOHOLIC.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "77.235.62.132"
+      ],
+      "mx_records": [
+        "0 sa-lotto.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:77.235.62.132 +a +mx +ip4:77.235.52.67 ~all\""
+      ]
+    },
+    "age_days": 2751,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "NS1.LOTOHOLIC.COM",
+      "NS2.LOTOHOLIC.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.sa-lotto.com"
+    },
+    "not_before": "2025-05-26T02:48:09",
+    "not_after": "2025-08-24T02:48:08",
+    "days_remaining": 85,
+    "san": [
+      "*.sa-lotto.com",
+      "sa-lotto.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(250, 250, 245)",
+      "rgb(152, 152, 152)",
+      "rgb(255, 255, 255)",
+      "rgb(166, 0, 0)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x5886",
+    "file_size_kb": 1110.84765625
+  }
+}

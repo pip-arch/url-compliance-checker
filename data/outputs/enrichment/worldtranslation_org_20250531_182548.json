@@ -1,0 +1,78 @@
+{
+  "url": "http://worldtranslation.org/news/5501-kuda-vlozhit-200-000-rublej-principy-i-sposoby-uspeshnogo-investirovaniya.html",
+  "timestamp": "2025-05-31T14:25:39.710972+00:00",
+  "screenshot_path": "data/outputs/screenshots/worldtranslation_org_20250531_182547.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Global Domain Group LLC",
+      "creation_date": "2011-07-20 20:50:48",
+      "expiration_date": "2026-07-20 20:50:48",
+      "name_servers": [
+        "robotns2.second-ns.de",
+        "robotns3.second-ns.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "195.201.17.244"
+      ],
+      "mx_records": [
+        "10 mail.worldtranslation.org."
+      ]
+    },
+    "age_days": 5063,
+    "registrar": "Global Domain Group LLC",
+    "name_servers": [
+      "robotns2.second-ns.de",
+      "robotns3.second-ns.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "Connection Error: [Errno 61] Connection refused"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(217, 217, 217)",
+      "rgb(238, 238, 238)",
+      "rgb(218, 218, 218)"
+    ],
+    "image_dimensions": "1920x2744",
+    "file_size_kb": 2689.1923828125
+  }
+}

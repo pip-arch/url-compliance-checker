@@ -1,0 +1,94 @@
+{
+  "url": "https://swpor.com/website-list-1973/",
+  "timestamp": "2025-06-04T01:16:33.878188+00:00",
+  "screenshot_path": "data/outputs/screenshots/swpor_com_20250604_051642.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2022-09-22 14:52:07",
+      "expiration_date": "2026-09-22 14:52:07",
+      "name_servers": [
+        "HEATHER.NS.CLOUDFLARE.COM",
+        "KARL.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.64.39",
+        "172.67.175.235"
+      ],
+      "mx_records": [
+        "15 eforward4.registrar-servers.com.",
+        "10 eforward2.registrar-servers.com.",
+        "10 eforward1.registrar-servers.com.",
+        "10 eforward3.registrar-servers.com.",
+        "20 eforward5.registrar-servers.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.efwd.registrar-servers.com ~all\""
+      ]
+    },
+    "age_days": 985,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "HEATHER.NS.CLOUDFLARE.COM",
+      "KARL.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "swpor.com"
+    },
+    "not_before": "2025-05-16T09:58:36",
+    "not_after": "2025-08-14T10:56:13",
+    "days_remaining": 71,
+    "san": [
+      "swpor.com",
+      "*.swpor.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(17, 17, 51)",
+      "rgb(14, 14, 48)",
+      "rgb(254, 254, 254)",
+      "rgb(16, 16, 50)"
+    ],
+    "image_dimensions": "1920x1878",
+    "file_size_kb": 402.3779296875
+  }
+}

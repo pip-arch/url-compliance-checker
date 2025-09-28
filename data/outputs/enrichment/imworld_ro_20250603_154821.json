@@ -1,0 +1,57 @@
+{
+  "url": "https://imworld.ro/2017/company/admiral-markets/",
+  "timestamp": "2025-06-03T11:48:20.085831+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "ICI - Registrar",
+      "creation_date": "2010-01-31 00:00:00",
+      "expiration_date": "2028-05-29 00:00:00",
+      "name_servers": [
+        "ns1.imworld.ro",
+        "ns2.imworld.ro"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "176.223.220.158"
+      ],
+      "mx_records": [
+        "0 imworld.ro."
+      ],
+      "txt_records": [
+        "\"google-site-verification=0QHbpsKxe12ey1WZxqDSdx4L__a7UrGQ89lbegkKPQA\"",
+        "\"v=spf1 +a +mx +ip4:176.223.220.158 ~all\""
+      ]
+    },
+    "age_days": 5602,
+    "registrar": "ICI - Registrar",
+    "name_servers": [
+      "ns1.imworld.ro",
+      "ns2.imworld.ro"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: Cannot connect to host imworld.ro:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')]"
+    ]
+  },
+  "visual_analysis": {}
+}

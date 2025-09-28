@@ -1,0 +1,86 @@
+{
+  "url": "https://lifedon.info/economy/finance/45476-psihologiya-treydinga-pochemu-eto-vazhno-dlya-torgovli-na-foreks.html",
+  "timestamp": "2025-05-31T01:56:58.461856+00:00",
+  "screenshot_path": "data/outputs/screenshots/lifedon_info_20250531_055705.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "URL SOLUTIONS INC.",
+      "creation_date": "2024-10-08 07:24:53",
+      "expiration_date": "2025-10-08 07:24:53",
+      "name_servers": [
+        "ns1.fozzy.com",
+        "ns2.fozzy.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "45.83.123.94"
+      ],
+      "mx_records": [
+        "0 lifedon.info."
+      ]
+    },
+    "age_days": 234,
+    "registrar": "URL SOLUTIONS INC.",
+    "name_servers": [
+      "ns1.fozzy.com",
+      "ns2.fozzy.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "lifedon.info"
+    },
+    "not_before": "2025-04-11T02:54:50",
+    "not_after": "2025-07-10T02:54:49",
+    "days_remaining": 39,
+    "san": [
+      "lifedon.info",
+      "www.lifedon.info"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.20.2",
+    "Powered by: PHP/7.4.33"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(241, 241, 241)",
+      "rgb(250, 250, 250)",
+      "rgb(251, 251, 251)",
+      "rgb(49, 54, 66)"
+    ],
+    "image_dimensions": "1920x4008",
+    "file_size_kb": 1601.6748046875
+  }
+}

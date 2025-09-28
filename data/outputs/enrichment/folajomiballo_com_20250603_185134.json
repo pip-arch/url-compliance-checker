@@ -1,0 +1,95 @@
+{
+  "url": "https://folajomiballo.com/day-trading-addict-course-review-trade-win-profit/",
+  "timestamp": "2025-06-03T14:51:19.438138+00:00",
+  "screenshot_path": "data/outputs/screenshots/folajomiballo_com_20250603_185133.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2021-03-07 11:08:12",
+      "expiration_date": "2026-03-07 11:08:12",
+      "name_servers": [
+        "DNS1.NAMECHEAPHOSTING.COM",
+        "DNS2.NAMECHEAPHOSTING.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "162.0.229.158"
+      ],
+      "mx_records": [
+        "20 mx3-hosting.jellyfish.systems.",
+        "5 mx1-hosting.jellyfish.systems.",
+        "10 mx2-hosting.jellyfish.systems."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:162.0.229.157 include:spf.web-hosting.com ~all\"",
+        "\"google-site-verification=EhLN3fdpREnQOH9_NYbWaZDNpPzjwUcSR7WrbuJwiBw\""
+      ]
+    },
+    "age_days": 1549,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "DNS1.NAMECHEAPHOSTING.COM",
+      "DNS2.NAMECHEAPHOSTING.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "GB",
+      "stateOrProvinceName": "Greater Manchester",
+      "localityName": "Salford",
+      "organizationName": "Sectigo Limited",
+      "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+    },
+    "subject": {
+      "commonName": "folajomiballo.com"
+    },
+    "not_before": "2025-04-04T00:00:00",
+    "not_after": "2026-04-04T23:59:59",
+    "days_remaining": 305,
+    "san": [
+      "folajomiballo.com",
+      "www.folajomiballo.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(245, 245, 245)",
+      "rgb(255, 255, 255)",
+      "rgb(246, 246, 246)",
+      "rgb(230, 230, 230)",
+      "rgb(229, 229, 229)"
+    ],
+    "image_dimensions": "1920x22756",
+    "file_size_kb": 3335.703125
+  }
+}

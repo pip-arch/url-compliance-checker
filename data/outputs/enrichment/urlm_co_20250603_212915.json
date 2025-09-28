@@ -1,0 +1,81 @@
+{
+  "url": "http://urlm.co/www.fxservice.com",
+  "timestamp": "2025-06-03T17:28:57.198963+00:00",
+  "screenshot_path": "data/outputs/screenshots/urlm_co_20250603_212914.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2013-04-15 04:59:39",
+      "expiration_date": "2027-04-14 23:59:59",
+      "name_servers": [
+        "bonnie.ns.cloudflare.com",
+        "gannon.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "54.235.69.189"
+      ],
+      "txt_records": [
+        "\"google-site-verification=iHx0W2ImM9-iJFNdrNxmfe9g_jP6BI8douoQ1Mxp5j4\""
+      ]
+    },
+    "age_days": 4432,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "bonnie.ns.cloudflare.com",
+      "gannon.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "Connection Error: timed out"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache/2.2.15 (CentOS)",
+    "Powered by: PHP/5.3.3",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(245, 245, 245)",
+      "rgb(249, 249, 249)",
+      "rgb(247, 247, 247)"
+    ],
+    "image_dimensions": "1920x4457",
+    "file_size_kb": 407.9267578125
+  }
+}

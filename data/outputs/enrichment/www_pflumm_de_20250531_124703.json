@@ -1,0 +1,86 @@
+{
+  "url": "https://www.pflumm.de/aktives-aktien-trading-ohne-kommission-mit-admirals/",
+  "timestamp": "2025-05-31T08:46:56.259183+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_pflumm_de_20250531_124703.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns69.domaincontrol.com",
+        "ns70.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "91.250.67.234"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns69.domaincontrol.com",
+      "ns70.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "stateOrProvinceName": "Arizona",
+      "localityName": "Scottsdale",
+      "organizationName": "Starfield Technologies, Inc.",
+      "organizationalUnitName": "http://certs.starfieldtech.com/repository/",
+      "commonName": "Starfield Secure Certificate Authority - G2"
+    },
+    "subject": {
+      "commonName": "www.pflumm.de"
+    },
+    "not_before": "2024-11-29T19:19:45",
+    "not_after": "2025-11-29T19:19:45",
+    "days_remaining": 182,
+    "san": [
+      "www.pflumm.de",
+      "pflumm.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(30, 115, 190)",
+      "rgb(255, 255, 255)",
+      "rgb(85, 85, 85)",
+      "rgb(234, 234, 234)",
+      "rgb(136, 136, 136)"
+    ],
+    "image_dimensions": "1920x3584",
+    "file_size_kb": 1354.8935546875
+  }
+}

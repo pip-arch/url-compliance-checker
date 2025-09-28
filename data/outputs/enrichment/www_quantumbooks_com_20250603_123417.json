@@ -1,0 +1,90 @@
+{
+  "url": "https://www.quantumbooks.com/business/finance/what-are-the-secrets-to-trading-success/",
+  "timestamp": "2025-06-03T08:34:08.737031+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_quantumbooks_com_20250603_123417.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "1995-05-01 04:00:00",
+      "expiration_date": "2026-05-02 04:00:00",
+      "name_servers": [
+        "CDNS1.MAIN-HOSTING.EU",
+        "CDNS2.MAIN-HOSTING.EU"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "212.1.210.179"
+      ],
+      "mx_records": [
+        "0 quantumbooks.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:195.35.61.13 include:relay.mailchannels.net ip4:109.106.250.101 +a +mx +ip4:212.1.208.201 ~all\""
+      ]
+    },
+    "age_days": 10991,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "CDNS1.MAIN-HOSTING.EU",
+      "CDNS2.MAIN-HOSTING.EU"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.quantumbooks.com"
+    },
+    "not_before": "2025-05-15T18:00:19",
+    "not_after": "2025-08-13T18:00:18",
+    "days_remaining": 71,
+    "san": [
+      "*.quantumbooks.com",
+      "quantumbooks.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(249, 249, 249)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(230, 230, 230)",
+      "rgb(228, 228, 228)"
+    ],
+    "image_dimensions": "1920x3733",
+    "file_size_kb": 859.3525390625
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.infostock.bg/infostock/control/worldmarkets/news/91119-zashto-noemvri-e-najdobroto-vreme-za-investitsii-v-aktsii",
+  "timestamp": "2025-06-04T04:49:21.722928+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "79.98.107.7"
+      ],
+      "mx_records": [
+        "5 mail.infostock.bg."
+      ],
+      "txt_records": [
+        "\"google-site-verification=xnusfjhgdbn49dpo-uvy8sltysrs9qeftyj37zauvsc\"",
+        "\"v=spf1 +a +mx ~all\"",
+        "\"facebook-domain-verification=3znja2lsvf98d08qk8t1gs5lf074bg\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "disclosure.infostock.bg"
+    },
+    "not_before": "2025-05-23T00:21:39",
+    "not_after": "2025-08-21T00:21:38",
+    "days_remaining": 77,
+    "san": [
+      "disclosure.infostock.bg",
+      "infostock.bg",
+      "www.infostock.bg"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

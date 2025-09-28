@@ -1,0 +1,69 @@
+{
+  "url": "http://mccoypress.net/wordpress/?p=221",
+  "timestamp": "2025-05-31T18:13:35.106766+00:00",
+  "screenshot_path": "data/outputs/screenshots/mccoypress_net_20250531_221342.png",
+  "domain_info": {
+    "whois": {},
+    "dns": {
+      "a_records": [
+        "50.63.8.242"
+      ],
+      "mx_records": [
+        "0 smtp.secureserver.net.",
+        "10 mailstore1.secureserver.net."
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "Connection Error: [Errno 54] Connection reset by peer"
+    ]
+  },
+  "technology_stack": [
+    "Server: Microsoft-IIS/10.0",
+    "Powered by: ASP.NET"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(102, 166, 191)",
+      "rgb(0, 107, 148)",
+      "rgb(101, 165, 191)",
+      "rgb(204, 204, 204)"
+    ],
+    "image_dimensions": "1920x1325",
+    "file_size_kb": 370.00390625
+  }
+}

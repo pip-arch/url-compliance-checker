@@ -1,0 +1,86 @@
+{
+  "url": "https://www.businessbourse.com/dev/2020/04/09/comment-choisir-sa-formation-trader/",
+  "timestamp": "2025-05-31T15:27:18.360811+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_businessbourse_com_20250531_192737.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Gandi SAS",
+      "creation_date": "2010-02-18 09:12:17",
+      "expiration_date": "2026-02-18 09:12:17",
+      "name_servers": [
+        "DAVE.NS.CLOUDFLARE.COM",
+        "REZA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.20.29",
+        "172.67.191.1"
+      ]
+    },
+    "age_days": 5581,
+    "registrar": "Gandi SAS",
+    "name_servers": [
+      "DAVE.NS.CLOUDFLARE.COM",
+      "REZA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "businessbourse.com"
+    },
+    "not_before": "2025-05-30T19:08:52",
+    "not_after": "2025-08-28T20:07:33",
+    "days_remaining": 89,
+    "san": [
+      "businessbourse.com",
+      "*.businessbourse.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.1.32",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(205, 205, 205)",
+      "rgb(254, 254, 254)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x8024",
+    "file_size_kb": 1383.203125
+  }
+}

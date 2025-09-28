@@ -1,0 +1,98 @@
+{
+  "url": "https://cekin.si/financi_vodic/brexit-sveti-gral-za-profesionalne-vlagatelje.html",
+  "timestamp": "2025-06-03T18:18:00.252619+00:00",
+  "screenshot_path": "data/outputs/screenshots/cekin_si_20250603_221805.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Telekom Slovenije, d.d.",
+      "creation_date": "2008-02-12 00:00:00",
+      "expiration_date": "2026-02-12 00:00:00",
+      "name_servers": [
+        "ns-cloud-c1.googledomains.com",
+        "ns-cloud-c2.googledomains.com",
+        "ns-cloud-c3.googledomains.com",
+        "ns-cloud-c4.googledomains.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "199.232.194.133",
+        "199.232.198.133"
+      ],
+      "mx_records": [
+        "5 mailsec1.pop-tv.si.",
+        "1 exchange.pop-tv.si.",
+        "5 mailsec2.pop-tv.si.",
+        "3 cekin-si.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"MS=ms80639741\"",
+        "\"v=spf1 ip4:91.202.64.0/22  include:servers.mcsv.net include:spf.protection.outlook.com ~all\"",
+        "\"google-site-verification=1a9ghk9oiuanreFqtRlS6DCvDD1GZ9zfERzu4P5CpUo\"",
+        "\"MS=ms87787669\""
+      ]
+    },
+    "age_days": 6321,
+    "registrar": "Telekom Slovenije, d.d.",
+    "name_servers": [
+      "ns-cloud-c1.googledomains.com",
+      "ns-cloud-c2.googledomains.com",
+      "ns-cloud-c3.googledomains.com",
+      "ns-cloud-c4.googledomains.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "cekin.si"
+    },
+    "not_before": "2025-03-10T14:13:46",
+    "not_after": "2025-06-08T14:13:45",
+    "days_remaining": 4,
+    "san": [
+      "*.cekin.si",
+      "cekin.si"
+    ],
+    "issues": [
+      "Certificate expires in 4 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: envoy",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "CSP"
+    ],
+    "issues": [
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(193, 156, 90)",
+      "rgb(45, 27, 20)",
+      "rgb(164, 142, 129)",
+      "rgb(255, 255, 255)",
+      "rgb(163, 142, 130)"
+    ],
+    "image_dimensions": "1920x5310",
+    "file_size_kb": 2425.375
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "url": "https://www.economiafinanzas.com/so/talada-maalgashadayaasha-sababta-ay-ugu-habboon-tahay-in-lagu-bilaabo-xisaab-demo/",
+  "timestamp": "2025-05-31T12:55:28.729544+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_economiafinanzas_com_20250531_165538.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Soluciones Corporativas IP, SL",
+      "creation_date": "2007-11-29 23:20:48",
+      "expiration_date": "2025-11-29 23:20:48",
+      "name_servers": [
+        "NS20.DIGICERTDNS.COM",
+        "NS21.DIGICERTDNS.COM",
+        "NS22.DIGICERTDNS.COM",
+        "NS23.DIGICERTDNS.NET",
+        "NS24.DIGICERTDNS.NET",
+        "NS25.DIGICERTDNS.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "178.255.231.119",
+        "178.255.231.118"
+      ]
+    },
+    "age_days": 6392,
+    "registrar": "Soluciones Corporativas IP, SL",
+    "name_servers": [
+      "NS20.DIGICERTDNS.COM",
+      "NS21.DIGICERTDNS.COM",
+      "NS22.DIGICERTDNS.COM",
+      "NS23.DIGICERTDNS.NET",
+      "NS24.DIGICERTDNS.NET",
+      "NS25.DIGICERTDNS.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "economiafinanzas.com"
+    },
+    "not_before": "2025-05-10T23:11:30",
+    "not_after": "2025-08-08T23:11:29",
+    "days_remaining": 69,
+    "san": [
+      "economiafinanzas.com",
+      "www.economiafinanzas.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: gtranslate",
+    "Powered by: Occentus Hybrid Cloud",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(61, 76, 33)",
+      "rgb(254, 254, 254)",
+      "rgb(54, 69, 24)",
+      "rgb(135, 144, 117)"
+    ],
+    "image_dimensions": "1920x4842",
+    "file_size_kb": 1049.78125
+  }
+}

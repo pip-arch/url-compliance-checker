@@ -1,0 +1,84 @@
+{
+  "url": "https://daytrader.startpaginas.org/",
+  "timestamp": "2025-05-30T13:41:20.781341+00:00",
+  "screenshot_path": "data/outputs/screenshots/daytrader_startpaginas_org_20250530_174126.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Hosting Concepts B.V. d/b/a Registrar.eu",
+      "creation_date": "2014-09-24 16:52:45",
+      "expiration_date": "2025-09-24 16:52:45",
+      "name_servers": [
+        "josh.ns.cloudflare.com",
+        "liv.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "51.38.215.252"
+      ]
+    },
+    "age_days": 3900,
+    "registrar": "Hosting Concepts B.V. d/b/a Registrar.eu",
+    "name_servers": [
+      "josh.ns.cloudflare.com",
+      "liv.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "startpaginas.org"
+    },
+    "not_before": "2025-04-28T23:47:54",
+    "not_after": "2025-07-27T23:47:53",
+    "days_remaining": 58,
+    "san": [
+      "*.startpaginas.org",
+      "startpaginas.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/7.3.33",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(2, 109, 187)",
+      "rgb(1, 108, 187)",
+      "rgb(0, 103, 184)",
+      "rgb(201, 224, 240)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 92.8583984375
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "url": "https://laurentiumihai.ro/tranzactionezi-nasdaq/",
+  "timestamp": "2025-05-31T14:34:09.085089+00:00",
+  "screenshot_path": "data/outputs/screenshots/laurentiumihai_ro_20250531_183419.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "ICI - Registrar",
+      "creation_date": "2011-08-16 00:00:00",
+      "expiration_date": "2026-07-13 00:00:00",
+      "name_servers": [
+        "ns1.simplenet.ro",
+        "ns2.simplenet.ro",
+        "ns3.blogrise.com",
+        "ns3.simplenet.ro",
+        "ns4.simplenet.ro"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "89.41.38.107"
+      ],
+      "mx_records": [
+        "30 mx03.whmpanels.com.",
+        "10 mx01.whmpanels.com.",
+        "20 mx02.whmpanels.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:89.41.38.107 include:relay.romarg.net include:_spf.mlsend.com a:01.spf.whmpanels.com/24 a:02.spf.whmpanels.com/24 a:03.spf.whmpanels.com/24 a:04.spf.whmpanels.com/24 a:05.spf.whmpanels.com/24 a:06.spf.whmpanels.com/24 a:07.spf.whmpanels.com/24 \" \"-all\""
+      ]
+    },
+    "age_days": 5037,
+    "registrar": "ICI - Registrar",
+    "name_servers": [
+      "ns1.simplenet.ro",
+      "ns2.simplenet.ro",
+      "ns3.blogrise.com",
+      "ns3.simplenet.ro",
+      "ns4.simplenet.ro"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "laurentiumihai.ro"
+    },
+    "not_before": "2025-04-12T18:30:15",
+    "not_after": "2025-07-11T18:30:14",
+    "days_remaining": 40,
+    "san": [
+      "laurentiumihai.ro",
+      "mail.laurentiumihai.ro",
+      "www.laurentiumihai.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Frame-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)",
+      "rgb(238, 238, 238)"
+    ],
+    "image_dimensions": "1920x4951",
+    "file_size_kb": 688.4892578125
+  }
+}

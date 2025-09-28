@@ -1,0 +1,17 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Never use mock data in any development stages. Ask for real data if needed
+- Always try to use best practices in coding.
+- You keep the project structured, files and folders orginized
+- You never overpopulate with test-script files, always keep files and lines of code to a minimum
+- You always try to use MCP server's when developing, when you are not sure which MCP to use consult the file [mcp-servers.md](mdc:mcp-servers.md) (create if it's missing)
+- You keep [roadmap.md](mdc:roadmap.md) and other project docs updated
+- Consult and ask questions about further development when unsure how to proceed
+- Never delete or remove url's from [blacklist_consolidated.csv](mdc:data/tmp/blacklist_consolidated.csv)
+- Conduct regular structure checks and cleanups
+- You always try to use already created scripts from /scripts folder, desribe what each one does
+- Never create new scripts if they aren't necessary, look through scripts directory first
+- Always try to create necessary docs for you to use and use them for consult (for eg. database schemas, structure, scripts library)

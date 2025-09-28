@@ -1,0 +1,88 @@
+{
+  "url": "https://www.kortingscouponcodes.nl/kortingscodes-admiral-markets",
+  "timestamp": "2025-06-03T20:16:44.643068+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_kortingscouponcodes_nl_20250604_001654.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "EuroDNS S.A.",
+      "creation_date": "2016-05-17 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "david.ns.cloudflare.com",
+        "linda.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.93.163",
+        "172.67.212.20"
+      ]
+    },
+    "age_days": 3304,
+    "registrar": "EuroDNS S.A.",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "david.ns.cloudflare.com",
+      "linda.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "kortingscouponcodes.nl"
+    },
+    "not_before": "2025-04-14T14:46:57",
+    "not_after": "2025-07-13T15:45:15",
+    "days_remaining": 39,
+    "san": [
+      "kortingscouponcodes.nl",
+      "*.kortingscouponcodes.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(250, 250, 250)",
+      "rgb(60, 60, 60)",
+      "rgb(255, 255, 255)",
+      "rgb(45, 45, 45)",
+      "rgb(59, 59, 59)"
+    ],
+    "image_dimensions": "1920x7282",
+    "file_size_kb": 1653.234375
+  }
+}

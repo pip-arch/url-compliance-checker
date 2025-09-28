@@ -1,0 +1,76 @@
+{
+  "url": "https://ortho-rus.ru/finansy/390-znakomstvo-s-rynkom-foreks-s-chego-nachat-novichku.html",
+  "timestamp": "2025-05-31T13:17:06.057052+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "REGRU-RU",
+      "creation_date": "2017-11-01 14:09:30",
+      "expiration_date": "2025-11-01 14:09:30",
+      "name_servers": [
+        "nl1.hoststock.net.",
+        "nl2.hoststock.net."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "188.165.139.199"
+      ],
+      "mx_records": [
+        "0 ortho-rus.ru."
+      ]
+    },
+    "age_days": 2767,
+    "registrar": "REGRU-RU",
+    "name_servers": [
+      "nl1.hoststock.net.",
+      "nl2.hoststock.net."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "ortho-rus.ru"
+    },
+    "not_before": "2025-04-06T11:38:22",
+    "not_after": "2025-07-05T11:38:21",
+    "days_remaining": 34,
+    "san": [
+      "ortho-rus.ru",
+      "www.ortho-rus.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/5.6.40",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

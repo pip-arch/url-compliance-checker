@@ -1,0 +1,106 @@
+{
+  "url": "https://blog.malltina.com/%D9%88%D8%A7%D8%B1%D9%86-%D8%A8%D8%A7%D9%81%D8%AA/",
+  "timestamp": "2025-06-03T18:23:53.836049+00:00",
+  "screenshot_path": "data/outputs/screenshots/blog_malltina_com_20250603_222406.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "CSL Computer Service Langenbach GmbH d/b/a joker.com",
+      "creation_date": "2017-01-08 11:52:20",
+      "expiration_date": "2029-01-08 11:52:20",
+      "name_servers": [
+        "M.NS.SOTOON53.COM",
+        "NS.SOTOON53.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.166.104.3",
+        "185.166.104.4"
+      ],
+      "mx_records": [
+        "74 emailer-15.malltina.com.",
+        "20 emailer-1.malltina.com.",
+        "76 emailer-16.malltina.com.",
+        "65 emailer-11.malltina.com.",
+        "80 emailer-20.malltina.com.",
+        "110 emailer-9.malltina.com.",
+        "78 emailer-18.malltina.com.",
+        "30 emailer-2.malltina.com.",
+        "74 emailer15.malltina.com.",
+        "90 emailer-7.malltina.com.",
+        "73 emailer-14.malltina.com.",
+        "72 emailer-13.malltina.com.",
+        "71 emailer-12.malltina.com.",
+        "20 inbound-smtp.us-west-2.amazonaws.com.",
+        "5 mail.malltina.com.",
+        "79 emailer-19.malltina.com.",
+        "77 emailer-17.malltina.com.",
+        "120 emailer-10.malltina.com.",
+        "100 emailer-8.malltina.com."
+      ]
+    },
+    "age_days": 3068,
+    "registrar": "CSL Computer Service Langenbach GmbH d/b/a joker.com",
+    "name_servers": [
+      "M.NS.SOTOON53.COM",
+      "NS.SOTOON53.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "PL",
+      "organizationName": "Unizeto Technologies S.A.",
+      "organizationalUnitName": "Certum Certification Authority",
+      "commonName": "Certum Domain Validation CA SHA2"
+    },
+    "subject": {
+      "commonName": "*.malltina.com"
+    },
+    "not_before": "2024-11-10T09:41:43",
+    "not_after": "2025-11-10T09:41:42",
+    "days_remaining": 159,
+    "san": [
+      "*.malltina.com",
+      "malltina.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Sotoon CDN",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(23, 43, 77)",
+      "rgb(255, 255, 255)",
+      "rgb(242, 243, 245)",
+      "rgb(241, 242, 244)",
+      "rgb(243, 244, 246)"
+    ],
+    "image_dimensions": "1920x15625",
+    "file_size_kb": 3291.4189453125
+  }
+}

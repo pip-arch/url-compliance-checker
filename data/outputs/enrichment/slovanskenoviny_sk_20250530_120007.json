@@ -1,0 +1,93 @@
+{
+  "url": "https://slovanskenoviny.sk/velky-prijem-ako-planuju-vsetko-vlastnit/",
+  "timestamp": "2025-05-30T08:00:00.171481+00:00",
+  "screenshot_path": "data/outputs/screenshots/slovanskenoviny_sk_20250530_120006.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "EXO TECHNOLOGIES spol. s r.o.",
+      "creation_date": "2020-10-14 00:00:00",
+      "expiration_date": "2025-10-14 00:00:00",
+      "name_servers": [
+        "dilbert.ns.cloudflare.com",
+        "rita.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.27.105",
+        "172.67.169.29"
+      ],
+      "mx_records": [
+        "5 mx1.hostinger.com.",
+        "10 mx2.hostinger.com."
+      ],
+      "txt_records": [
+        "\"328285\"",
+        "\"v=spf1 include:_spf.mail.hostinger.com ~all\""
+      ]
+    },
+    "age_days": 1689,
+    "registrar": "EXO TECHNOLOGIES spol. s r.o.",
+    "name_servers": [
+      "dilbert.ns.cloudflare.com",
+      "rita.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "slovanskenoviny.sk"
+    },
+    "not_before": "2025-05-01T18:43:22",
+    "not_after": "2025-07-30T19:42:02",
+    "days_remaining": 61,
+    "san": [
+      "slovanskenoviny.sk",
+      "*.slovanskenoviny.sk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 253, 249)",
+      "rgb(0, 0, 0)",
+      "rgb(244, 242, 238)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 254, 250)"
+    ],
+    "image_dimensions": "1920x10451",
+    "file_size_kb": 3576.90234375
+  }
+}

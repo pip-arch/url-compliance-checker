@@ -1,0 +1,93 @@
+{
+  "url": "https://binaryoptionz.club/2018/11/27/%D8%AA%D8%B1%DB%8C%D8%AF%D8%B1-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%DA%A9%D8%B3-%D8%A8%D8%A7%DB%8C%D9%86%D8%B1%DB%8C-%D8%A2%D9%BE%D8%B4%D9%86/",
+  "timestamp": "2025-06-03T16:37:39.122359+00:00",
+  "screenshot_path": "data/outputs/screenshots/binaryoptionz_club_20250603_203745.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2017-01-12 02:07:08",
+      "expiration_date": "2026-01-11 23:59:59",
+      "name_servers": [
+        "curt.ns.cloudflare.com",
+        "cruz.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.223.186",
+        "104.21.86.187"
+      ],
+      "mx_records": [
+        "30 smx3.web-hosting.com.",
+        "20 smx2.web-hosting.com.",
+        "10 smx1.web-hosting.com."
+      ],
+      "txt_records": [
+        "\"MAltYWlsLmJpbmFyeW9wdGlvbnouY2x1Yi4K\""
+      ]
+    },
+    "age_days": 3064,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "curt.ns.cloudflare.com",
+      "cruz.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "binaryoptionz.club"
+    },
+    "not_before": "2025-04-22T06:27:18",
+    "not_after": "2025-07-21T07:24:00",
+    "days_remaining": 47,
+    "san": [
+      "binaryoptionz.club",
+      "*.binaryoptionz.club"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(243, 243, 243)",
+      "rgb(242, 242, 242)",
+      "rgb(241, 241, 241)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x8108",
+    "file_size_kb": 1399.2548828125
+  }
+}

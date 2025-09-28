@@ -1,0 +1,92 @@
+{
+  "url": "https://byothe.fr/maximiser-gains-strategies-de-paris-intelligentes/",
+  "timestamp": "2025-06-04T00:04:48.978966+00:00",
+  "screenshot_path": "data/outputs/screenshots/byothe_fr_20250604_040454.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Infomaniak Network SA",
+      "creation_date": "2013-06-05 21:08:44",
+      "expiration_date": "2026-04-27 22:11:15",
+      "name_servers": [
+        "nancy.ns.cloudflare.com",
+        "roman.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.48.56",
+        "172.67.178.208"
+      ],
+      "mx_records": [
+        "5 mta-gw.infomaniak.ch."
+      ],
+      "txt_records": [
+        "\"google-site-verification=6sIOBoDaiAhbVexxE8amjEPP7KOVzDz4exXUGDwVLIk\"",
+        "\"v=spf1 include:spf.infomaniak.ch -all\""
+      ]
+    },
+    "age_days": 4381,
+    "registrar": "Infomaniak Network SA",
+    "name_servers": [
+      "nancy.ns.cloudflare.com",
+      "roman.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "byothe.fr"
+    },
+    "not_before": "2025-05-22T22:21:25",
+    "not_after": "2025-08-20T23:19:55",
+    "days_remaining": 77,
+    "san": [
+      "byothe.fr",
+      "*.byothe.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(249, 249, 249)",
+      "rgb(252, 252, 252)",
+      "rgb(222, 221, 221)"
+    ],
+    "image_dimensions": "1920x5779",
+    "file_size_kb": 1239.9248046875
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://www.gebaeudereiniger-online.de/info/Reinigungsmittelhersteller-Henkel-knackt-20-Milliarden-Euro-Umsatzmarke-26.html",
+  "timestamp": "2025-05-31T15:29:53.921555+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_gebaeudereiniger-online_de_20250531_192959.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns3.stratoserver.net",
+        "ns4.stratoserver.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "92.205.20.35"
+      ],
+      "mx_records": [
+        "20 mail.gebaeudereiniger-online.de."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:secureserver.net ip4:92.204.71.205 mx -all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns3.stratoserver.net",
+      "ns4.stratoserver.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "www.gebaeudereiniger-online.de"
+    },
+    "not_before": "2025-03-29T01:04:39",
+    "not_after": "2025-06-27T01:04:38",
+    "days_remaining": 26,
+    "san": [
+      "www.gebaeudereiniger-online.de"
+    ],
+    "issues": [
+      "Certificate expires in 26 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.62 (AlmaLinux) OpenSSL/3.2.2",
+    "Powered by: PHP/8.3.21",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(248, 248, 248)",
+      "rgb(0, 49, 82)",
+      "rgb(249, 249, 249)",
+      "rgb(250, 250, 250)"
+    ],
+    "image_dimensions": "1920x2686",
+    "file_size_kb": 1089.2119140625
+  }
+}

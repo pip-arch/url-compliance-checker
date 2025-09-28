@@ -1,0 +1,99 @@
+{
+  "url": "https://nudeselfiegirls.com/foreks-broker-maximarkets/",
+  "timestamp": "2025-05-31T15:23:36.536246+00:00",
+  "screenshot_path": "data/outputs/screenshots/nudeselfiegirls_com_20250531_192408.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2017-11-29 01:13:13",
+      "expiration_date": "2025-11-29 01:13:13",
+      "name_servers": [
+        "GEORGE.NS.CLOUDFLARE.COM",
+        "INES.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.48.1",
+        "104.21.64.1",
+        "104.21.96.1",
+        "104.21.112.1",
+        "104.21.80.1",
+        "104.21.32.1",
+        "104.21.16.1"
+      ],
+      "mx_records": [
+        "10 aspmx.l.google.com.",
+        "20 alt1.aspmx.l.google.com.",
+        "20 alt2.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:aspmx.googlemail.com ~all\"",
+        "\"google-site-verification=J1H2fsw4pxZzjc9OhB7XcBIP7xnV9-iTVA5Mqh6WpaU\""
+      ]
+    },
+    "age_days": 2740,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "GEORGE.NS.CLOUDFLARE.COM",
+      "INES.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "nudeselfiegirls.com"
+    },
+    "not_before": "2025-04-03T19:11:07",
+    "not_after": "2025-07-02T20:09:52",
+    "days_remaining": 32,
+    "san": [
+      "nudeselfiegirls.com",
+      "*.nudeselfiegirls.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(210, 210, 210)",
+      "rgb(209, 209, 209)",
+      "rgb(213, 213, 213)"
+    ],
+    "image_dimensions": "1920x3342",
+    "file_size_kb": 842.03125
+  }
+}

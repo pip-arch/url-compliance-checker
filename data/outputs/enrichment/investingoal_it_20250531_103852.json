@@ -1,0 +1,77 @@
+{
+  "url": "https://investingoal.it/broker-forex-dma/",
+  "timestamp": "2025-05-31T06:38:44.939645+00:00",
+  "screenshot_path": "data/outputs/screenshots/investingoal_it_20250531_103851.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Tucows.com Co.",
+      "creation_date": "2019-07-01 16:58:04",
+      "expiration_date": "2025-07-01 00:00:00",
+      "name_servers": "kara.ns.cloudflare.com\n  cory.ns.cloudflare.com"
+    },
+    "dns": {
+      "a_records": [
+        "172.66.42.210",
+        "172.66.41.46"
+      ],
+      "mx_records": [
+        "0 _dc-mx.15c477560d2f.investingoal.it."
+      ],
+      "txt_records": [
+        "\"google-site-verification=qgex5KgK8dZGhpSTLp0qR8ALQlbl1rqVyEr8bwZ27Xs\""
+      ]
+    },
+    "age_days": 2160,
+    "registrar": "Tucows.com Co.",
+    "name_servers": "kara.ns.cloudflare.com\n  cory.ns.cloudflare.com"
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "investingoal.it"
+    },
+    "not_before": "2025-04-03T04:47:28",
+    "not_after": "2025-07-02T05:47:22",
+    "days_remaining": 31,
+    "san": [
+      "investingoal.it",
+      "*.investingoal.it"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(30, 27, 50)",
+      "rgb(254, 254, 254)",
+      "rgb(243, 241, 249)",
+      "rgb(29, 26, 49)"
+    ],
+    "image_dimensions": "2720x9279",
+    "file_size_kb": 1247.029296875
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://daimiyata.com/telegram-t-me-seo-anomaly-seo-backlinks-cross-10-3",
+  "timestamp": "2025-06-03T08:36:05.671592+00:00",
+  "screenshot_path": "data/outputs/screenshots/daimiyata_com_20250603_123619.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GMO Internet, Inc.",
+      "creation_date": "2010-05-21 03:02:54",
+      "expiration_date": "2028-05-21 03:02:54",
+      "name_servers": [
+        "NS-1304.AWSDNS-35.ORG",
+        "NS-163.AWSDNS-20.COM",
+        "NS-1681.AWSDNS-18.CO.UK",
+        "NS-769.AWSDNS-32.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "164.46.102.190"
+      ],
+      "mx_records": [
+        "100 daimiyata.com."
+      ]
+    },
+    "age_days": 5492,
+    "registrar": "GMO Internet, Inc.",
+    "name_servers": [
+      "NS-1304.AWSDNS-35.ORG",
+      "NS-163.AWSDNS-20.COM",
+      "NS-1681.AWSDNS-18.CO.UK",
+      "NS-769.AWSDNS-32.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "DigiCert Inc",
+      "organizationalUnitName": "www.digicert.com",
+      "commonName": "Encryption Everywhere DV TLS CA - G2"
+    },
+    "subject": {
+      "commonName": "daimiyata.com"
+    },
+    "not_before": "2025-03-24T00:00:00",
+    "not_after": "2026-03-23T23:59:59",
+    "days_remaining": 293,
+    "san": [
+      "daimiyata.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(244, 244, 244)",
+      "rgb(250, 250, 250)",
+      "rgb(249, 249, 249)",
+      "rgb(251, 251, 251)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x2573",
+    "file_size_kb": 404.1884765625
+  }
+}

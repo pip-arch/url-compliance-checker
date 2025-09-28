@@ -1,0 +1,78 @@
+{
+  "url": "http://pravda-sotrudnikov.ru/company/admiral-markets",
+  "timestamp": "2025-06-03T15:39:29.302613+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "REGTIME-RU",
+      "creation_date": "2015-01-19 12:37:34",
+      "expiration_date": "2026-01-19 12:37:34",
+      "name_servers": [
+        "dns1.yandex.net.",
+        "dns2.yandex.net."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.253.34.234"
+      ],
+      "mx_records": [
+        "10 mx.yandex.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.yandex.net include:_spf.dashasender.ru ~all\""
+      ]
+    },
+    "age_days": 3788,
+    "registrar": "REGTIME-RU",
+    "name_servers": [
+      "dns1.yandex.net.",
+      "dns2.yandex.net."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "BE",
+      "organizationName": "GlobalSign nv-sa",
+      "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+    },
+    "subject": {
+      "commonName": "pravda-sotrudnikov.ru"
+    },
+    "not_before": "2024-11-01T16:20:50",
+    "not_after": "2025-12-03T16:20:49",
+    "days_remaining": 182,
+    "san": [
+      "pravda-sotrudnikov.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: ddos-guard",
+    "Powered by: PHP/7.1.33",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

@@ -1,0 +1,98 @@
+{
+  "url": "https://giport.ru/sovet/120386",
+  "timestamp": "2025-06-03T09:46:57.855511+00:00",
+  "screenshot_path": "data/outputs/screenshots/giport_ru_20250603_134704.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "RU-CENTER-RU",
+      "creation_date": "2006-11-07 21:00:00",
+      "expiration_date": "2025-11-07 21:00:00",
+      "name_servers": [
+        "ns3-l2.nic.ru.",
+        "ns4-cloud.nic.ru.",
+        "ns4-l2.nic.ru.",
+        "ns8-cloud.nic.ru.",
+        "ns8-l2.nic.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "85.198.117.185"
+      ],
+      "mx_records": [
+        "10 mail.giport.ru."
+      ],
+      "txt_records": [
+        "\"google-site-verification=HmR0G7STCzYs6tJX0IuVibcvLFgXfgjRsLFgMXDPbhE\"",
+        "\"google-site-verification=SgG-uMwnGSvyg7iTkNx0P2P3TYf-3iLo2smGFcFwJE4\"",
+        "\"google-site-verification=ik6pUlQOu-nG9CWURN2gziApz6cwzN0ji-qBkOzKWzE\""
+      ]
+    },
+    "age_days": 6782,
+    "registrar": "RU-CENTER-RU",
+    "name_servers": [
+      "ns3-l2.nic.ru.",
+      "ns4-cloud.nic.ru.",
+      "ns4-l2.nic.ru.",
+      "ns8-cloud.nic.ru.",
+      "ns8-l2.nic.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "giport.ru"
+    },
+    "not_before": "2025-04-27T20:08:47",
+    "not_after": "2025-07-26T20:08:46",
+    "days_remaining": 53,
+    "san": [
+      "giport.ru",
+      "www.giport.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(247, 247, 247)",
+      "rgb(19, 31, 73)",
+      "rgb(255, 255, 255)",
+      "rgb(248, 248, 248)",
+      "rgb(251, 251, 250)"
+    ],
+    "image_dimensions": "1920x4164",
+    "file_size_kb": 1186.31640625
+  }
+}

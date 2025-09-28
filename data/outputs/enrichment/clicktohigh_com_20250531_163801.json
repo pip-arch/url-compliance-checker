@@ -1,0 +1,87 @@
+{
+  "url": "https://clicktohigh.com/website-list-969/",
+  "timestamp": "2025-05-31T12:37:47.420464+00:00",
+  "screenshot_path": "data/outputs/screenshots/clicktohigh_com_20250531_163756.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2022-01-30 09:27:46",
+      "expiration_date": "2027-01-30 09:27:46",
+      "name_servers": [
+        "BART.NS.CLOUDFLARE.COM",
+        "ELOISE.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.92.47",
+        "172.67.186.136"
+      ],
+      "mx_records": [
+        "5 mx1-hosting.jellyfish.systems.",
+        "20 mx3-hosting.jellyfish.systems.",
+        "10 mx2-hosting.jellyfish.systems."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:66.29.137.231 include:spf.web-hosting.com ~all\""
+      ]
+    },
+    "age_days": 1217,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "BART.NS.CLOUDFLARE.COM",
+      "ELOISE.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "clicktohigh.com"
+    },
+    "not_before": "2025-04-29T13:56:35",
+    "not_after": "2025-07-28T14:55:17",
+    "days_remaining": 57,
+    "san": [
+      "clicktohigh.com",
+      "*.clicktohigh.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [],
+    "image_dimensions": null,
+    "file_size_kb": 11004.296875
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://es.trade-leader.com/forex/admiral-markets",
+  "timestamp": "2025-06-04T07:03:24.199595+00:00",
+  "screenshot_path": "data/outputs/screenshots/es_trade-leader_com_20250604_110349.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Internet Domain Service BS Corp.",
+      "creation_date": "2015-07-05 09:58:00",
+      "expiration_date": "2026-07-05 09:58:00",
+      "name_servers": [
+        "ANIRBAN.NS.CLOUDFLARE.COM",
+        "ULLA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.191.97",
+        "104.21.84.107"
+      ]
+    },
+    "age_days": 3621,
+    "registrar": "Internet Domain Service BS Corp.",
+    "name_servers": [
+      "ANIRBAN.NS.CLOUDFLARE.COM",
+      "ULLA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "trade-leader.com"
+    },
+    "not_before": "2025-05-14T08:20:25",
+    "not_after": "2025-08-12T09:18:56",
+    "days_remaining": 68,
+    "san": [
+      "trade-leader.com",
+      "*.trade-leader.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.1.33",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(21, 28, 35)",
+      "rgb(29, 35, 42)",
+      "rgb(255, 244, 244)",
+      "rgb(247, 247, 247)"
+    ],
+    "image_dimensions": "1920x2695",
+    "file_size_kb": 582.494140625
+  }
+}

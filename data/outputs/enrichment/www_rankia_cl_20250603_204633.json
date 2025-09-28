@@ -1,0 +1,68 @@
+{
+  "url": "https://www.rankia.cl/blog/analisis-ipsa/2014383-mejores-brokers-chilenos-2020?page=1",
+  "timestamp": "2025-06-03T16:46:02.733709+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Key-Systems GmbH",
+      "creation_date": "2012-08-31 13:05:10 CLST",
+      "expiration_date": "2029-09-30 09:05:01 CLST",
+      "name_servers": [
+        "dom.ns.cloudflare.com",
+        "lia.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.130.134",
+        "104.21.3.90"
+      ]
+    },
+    "age_days": null,
+    "registrar": "Key-Systems GmbH",
+    "name_servers": [
+      "dom.ns.cloudflare.com",
+      "lia.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "rankia.cl"
+    },
+    "not_before": "2025-04-13T19:31:12",
+    "not_after": "2025-07-12T20:29:42",
+    "days_remaining": 38,
+    "san": [
+      "rankia.cl",
+      "*.rankia.cl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "CSP"
+    ],
+    "issues": [
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {}
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://rahajutud.ee/mis-on-forex-kauplemine-ja-kuidas-sellega-teenida/",
+  "timestamp": "2025-05-31T17:19:57.835991+00:00",
+  "screenshot_path": "data/outputs/screenshots/rahajutud_ee_20250531_212011.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Zone Media O\u00dc",
+      "creation_date": "2017-12-14 15:05:06 +02:00",
+      "expiration_date": "2025-12-15 00:00:00",
+      "name_servers": [
+        "ns.zone.eu",
+        "ns2.zone.ee",
+        "ns3.zonedata.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "217.146.68.183"
+      ],
+      "mx_records": [
+        "10 zonemx.eu."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx include:_spf.zone.eu -all\"",
+        "\"facebook-domain-verification=jkcvje68wlvphiwm7jwkh37w4ny226\""
+      ]
+    },
+    "age_days": null,
+    "registrar": "Zone Media O\u00dc",
+    "name_servers": [
+      "ns.zone.eu",
+      "ns2.zone.ee",
+      "ns3.zonedata.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "rahajutud.ee"
+    },
+    "not_before": "2025-05-09T19:49:44",
+    "not_after": "2025-08-07T19:49:43",
+    "days_remaining": 67,
+    "san": [
+      "rahajutud.ee",
+      "www.rahajutud.ee"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache / ZoneOS",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(235, 235, 235)",
+      "rgb(234, 234, 234)",
+      "rgb(237, 237, 237)"
+    ],
+    "image_dimensions": "1920x3912",
+    "file_size_kb": 1032.869140625
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "url": "https://zaholovok.com.ua/yak-vidkriti-demo-rakhunok-na-rinku-foreks-0",
+  "timestamp": "2025-05-31T18:16:52.054203+00:00",
+  "screenshot_path": "data/outputs/screenshots/zaholovok_com_ua_20250531_221656.png",
+  "domain_info": {
+    "whois": {},
+    "dns": {
+      "a_records": [
+        "45.141.122.135"
+      ],
+      "mx_records": [
+        "15 mx15.ukraine.com.ua.",
+        "20 mx20.ukraine.com.ua."
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "zaholovok.com.ua"
+    },
+    "not_before": "2025-04-13T02:35:24",
+    "not_after": "2025-07-12T02:35:23",
+    "days_remaining": 41,
+    "san": [
+      "www.zaholovok.com.ua",
+      "zaholovok.com.ua"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(26, 26, 26)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(222, 222, 222)"
+    ],
+    "image_dimensions": "1920x2732",
+    "file_size_kb": 691.4345703125
+  }
+}

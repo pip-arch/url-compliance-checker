@@ -1,0 +1,78 @@
+{
+  "url": "https://www.vigoe.es/ciencia-y-tecnologia/master-de-trading-lo-que-necesitas-estudiar-para-convertirte-en-un-buen-trader/",
+  "timestamp": "2025-06-03T19:03:53.787205+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_vigoe_es_20250603_230402.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "162.55.184.45"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "vigoe.es"
+    },
+    "not_before": "2025-05-22T00:05:11",
+    "not_after": "2025-08-20T00:05:10",
+    "days_remaining": 77,
+    "san": [
+      "vigoe.es",
+      "www.vigoe.es"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(33, 33, 33)",
+      "rgb(247, 247, 247)",
+      "rgb(254, 254, 254)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x3949",
+    "file_size_kb": 1230.3251953125
+  }
+}

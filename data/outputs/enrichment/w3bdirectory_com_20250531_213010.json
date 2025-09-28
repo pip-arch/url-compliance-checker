@@ -1,0 +1,86 @@
+{
+  "url": "https://w3bdirectory.com/domain-list-168",
+  "timestamp": "2025-05-31T17:29:50.157501+00:00",
+  "screenshot_path": "data/outputs/screenshots/w3bdirectory_com_20250531_213000.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GMO Internet, Inc.",
+      "creation_date": "[datetime.datetime(2024, 5, 15, 12, 58, 13), datetime.datetime(2024, 5, 15, 12, 58, 14)]",
+      "expiration_date": "2026-05-15 12:58:13",
+      "name_servers": [
+        "NS07.DOMAINCONTROL.COM",
+        "NS08.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "118.139.181.189"
+      ]
+    },
+    "age_days": 381,
+    "registrar": "GMO Internet, Inc.",
+    "name_servers": [
+      "NS07.DOMAINCONTROL.COM",
+      "NS08.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "GB",
+      "stateOrProvinceName": "Greater Manchester",
+      "localityName": "Salford",
+      "organizationName": "Sectigo Limited",
+      "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+    },
+    "subject": {
+      "commonName": "w3bdirectory.com"
+    },
+    "not_before": "2024-07-28T00:00:00",
+    "not_after": "2025-07-01T23:59:59",
+    "days_remaining": 31,
+    "san": [
+      "w3bdirectory.com",
+      "www.w3bdirectory.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/8.3.21",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(240, 242, 247)",
+      "rgb(251, 252, 252)",
+      "rgb(242, 243, 244)",
+      "rgb(255, 255, 255)",
+      "rgb(243, 244, 245)"
+    ],
+    "image_dimensions": "1920x67619",
+    "file_size_kb": 7725.923828125
+  }
+}

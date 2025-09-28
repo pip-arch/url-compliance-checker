@@ -1,0 +1,93 @@
+{
+  "url": "https://cryptostec.com/sv/smart-portfolios-alternativa-vardepappersfonder/",
+  "timestamp": "2025-05-31T06:41:16.503474+00:00",
+  "screenshot_path": "data/outputs/screenshots/cryptostec_com_20250531_104122.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "eNom, LLC",
+      "creation_date": "2017-05-25 03:49:59",
+      "expiration_date": "2032-05-25 03:49:59",
+      "name_servers": [
+        "LEAH.NS.CLOUDFLARE.COM",
+        "RAJEEV.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.170.234",
+        "104.21.28.158"
+      ],
+      "mx_records": [
+        "10 mx.zoho.com.",
+        "20 mx2.zoho.com.",
+        "50 mx3.zoho.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +mx +a +ip4:185.146.22.235 +include:spf.a2hosting.com +include:zoho.com ~all\"",
+        "\"google-site-verification=0bY7rKM6duW9PhJimcQx7tQ4lrQn_fXabHmt_zGDbmU\""
+      ]
+    },
+    "age_days": 2928,
+    "registrar": "eNom, LLC",
+    "name_servers": [
+      "LEAH.NS.CLOUDFLARE.COM",
+      "RAJEEV.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "cryptostec.com"
+    },
+    "not_before": "2025-05-04T13:47:29",
+    "not_after": "2025-08-02T14:46:10",
+    "days_remaining": 63,
+    "san": [
+      "cryptostec.com",
+      "*.cryptostec.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(241, 243, 244)",
+      "rgb(248, 249, 250)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x8890",
+    "file_size_kb": 1606.037109375
+  }
+}

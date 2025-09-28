@@ -1,0 +1,77 @@
+{
+  "url": "https://webworthdirectory.com/website-list-2218/",
+  "timestamp": "2025-05-31T20:48:10.949402+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2021-05-14 07:47:03",
+      "expiration_date": "2026-05-14 07:47:03",
+      "name_servers": [
+        "KIA.NS.CLOUDFLARE.COM",
+        "TROY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.136.33",
+        "104.21.78.173"
+      ],
+      "mx_records": [
+        "0 _dc-mx.3405e92e9889.webworthdirectory.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:162.0.232.129 include:spf.web-hosting.com ~all\""
+      ]
+    },
+    "age_days": 1478,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "KIA.NS.CLOUDFLARE.COM",
+      "TROY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "webworthdirectory.com"
+    },
+    "not_before": "2025-04-07T19:45:00",
+    "not_after": "2025-07-06T20:42:24",
+    "days_remaining": 35,
+    "san": [
+      "webworthdirectory.com",
+      "*.webworthdirectory.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

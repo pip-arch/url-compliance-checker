@@ -1,0 +1,93 @@
+{
+  "url": "https://manchesterherald.co.uk/london-stock-exchange/",
+  "timestamp": "2025-06-04T06:54:23.276678+00:00",
+  "screenshot_path": "data/outputs/screenshots/manchesterherald_co_uk_20250604_105432.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC. [Tag = GODADDY]",
+      "creation_date": "2024-05-04 00:00:00",
+      "expiration_date": "2026-05-04 00:00:00",
+      "name_servers": [
+        "ns1.dns-parking.com",
+        "ns2.dns-parking.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "77.37.83.75"
+      ],
+      "mx_records": [
+        "5 mx1.hostinger.in.",
+        "10 mx2.hostinger.in."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.mail.hostinger.com ~all\""
+      ]
+    },
+    "age_days": 396,
+    "registrar": "GoDaddy.com, LLC. [Tag = GODADDY]",
+    "name_servers": [
+      "ns1.dns-parking.com",
+      "ns2.dns-parking.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "AT",
+      "organizationName": "ZeroSSL",
+      "commonName": "ZeroSSL RSA Domain Secure Site CA"
+    },
+    "subject": {
+      "commonName": "manchesterherald.co.uk"
+    },
+    "not_before": "2025-05-06T00:00:00",
+    "not_after": "2025-08-04T23:59:59",
+    "days_remaining": 61,
+    "san": [
+      "manchesterherald.co.uk",
+      "www.manchesterherald.co.uk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: hcdn",
+    "Powered by: PHP/8.1.31",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(225, 225, 199)",
+      "rgb(226, 226, 200)",
+      "rgb(208, 208, 184)",
+      "rgb(191, 191, 169)",
+      "rgb(207, 207, 183)"
+    ],
+    "image_dimensions": "1920x8196",
+    "file_size_kb": 2235.375
+  }
+}

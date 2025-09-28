@@ -1,0 +1,78 @@
+{
+  "url": "https://daghandel.startbewijs.eu/",
+  "timestamp": "2025-06-03T11:48:10.768248+00:00",
+  "screenshot_path": "data/outputs/screenshots/daghandel_startbewijs_eu_20250603_154818.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "TransIP Group BV",
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": "ns5.dns1dns2dns3.com\n        ns1.dns1dns2dns3.com\n\nPlease visit www.eurid.eu for more info."
+    },
+    "dns": {
+      "a_records": [
+        "37.59.57.114"
+      ]
+    },
+    "age_days": null,
+    "registrar": "TransIP Group BV",
+    "name_servers": "ns5.dns1dns2dns3.com\n        ns1.dns1dns2dns3.com\n\nPlease visit www.eurid.eu for more info."
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "*.startbewijs.eu"
+    },
+    "not_before": "2025-05-09T13:12:38",
+    "not_after": "2025-08-07T13:12:37",
+    "days_remaining": 64,
+    "san": [
+      "*.startbewijs.eu",
+      "startbewijs.eu"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2",
+    "Powered by: PHP/8.2.17",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 244)",
+      "rgb(236, 216, 80)",
+      "rgb(239, 218, 79)",
+      "rgb(240, 219, 79)",
+      "rgb(237, 217, 80)"
+    ],
+    "image_dimensions": "2066x2378",
+    "file_size_kb": 427.63671875
+  }
+}

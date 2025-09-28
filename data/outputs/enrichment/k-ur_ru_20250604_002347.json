@@ -1,0 +1,83 @@
+{
+  "url": "http://k-ur.ru/novosti-v-rossii-i-mire/obschestvo/kak-zarabatyvat-na-torgovle-valyutoy/index.html",
+  "timestamp": "2025-06-03T20:23:37.256764+00:00",
+  "screenshot_path": "data/outputs/screenshots/k-ur_ru_20250604_002346.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REGRU-RU",
+      "creation_date": "2006-02-25 21:00:00",
+      "expiration_date": "2026-02-25 21:00:00",
+      "name_servers": [
+        "ns1.ispvds.com.",
+        "ns2.ispvds.com."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "109.202.36.47"
+      ],
+      "mx_records": [
+        "10 mx.yandex.ru.",
+        "20 mx.yandex.ru."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:91.218.230.240 include:_spf.yandex.net ~all\""
+      ]
+    },
+    "age_days": 7037,
+    "registrar": "REGRU-RU",
+    "name_servers": [
+      "ns1.ispvds.com.",
+      "ns2.ispvds.com."
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [
+    "Server: nginx/1.8.0",
+    "Powered by: PHP/5.3.28"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 247, 247)",
+      "rgb(248, 248, 248)",
+      "rgb(246, 246, 246)",
+      "rgb(228, 228, 228)"
+    ],
+    "image_dimensions": "1920x4644",
+    "file_size_kb": 1472.880859375
+  }
+}

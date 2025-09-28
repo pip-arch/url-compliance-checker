@@ -1,0 +1,79 @@
+{
+  "url": "https://vayuc.com/website-list-2218/",
+  "timestamp": "2025-06-03T15:34:26.703402+00:00",
+  "screenshot_path": "data/outputs/screenshots/vayuc_com_20250603_193452.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2022-09-22 14:34:08",
+      "expiration_date": "2026-09-22 14:34:08",
+      "name_servers": [
+        "HEATHER.NS.CLOUDFLARE.COM",
+        "KARL.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.206.141",
+        "104.21.53.2"
+      ],
+      "mx_records": [
+        "15 eforward4.registrar-servers.com.",
+        "10 eforward3.registrar-servers.com.",
+        "20 eforward5.registrar-servers.com.",
+        "10 eforward1.registrar-servers.com.",
+        "10 eforward2.registrar-servers.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.efwd.registrar-servers.com ~all\""
+      ]
+    },
+    "age_days": 985,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "HEATHER.NS.CLOUDFLARE.COM",
+      "KARL.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "vayuc.com"
+    },
+    "not_before": "2025-05-16T07:03:28",
+    "not_after": "2025-08-14T08:01:53",
+    "days_remaining": 71,
+    "san": [
+      "vayuc.com",
+      "*.vayuc.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: "
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(241, 241, 241)",
+      "rgb(255, 255, 255)",
+      "rgb(239, 239, 239)",
+      "rgb(239, 239, 240)",
+      "rgb(250, 250, 251)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 15.015625
+  }
+}

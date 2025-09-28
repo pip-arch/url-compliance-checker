@@ -1,0 +1,94 @@
+{
+  "url": "https://www.techmeup.fr/11673/robot-trading-trading-automatique/",
+  "timestamp": "2025-06-03T17:27:02.460790+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_techmeup_fr_20250603_212707.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH",
+      "creation_date": "2018-09-26 01:26:40",
+      "expiration_date": "2025-09-26 01:26:40",
+      "name_servers": [
+        "dns112.ovh.net",
+        "ns112.ovh.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "188.165.53.185"
+      ],
+      "mx_records": [
+        "100 mx3.mail.ovh.net.",
+        "5 mx2.mail.ovh.net.",
+        "1 mx1.mail.ovh.net."
+      ],
+      "txt_records": [
+        "\"l|fr\"",
+        "\"3|welcome\""
+      ]
+    },
+    "age_days": 2442,
+    "registrar": "OVH",
+    "name_servers": [
+      "dns112.ovh.net",
+      "ns112.ovh.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "techmeup.fr"
+    },
+    "not_before": "2025-05-21T02:32:06",
+    "not_after": "2025-08-19T02:32:05",
+    "days_remaining": 76,
+    "san": [
+      "techmeup.fr",
+      "www.techmeup.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: OVHcloud",
+    "Powered by: PHP/7.4",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(34, 34, 34)",
+      "rgb(230, 230, 230)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x4645",
+    "file_size_kb": 1051.94140625
+  }
+}

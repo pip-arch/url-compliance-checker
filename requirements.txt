@@ -1,0 +1,38 @@
+# Core dependencies
+fastapi>=0.104.0
+uvicorn>=0.23.2
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+playwright>=1.39.0
+pinecone>=3.0.0
+pydantic>=2.4.2
+sqlalchemy>=2.0.22
+
+# Async and concurrency
+asyncio>=3.4.3
+aiohttp>=3.8.6
+
+# Web scraping and processing
+lxml>=4.9.3
+html5lib>=1.1
+python-multipart>=0.0.6
+crawl4ai>=0.6.0
+
+# NLP and AI
+sentence-transformers>=2.2.2
+langchain>=0.0.335
+
+# Data handling
+pandas>=2.0.0
+openpyxl>=3.1.2
+
+# Resource monitoring
+psutil>=5.9.6
+
+# Utility libraries
+python-dotenv>=1.0.0
+loguru>=0.7.2
+
+# Development tools
+pytest>=7.4.3
+pytest-asyncio>=0.21.1

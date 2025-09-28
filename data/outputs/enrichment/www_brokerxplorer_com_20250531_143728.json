@@ -1,0 +1,84 @@
+{
+  "url": "https://www.brokerxplorer.com/search?q=bonus",
+  "timestamp": "2025-05-31T10:37:18.841834+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_brokerxplorer_com_20250531_143728.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2019-11-22 04:13:56",
+      "expiration_date": "2025-11-22 04:13:56",
+      "name_servers": [
+        "GANNON.NS.CLOUDFLARE.COM",
+        "NIA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.26.0.193",
+        "172.67.73.42",
+        "104.26.1.193"
+      ]
+    },
+    "age_days": 2017,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "GANNON.NS.CLOUDFLARE.COM",
+      "NIA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "brokerxplorer.com"
+    },
+    "not_before": "2025-05-16T07:30:13",
+    "not_after": "2025-08-14T08:26:30",
+    "days_remaining": 74,
+    "san": [
+      "brokerxplorer.com",
+      "*.brokerxplorer.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Frame-Options",
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(242, 242, 244)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x2511",
+    "file_size_kb": 552.576171875
+  }
+}

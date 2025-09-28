@@ -1,0 +1,75 @@
+{
+  "url": "https://www.jujuyalmomento.com/argentinos-que-invierten-linea-que-prestar-atencion-los-bonos-bienvenida-n145400",
+  "timestamp": "2025-06-03T08:36:44.159535+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Domain.com, LLC",
+      "creation_date": "2010-10-13 16:23:45",
+      "expiration_date": "2025-10-13 16:23:45",
+      "name_servers": [
+        "NS-1305.AWSDNS-35.ORG",
+        "NS-1892.AWSDNS-44.CO.UK",
+        "NS-485.AWSDNS-60.COM",
+        "NS-655.AWSDNS-17.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.18.18.204",
+        "104.18.19.204"
+      ]
+    },
+    "age_days": 5346,
+    "registrar": "Domain.com, LLC",
+    "name_servers": [
+      "NS-1305.AWSDNS-35.ORG",
+      "NS-1892.AWSDNS-44.CO.UK",
+      "NS-485.AWSDNS-60.COM",
+      "NS-655.AWSDNS-17.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "AT",
+      "organizationName": "ZeroSSL",
+      "commonName": "ZeroSSL ECC Domain Secure Site CA"
+    },
+    "subject": {
+      "commonName": "*.jujuyalmomento.com"
+    },
+    "not_before": "2025-04-13T00:00:00",
+    "not_after": "2025-07-12T23:59:59",
+    "days_remaining": 39,
+    "san": [
+      "*.jujuyalmomento.com",
+      "jujuyalmomento.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

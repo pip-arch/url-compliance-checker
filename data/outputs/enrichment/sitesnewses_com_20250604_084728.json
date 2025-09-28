@@ -1,0 +1,89 @@
+{
+  "url": "https://sitesnewses.com/website-list-2222/",
+  "timestamp": "2025-06-04T04:47:04.235864+00:00",
+  "screenshot_path": "data/outputs/screenshots/sitesnewses_com_20250604_084713.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2022-10-02 15:41:18",
+      "expiration_date": "2027-10-02 15:41:18",
+      "name_servers": [
+        "FAYE.NS.CLOUDFLARE.COM",
+        "SHANE.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.164.249",
+        "104.21.49.165"
+      ],
+      "mx_records": [
+        "10 eforward2.registrar-servers.com.",
+        "20 eforward5.registrar-servers.com.",
+        "15 eforward4.registrar-servers.com.",
+        "10 eforward3.registrar-servers.com.",
+        "10 eforward1.registrar-servers.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.efwd.registrar-servers.com ~all\""
+      ]
+    },
+    "age_days": 975,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "FAYE.NS.CLOUDFLARE.COM",
+      "SHANE.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "sitesnewses.com"
+    },
+    "not_before": "2025-05-04T09:03:48",
+    "not_after": "2025-08-02T09:55:07",
+    "days_remaining": 59,
+    "san": [
+      "sitesnewses.com",
+      "*.sitesnewses.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [],
+    "image_dimensions": null,
+    "file_size_kb": 11025.48828125
+  }
+}

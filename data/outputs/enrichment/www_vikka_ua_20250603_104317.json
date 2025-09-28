@@ -1,0 +1,84 @@
+{
+  "url": "https://www.vikka.ua/novini-na-vikka/yekonomichni-novini/yak-pochati-torgivlyu-na-foreks-instrukciya-dlya-novachkiv/",
+  "timestamp": "2025-06-03T06:43:08.965747+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_vikka_ua_20250603_104316.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "\u0422\u041e\u0412 \"\u0421\u0412\u0410\u0406\"",
+      "creation_date": "['2014-01-16 14:10:57+02', '2016-01-13 17:07:39+02']",
+      "expiration_date": "2026-01-16 14:10:57+02",
+      "name_servers": [
+        "lou.ns.cloudflare.com",
+        "sneh.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "195.95.233.68"
+      ]
+    },
+    "age_days": null,
+    "registrar": "\u0422\u041e\u0412 \"\u0421\u0412\u0410\u0406\"",
+    "name_servers": [
+      "lou.ns.cloudflare.com",
+      "sneh.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "vikka.ua"
+    },
+    "not_before": "2025-05-25T20:57:33",
+    "not_after": "2025-08-23T20:57:32",
+    "days_remaining": 81,
+    "san": [
+      "vikka.ua",
+      "www.vikka.ua"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(249, 249, 249)",
+      "rgb(250, 250, 250)",
+      "rgb(253, 253, 253)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x5180",
+    "file_size_kb": 1891.826171875
+  }
+}

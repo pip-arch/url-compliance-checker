@@ -1,0 +1,63 @@
+{
+  "url": "http://www.asianpopsmagazine.leosv.com/2020/04/08/5-proverennyh-obmennikov-kriptovaljut/",
+  "timestamp": "2025-06-03T05:16:09.487146+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_asianpopsmagazine_leosv_com_20250603_091639.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GMO Internet, Inc.",
+      "creation_date": "2010-09-09 03:48:39",
+      "expiration_date": "2025-09-09 03:48:39",
+      "name_servers": [
+        "NS01.WADAX-SV.JP",
+        "NS02.WADAX-SV.JP",
+        "NS03.WADAX-SV.JP"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "203.145.232.212"
+      ]
+    },
+    "age_days": 5381,
+    "registrar": "GMO Internet, Inc.",
+    "name_servers": [
+      "NS01.WADAX-SV.JP",
+      "NS02.WADAX-SV.JP",
+      "NS03.WADAX-SV.JP"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: "
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(221, 221, 221)",
+      "rgb(138, 138, 138)",
+      "rgb(17, 17, 17)",
+      "rgb(108, 108, 108)"
+    ],
+    "image_dimensions": "1920x5710",
+    "file_size_kb": 1613.736328125
+  }
+}

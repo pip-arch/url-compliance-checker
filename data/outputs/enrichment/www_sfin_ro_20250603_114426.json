@@ -1,0 +1,85 @@
+{
+  "url": "https://www.sfin.ro/tranzactionarea-pe-piata-forex/",
+  "timestamp": "2025-06-03T07:44:09.520548+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_sfin_ro_20250603_114425.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Claus Web SRL",
+      "creation_date": "2005-01-18 00:00:00",
+      "expiration_date": "2026-11-13 00:00:00",
+      "name_servers": [
+        "henrik.ns.cloudflare.com",
+        "simone.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.54.158",
+        "172.67.140.87"
+      ]
+    },
+    "age_days": 7441,
+    "registrar": "Claus Web SRL",
+    "name_servers": [
+      "henrik.ns.cloudflare.com",
+      "simone.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "sfin.ro"
+    },
+    "not_before": "2025-05-02T22:23:00",
+    "not_after": "2025-07-31T23:22:45",
+    "days_remaining": 58,
+    "san": [
+      "sfin.ro",
+      "*.sfin.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 241, 224)",
+      "rgb(34, 34, 34)",
+      "rgb(255, 242, 225)",
+      "rgb(255, 243, 226)",
+      "rgb(245, 231, 215)"
+    ],
+    "image_dimensions": "1920x6624",
+    "file_size_kb": 1689.5322265625
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "url": "https://www.waybinary.com/choose-right-trading-platform/",
+  "timestamp": "2025-06-04T02:21:18.953157+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_waybinary_com_20250604_062124.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2019, 9, 4, 12, 51, 52), datetime.datetime(2019, 9, 4, 7, 51, 52)]",
+      "expiration_date": "[datetime.datetime(2025, 9, 4, 12, 51, 52), datetime.datetime(2025, 9, 4, 7, 51, 52)]",
+      "name_servers": [
+        "NS1.DNS-PARKING.COM",
+        "NS2.DNS-PARKING.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "109.106.246.61"
+      ],
+      "mx_records": [
+        "10 mailstore1.secureserver.net.",
+        "0 smtp.secureserver.net.",
+        "5 mx1.hostinger.in.",
+        "10 mx2.hostinger.in.",
+        "0 mail.waybinary.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:secureserver.net -all\"",
+        "\"v=spf1 include:_spf.mail.hostinger.com ~all\""
+      ]
+    },
+    "age_days": 2099,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS1.DNS-PARKING.COM",
+      "NS2.DNS-PARKING.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "waybinary.com"
+    },
+    "not_before": "2025-04-13T11:35:31",
+    "not_after": "2025-07-12T11:35:30",
+    "days_remaining": 38,
+    "san": [
+      "waybinary.com",
+      "www.waybinary.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Powered by: PHP/8.1.31",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "HSTS",
+      "CSP"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(249, 249, 249)",
+      "rgb(254, 254, 254)",
+      "rgb(250, 250, 250)",
+      "rgb(247, 247, 247)"
+    ],
+    "image_dimensions": "1920x4910",
+    "file_size_kb": 1098.337890625
+  }
+}

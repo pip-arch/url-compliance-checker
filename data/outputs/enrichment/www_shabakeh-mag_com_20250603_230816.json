@@ -1,0 +1,83 @@
+{
+  "url": "https://www.shabakeh-mag.com/cover-story/20338/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A8%D8%B1-%D9%85%D8%A8%D9%86%D8%A7%DB%8C-%DB%8C%DA%A9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A7%D8%B5%D9%88%D9%84%DB%8C-%D8%A8%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D9%88%D8%A7%D8%B1%D8%AF-%D8%B4%D9%88%DB%8C%D9%85%D8%9F",
+  "timestamp": "2025-06-03T19:07:53.219344+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_shabakeh-mag_com_20250603_230814.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "TUCOWS, INC.",
+      "creation_date": "2001-09-04 14:18:31",
+      "expiration_date": "2025-09-04 14:18:31",
+      "name_servers": [
+        "DEVIN.NS.CLOUDFLARE.COM",
+        "MALEAH.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "130.185.73.177"
+      ]
+    },
+    "age_days": 8673,
+    "registrar": "TUCOWS, INC.",
+    "name_servers": [
+      "DEVIN.NS.CLOUDFLARE.COM",
+      "MALEAH.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "shabakeh-mag.com"
+    },
+    "not_before": "2025-03-11T06:08:30",
+    "not_after": "2025-06-09T06:08:29",
+    "days_remaining": 5,
+    "san": [
+      "shabakeh-mag.com",
+      "www.shabakeh-mag.com"
+    ],
+    "issues": [
+      "Certificate expires in 5 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(246, 247, 251)",
+      "rgb(255, 255, 255)",
+      "rgb(238, 238, 238)",
+      "rgb(236, 236, 236)",
+      "rgb(237, 237, 237)"
+    ],
+    "image_dimensions": "1920x9819",
+    "file_size_kb": 3495.4306640625
+  }
+}

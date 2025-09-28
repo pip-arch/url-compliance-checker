@@ -1,0 +1,85 @@
+{
+  "url": "https://www.onprnews.com/aktives-aktien-trading-ohne-kommission-mit-admirals/174197/",
+  "timestamp": "2025-05-31T10:37:10.116801+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_onprnews_com_20250531_143716.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "InterNetX GmbH",
+      "creation_date": "2012-08-12 19:18:29",
+      "expiration_date": "2025-08-12 19:18:29",
+      "name_servers": [
+        "NS1.NAMESERVERSERVICE.DE",
+        "NS2.NAMESERVERSERVICE.DE"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "92.204.53.68"
+      ]
+    },
+    "age_days": 4674,
+    "registrar": "InterNetX GmbH",
+    "name_servers": [
+      "NS1.NAMESERVERSERVICE.DE",
+      "NS2.NAMESERVERSERVICE.DE"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "onprnews.com"
+    },
+    "not_before": "2025-04-20T11:13:18",
+    "not_after": "2025-07-19T11:13:17",
+    "days_remaining": 48,
+    "san": [
+      "onprnews.com",
+      "webmail.onprnews.com",
+      "www.onprnews.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(13, 13, 13)",
+      "rgb(254, 254, 254)",
+      "rgb(220, 220, 220)",
+      "rgb(219, 219, 219)"
+    ],
+    "image_dimensions": "1920x3202",
+    "file_size_kb": 612.05859375
+  }
+}

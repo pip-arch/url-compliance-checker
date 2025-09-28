@@ -1,0 +1,74 @@
+{
+  "url": "https://www.strategydriven.com/tag/forex-strategy/",
+  "timestamp": "2025-06-04T01:13:05.118833+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Bluehost Inc.",
+      "creation_date": "2007-05-13 02:42:36",
+      "expiration_date": "2026-05-13 02:42:36",
+      "name_servers": [
+        "RAZVAN.NS.CLOUDFLARE.COM",
+        "RIHANA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.202.201",
+        "104.21.60.244"
+      ]
+    },
+    "age_days": 6596,
+    "registrar": "Bluehost Inc.",
+    "name_servers": [
+      "RAZVAN.NS.CLOUDFLARE.COM",
+      "RIHANA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "strategydriven.com"
+    },
+    "not_before": "2025-05-01T22:17:16",
+    "not_after": "2025-07-30T23:15:00",
+    "days_remaining": 56,
+    "san": [
+      "strategydriven.com",
+      "*.strategydriven.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

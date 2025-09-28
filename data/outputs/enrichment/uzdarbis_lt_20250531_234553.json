@@ -1,0 +1,84 @@
+{
+  "url": "https://uzdarbis.lt/t298472/nemokamai-kaip-ismokti-investuoti-ivadine-investuok-akademijos-paskaita/",
+  "timestamp": "2025-05-31T19:45:44.013370+00:00",
+  "screenshot_path": "data/outputs/screenshots/uzdarbis_lt_20250531_234553.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": "2021-03-04 00:00:00",
+      "expiration_date": "2026-03-05 00:00:00",
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "104.21.95.39",
+        "172.67.142.196"
+      ],
+      "mx_records": [
+        "10 dedi6314.your-server.de."
+      ],
+      "txt_records": [
+        "\"google-site-verification=KJa2u2uEfvQOcfWkFBoNC8f0f5zXi8nwe0w_48gDAjM\"",
+        "\"v=spf1 a mx ptr ~all\""
+      ]
+    },
+    "age_days": 1549,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "uzdarbis.lt"
+    },
+    "not_before": "2025-04-20T04:59:15",
+    "not_after": "2025-07-19T05:54:45",
+    "days_remaining": 48,
+    "san": [
+      "uzdarbis.lt",
+      "*.uzdarbis.lt"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: React"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(246, 246, 246)",
+      "rgb(247, 247, 247)",
+      "rgb(248, 248, 248)",
+      "rgb(247, 246, 246)"
+    ],
+    "image_dimensions": "1920x9808",
+    "file_size_kb": 1236.1357421875
+  }
+}

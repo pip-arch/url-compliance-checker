@@ -1,0 +1,91 @@
+{
+  "url": "https://vmnews.ru/novosti/2020/04/27/treyding-kak-nachat-torgovat-binarnymi-opcionami-u-foreks-brokerov",
+  "timestamp": "2025-06-04T07:06:32.174652+00:00",
+  "screenshot_path": "data/outputs/screenshots/vmnews_ru_20250604_110643.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "RU-CENTER-RU",
+      "creation_date": "2009-03-03 21:00:00",
+      "expiration_date": "2026-03-03 21:00:00",
+      "name_servers": [
+        "ns2.vmnews.ru. 78.36.19.226",
+        "ns.vmnews.ru. 185.63.188.236"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.63.188.236"
+      ],
+      "mx_records": [
+        "10 emx.mail.ru."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx include:_spf.mail.ru -all\"",
+        "\"mailruverify\"",
+        "\"_globalsign-domain-verification=qYsRXIr0QDJ7iEOS-xczaV1UoWQtofXeOBh3WWfn2c\""
+      ]
+    },
+    "age_days": 5936,
+    "registrar": "RU-CENTER-RU",
+    "name_servers": [
+      "ns2.vmnews.ru. 78.36.19.226",
+      "ns.vmnews.ru. 185.63.188.236"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "BE",
+      "organizationName": "GlobalSign nv-sa",
+      "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
+    },
+    "subject": {
+      "commonName": "www.vmnews.ru"
+    },
+    "not_before": "2024-11-05T09:19:48",
+    "not_after": "2025-12-07T09:19:47",
+    "days_remaining": 185,
+    "san": [
+      "www.vmnews.ru",
+      "vmnews.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.10 (Debian)",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(242, 242, 242)",
+      "rgb(255, 255, 255)",
+      "rgb(24, 26, 28)",
+      "rgb(251, 251, 251)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x4843",
+    "file_size_kb": 2292.39453125
+  }
+}

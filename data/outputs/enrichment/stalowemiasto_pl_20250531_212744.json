@@ -1,0 +1,92 @@
+{
+  "url": "http://stalowemiasto.pl/artykuly/artykuly.php?mode=pokaz&id=40841",
+  "timestamp": "2025-05-31T17:27:31.971361+00:00",
+  "screenshot_path": "data/outputs/screenshots/stalowemiasto_pl_20250531_212743.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH SAS",
+      "creation_date": "2007-05-08 11:53:02",
+      "expiration_date": "2026-05-08 11:53:02",
+      "name_servers": [
+        "dns10.ovh.net",
+        "ns10.ovh.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "5.135.159.92"
+      ],
+      "mx_records": [
+        "10 aspmx.l.google.com.",
+        "50 alt1.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.google.com ~all\"",
+        "\"v=spf1 a ip4:5.135.159.92 ~all\"",
+        "\"v=spf1 a -all\"",
+        "\"google-site-verification=Eb5L9phmSCzO7Xvw3hBzo93J9jMsM8PJxENNXDu7N_0\""
+      ]
+    },
+    "age_days": 6598,
+    "registrar": "OVH SAS",
+    "name_servers": [
+      "dns10.ovh.net",
+      "ns10.ovh.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "PL",
+      "organizationName": "cyber_Folks S.A.",
+      "commonName": "cyber_Folks"
+    },
+    "subject": {
+      "commonName": "stalowemiasto.pl"
+    },
+    "not_before": "2024-07-15T14:51:57",
+    "not_after": "2025-07-15T14:51:56",
+    "days_remaining": 44,
+    "san": [
+      "stalowemiasto.pl",
+      "www.stalowemiasto.pl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: lighttpd/1.4.45"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(253, 253, 253)",
+      "rgb(243, 243, 243)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x5778",
+    "file_size_kb": 1246.099609375
+  }
+}

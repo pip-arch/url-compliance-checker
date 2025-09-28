@@ -1,0 +1,79 @@
+{
+  "url": "https://kroufr.ru/forum/index.php?topic=19287.60",
+  "timestamp": "2025-05-31T04:02:43.456445+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "REGRU-RU",
+      "creation_date": "2003-10-28 21:00:00",
+      "expiration_date": "2025-10-29 21:00:00",
+      "name_servers": [
+        "mitchell.ns.cloudflare.com.",
+        "sky.ns.cloudflare.com."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.171.26",
+        "104.21.55.108"
+      ],
+      "mx_records": [
+        "20 mx2.zoho.eu.",
+        "10 mx.zoho.eu.",
+        "50 mx3.zoho.eu."
+      ],
+      "txt_records": [
+        "\"zoho-verification=zb60159760.zmverify.zoho.eu\"",
+        "\"v=spf1 include:zohomail.eu ~all\""
+      ]
+    },
+    "age_days": 7885,
+    "registrar": "REGRU-RU",
+    "name_servers": [
+      "mitchell.ns.cloudflare.com.",
+      "sky.ns.cloudflare.com."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "kroufr.ru"
+    },
+    "not_before": "2025-05-24T12:29:10",
+    "not_after": "2025-08-22T13:27:52",
+    "days_remaining": 83,
+    "san": [
+      "kroufr.ru",
+      "*.kroufr.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

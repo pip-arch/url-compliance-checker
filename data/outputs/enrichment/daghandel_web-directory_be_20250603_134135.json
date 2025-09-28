@@ -1,0 +1,78 @@
+{
+  "url": "https://daghandel.web-directory.be/",
+  "timestamp": "2025-06-03T09:41:28.291574+00:00",
+  "screenshot_path": "data/outputs/screenshots/daghandel_web-directory_be_20250603_134134.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": "2016-08-10 00:00:00",
+      "expiration_date": null,
+      "name_servers": "ns5.dns1dns2dns3.com\r\n\tns1.dns1dns2dns3.com"
+    },
+    "dns": {
+      "a_records": [
+        "94.23.87.253"
+      ]
+    },
+    "age_days": 3219,
+    "registrar": null,
+    "name_servers": "ns5.dns1dns2dns3.com\r\n\tns1.dns1dns2dns3.com"
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "*.web-directory.be"
+    },
+    "not_before": "2025-05-10T12:41:54",
+    "not_after": "2025-08-08T12:41:53",
+    "days_remaining": 65,
+    "san": [
+      "*.web-directory.be",
+      "web-directory.be"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2",
+    "Powered by: PHP/8.2.17",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(240, 240, 240)",
+      "rgb(241, 241, 241)",
+      "rgb(180, 198, 225)",
+      "rgb(188, 207, 205)",
+      "rgb(244, 243, 243)"
+    ],
+    "image_dimensions": "1920x1843",
+    "file_size_kb": 359.98046875
+  }
+}

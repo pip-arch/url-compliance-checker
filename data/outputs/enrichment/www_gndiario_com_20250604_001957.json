@@ -1,0 +1,79 @@
+{
+  "url": "https://www.gndiario.com/inversiones-personales-mercado-forex",
+  "timestamp": "2025-06-03T20:19:44.590413+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_gndiario_com_20250604_001956.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "ENOM, INC.",
+      "creation_date": "[datetime.datetime(2020, 1, 13, 12, 16, 15), datetime.datetime(2020, 1, 13, 12, 16)]",
+      "expiration_date": "2026-01-13 12:16:15",
+      "name_servers": [
+        "NS.REDUNDA.COM",
+        "NS2.REDUNDA.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "51.254.196.50"
+      ]
+    },
+    "age_days": 1968,
+    "registrar": "ENOM, INC.",
+    "name_servers": [
+      "NS.REDUNDA.COM",
+      "NS2.REDUNDA.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "gndiario.com"
+    },
+    "not_before": "2025-04-05T03:03:38",
+    "not_after": "2025-07-04T03:03:37",
+    "days_remaining": 30,
+    "san": [
+      "gndiario.com",
+      "www.gndiario.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(37, 41, 43)",
+      "rgb(246, 246, 246)",
+      "rgb(149, 193, 31)"
+    ],
+    "image_dimensions": "1920x5386",
+    "file_size_kb": 1925.1728515625
+  }
+}

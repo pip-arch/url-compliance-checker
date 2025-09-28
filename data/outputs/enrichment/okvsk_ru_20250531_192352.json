@@ -1,0 +1,90 @@
+{
+  "url": "https://okvsk.ru/novosti/2243-foreks-dlya-nachinayuschih-s-chego-nachat.html",
+  "timestamp": "2025-05-31T15:23:46.245184+00:00",
+  "screenshot_path": "data/outputs/screenshots/okvsk_ru_20250531_192351.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "AXELNAME-RU",
+      "creation_date": "2013-03-21 09:24:18",
+      "expiration_date": "2026-03-21 10:24:18",
+      "name_servers": [
+        "ns1.firstvds.ru.",
+        "ns2.firstvds.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "188.241.197.15"
+      ],
+      "mx_records": [
+        "10 mail.okvsk.ru.",
+        "20 mail.okvsk.ru."
+      ],
+      "txt_records": [
+        "\"google-site-verification=dYdhW2IeP5TB2JrgQehe5hFS1aN-h2LD98yBAUMLBSs\""
+      ]
+    },
+    "age_days": 4454,
+    "registrar": "AXELNAME-RU",
+    "name_servers": [
+      "ns1.firstvds.ru.",
+      "ns2.firstvds.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "okvsk.ru"
+    },
+    "not_before": "2025-04-07T15:02:42",
+    "not_after": "2025-07-06T15:02:41",
+    "days_remaining": 35,
+    "san": [
+      "okvsk.ru",
+      "www.okvsk.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.26.2",
+    "Powered by: PHP/7.2.34"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(250, 250, 250)",
+      "rgb(255, 255, 255)",
+      "rgb(249, 250, 250)",
+      "rgb(250, 250, 249)",
+      "rgb(250, 250, 251)"
+    ],
+    "image_dimensions": "1920x2801",
+    "file_size_kb": 2823.6171875
+  }
+}

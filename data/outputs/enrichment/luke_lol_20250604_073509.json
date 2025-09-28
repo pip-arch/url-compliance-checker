@@ -1,0 +1,93 @@
+{
+  "url": "https://luke.lol/search/?q=cosmos+potential+crypto",
+  "timestamp": "2025-06-04T03:35:01.703818+00:00",
+  "screenshot_path": "data/outputs/screenshots/luke_lol_20250604_073508.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2017-10-04 17:46:30",
+      "expiration_date": "2025-10-04 23:59:59",
+      "name_servers": [
+        "HUGH.NS.CLOUDFLARE.COM",
+        "UMA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.66.43.101",
+        "172.66.40.155"
+      ],
+      "mx_records": [
+        "10 mxb.mailgun.org.",
+        "10 mxa.mailgun.org."
+      ],
+      "txt_records": [
+        "\"google-site-verification=OMR4Tp6nORS6PVWT2wKNeogGAW813I9TI1lZWgOm7Wk\"",
+        "\"v=spf1 include:mailgun.org ~all\""
+      ]
+    },
+    "age_days": 2799,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "HUGH.NS.CLOUDFLARE.COM",
+      "UMA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "luke.lol"
+    },
+    "not_before": "2025-05-27T21:41:41",
+    "not_after": "2025-08-25T22:41:40",
+    "days_remaining": 82,
+    "san": [
+      "luke.lol",
+      "*.luke.lol"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(238, 238, 238)",
+      "rgb(255, 255, 255)",
+      "rgb(244, 244, 244)",
+      "rgb(237, 237, 237)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x5965",
+    "file_size_kb": 1335.87109375
+  }
+}

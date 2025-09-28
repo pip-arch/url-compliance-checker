@@ -1,0 +1,88 @@
+{
+  "url": "http://casinovendors.com/buyers-guide/casino-vendors-guide-2015/files/assets/basic-html/page136.html",
+  "timestamp": "2025-06-03T15:36:21.876470+00:00",
+  "screenshot_path": "data/outputs/screenshots/casinovendors_com_20250603_193632.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NETIM",
+      "creation_date": "[datetime.datetime(1999, 2, 5, 5, 0), datetime.datetime(1999, 2, 5, 0, 0)]",
+      "expiration_date": "[datetime.datetime(2026, 2, 5, 5, 0), datetime.datetime(2026, 2, 5, 21, 0)]",
+      "name_servers": [
+        "DILBERT.NS.CLOUDFLARE.COM",
+        "TEGAN.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "216.116.204.1"
+      ],
+      "mx_records": [
+        "20 spamfilterb.infotechsys.com.",
+        "10 spamfiltera.infotechsys.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=TQR3_Edj_ppnoNLQj4DAhDR9vxSqG4zwC0aJa_aeJcE\"",
+        "\"v=spf1 include:accessway.net -all\""
+      ]
+    },
+    "age_days": 9615,
+    "registrar": "NETIM",
+    "name_servers": [
+      "DILBERT.NS.CLOUDFLARE.COM",
+      "TEGAN.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.casinovendors.com"
+    },
+    "not_before": "2025-05-25T18:42:40",
+    "not_after": "2025-08-23T18:42:39",
+    "days_remaining": 80,
+    "san": [
+      "*.casinovendors.com",
+      "casinovendors.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(255, 0, 0)",
+      "rgb(255, 248, 248)",
+      "rgb(255, 206, 206)",
+      "rgb(249, 249, 249)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 87.6337890625
+  }
+}

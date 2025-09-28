@@ -1,0 +1,83 @@
+{
+  "url": "https://www.abysse.co.jp/mt4/mt4use/dl.html",
+  "timestamp": "2025-06-03T19:08:17.565822+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_abysse_co_jp_20250603_230828.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "uns01.lolipop.jp",
+        "uns02.lolipop.jp"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "157.7.107.41"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "uns01.lolipop.jp",
+      "uns02.lolipop.jp"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "abysse.co.jp"
+    },
+    "not_before": "2025-05-19T21:42:49",
+    "not_after": "2025-08-17T21:42:48",
+    "days_remaining": 74,
+    "san": [
+      "abysse.co.jp",
+      "www.abysse.co.jp"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(0, 51, 0)",
+      "rgb(255, 255, 255)",
+      "rgb(0, 42, 0)",
+      "rgb(127, 149, 127)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x16868",
+    "file_size_kb": 5649.4853515625
+  }
+}

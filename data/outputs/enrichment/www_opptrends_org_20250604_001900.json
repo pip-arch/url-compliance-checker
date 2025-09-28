@@ -1,0 +1,86 @@
+{
+  "url": "https://www.opptrends.org/as-a-newbie-can-i-make-money-with-forex-online-trading/",
+  "timestamp": "2025-06-03T20:18:44.419344+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_opptrends_org_20250604_001859.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "[datetime.datetime(2024, 3, 22, 12, 45, 8), datetime.datetime(2024, 3, 22, 12, 45, 8, 640000)]",
+      "expiration_date": "[datetime.datetime(2026, 3, 22, 12, 45, 8), datetime.datetime(2026, 3, 22, 12, 45, 8, 640000)]",
+      "name_servers": [
+        "donna.ns.cloudflare.com",
+        "lakas.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.214.19",
+        "104.21.45.124"
+      ]
+    },
+    "age_days": 438,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "donna.ns.cloudflare.com",
+      "lakas.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "opptrends.org"
+    },
+    "not_before": "2025-05-09T18:46:15",
+    "not_after": "2025-08-07T19:44:50",
+    "days_remaining": 64,
+    "san": [
+      "opptrends.org",
+      "*.opptrends.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.2.28",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(34, 34, 34)",
+      "rgb(246, 246, 246)",
+      "rgb(250, 250, 250)",
+      "rgb(62, 62, 62)"
+    ],
+    "image_dimensions": "1920x5270",
+    "file_size_kb": 1329.125
+  }
+}

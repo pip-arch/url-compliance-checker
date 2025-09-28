@@ -1,0 +1,87 @@
+{
+  "url": "https://newsme.com.ua/ua/business/economic/3756305/",
+  "timestamp": "2025-05-31T01:10:58.545128+00:00",
+  "screenshot_path": "data/outputs/screenshots/newsme_com_ua_20250531_051121.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "\u0422\u041e\u0412 \"\u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0406\u043d\u0432\u0435\u0441\u0442\"",
+      "creation_date": "['2009-02-25 13:18:10+02', '2013-04-08 22:19:45+03']",
+      "expiration_date": "2028-02-25 13:18:10+02",
+      "name_servers": [
+        "dora.ns.cloudflare.com",
+        "jake.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.173.126",
+        "104.21.30.178"
+      ],
+      "mx_records": [
+        "10 mx.iname.com.ua."
+      ]
+    },
+    "age_days": null,
+    "registrar": "\u0422\u041e\u0412 \"\u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0406\u043d\u0432\u0435\u0441\u0442\"",
+    "name_servers": [
+      "dora.ns.cloudflare.com",
+      "jake.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "newsme.com.ua"
+    },
+    "not_before": "2025-04-03T13:42:49",
+    "not_after": "2025-07-02T14:41:20",
+    "days_remaining": 32,
+    "san": [
+      "newsme.com.ua",
+      "*.newsme.com.ua"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: ASP.NET"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(249, 249, 249)",
+      "rgb(254, 254, 254)",
+      "rgb(250, 250, 250)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x1995",
+    "file_size_kb": 622.845703125
+  }
+}

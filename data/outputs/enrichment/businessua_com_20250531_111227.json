@@ -1,0 +1,80 @@
+{
+  "url": "http://businessua.com/industriya/37153foreks-indikatory-prinimaem-vzveshennye-resheniya.html",
+  "timestamp": "2025-05-31T07:11:41.065883+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Internet Invest, Ltd. dba Imena.ua",
+      "creation_date": "2011-11-03 10:45:04",
+      "expiration_date": "2025-11-03 11:45:04",
+      "name_servers": [
+        "NS1.EKVIA.COM",
+        "NS2.EKVIA.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "91.210.190.92"
+      ],
+      "mx_records": [
+        "10 mail.businessua.com.",
+        "20 mail.businessua.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:91.210.190.92 a mx ~all\""
+      ]
+    },
+    "age_days": 4957,
+    "registrar": "Internet Invest, Ltd. dba Imena.ua",
+    "name_servers": [
+      "NS1.EKVIA.COM",
+      "NS2.EKVIA.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "businessua.com"
+    },
+    "not_before": "2025-04-24T00:04:46",
+    "not_after": "2025-07-23T00:04:45",
+    "days_remaining": 52,
+    "san": [
+      "businessua.com",
+      "www.businessua.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.12.1",
+    "Powered by: PHP/5.4.45-0+deb7u30",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

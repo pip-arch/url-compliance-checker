@@ -1,0 +1,93 @@
+{
+  "url": "https://cryptostec.com/da/handel-med-og-investering-i-kryptovaluta-den-komplette-guide/",
+  "timestamp": "2025-05-31T06:39:58.473310+00:00",
+  "screenshot_path": "data/outputs/screenshots/cryptostec_com_20250531_104006.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "ENOM, INC.",
+      "creation_date": "[datetime.datetime(2017, 5, 25, 3, 49, 59), datetime.datetime(2017, 5, 25, 3, 49)]",
+      "expiration_date": "[datetime.datetime(2032, 5, 25, 3, 49, 59), datetime.datetime(2032, 5, 25, 3, 49)]",
+      "name_servers": [
+        "LEAH.NS.CLOUDFLARE.COM",
+        "RAJEEV.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.28.158",
+        "172.67.170.234"
+      ],
+      "mx_records": [
+        "10 mx.zoho.com.",
+        "20 mx2.zoho.com.",
+        "50 mx3.zoho.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +mx +a +ip4:185.146.22.235 +include:spf.a2hosting.com +include:zoho.com ~all\"",
+        "\"google-site-verification=0bY7rKM6duW9PhJimcQx7tQ4lrQn_fXabHmt_zGDbmU\""
+      ]
+    },
+    "age_days": 2928,
+    "registrar": "ENOM, INC.",
+    "name_servers": [
+      "LEAH.NS.CLOUDFLARE.COM",
+      "RAJEEV.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "cryptostec.com"
+    },
+    "not_before": "2025-05-04T13:47:29",
+    "not_after": "2025-08-02T14:46:10",
+    "days_remaining": 63,
+    "san": [
+      "cryptostec.com",
+      "*.cryptostec.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(246, 246, 247)",
+      "rgb(245, 245, 246)",
+      "rgb(244, 244, 245)",
+      "rgb(243, 243, 244)"
+    ],
+    "image_dimensions": "1920x45585",
+    "file_size_kb": 8538.4677734375
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "url": "https://ioshacker.com/apps/forex-mobiles-manage-currency-trading-go",
+  "timestamp": "2025-06-04T01:15:10.814752+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2013, 6, 24, 20, 6, 15), datetime.datetime(2013, 6, 24, 15, 6, 15)]",
+      "expiration_date": "[datetime.datetime(2025, 6, 24, 20, 6, 15), datetime.datetime(2025, 6, 24, 15, 6, 15)]",
+      "name_servers": [
+        "DAMON.NS.CLOUDFLARE.COM",
+        "JO.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.220.121",
+        "104.21.51.35"
+      ],
+      "mx_records": [
+        "1 mx1.mailchannels.net.",
+        "1 mx2.mailchannels.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 mx include:netblocks.dreamhost.com include:relay.mailchannels.net -all\""
+      ]
+    },
+    "age_days": 4362,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "DAMON.NS.CLOUDFLARE.COM",
+      "JO.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "ioshacker.com"
+    },
+    "not_before": "2025-04-16T03:44:48",
+    "not_after": "2025-07-15T04:43:15",
+    "days_remaining": 40,
+    "san": [
+      "ioshacker.com",
+      "*.ioshacker.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {}
+}

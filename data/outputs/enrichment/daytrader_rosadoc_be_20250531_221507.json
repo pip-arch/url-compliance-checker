@@ -1,0 +1,73 @@
+{
+  "url": "https://daytrader.rosadoc.be/",
+  "timestamp": "2025-05-31T18:15:02.996880+00:00",
+  "screenshot_path": "data/outputs/screenshots/daytrader_rosadoc_be_20250531_221507.png",
+  "domain_info": {
+    "whois": {},
+    "dns": {
+      "a_records": [
+        "217.182.244.29"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "rosadoc.be"
+    },
+    "not_before": "2025-04-28T23:46:53",
+    "not_after": "2025-07-27T23:46:52",
+    "days_remaining": 57,
+    "san": [
+      "*.rosadoc.be",
+      "rosadoc.be"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/7.3.33",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(2, 109, 187)",
+      "rgb(1, 108, 187)",
+      "rgb(0, 107, 186)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 122.6484375
+  }
+}

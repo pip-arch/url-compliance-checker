@@ -1,0 +1,142 @@
+{
+  "url": "https://al-jazirah.org/2024/01/22/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%AF%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82/",
+  "timestamp": "2025-06-03T15:38:25.996721+00:00",
+  "screenshot_path": "data/outputs/screenshots/al-jazirah_org_20250603_193832.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2021-01-09 22:22:39",
+      "expiration_date": "2027-01-09 22:22:39",
+      "name_servers": [
+        "ns1.wordpress.com",
+        "ns2.wordpress.com",
+        "ns3.wordpress.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "192.0.78.245",
+        "192.0.78.131"
+      ],
+      "mx_records": [
+        "0 smtp-fwd.wordpress.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.wpcloud.com ~all\""
+      ]
+    },
+    "age_days": 1605,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ns1.wordpress.com",
+      "ns2.wordpress.com",
+      "ns3.wordpress.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "tls.automattic.com"
+    },
+    "not_before": "2025-04-08T03:33:51",
+    "not_after": "2025-07-07T03:33:50",
+    "days_remaining": 33,
+    "san": [
+      "al-jazirah.org",
+      "feelingfestive.blog",
+      "findvehicle.car.blog",
+      "gatherandmunch.com",
+      "grudgeforever.com",
+      "honestreviewblog.game.blog",
+      "innerpeacepolitics.com",
+      "jiaheenergy.com",
+      "jjbytes.code.blog",
+      "jkellerhuisphotography.com",
+      "johannestreutlein.com",
+      "kimulrickwriter.com",
+      "laknoxville9.law.blog",
+      "lawrencerubin34.law.blog",
+      "leezereals55.blog",
+      "lifeiseveryday.blog",
+      "nearspacelaunch.com",
+      "newsenro.com",
+      "nextlevelshopowner.com",
+      "produce.tech.blog",
+      "rumahbelanja.family.blog",
+      "tls.automattic.com",
+      "transgendersurgerychicago.health.blog",
+      "trending-pulse.com",
+      "triviaquiz.code.blog",
+      "www.aaaaaa.game.blog",
+      "www.danieleboucon.fr",
+      "www.feelingfestive.blog",
+      "www.gatherandmunch.com",
+      "www.grudgeforever.com",
+      "www.honestreviewblog.game.blog",
+      "www.humancentric.nl",
+      "www.iambyallanah.com",
+      "www.jayecwatts.com",
+      "www.jiaheenergy.com",
+      "www.jjbytes.code.blog",
+      "www.jkellerhuisphotography.com",
+      "www.johannestreutlein.com",
+      "www.leezereals55.blog",
+      "www.lifeiseveryday.blog",
+      "www.maga8889.game.blog",
+      "www.nearspacelaunch.com",
+      "www.newsenro.com",
+      "www.poderunides.org",
+      "www.pvcghedi.org",
+      "www.royalezstylez.fashion.blog",
+      "www.rumahbelanja.family.blog",
+      "www.transgendersurgerychicago.health.blog",
+      "www.trending-pulse.com",
+      "www.triviaquiz.code.blog",
+      "www.voice.game.blog"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(247, 247, 247)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(244, 244, 244)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x5085",
+    "file_size_kb": 1563.705078125
+  }
+}

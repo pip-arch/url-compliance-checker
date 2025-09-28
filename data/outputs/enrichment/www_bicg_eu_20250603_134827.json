@@ -1,0 +1,77 @@
+{
+  "url": "https://www.bicg.eu/members/corporate-members/",
+  "timestamp": "2025-06-03T09:48:20.179597+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_bicg_eu_20250603_134826.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "UAB \"Interneto vizija\"",
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": "ns4.serveriai.lt\n        ns3.serveriai.lt\n        ns2.serveriai.lt\n        ns1.serveriai.lt\n\nPlease visit www.eurid.eu for more info."
+    },
+    "dns": {
+      "a_records": [
+        "79.98.24.17"
+      ]
+    },
+    "age_days": null,
+    "registrar": "UAB \"Interneto vizija\"",
+    "name_servers": "ns4.serveriai.lt\n        ns3.serveriai.lt\n        ns2.serveriai.lt\n        ns1.serveriai.lt\n\nPlease visit www.eurid.eu for more info."
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "bicg.eu"
+    },
+    "not_before": "2025-04-22T14:30:43",
+    "not_after": "2025-07-21T14:30:42",
+    "days_remaining": 48,
+    "san": [
+      "bicg.eu",
+      "www.bicg.eu"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(242, 242, 242)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(245, 245, 245)"
+    ],
+    "image_dimensions": "1920x4421",
+    "file_size_kb": 720.541015625
+  }
+}

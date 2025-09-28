@@ -1,0 +1,80 @@
+{
+  "url": "https://www.madridesnoticia.es/2021/06/cuentas-trading-demo-mercados-dinero/",
+  "timestamp": "2025-06-04T04:43:54.981097+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_madridesnoticia_es_20250604_084405.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "172.67.143.131",
+        "104.21.87.138"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "madridesnoticia.es"
+    },
+    "not_before": "2025-05-11T14:01:43",
+    "not_after": "2025-08-09T14:58:37",
+    "days_remaining": 66,
+    "san": [
+      "madridesnoticia.es",
+      "*.madridesnoticia.es"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.3.21",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(254, 254, 254)",
+      "rgb(231, 231, 231)",
+      "rgb(224, 224, 224)"
+    ],
+    "image_dimensions": "1920x4853",
+    "file_size_kb": 2071.712890625
+  }
+}

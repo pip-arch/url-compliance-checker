@@ -1,0 +1,90 @@
+{
+  "url": "https://daytrader.blieb.nl/",
+  "timestamp": "2025-05-29T21:18:06.671340+00:00",
+  "screenshot_path": "data/outputs/screenshots/daytrader_blieb_nl_20250530_011811.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "mijn.host",
+      "creation_date": "2021-11-15 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "josh.ns.cloudflare.com",
+        "liv.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "51.255.118.108"
+      ]
+    },
+    "age_days": 1291,
+    "registrar": "mijn.host",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "josh.ns.cloudflare.com",
+      "liv.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "blieb.nl"
+    },
+    "not_before": "2025-04-29T17:44:29",
+    "not_after": "2025-07-28T17:44:28",
+    "days_remaining": 59,
+    "san": [
+      "*.blieb.nl",
+      "blieb.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/7.3.33",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(2, 109, 187)",
+      "rgb(1, 108, 187)",
+      "rgb(0, 103, 184)",
+      "rgb(0, 105, 185)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 87.1083984375
+  }
+}

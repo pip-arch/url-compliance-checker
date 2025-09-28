@@ -1,0 +1,81 @@
+{
+  "url": "https://topsealottawa.com/oblachnyj-majning-bitkoina/",
+  "timestamp": "2025-05-31T09:55:27.219024+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2010, 1, 12, 20, 52, 10), datetime.datetime(2010, 1, 12, 15, 52, 10)]",
+      "expiration_date": "[datetime.datetime(2026, 1, 12, 20, 52, 10), datetime.datetime(2026, 1, 12, 15, 52, 10)]",
+      "name_servers": [
+        "NS05.DOMAINCONTROL.COM",
+        "NS06.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "192.124.249.132"
+      ],
+      "mx_records": [
+        "0 topsealottawa-com.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=BuvNPEMCIJTrg3QS7XCxUHU_--9MpfCDkPMqGr8zH4s\"",
+        "\"v=spf1 include:spf.protection.outlook.com -all\"",
+        "\"NETORGFT5067383.onmicrosoft.com\""
+      ]
+    },
+    "age_days": 5617,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS05.DOMAINCONTROL.COM",
+      "NS06.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "stateOrProvinceName": "Arizona",
+      "localityName": "Scottsdale",
+      "organizationName": "GoDaddy.com, Inc.",
+      "organizationalUnitName": "http://certs.godaddy.com/repository/",
+      "commonName": "Go Daddy Secure Certificate Authority - G2"
+    },
+    "subject": {
+      "commonName": "topsealottawa.com"
+    },
+    "not_before": "2025-05-12T12:13:58",
+    "not_after": "2025-08-10T12:13:58",
+    "days_remaining": 70,
+    "san": [
+      "topsealottawa.com",
+      "www.topsealottawa.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Sucuri/Cloudproxy",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

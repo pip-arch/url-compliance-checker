@@ -1,0 +1,88 @@
+{
+  "url": "https://new-sebastopol.com/news/id/42385",
+  "timestamp": "2025-06-03T21:25:54.116505+00:00",
+  "screenshot_path": "data/outputs/screenshots/new-sebastopol_com_20250604_012606.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Registrar of Domain Names REG.RU LLC",
+      "creation_date": "[datetime.datetime(2008, 2, 11, 9, 48, 5), datetime.datetime(2008, 2, 10, 21, 0)]",
+      "expiration_date": "[datetime.datetime(2026, 2, 11, 9, 48, 5), datetime.datetime(2026, 2, 10, 21, 0)]",
+      "name_servers": [
+        "NS1.REG.RU",
+        "NS2.REG.RU"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "62.152.56.195"
+      ],
+      "mx_records": [
+        "10 mx.yandex.net."
+      ]
+    },
+    "age_days": 6322,
+    "registrar": "Registrar of Domain Names REG.RU LLC",
+    "name_servers": [
+      "NS1.REG.RU",
+      "NS2.REG.RU"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "BE",
+      "organizationName": "GlobalSign nv-sa",
+      "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+    },
+    "subject": {
+      "commonName": "*.new-sebastopol.com"
+    },
+    "not_before": "2025-04-15T05:42:26",
+    "not_after": "2026-05-17T05:42:25",
+    "days_remaining": 347,
+    "san": [
+      "*.new-sebastopol.com",
+      "new-sebastopol.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/5.5.9-1ubuntu4.29",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(244, 246, 246)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(225, 230, 233)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x2135",
+    "file_size_kb": 568.173828125
+  }
+}

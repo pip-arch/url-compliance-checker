@@ -1,0 +1,93 @@
+{
+  "url": "https://www.blog-notes-finances.com/conseils-trading-forex-court-terme/",
+  "timestamp": "2025-06-03T16:44:42.601532+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_blog-notes-finances_com_20250603_204447.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH, SAS",
+      "creation_date": "2008-08-20 20:29:19",
+      "expiration_date": "[datetime.datetime(2025, 8, 20, 20, 29, 19), datetime.datetime(2025, 8, 20, 22, 29, 19, tzinfo=datetime.timezone(datetime.timedelta(seconds=7200)))]",
+      "name_servers": [
+        "DNS12.OVH.NET",
+        "NS12.OVH.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "213.186.33.19"
+      ],
+      "mx_records": [
+        "5 mx2.ovh.net.",
+        "1 mx1.ovh.net."
+      ]
+    },
+    "age_days": 6130,
+    "registrar": "OVH, SAS",
+    "name_servers": [
+      "DNS12.OVH.NET",
+      "NS12.OVH.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "blog-notes-finances.com"
+    },
+    "not_before": "2025-04-15T15:30:02",
+    "not_after": "2025-07-14T15:30:01",
+    "days_remaining": 40,
+    "san": [
+      "aap-finance-innovation.org",
+      "blog-notes-finances.com",
+      "credit-en-ligne-rapide-et-facile.fr",
+      "www.aap-finance-innovation.org",
+      "www.blog-notes-finances.com",
+      "www.credit-en-ligne-rapide-et-facile.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: OVHcloud",
+    "Powered by: PHP/7.4",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(150, 23, 31)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(245, 245, 245)",
+      "rgb(147, 16, 25)"
+    ],
+    "image_dimensions": "1920x3053",
+    "file_size_kb": 1240.16796875
+  }
+}

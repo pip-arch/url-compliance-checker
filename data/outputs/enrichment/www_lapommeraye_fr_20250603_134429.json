@@ -1,0 +1,92 @@
+{
+  "url": "https://www.lapommeraye.fr/pourquoi-le-marche-forex-est-il-si-dynamique-et-tant-recherche-par-les-traders/",
+  "timestamp": "2025-06-03T09:44:21.280965+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_lapommeraye_fr_20250603_134429.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PLANETHOSTER",
+      "creation_date": "2019-04-16 12:17:22",
+      "expiration_date": "2026-04-16 12:17:22",
+      "name_servers": [
+        "nsa.planethoster.net",
+        "nsb.planethoster.net",
+        "nsc.planethoster.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "147.135.169.97"
+      ]
+    },
+    "age_days": 2239,
+    "registrar": "PLANETHOSTER",
+    "name_servers": [
+      "nsa.planethoster.net",
+      "nsb.planethoster.net",
+      "nsc.planethoster.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "lapommeraye.fr"
+    },
+    "not_before": "2025-04-05T10:10:29",
+    "not_after": "2025-07-04T10:10:28",
+    "days_remaining": 30,
+    "san": [
+      "cpanel.lapommeraye.fr",
+      "cpcalendars.lapommeraye.fr",
+      "cpcontacts.lapommeraye.fr",
+      "lapommeraye.fr",
+      "mail.lapommeraye.fr",
+      "webdisk.lapommeraye.fr",
+      "webmail.lapommeraye.fr",
+      "www.lapommeraye.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(247, 247, 247)",
+      "rgb(248, 248, 248)",
+      "rgb(231, 231, 231)"
+    ],
+    "image_dimensions": "1920x2845",
+    "file_size_kb": 1199.302734375
+  }
+}

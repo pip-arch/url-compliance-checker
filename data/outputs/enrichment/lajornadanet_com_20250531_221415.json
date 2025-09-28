@@ -1,0 +1,80 @@
+{
+  "url": "https://lajornadanet.com/index.php/2020/12/03/aprende-a-desarrollar-nuevas-formas-en-la-gestion-de-riesgos-de-forex/",
+  "timestamp": "2025-05-31T18:14:05.261528+00:00",
+  "screenshot_path": "data/outputs/screenshots/lajornadanet_com_20250531_221414.png",
+  "domain_info": {
+    "whois": {},
+    "dns": {
+      "a_records": [
+        "63.250.43.137",
+        "63.250.43.136"
+      ],
+      "mx_records": [
+        "5 mx1-hosting.jellyfish.systems.",
+        "20 mx3-hosting.jellyfish.systems.",
+        "10 mx2-hosting.jellyfish.systems."
+      ],
+      "txt_records": [
+        "\"google-site-verification=XFiIN-R7OCYYofE8l0fkfiG-cttb4cbtq2ROoN96v00\"",
+        "\"v=spf1 +a +mx +ip4:162.0.215.152 +ip4:162.0.215.154 include:spf.web-hosting.com +include:turbo-smtp.com ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "GB",
+      "stateOrProvinceName": "Greater Manchester",
+      "localityName": "Salford",
+      "organizationName": "Sectigo Limited",
+      "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+    },
+    "subject": {
+      "commonName": "lajornadanet.com"
+    },
+    "not_before": "2025-02-05T00:00:00",
+    "not_after": "2026-03-01T23:59:59",
+    "days_remaining": 274,
+    "san": [
+      "lajornadanet.com",
+      "www.lajornadanet.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "CSP"
+    ],
+    "issues": [
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(232, 232, 232)",
+      "rgb(254, 254, 254)",
+      "rgb(245, 245, 245)",
+      "rgb(235, 235, 235)"
+    ],
+    "image_dimensions": "1920x4950",
+    "file_size_kb": 1746.38671875
+  }
+}

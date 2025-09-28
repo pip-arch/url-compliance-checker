@@ -1,0 +1,89 @@
+{
+  "url": "https://technofizi.net/sitelike/admiralmarkets.de",
+  "timestamp": "2025-06-03T21:22:40.319635+00:00",
+  "screenshot_path": "data/outputs/screenshots/technofizi_net_20250604_012246.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Spaceship, Inc.",
+      "creation_date": "2016-06-09 06:51:41",
+      "expiration_date": "2026-06-09 06:51:41",
+      "name_servers": [
+        "DEE.NS.CLOUDFLARE.COM",
+        "KAI.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.145.242",
+        "104.21.87.203"
+      ],
+      "mx_records": [
+        "50 mx3.zoho.com.",
+        "20 mx2.zoho.com.",
+        "10 mx.zoho.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:zoho.com ~all\""
+      ]
+    },
+    "age_days": 3281,
+    "registrar": "Spaceship, Inc.",
+    "name_servers": [
+      "DEE.NS.CLOUDFLARE.COM",
+      "KAI.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "technofizi.net"
+    },
+    "not_before": "2025-04-29T21:19:29",
+    "not_after": "2025-07-28T22:18:11",
+    "days_remaining": 54,
+    "san": [
+      "technofizi.net",
+      "*.technofizi.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(229, 229, 229)",
+      "rgb(255, 255, 255)",
+      "rgb(0, 18, 58)",
+      "rgb(250, 250, 250)",
+      "rgb(230, 230, 230)"
+    ],
+    "image_dimensions": "1920x2842",
+    "file_size_kb": 396.2236328125
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://mobidevices.ru/admiral-markets",
+  "timestamp": "2025-06-03T11:59:59.764629+00:00",
+  "screenshot_path": "data/outputs/screenshots/mobidevices_ru_20250603_160005.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REGTIME-RU",
+      "creation_date": "2011-03-05 18:06:04",
+      "expiration_date": "2026-03-05 18:06:04",
+      "name_servers": [
+        "ns1.digitalocean.com.",
+        "ns2.digitalocean.com.",
+        "ns3.digitalocean.com."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "164.92.136.40"
+      ],
+      "mx_records": [
+        "10 mx02.mail.icloud.com.",
+        "10 mx01.mail.icloud.com."
+      ],
+      "txt_records": [
+        "\"apple-domain=W7wfkOI0mHOloF0c\"",
+        "\"v=spf1 include:icloud.com ~all\""
+      ]
+    },
+    "age_days": 5203,
+    "registrar": "REGTIME-RU",
+    "name_servers": [
+      "ns1.digitalocean.com.",
+      "ns2.digitalocean.com.",
+      "ns3.digitalocean.com."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "mobidevices.ru"
+    },
+    "not_before": "2025-06-01T23:28:46",
+    "not_after": "2025-08-30T23:28:45",
+    "days_remaining": 88,
+    "san": [
+      "mobidevices.ru",
+      "www.mobidevices.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.18.0 (Ubuntu)"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(0, 0, 0)",
+      "rgb(252, 252, 252)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x4948",
+    "file_size_kb": 1542.458984375
+  }
+}

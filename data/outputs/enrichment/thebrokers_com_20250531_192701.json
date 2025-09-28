@@ -1,0 +1,89 @@
+{
+  "url": "https://thebrokers.com/brokers/admiral-markets",
+  "timestamp": "2025-05-31T15:26:38.124283+00:00",
+  "screenshot_path": "data/outputs/screenshots/thebrokers_com_20250531_192659.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(1997, 8, 14, 4, 0), datetime.datetime(1997, 8, 13, 23, 0)]",
+      "expiration_date": "[datetime.datetime(2025, 8, 13, 4, 0), datetime.datetime(2025, 8, 12, 23, 0)]",
+      "name_servers": [
+        "NS75.DOMAINCONTROL.COM",
+        "NS76.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "103.118.28.191"
+      ],
+      "mx_records": [
+        "0 mail.thebrokers.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx include:mail.thebrokers.com ~all\""
+      ]
+    },
+    "age_days": 10152,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS75.DOMAINCONTROL.COM",
+      "NS76.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "thebrokers.com"
+    },
+    "not_before": "2025-04-10T07:34:42",
+    "not_after": "2025-07-09T07:34:41",
+    "days_remaining": 38,
+    "san": [
+      "thebrokers.com",
+      "www.thebrokers.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.18.0 (Ubuntu)",
+    "Powered by: Next.js"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 247, 247)",
+      "rgb(235, 235, 235)",
+      "rgb(234, 234, 234)",
+      "rgb(246, 246, 246)"
+    ],
+    "image_dimensions": "1920x20125",
+    "file_size_kb": 4615.4013671875
+  }
+}

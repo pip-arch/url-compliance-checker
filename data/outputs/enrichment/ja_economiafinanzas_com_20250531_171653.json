@@ -1,0 +1,142 @@
+{
+  "url": "https://ja.economiafinanzas.com/%E5%A4%96%E5%9B%BD%E7%82%BA%E6%9B%BF%E5%8F%96%E5%BC%95%E3%81%AE%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%92%E8%BB%BD%E6%B8%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88/",
+  "timestamp": "2025-05-31T13:16:44.427280+00:00",
+  "screenshot_path": "data/outputs/screenshots/ja_economiafinanzas_com_20250531_171653.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Soluciones Corporativas IP, SL",
+      "creation_date": "2007-11-29 23:20:48",
+      "expiration_date": "2025-11-29 23:20:48",
+      "name_servers": [
+        "NS20.DIGICERTDNS.COM",
+        "NS21.DIGICERTDNS.COM",
+        "NS22.DIGICERTDNS.COM",
+        "NS23.DIGICERTDNS.NET",
+        "NS24.DIGICERTDNS.NET",
+        "NS25.DIGICERTDNS.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "51.178.161.64"
+      ]
+    },
+    "age_days": 6392,
+    "registrar": "Soluciones Corporativas IP, SL",
+    "name_servers": [
+      "NS20.DIGICERTDNS.COM",
+      "NS21.DIGICERTDNS.COM",
+      "NS22.DIGICERTDNS.COM",
+      "NS23.DIGICERTDNS.NET",
+      "NS24.DIGICERTDNS.NET",
+      "NS25.DIGICERTDNS.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "pl.economiafinanzas.com"
+    },
+    "not_before": "2025-04-24T00:04:52",
+    "not_after": "2025-07-23T00:04:51",
+    "days_remaining": 52,
+    "san": [
+      "ar.economiafinanzas.com",
+      "bg.economiafinanzas.com",
+      "bn.economiafinanzas.com",
+      "bs.economiafinanzas.com",
+      "ca.economiafinanzas.com",
+      "cs.economiafinanzas.com",
+      "da.economiafinanzas.com",
+      "de.economiafinanzas.com",
+      "el.economiafinanzas.com",
+      "en.economiafinanzas.com",
+      "et.economiafinanzas.com",
+      "fi.economiafinanzas.com",
+      "fr.economiafinanzas.com",
+      "gu.economiafinanzas.com",
+      "ha.economiafinanzas.com",
+      "hi.economiafinanzas.com",
+      "hr.economiafinanzas.com",
+      "hu.economiafinanzas.com",
+      "id.economiafinanzas.com",
+      "it.economiafinanzas.com",
+      "iw.economiafinanzas.com",
+      "ja.economiafinanzas.com",
+      "kn.economiafinanzas.com",
+      "ko.economiafinanzas.com",
+      "lt.economiafinanzas.com",
+      "lv.economiafinanzas.com",
+      "mr.economiafinanzas.com",
+      "ms.economiafinanzas.com",
+      "nl.economiafinanzas.com",
+      "no.economiafinanzas.com",
+      "pl.economiafinanzas.com",
+      "pt.economiafinanzas.com",
+      "ro.economiafinanzas.com",
+      "ru.economiafinanzas.com",
+      "sk.economiafinanzas.com",
+      "sl.economiafinanzas.com",
+      "sn.economiafinanzas.com",
+      "so.economiafinanzas.com",
+      "sq.economiafinanzas.com",
+      "sr.economiafinanzas.com",
+      "sv.economiafinanzas.com",
+      "ta.economiafinanzas.com",
+      "th.economiafinanzas.com",
+      "tl.economiafinanzas.com",
+      "tr.economiafinanzas.com",
+      "uk.economiafinanzas.com",
+      "vi.economiafinanzas.com",
+      "xh.economiafinanzas.com",
+      "zh-cn.economiafinanzas.com",
+      "zh-tw.economiafinanzas.com",
+      "zu.economiafinanzas.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: gtranslate",
+    "Powered by: Occentus Hybrid Cloud",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(61, 76, 33)",
+      "rgb(83, 96, 58)",
+      "rgb(245, 246, 243)",
+      "rgb(58, 73, 29)"
+    ],
+    "image_dimensions": "1920x3710",
+    "file_size_kb": 1039.53125
+  }
+}

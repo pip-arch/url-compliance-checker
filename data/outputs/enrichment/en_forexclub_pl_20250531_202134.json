@@ -1,0 +1,90 @@
+{
+  "url": "https://en.forexclub.pl/tms-brokers-charge-no-activity/",
+  "timestamp": "2025-05-31T16:21:25.756119+00:00",
+  "screenshot_path": "data/outputs/screenshots/en_forexclub_pl_20250531_202133.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Aftermarket.pl Limited",
+      "creation_date": "2007-12-06 11:13:06",
+      "expiration_date": "2027-12-06 11:13:06",
+      "name_servers": [
+        "coen.ns.cloudflare.com",
+        "nancy.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "5.196.175.152"
+      ]
+    },
+    "age_days": 6386,
+    "registrar": "Aftermarket.pl Limited",
+    "name_servers": [
+      "coen.ns.cloudflare.com",
+      "nancy.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "de.forexclub.pl"
+    },
+    "not_before": "2025-04-24T03:13:57",
+    "not_after": "2025-07-23T03:13:56",
+    "days_remaining": 52,
+    "san": [
+      "cs.forexclub.pl",
+      "de.forexclub.pl",
+      "en.forexclub.pl",
+      "es.forexclub.pl",
+      "fr.forexclub.pl",
+      "it.forexclub.pl",
+      "pt.forexclub.pl",
+      "sk.forexclub.pl",
+      "vi.forexclub.pl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: gtranslate",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(45, 45, 45)",
+      "rgb(254, 254, 254)",
+      "rgb(51, 51, 51)",
+      "rgb(36, 36, 36)"
+    ],
+    "image_dimensions": "1920x3680",
+    "file_size_kb": 711.8876953125
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://www.pingoo.org/robot-de-trading-dans-quelle-mesure-est-il-rentable-pour-de-nombreux-traders/",
+  "timestamp": "2025-06-03T10:44:57.289749+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_pingoo_org_20250603_144522.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NETIM SAS",
+      "creation_date": "2021-01-04 14:30:34",
+      "expiration_date": "2026-01-04 14:30:34",
+      "name_servers": [
+        "elly.ns.cloudflare.com",
+        "matteo.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.197.172",
+        "104.21.13.39"
+      ]
+    },
+    "age_days": 1610,
+    "registrar": "NETIM SAS",
+    "name_servers": [
+      "elly.ns.cloudflare.com",
+      "matteo.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "pingoo.org"
+    },
+    "not_before": "2025-05-22T18:38:10",
+    "not_after": "2025-08-20T19:36:36",
+    "days_remaining": 78,
+    "san": [
+      "pingoo.org",
+      "*.pingoo.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(17, 17, 17)",
+      "rgb(250, 250, 250)",
+      "rgb(242, 242, 242)"
+    ],
+    "image_dimensions": "1920x3759",
+    "file_size_kb": 1223.796875
+  }
+}

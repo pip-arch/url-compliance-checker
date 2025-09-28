@@ -1,0 +1,89 @@
+{
+  "url": "https://diariolaregion.com/opciones-de-inversion-y-conceptos-claves/",
+  "timestamp": "2025-06-04T00:05:03.764228+00:00",
+  "screenshot_path": "data/outputs/screenshots/diariolaregion_com_20250604_040533.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NameCheap, Inc.",
+      "creation_date": "2004-02-24 18:04:43",
+      "expiration_date": "2026-02-24 18:04:43",
+      "name_servers": [
+        "NS1.SUBEMIWEB.COM",
+        "NS2.SUBEMIWEB.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "208.115.236.222"
+      ],
+      "mx_records": [
+        "0 diariolaregion.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:208.115.236.222 ~all\""
+      ]
+    },
+    "age_days": 7770,
+    "registrar": "NameCheap, Inc.",
+    "name_servers": [
+      "NS1.SUBEMIWEB.COM",
+      "NS2.SUBEMIWEB.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "*.diariolaregion.com"
+    },
+    "not_before": "2025-05-22T01:38:15",
+    "not_after": "2025-08-20T01:38:14",
+    "days_remaining": 76,
+    "san": [
+      "*.diariolaregion.com",
+      "diariolaregion.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(240, 241, 242)",
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(249, 249, 249)",
+      "rgb(248, 248, 248)"
+    ],
+    "image_dimensions": "1920x3678",
+    "file_size_kb": 1299.1298828125
+  }
+}

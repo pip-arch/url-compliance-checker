@@ -1,0 +1,90 @@
+{
+  "url": "https://forexsystemsru.com/threads/vebinary-seminary-i-obuchajuschie-kursy-ot-kompanii-admiral-markets.73860/page-6",
+  "timestamp": "2025-06-03T11:56:39.630932+00:00",
+  "screenshot_path": "data/outputs/screenshots/forexsystemsru_com_20250603_155645.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2015-09-30 08:13:37",
+      "expiration_date": "2025-09-30 08:13:37",
+      "name_servers": [
+        "AMBER.NS.CLOUDFLARE.COM",
+        "HANK.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.160.115",
+        "104.21.42.89"
+      ],
+      "mx_records": [
+        "0 mx.yandex.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:mxsspf.sendpulse.com +a +mx ~all\"",
+        "\"google-site-verification=EJchQj5KOxYGDRwwM3GbhFQK_RXFUnmyhS8eZZH91TU\"",
+        "\"v=spf1 redirect=_spf.yandex.net\""
+      ]
+    },
+    "age_days": 3534,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "AMBER.NS.CLOUDFLARE.COM",
+      "HANK.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "forexsystemsru.com"
+    },
+    "not_before": "2025-05-28T15:10:51",
+    "not_after": "2025-08-26T16:08:34",
+    "days_remaining": 84,
+    "san": [
+      "forexsystemsru.com",
+      "*.forexsystemsru.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(235, 235, 235)",
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x14637",
+    "file_size_kb": 4050.7978515625
+  }
+}

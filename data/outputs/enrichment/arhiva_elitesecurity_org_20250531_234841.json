@@ -1,0 +1,73 @@
+{
+  "url": "https://arhiva.elitesecurity.org/t317722-Forex-Trgovina-Valutama",
+  "timestamp": "2025-05-31T19:48:08.962856+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "[datetime.datetime(2000, 2, 22, 22, 8, 36), datetime.datetime(2000, 2, 22, 22, 8, 36, 570000)]",
+      "expiration_date": "2033-02-22 22:08:36",
+      "name_servers": [
+        "adam.ns.cloudflare.com",
+        "nora.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.13.48",
+        "172.67.154.160"
+      ]
+    },
+    "age_days": 9229,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "adam.ns.cloudflare.com",
+      "nora.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "elitesecurity.org"
+    },
+    "not_before": "2025-05-24T06:49:33",
+    "not_after": "2025-08-22T07:47:57",
+    "days_remaining": 82,
+    "san": [
+      "elitesecurity.org",
+      "*.elitesecurity.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

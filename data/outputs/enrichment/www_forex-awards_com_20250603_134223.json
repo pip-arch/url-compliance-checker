@@ -1,0 +1,85 @@
+{
+  "url": "https://www.forex-awards.com/forex-news/?id=25165",
+  "timestamp": "2025-06-03T09:42:13.649769+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_forex-awards_com_20250603_134222.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "DREAMHOST",
+      "creation_date": "[datetime.datetime(2013, 3, 19, 15, 44, 54), datetime.datetime(2013, 3, 19, 15, 44)]",
+      "expiration_date": "2026-03-19 15:44:54",
+      "name_servers": [
+        "NS1.DREAMHOST.COM",
+        "NS2.DREAMHOST.COM",
+        "NS3.DREAMHOST.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "69.163.185.17"
+      ]
+    },
+    "age_days": 4458,
+    "registrar": "DREAMHOST",
+    "name_servers": [
+      "NS1.DREAMHOST.COM",
+      "NS2.DREAMHOST.COM",
+      "NS3.DREAMHOST.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "www.forex-awards.com"
+    },
+    "not_before": "2025-04-28T08:19:14",
+    "not_after": "2025-07-27T08:19:13",
+    "days_remaining": 53,
+    "san": [
+      "forex-awards.com",
+      "www.forex-awards.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(248, 249, 250)",
+      "rgb(254, 254, 254)",
+      "rgb(249, 250, 251)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x2010",
+    "file_size_kb": 469.849609375
+  }
+}

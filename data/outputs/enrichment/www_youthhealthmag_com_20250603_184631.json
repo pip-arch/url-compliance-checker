@@ -1,0 +1,90 @@
+{
+  "url": "https://www.youthhealthmag.com/articles/52958/20180711/dreading-the-end-of-maternity-leave-then-dont-go-back-to-work.htm",
+  "timestamp": "2025-06-03T14:46:24.394028+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_youthhealthmag_com_20250603_184631.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "TLDS LLC. d/b/a SRSPlus",
+      "creation_date": "2014-05-22 14:40:05",
+      "expiration_date": "2026-05-22 14:40:05",
+      "name_servers": [
+        "NS-1032.AWSDNS-01.ORG",
+        "NS-1661.AWSDNS-15.CO.UK",
+        "NS-200.AWSDNS-25.COM",
+        "NS-984.AWSDNS-59.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "34.111.144.159"
+      ]
+    },
+    "age_days": 4030,
+    "registrar": "TLDS LLC. d/b/a SRSPlus",
+    "name_servers": [
+      "NS-1032.AWSDNS-01.ORG",
+      "NS-1661.AWSDNS-15.CO.UK",
+      "NS-200.AWSDNS-25.COM",
+      "NS-984.AWSDNS-59.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "*.youthhealthmag.com"
+    },
+    "not_before": "2025-03-28T15:32:13",
+    "not_after": "2025-06-26T15:32:12",
+    "days_remaining": 22,
+    "san": [
+      "*.youthhealthmag.com",
+      "youthhealthmag.com"
+    ],
+    "issues": [
+      "Certificate expires in 22 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/7.4.33",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(228, 229, 229)",
+      "rgb(253, 253, 253)",
+      "rgb(231, 232, 232)"
+    ],
+    "image_dimensions": "1920x4361",
+    "file_size_kb": 1141.904296875
+  }
+}

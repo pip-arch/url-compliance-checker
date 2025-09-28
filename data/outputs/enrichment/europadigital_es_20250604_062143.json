@@ -1,0 +1,72 @@
+{
+  "url": "https://europadigital.es/economia/por-que-invertir-en-acciones-fraccionadas/",
+  "timestamp": "2025-06-04T02:21:11.139555+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "201.46.112.202"
+      ],
+      "mx_records": [
+        "10 mail.europadigital.es."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx ip4:54.37.168.110 ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "europadigital.es"
+    },
+    "not_before": "2025-05-02T01:17:06",
+    "not_after": "2025-07-31T01:17:05",
+    "days_remaining": 56,
+    "san": [
+      "europadigital.es",
+      "www.europadigital.es"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

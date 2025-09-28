@@ -1,0 +1,90 @@
+{
+  "url": "https://herzogtum-direkt.de/index.php/2018/06/05/zehn-tipps-um-verluste-beim-devisenhandel-zu-vermeiden/",
+  "timestamp": "2025-06-03T19:09:48.247358+00:00",
+  "screenshot_path": "data/outputs/screenshots/herzogtum-direkt_de_20250603_230955.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns05.domaincontrol.com",
+        "ns06.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.41.105.231"
+      ],
+      "mx_records": [
+        "50 sslmail1.eumart-host.de."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns05.domaincontrol.com",
+      "ns06.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "herzogtum-direkt.de"
+    },
+    "not_before": "2025-05-03T13:08:16",
+    "not_after": "2025-08-01T13:08:15",
+    "days_remaining": 58,
+    "san": [
+      "herzogtum-direkt.de",
+      "www.herzogtum-direkt.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(0, 0, 0)",
+      "rgb(26, 26, 26)",
+      "rgb(25, 25, 25)",
+      "rgb(24, 24, 24)",
+      "rgb(23, 23, 23)"
+    ],
+    "image_dimensions": "1920x5905",
+    "file_size_kb": 1753.6416015625
+  }
+}

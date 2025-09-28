@@ -1,0 +1,86 @@
+{
+  "url": "https://www.forexbroker.de/cfd-mit-flexiblen-hebeln/",
+  "timestamp": "2025-05-30T22:37:01.726933+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_forexbroker_de_20250531_023708.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "otto.ns.cloudflare.com",
+        "val.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.37.34",
+        "172.67.203.112"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "otto.ns.cloudflare.com",
+      "val.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "forexbroker.de"
+    },
+    "not_before": "2025-05-07T18:01:23",
+    "not_after": "2025-08-05T19:00:04",
+    "days_remaining": 66,
+    "san": [
+      "forexbroker.de",
+      "*.forexbroker.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(240, 240, 240)",
+      "rgb(223, 223, 223)",
+      "rgb(224, 224, 224)",
+      "rgb(241, 241, 241)",
+      "rgb(225, 225, 225)"
+    ],
+    "image_dimensions": "1920x14505",
+    "file_size_kb": 4555.9423828125
+  }
+}

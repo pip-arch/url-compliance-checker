@@ -1,0 +1,88 @@
+{
+  "url": "https://gironanoticies.com/noticia/146189-forexv-accione-cuale-onla-diferencia--1.htm",
+  "timestamp": "2025-06-03T23:58:33.037721+00:00",
+  "screenshot_path": "data/outputs/screenshots/gironanoticies_com_20250604_035857.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2006, 6, 19, 18, 24, 59), datetime.datetime(2006, 6, 19, 13, 24, 59)]",
+      "expiration_date": "[datetime.datetime(2027, 6, 19, 18, 24, 59), datetime.datetime(2027, 6, 19, 13, 24, 59)]",
+      "name_servers": [
+        "NS50391.WEBEMPRESA.EU",
+        "NS50392.WEBEMPRESA.EU"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "213.158.84.61"
+      ],
+      "mx_records": [
+        "0 mail.gironanoticies.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:213.158.84.61 include:_spf.webempresa.eu ~all\""
+      ]
+    },
+    "age_days": 6924,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS50391.WEBEMPRESA.EU",
+      "NS50392.WEBEMPRESA.EU"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "gironanoticies.com"
+    },
+    "not_before": "2025-04-17T05:10:48",
+    "not_after": "2025-07-16T05:10:47",
+    "days_remaining": 42,
+    "san": [
+      "*.gironanoticies.com",
+      "gironanoticies.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(248, 248, 248)",
+      "rgb(254, 254, 254)",
+      "rgb(249, 249, 249)",
+      "rgb(1, 63, 84)"
+    ],
+    "image_dimensions": "1920x7585",
+    "file_size_kb": 3985.974609375
+  }
+}

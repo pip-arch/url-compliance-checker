@@ -1,0 +1,86 @@
+{
+  "url": "https://www.forexing.com/zulutrade-supported-brokers",
+  "timestamp": "2025-05-31T20:49:47.961129+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_forexing_com_20250601_004954.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2007, 5, 25, 18, 37, 38), datetime.datetime(2007, 5, 25, 13, 37, 38)]",
+      "expiration_date": "[datetime.datetime(2027, 5, 25, 18, 37, 38), datetime.datetime(2027, 5, 25, 13, 37, 38)]",
+      "name_servers": [
+        "LADY.NS.CLOUDFLARE.COM",
+        "TOBY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.80.246",
+        "172.67.155.202"
+      ]
+    },
+    "age_days": 6581,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "LADY.NS.CLOUDFLARE.COM",
+      "TOBY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "forexing.com"
+    },
+    "not_before": "2025-05-31T06:24:19",
+    "not_after": "2025-08-29T07:21:54",
+    "days_remaining": 89,
+    "san": [
+      "forexing.com",
+      "*.forexing.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.2.28",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(247, 247, 247)",
+      "rgb(255, 255, 255)",
+      "rgb(248, 249, 249)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x4988",
+    "file_size_kb": 700.2314453125
+  }
+}

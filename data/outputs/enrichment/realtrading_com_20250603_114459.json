@@ -1,0 +1,92 @@
+{
+  "url": "https://realtrading.com/trading-blog/exponential-moving-average/",
+  "timestamp": "2025-06-03T07:44:53.926228+00:00",
+  "screenshot_path": "data/outputs/screenshots/realtrading_com_20250603_114459.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2002, 8, 19, 3, 47, 1), datetime.datetime(2002, 8, 18, 22, 47, 1)]",
+      "expiration_date": "[datetime.datetime(2025, 8, 19, 3, 47, 1), datetime.datetime(2025, 8, 18, 22, 47, 1)]",
+      "name_servers": [
+        "PDNS11.DOMAINCONTROL.COM",
+        "PDNS12.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "141.193.213.11",
+        "141.193.213.10"
+      ],
+      "mx_records": [
+        "1 smtp.google.com."
+      ],
+      "txt_records": [
+        "\"v=spf1  include:_spf.google.com include:2694079.spf05.hubspotemail.net -all\"",
+        "\"google-site-verification=epkijx3TQeOFmZiaFJlat5nDCMZ1hUdniERUrQsGL9o\"",
+        "\"google-site-verification=UUO0liurzCAeK-k0DfFyEURQ7rnXHXDDGz57i4Sc-JU\""
+      ]
+    },
+    "age_days": 8324,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "PDNS11.DOMAINCONTROL.COM",
+      "PDNS12.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "realtrading.com"
+    },
+    "not_before": "2025-04-12T09:30:06",
+    "not_after": "2025-07-11T09:30:05",
+    "days_remaining": 37,
+    "san": [
+      "realtrading.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(65, 69, 61)",
+      "rgb(250, 250, 250)",
+      "rgb(251, 251, 251)",
+      "rgb(249, 249, 249)"
+    ],
+    "image_dimensions": "1920x9471",
+    "file_size_kb": 1334.7294921875
+  }
+}

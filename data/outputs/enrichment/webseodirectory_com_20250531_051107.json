@@ -1,0 +1,92 @@
+{
+  "url": "https://webseodirectory.com/website-list-1973/",
+  "timestamp": "2025-05-31T01:10:45.292849+00:00",
+  "screenshot_path": "data/outputs/screenshots/webseodirectory_com_20250531_051107.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NameCheap, Inc.",
+      "creation_date": "2023-01-06 07:09:14",
+      "expiration_date": "2026-01-06 07:09:14",
+      "name_servers": [
+        "ANUJ.NS.CLOUDFLARE.COM",
+        "ULLA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.50.156",
+        "172.67.164.32"
+      ],
+      "mx_records": [
+        "10 mx2-hosting.jellyfish.systems.",
+        "20 mx3-hosting.jellyfish.systems.",
+        "5 mx1-hosting.jellyfish.systems."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:66.29.146.29 include:spf.web-hosting.com ~all\""
+      ]
+    },
+    "age_days": 875,
+    "registrar": "NameCheap, Inc.",
+    "name_servers": [
+      "ANUJ.NS.CLOUDFLARE.COM",
+      "ULLA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "webseodirectory.com"
+    },
+    "not_before": "2025-04-25T20:17:08",
+    "not_after": "2025-07-24T21:15:16",
+    "days_remaining": 54,
+    "san": [
+      "webseodirectory.com",
+      "*.webseodirectory.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(17, 17, 51)",
+      "rgb(52, 52, 81)",
+      "rgb(254, 254, 254)",
+      "rgb(248, 248, 249)"
+    ],
+    "image_dimensions": "1920x2390",
+    "file_size_kb": 419.419921875
+  }
+}

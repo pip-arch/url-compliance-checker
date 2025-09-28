@@ -1,0 +1,84 @@
+{
+  "url": "https://www.urllinking.com/web/admiralmarkets.com",
+  "timestamp": "2025-06-03T18:19:41.877166+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_urllinking_com_20250603_221956.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NameSilo, LLC",
+      "creation_date": "[datetime.datetime(2019, 8, 23, 16, 36, 55), datetime.datetime(2019, 8, 23, 7, 0)]",
+      "expiration_date": "[datetime.datetime(2025, 8, 23, 16, 36, 55), datetime.datetime(2025, 8, 23, 7, 0)]",
+      "name_servers": [
+        "CONNIE.NS.CLOUDFLARE.COM",
+        "GERALD.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.214.88",
+        "104.21.35.64"
+      ]
+    },
+    "age_days": 2111,
+    "registrar": "NameSilo, LLC",
+    "name_servers": [
+      "CONNIE.NS.CLOUDFLARE.COM",
+      "GERALD.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "urllinking.com"
+    },
+    "not_before": "2025-04-11T19:42:09",
+    "not_after": "2025-07-10T20:39:55",
+    "days_remaining": 36,
+    "san": [
+      "urllinking.com",
+      "*.urllinking.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 251)",
+      "rgb(252, 252, 252)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x8174",
+    "file_size_kb": 1116.724609375
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "url": "https://prixdubaril.com/contacter-equipe-baril/mentions-legales/2-baril/63371-trader-le-petrole-chez-admiral-markets.html",
+  "timestamp": "2025-06-03T22:55:50.685920+00:00",
+  "screenshot_path": "data/outputs/screenshots/prixdubaril_com_20250604_025601.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH, SAS",
+      "creation_date": "2008-07-14 11:27:18",
+      "expiration_date": "[datetime.datetime(2026, 7, 14, 11, 27, 18), datetime.datetime(2026, 7, 14, 13, 27, 18, tzinfo=datetime.timezone(datetime.timedelta(seconds=7200)))]",
+      "name_servers": [
+        "DNS12.OVH.NET",
+        "NS12.OVH.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "46.105.204.2"
+      ],
+      "mx_records": [
+        "5 mx2.mail.ovh.net.",
+        "1 mx1.mail.ovh.net.",
+        "100 mx3.mail.ovh.net."
+      ],
+      "txt_records": [
+        "\"brevo-code:1caa81aa5f2a697c213cebd5e0a88257\"",
+        "\"v=spf1 include:mx.ovh.com ~all\""
+      ]
+    },
+    "age_days": 6168,
+    "registrar": "OVH, SAS",
+    "name_servers": [
+      "DNS12.OVH.NET",
+      "NS12.OVH.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "subk.org"
+    },
+    "not_before": "2025-04-10T15:34:11",
+    "not_after": "2025-07-09T15:34:10",
+    "days_remaining": 35,
+    "san": [
+      "coursdeleuro.com",
+      "coursducuivre.com",
+      "expertjuridique.com",
+      "prixdelelectricite.fr",
+      "prixdelor.fr",
+      "prixdubaril.com",
+      "prixducuivre.com",
+      "subk.org",
+      "www.coursdeleuro.com",
+      "www.coursducuivre.com",
+      "www.expertjuridique.com",
+      "www.prixdelelectricite.fr",
+      "www.prixdelor.fr",
+      "www.prixdubaril.com",
+      "www.prixducuivre.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Powered by: PHP/7.0"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "X-Content-Type-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(249, 249, 249)",
+      "rgb(250, 250, 250)"
+    ],
+    "image_dimensions": "1920x2700",
+    "file_size_kb": 467.9345703125
+  }
+}

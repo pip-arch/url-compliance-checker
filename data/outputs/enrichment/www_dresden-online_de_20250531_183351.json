@@ -1,0 +1,84 @@
+{
+  "url": "https://www.dresden-online.de/news-lesen/4-tipps-fuer-forex-anfaenger.html",
+  "timestamp": "2025-05-31T14:33:42.725884+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_dresden-online_de_20250531_183350.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "hummingbird.ezoicns.com",
+        "labradoodle.ezoicns.com",
+        "rattlesnake.ezoicns.com",
+        "wildebeest.ezoicns.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "85.13.136.173"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "hummingbird.ezoicns.com",
+      "labradoodle.ezoicns.com",
+      "rattlesnake.ezoicns.com",
+      "wildebeest.ezoicns.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "dresden-online.de"
+    },
+    "not_before": "2025-05-10T03:05:21",
+    "not_after": "2025-08-08T03:05:20",
+    "days_remaining": 68,
+    "san": [
+      "dresden-online.de",
+      "www.dresden-online.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(242, 242, 242)",
+      "rgb(243, 243, 243)",
+      "rgb(241, 241, 241)",
+      "rgb(244, 244, 244)",
+      "rgb(255, 255, 255)"
+    ],
+    "image_dimensions": "1920x2481",
+    "file_size_kb": 1599.7998046875
+  }
+}

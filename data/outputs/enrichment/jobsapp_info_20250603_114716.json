@@ -1,0 +1,80 @@
+{
+  "url": "https://jobsapp.info/0b1322eb4dedc709c793f7588d09353a-l/",
+  "timestamp": "2025-06-03T07:46:52.972599+00:00",
+  "screenshot_path": "data/outputs/screenshots/jobsapp_info_20250603_114709.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "DYNADOT LLC",
+      "creation_date": "2024-05-04 17:00:02",
+      "expiration_date": "2027-05-04 17:00:02",
+      "name_servers": [
+        "ray.ns.cloudflare.com",
+        "kim.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.128.71",
+        "104.21.0.207"
+      ],
+      "txt_records": [
+        "\"v=spf1 ip6:fdcf:abda:4154::/48 -all\""
+      ]
+    },
+    "age_days": 394,
+    "registrar": "DYNADOT LLC",
+    "name_servers": [
+      "ray.ns.cloudflare.com",
+      "kim.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "jobsapp.info"
+    },
+    "not_before": "2025-05-19T18:05:36",
+    "not_after": "2025-08-17T19:04:11",
+    "days_remaining": 75,
+    "san": [
+      "jobsapp.info",
+      "*.jobsapp.info"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [],
+    "image_dimensions": null,
+    "file_size_kb": 8798.181640625
+  }
+}

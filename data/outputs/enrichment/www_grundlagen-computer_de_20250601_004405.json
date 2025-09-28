@@ -1,0 +1,86 @@
+{
+  "url": "https://www.grundlagen-computer.de/software/die-besten-computer-programme-fuer-eure-online-finanzen",
+  "timestamp": "2025-05-31T20:43:59.547275+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_grundlagen-computer_de_20250601_004405.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns1.first-ns.de",
+        "robotns2.second-ns.de",
+        "robotns3.second-ns.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "157.90.205.248"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns1.first-ns.de",
+      "robotns2.second-ns.de",
+      "robotns3.second-ns.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "grundlagen-computer.de"
+    },
+    "not_before": "2025-04-29T10:01:49",
+    "not_after": "2025-07-28T10:01:48",
+    "days_remaining": 57,
+    "san": [
+      "grundlagen-computer.de",
+      "www.grundlagen-computer.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(203, 222, 241)",
+      "rgb(255, 255, 255)",
+      "rgb(142, 155, 168)",
+      "rgb(46, 46, 46)",
+      "rgb(178, 178, 178)"
+    ],
+    "image_dimensions": "1920x3138",
+    "file_size_kb": 890.6103515625
+  }
+}

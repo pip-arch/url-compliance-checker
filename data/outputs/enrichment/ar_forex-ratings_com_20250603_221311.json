@@ -1,0 +1,83 @@
+{
+  "url": "http://ar.forex-ratings.com/",
+  "timestamp": "2025-06-03T18:13:03.679798+00:00",
+  "screenshot_path": "data/outputs/screenshots/ar_forex-ratings_com_20250603_221311.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "DreamHost, LLC",
+      "creation_date": "2006-06-19 06:54:42",
+      "expiration_date": "2026-06-19 06:54:42",
+      "name_servers": [
+        "NS1.DIGITALOCEAN.COM",
+        "NS2.DIGITALOCEAN.COM",
+        "NS3.DIGITALOCEAN.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "69.163.185.17"
+      ]
+    },
+    "age_days": 6924,
+    "registrar": "DreamHost, LLC",
+    "name_servers": [
+      "NS1.DIGITALOCEAN.COM",
+      "NS2.DIGITALOCEAN.COM",
+      "NS3.DIGITALOCEAN.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "ar.forex-ratings.com"
+    },
+    "not_before": "2025-05-22T16:35:46",
+    "not_after": "2025-08-20T16:35:45",
+    "days_remaining": 77,
+    "san": [
+      "ar.forex-ratings.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(130, 119, 23)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 255)"
+    ],
+    "image_dimensions": "1920x5183",
+    "file_size_kb": 1143.90625
+  }
+}

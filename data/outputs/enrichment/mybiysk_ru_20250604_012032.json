@@ -1,0 +1,96 @@
+{
+  "url": "https://mybiysk.ru/business/chto-takoe-rynok-foreks-30688",
+  "timestamp": "2025-06-03T21:20:26.554409+00:00",
+  "screenshot_path": "data/outputs/screenshots/mybiysk_ru_20250604_012031.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REGRU-RU",
+      "creation_date": "2011-03-10 07:52:03",
+      "expiration_date": "2026-03-10 07:52:03",
+      "name_servers": [
+        "ns1.hostiman.ru.",
+        "ns2.hostiman.ru.",
+        "ns3.hostiman.ru.",
+        "ns4.hostiman.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "5.61.54.176"
+      ],
+      "mx_records": [
+        "20 mail.mybiysk.ru.",
+        "10 mail.mybiysk.ru."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:5.61.54.176 a mx ~all\""
+      ]
+    },
+    "age_days": 5199,
+    "registrar": "REGRU-RU",
+    "name_servers": [
+      "ns1.hostiman.ru.",
+      "ns2.hostiman.ru.",
+      "ns3.hostiman.ru.",
+      "ns4.hostiman.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "mybiysk.ru"
+    },
+    "not_before": "2025-05-26T23:10:47",
+    "not_after": "2025-08-24T23:10:46",
+    "days_remaining": 81,
+    "san": [
+      "mybiysk.ru",
+      "www.mybiysk.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.14.1",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(224, 224, 224)",
+      "rgb(253, 253, 253)",
+      "rgb(222, 222, 222)",
+      "rgb(225, 225, 225)"
+    ],
+    "image_dimensions": "1920x3369",
+    "file_size_kb": 2164.4111328125
+  }
+}

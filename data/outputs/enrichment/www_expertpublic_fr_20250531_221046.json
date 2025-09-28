@@ -1,0 +1,73 @@
+{
+  "url": "https://www.expertpublic.fr/top-des-meilleures-applications-de-bourse-pour-iphone/",
+  "timestamp": "2025-05-31T18:10:39.802796+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_expertpublic_fr_20250531_221046.png",
+  "domain_info": {
+    "whois": {},
+    "dns": {
+      "a_records": [
+        "52.57.221.121"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "expertpublic.fr"
+    },
+    "not_before": "2025-04-19T04:48:36",
+    "not_after": "2025-07-18T04:48:35",
+    "days_remaining": 47,
+    "san": [
+      "*.expertpublic.fr",
+      "expertpublic.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: o2switch-PowerBoost-v3",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(0, 74, 92)",
+      "rgb(253, 254, 254)"
+    ],
+    "image_dimensions": "1920x3177",
+    "file_size_kb": 1473.81640625
+  }
+}

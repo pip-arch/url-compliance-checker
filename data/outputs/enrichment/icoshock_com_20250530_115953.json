@@ -1,0 +1,91 @@
+{
+  "url": "https://icoshock.com/top-5-mistakes-when-you-start-trading-crypto/",
+  "timestamp": "2025-05-30T07:59:46.970301+00:00",
+  "screenshot_path": "data/outputs/screenshots/icoshock_com_20250530_115952.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2018-06-06 12:03:29",
+      "expiration_date": "2025-06-06 12:03:29",
+      "name_servers": [
+        "CARTER.NS.CLOUDFLARE.COM",
+        "RUTH.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.208.81",
+        "104.21.69.126"
+      ],
+      "mx_records": [
+        "10 ampro3.fcomet.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 a:5817.submission.antispamcloud.com a:release.antispamcloud.com -all\""
+      ]
+    },
+    "age_days": 2549,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "CARTER.NS.CLOUDFLARE.COM",
+      "RUTH.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "icoshock.com"
+    },
+    "not_before": "2025-04-15T23:47:51",
+    "not_after": "2025-07-15T00:45:02",
+    "days_remaining": 45,
+    "san": [
+      "icoshock.com",
+      "*.icoshock.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(34, 34, 34)",
+      "rgb(242, 242, 242)",
+      "rgb(243, 243, 243)",
+      "rgb(17, 17, 17)"
+    ],
+    "image_dimensions": "1920x3262",
+    "file_size_kb": 836.873046875
+  }
+}

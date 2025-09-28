@@ -1,0 +1,87 @@
+{
+  "url": "https://www.genderdreaming.com/forum/members/online_payday_loans_014.html",
+  "timestamp": "2025-06-03T11:48:32.603579+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_genderdreaming_com_20250603_154839.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2010, 11, 24, 20, 15, 13), datetime.datetime(2010, 11, 24, 15, 15, 13)]",
+      "expiration_date": "[datetime.datetime(2025, 11, 24, 20, 15, 13), datetime.datetime(2025, 11, 24, 15, 15, 13)]",
+      "name_servers": [
+        "NS1.MEDIATEMPLE.NET",
+        "NS2.MEDIATEMPLE.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "216.70.105.43"
+      ]
+    },
+    "age_days": 5304,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS1.MEDIATEMPLE.NET",
+      "NS2.MEDIATEMPLE.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "stateOrProvinceName": "Arizona",
+      "localityName": "Scottsdale",
+      "organizationName": "GoDaddy.com, Inc.",
+      "organizationalUnitName": "http://certs.godaddy.com/repository/",
+      "commonName": "Go Daddy Secure Certificate Authority - G2"
+    },
+    "subject": {
+      "commonName": "genderdreaming.com"
+    },
+    "not_before": "2025-05-28T16:06:00",
+    "not_after": "2025-08-26T16:06:00",
+    "days_remaining": 84,
+    "san": [
+      "genderdreaming.com",
+      "www.genderdreaming.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/7.4.33",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(235, 234, 219)",
+      "rgb(255, 235, 144)",
+      "rgb(241, 243, 248)",
+      "rgb(202, 220, 233)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 148.880859375
+  }
+}

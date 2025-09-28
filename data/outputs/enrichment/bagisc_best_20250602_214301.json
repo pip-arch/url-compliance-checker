@@ -1,0 +1,81 @@
+{
+  "url": "https://bagisc.best/article/how-to-get-the-admiral-markets-supreme-edition-mt-investingoal",
+  "timestamp": "2025-06-02T17:42:52.607944+00:00",
+  "screenshot_path": "data/outputs/screenshots/bagisc_best_20250602_214300.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Dynadot LLC",
+      "creation_date": "2024-05-14 00:28:16",
+      "expiration_date": "[datetime.datetime(2026, 5, 14, 23, 59, 59), datetime.datetime(2025, 5, 14, 23, 59, 59)]",
+      "name_servers": [
+        "NS1.DYNA-NS.NET",
+        "NS2.DYNA-NS.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "75.2.18.233"
+      ]
+    },
+    "age_days": 384,
+    "registrar": "Dynadot LLC",
+    "name_servers": [
+      "NS1.DYNA-NS.NET",
+      "NS2.DYNA-NS.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "bagisc.best"
+    },
+    "not_before": "2025-05-15T15:01:39",
+    "not_after": "2025-08-13T15:01:38",
+    "days_remaining": 71,
+    "san": [
+      "bagisc.best"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Caddy"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(16, 28, 54)",
+      "rgb(17, 38, 77)",
+      "rgb(255, 255, 255)",
+      "rgb(18, 24, 46)",
+      "rgb(98, 101, 116)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 74.6904296875
+  }
+}

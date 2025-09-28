@@ -1,0 +1,86 @@
+{
+  "url": "https://www.pr-echo.de/bis-zu-50-prozent-einzahlungs-bonus-bei-admiral-markets/",
+  "timestamp": "2025-05-31T09:26:30.933616+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_pr-echo_de_20250531_132637.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns5.kasserver.com",
+        "ns6.kasserver.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "85.13.150.45"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns5.kasserver.com",
+      "ns6.kasserver.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "pr-echo.de"
+    },
+    "not_before": "2025-03-27T14:01:42",
+    "not_after": "2025-06-25T14:01:41",
+    "days_remaining": 25,
+    "san": [
+      "pr-echo.de",
+      "www.pr-echo.de"
+    ],
+    "issues": [
+      "Certificate expires in 25 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(238, 238, 238)",
+      "rgb(255, 255, 255)",
+      "rgb(51, 51, 51)",
+      "rgb(241, 241, 241)",
+      "rgb(237, 237, 237)"
+    ],
+    "image_dimensions": "1920x5132",
+    "file_size_kb": 907.873046875
+  }
+}

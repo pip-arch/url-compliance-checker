@@ -1,0 +1,88 @@
+{
+  "url": "https://www.fxfan.club/?page_id=63371",
+  "timestamp": "2025-06-03T21:24:34.448651+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_fxfan_club_20250604_012449.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "ENOM, INC.",
+      "creation_date": "[datetime.datetime(2018, 5, 9, 10, 57, 32), datetime.datetime(2018, 5, 9, 10, 57)]",
+      "expiration_date": "[datetime.datetime(2027, 5, 9, 10, 57, 32), datetime.datetime(2027, 5, 9, 10, 57)]",
+      "name_servers": [
+        "ns4.xserver.jp",
+        "ns1.xserver.jp",
+        "ns2.xserver.jp",
+        "ns3.xserver.jp"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "162.43.94.182"
+      ]
+    },
+    "age_days": 2582,
+    "registrar": "ENOM, INC.",
+    "name_servers": [
+      "ns4.xserver.jp",
+      "ns1.xserver.jp",
+      "ns2.xserver.jp",
+      "ns3.xserver.jp"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "JP",
+      "organizationName": "CloudSecure Corporation",
+      "commonName": "CloudSecure RSA Domain Validation Secure Server CA 2"
+    },
+    "subject": {
+      "commonName": "www.fxfan.club"
+    },
+    "not_before": "2024-10-17T00:00:00",
+    "not_after": "2025-11-17T23:59:59",
+    "days_remaining": 166,
+    "san": [
+      "www.fxfan.club",
+      "fxfan.club"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(248, 248, 248)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x8688",
+    "file_size_kb": 2372.2138671875
+  }
+}

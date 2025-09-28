@@ -1,0 +1,91 @@
+{
+  "url": "https://sejaceo.com/4-formas-para-comecar-a-conquistar-uma-renda-extra-no-mercado-financeiro/",
+  "timestamp": "2025-05-29T15:28:01.306812+00:00",
+  "screenshot_path": "data/outputs/screenshots/sejaceo_com_20250529_192813.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2019-04-30 18:08:20",
+      "expiration_date": "2026-04-30 18:08:20",
+      "name_servers": [
+        "NS348.HOSTGATOR.COM.BR",
+        "NS349.HOSTGATOR.COM.BR"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "108.167.169.56"
+      ],
+      "mx_records": [
+        "20 mx2.titan.email.",
+        "10 mx1.titan.email."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.titan.email ~all\""
+      ]
+    },
+    "age_days": 2220,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "NS348.HOSTGATOR.COM.BR",
+      "NS349.HOSTGATOR.COM.BR"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "sejaceo.com"
+    },
+    "not_before": "2025-05-12T14:54:54",
+    "not_after": "2025-08-10T14:54:53",
+    "days_remaining": 72,
+    "san": [
+      "*.sejaceo.com",
+      "sejaceo.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(243, 243, 243)",
+      "rgb(255, 255, 255)",
+      "rgb(15, 19, 22)",
+      "rgb(239, 239, 239)",
+      "rgb(245, 245, 245)"
+    ],
+    "image_dimensions": "1920x3893",
+    "file_size_kb": 1180.5927734375
+  }
+}

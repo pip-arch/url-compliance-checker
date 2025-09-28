@@ -1,0 +1,84 @@
+{
+  "url": "https://www.anonymousite.com/site/admiralmarkets.com",
+  "timestamp": "2025-06-03T22:52:16.653614+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_anonymousite_com_20250604_025227.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc.",
+      "creation_date": "2019-03-20 03:01:53",
+      "expiration_date": "2026-03-20 03:01:53",
+      "name_servers": [
+        "CONNIE.NS.CLOUDFLARE.COM",
+        "GERALD.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.189.179",
+        "104.21.65.87"
+      ]
+    },
+    "age_days": 2267,
+    "registrar": "Cloudflare, Inc.",
+    "name_servers": [
+      "CONNIE.NS.CLOUDFLARE.COM",
+      "GERALD.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "anonymousite.com"
+    },
+    "not_before": "2025-05-17T09:50:12",
+    "not_after": "2025-08-15T10:48:31",
+    "days_remaining": 72,
+    "san": [
+      "anonymousite.com",
+      "*.anonymousite.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 251)",
+      "rgb(252, 252, 252)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x7813",
+    "file_size_kb": 1062.9892578125
+  }
+}

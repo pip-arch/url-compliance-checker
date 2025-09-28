@@ -1,0 +1,90 @@
+{
+  "url": "https://pandurul.ro/articol/primul-studiu-national-care-dezvaluie-adevarul-des_44119.html",
+  "timestamp": "2025-06-03T09:41:08.689372+00:00",
+  "screenshot_path": "data/outputs/screenshots/pandurul_ro_20250603_134115.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "ICI - Registrar",
+      "creation_date": "2008-10-04 00:00:00",
+      "expiration_date": "2027-05-01 00:00:00",
+      "name_servers": [
+        "anna.ns.cloudflare.com",
+        "jim.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "142.132.183.74"
+      ],
+      "mx_records": [
+        "10 efc9e3f14a4e3643b8736cef7052e1.pamx1.hotmail.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:hotmail.com include:amazonses.com ~all\"",
+        "\"google-site-verification=NLDq403tTrm36hFuXYcaeM4YAwfYOJL4L2luRw8lSU4\""
+      ]
+    },
+    "age_days": 6086,
+    "registrar": "ICI - Registrar",
+    "name_servers": [
+      "anna.ns.cloudflare.com",
+      "jim.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "pandurul.ro"
+    },
+    "not_before": "2025-05-02T09:45:22",
+    "not_after": "2025-07-31T09:45:21",
+    "days_remaining": 57,
+    "san": [
+      "manager.pandurul.ro",
+      "pandurul.ro",
+      "www.pandurul.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(246, 246, 246)",
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 251)",
+      "rgb(247, 247, 247)",
+      "rgb(231, 231, 231)"
+    ],
+    "image_dimensions": "1920x7089",
+    "file_size_kb": 1964.62109375
+  }
+}

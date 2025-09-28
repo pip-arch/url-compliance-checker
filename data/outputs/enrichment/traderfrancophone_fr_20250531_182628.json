@@ -1,0 +1,98 @@
+{
+  "url": "https://traderfrancophone.fr/broker/sans-spread/",
+  "timestamp": "2025-05-31T14:26:22.860305+00:00",
+  "screenshot_path": "data/outputs/screenshots/traderfrancophone_fr_20250531_182627.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NETIM",
+      "creation_date": "2019-05-02 21:05:41",
+      "expiration_date": "2030-05-02 21:05:41",
+      "name_servers": [
+        "melinda.ns.cloudflare.com",
+        "roan.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.96.1",
+        "104.21.48.1",
+        "104.21.32.1",
+        "104.21.16.1",
+        "104.21.80.1",
+        "104.21.64.1",
+        "104.21.112.1"
+      ],
+      "mx_records": [
+        "55 route3.mx.cloudflare.net.",
+        "24 route2.mx.cloudflare.net.",
+        "83 route1.mx.cloudflare.net."
+      ],
+      "txt_records": [
+        "\"google-site-verification=qUgADCSz1GywIAguZVn7aTadi6RbWvpmy4NYrata8vk\"",
+        "\"v=spf1 include:_spf.mx.cloudflare.net ~all\"",
+        "\"google-site-verification=K2Oaf3t78jb2tyqrmQOqmxyF2T649eY3UNDi7BxDixI\"",
+        "\"google-site-verification=0WnYzkWuUWLUHYy9GeIOz2VckH4nYP6zcu29K9cWotc\""
+      ]
+    },
+    "age_days": 2220,
+    "registrar": "NETIM",
+    "name_servers": [
+      "melinda.ns.cloudflare.com",
+      "roan.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "traderfrancophone.fr"
+    },
+    "not_before": "2025-04-13T07:42:49",
+    "not_after": "2025-07-12T08:40:19",
+    "days_remaining": 41,
+    "san": [
+      "traderfrancophone.fr",
+      "*.traderfrancophone.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(206, 212, 223)",
+      "rgb(235, 238, 243)",
+      "rgb(216, 221, 230)",
+      "rgb(187, 195, 210)",
+      "rgb(234, 237, 242)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 148.1064453125
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "url": "https://investingoal.com/axiory-minimum-deposit/",
+  "timestamp": "2025-06-03T23:58:23.908336+00:00",
+  "screenshot_path": "data/outputs/screenshots/investingoal_com_20250604_035830.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "TUCOWS, INC.",
+      "creation_date": "2013-11-29 09:08:20",
+      "expiration_date": "2025-11-29 09:08:20",
+      "name_servers": [
+        "CORY.NS.CLOUDFLARE.COM",
+        "KARA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.66.43.129",
+        "172.66.40.127"
+      ],
+      "mx_records": [
+        "10 mx10.mailspamprotection.com.",
+        "20 mx20.mailspamprotection.com.",
+        "30 mx30.mailspamprotection.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=Mmf5EIHghCHDkfC_UC2iZhAAfz8DqkrH-2xieBp8ozY\""
+      ]
+    },
+    "age_days": 4204,
+    "registrar": "TUCOWS, INC.",
+    "name_servers": [
+      "CORY.NS.CLOUDFLARE.COM",
+      "KARA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "investingoal.com"
+    },
+    "not_before": "2025-05-16T10:22:44",
+    "not_after": "2025-08-14T11:22:40",
+    "days_remaining": 71,
+    "san": [
+      "investingoal.com",
+      "*.investingoal.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(30, 27, 50)",
+      "rgb(243, 241, 249)",
+      "rgb(254, 254, 254)",
+      "rgb(29, 26, 49)"
+    ],
+    "image_dimensions": "1920x6182",
+    "file_size_kb": 900.626953125
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://uzhgorod.net.ua/news/125551",
+  "timestamp": "2025-05-31T14:30:02.559377+00:00",
+  "screenshot_path": "data/outputs/screenshots/uzhgorod_net_ua_20250531_183011.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "\u041f\u041f \u201c\u0424\u0440\u0456\u0445\u043e\u0441\u0442\u201c",
+      "creation_date": "2013-12-06 00:00:00+02",
+      "expiration_date": "2025-12-06 16:00:00+02",
+      "name_servers": [
+        "gabe.ns.cloudflare.com",
+        "sue.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.14.13",
+        "172.67.133.189"
+      ],
+      "mx_records": [
+        "20 mail1.freehost.com.ua.",
+        "30 mail2.freehost.com.ua.",
+        "10 mail0.freehost.com.ua."
+      ],
+      "txt_records": [
+        "\"google-site-verification=9kDFrjCNqzo4X9d662Hk7KjJY6voPYhPcNd8IXie1hg\""
+      ]
+    },
+    "age_days": null,
+    "registrar": "\u041f\u041f \u201c\u0424\u0440\u0456\u0445\u043e\u0441\u0442\u201c",
+    "name_servers": [
+      "gabe.ns.cloudflare.com",
+      "sue.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "uzhgorod.net.ua"
+    },
+    "not_before": "2025-04-23T18:08:11",
+    "not_after": "2025-07-22T19:04:35",
+    "days_remaining": 52,
+    "san": [
+      "uzhgorod.net.ua",
+      "*.uzhgorod.net.ua"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(240, 239, 239)",
+      "rgb(252, 252, 252)",
+      "rgb(253, 253, 253)",
+      "rgb(139, 139, 139)",
+      "rgb(205, 39, 22)"
+    ],
+    "image_dimensions": "1920x4484",
+    "file_size_kb": 1691.73828125
+  }
+}

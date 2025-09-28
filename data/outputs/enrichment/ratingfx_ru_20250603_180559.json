@@ -1,0 +1,89 @@
+{
+  "url": "https://ratingfx.ru/admiral-markets-otzyvy/comment/",
+  "timestamp": "2025-06-03T14:05:51.108812+00:00",
+  "screenshot_path": "data/outputs/screenshots/ratingfx_ru_20250603_180557.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REGRU-RU",
+      "creation_date": "2009-07-07 20:00:00",
+      "expiration_date": "2025-07-07 21:00:00",
+      "name_servers": [
+        "clint.ns.cloudflare.com.",
+        "etta.ns.cloudflare.com."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.149.240",
+        "104.21.57.207"
+      ],
+      "mx_records": [
+        "0 mail.ratingfx.ru."
+      ],
+      "txt_records": [
+        "\"google-site-verification=j1_700DsQWcsHiKeQXoFXphYrudBfZNxODaJT-gp1z8\"",
+        "\"v=spf1 a mx ip4:78.47.110.8 ~all\""
+      ]
+    },
+    "age_days": 5809,
+    "registrar": "REGRU-RU",
+    "name_servers": [
+      "clint.ns.cloudflare.com.",
+      "etta.ns.cloudflare.com."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "ratingfx.ru"
+    },
+    "not_before": "2025-05-02T15:56:55",
+    "not_after": "2025-07-31T16:55:36",
+    "days_remaining": 57,
+    "san": [
+      "ratingfx.ru",
+      "*.ratingfx.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(252, 252, 252)",
+      "rgb(246, 246, 246)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x18269",
+    "file_size_kb": 6154.67578125
+  }
+}

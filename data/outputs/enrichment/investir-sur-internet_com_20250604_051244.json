@@ -1,0 +1,83 @@
+{
+  "url": "https://investir-sur-internet.com/meilleur-avion-de-chasse/",
+  "timestamp": "2025-06-04T01:12:37.255708+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH, SAS",
+      "creation_date": "2019-07-28 18:42:15",
+      "expiration_date": "[datetime.datetime(2025, 7, 28, 18, 42, 15), datetime.datetime(2025, 7, 28, 20, 42, 15, tzinfo=datetime.timezone(datetime.timedelta(seconds=7200)))]",
+      "name_servers": [
+        "CARTER.NS.CLOUDFLARE.COM",
+        "LAURA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.171.19",
+        "104.21.71.171"
+      ],
+      "mx_records": [
+        "1 mx1.mail.ovh.net.",
+        "5 mx2.mail.ovh.net.",
+        "100 mx3.mail.ovh.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:mx.ovh.com ~all\"",
+        "\"ca3-ec9d8f0406454a5da88d1238a45b354c\"",
+        "\"1|www.investir-sur-internet.com\"",
+        "\"ca3-81df12c47ccc44368ea8d42b58cdebd7\""
+      ]
+    },
+    "age_days": 2137,
+    "registrar": "OVH, SAS",
+    "name_servers": [
+      "CARTER.NS.CLOUDFLARE.COM",
+      "LAURA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "investir-sur-internet.com"
+    },
+    "not_before": "2025-04-10T23:06:46",
+    "not_after": "2025-07-10T00:06:36",
+    "days_remaining": 35,
+    "san": [
+      "investir-sur-internet.com",
+      "*.investir-sur-internet.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

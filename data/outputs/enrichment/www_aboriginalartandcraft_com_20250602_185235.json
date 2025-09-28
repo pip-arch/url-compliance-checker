@@ -1,0 +1,80 @@
+{
+  "url": "https://www.aboriginalartandcraft.com/rejting-luchshih-brokerov-foreks-rosii-i-mira/",
+  "timestamp": "2025-06-02T14:52:00.680832+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2013, 6, 7, 1, 44, 15), datetime.datetime(2013, 6, 6, 20, 44, 15)]",
+      "expiration_date": "[datetime.datetime(2030, 6, 7, 1, 44, 15), datetime.datetime(2030, 6, 6, 20, 44, 15)]",
+      "name_servers": [
+        "NS51.DOMAINCONTROL.COM",
+        "NS52.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "107.180.50.177"
+      ],
+      "mx_records": [
+        "0 mail.aboriginalartandcraft.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:secureserver.net -all\""
+      ]
+    },
+    "age_days": 4378,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS51.DOMAINCONTROL.COM",
+      "NS52.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "mail.aboriginalartandcraft.com"
+    },
+    "not_before": "2025-06-01T10:30:44",
+    "not_after": "2025-08-30T10:30:43",
+    "days_remaining": 88,
+    "san": [
+      "aboriginalartandcraft.com",
+      "autodiscover.aboriginalartandcraft.com",
+      "cpanel.aboriginalartandcraft.com",
+      "mail.aboriginalartandcraft.com",
+      "webdisk.aboriginalartandcraft.com",
+      "webmail.aboriginalartandcraft.com",
+      "www.aboriginalartandcraft.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

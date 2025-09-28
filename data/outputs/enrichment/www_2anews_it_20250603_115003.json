@@ -1,0 +1,77 @@
+{
+  "url": "https://www.2anews.it/bitcoin-e-in-rialzo-segnali-positivi-ma-non-supera-la-soglia/",
+  "timestamp": "2025-06-03T07:49:57.141894+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_2anews_it_20250603_115003.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Aruba s.p.a.",
+      "creation_date": "2015-12-09 13:02:00",
+      "expiration_date": "2026-04-29 00:00:00",
+      "name_servers": "dns.technorail.com\n  dns2.technorail.com\n  dns3.arubadns.net\n  dns4.arubadns.cz"
+    },
+    "dns": {
+      "a_records": [
+        "173.212.205.246"
+      ]
+    },
+    "age_days": 3463,
+    "registrar": "Aruba s.p.a.",
+    "name_servers": "dns.technorail.com\n  dns2.technorail.com\n  dns3.arubadns.net\n  dns4.arubadns.cz"
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "www.2anews.it"
+    },
+    "not_before": "2025-05-14T21:07:40",
+    "not_after": "2025-08-12T21:07:39",
+    "days_remaining": 70,
+    "san": [
+      "2anews.it",
+      "www.2anews.it"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(30, 115, 190)",
+      "rgb(254, 254, 254)",
+      "rgb(27, 113, 189)",
+      "rgb(28, 114, 189)"
+    ],
+    "image_dimensions": "1920x3968",
+    "file_size_kb": 1260.880859375
+  }
+}

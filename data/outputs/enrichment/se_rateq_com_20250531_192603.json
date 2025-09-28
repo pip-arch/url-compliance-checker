@@ -1,0 +1,89 @@
+{
+  "url": "http://se.rateq.com/news-info.php?search=571&r=Admiral%20Markets%20-%20Trade%20Forex,%20CFDs,%20metals%20%20more%20with%20.%20.%20.%20",
+  "timestamp": "2025-05-31T15:25:51.630437+00:00",
+  "screenshot_path": "data/outputs/screenshots/se_rateq_com_20250531_192603.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc.",
+      "creation_date": "2009-08-10 00:07:44",
+      "expiration_date": "2025-08-10 00:07:44",
+      "name_servers": [
+        "ANNALISE.NS.CLOUDFLARE.COM",
+        "JOSH.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.16.1",
+        "104.21.96.1",
+        "104.21.112.1",
+        "104.21.48.1",
+        "104.21.80.1",
+        "104.21.32.1",
+        "104.21.64.1"
+      ]
+    },
+    "age_days": 5773,
+    "registrar": "Cloudflare, Inc.",
+    "name_servers": [
+      "ANNALISE.NS.CLOUDFLARE.COM",
+      "JOSH.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "rateq.com"
+    },
+    "not_before": "2025-04-17T06:55:41",
+    "not_after": "2025-07-16T07:53:28",
+    "days_remaining": 45,
+    "san": [
+      "rateq.com",
+      "*.rateq.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(253, 254, 255)",
+      "rgb(228, 237, 246)",
+      "rgb(248, 249, 251)",
+      "rgb(244, 246, 251)"
+    ],
+    "image_dimensions": "1920x3192",
+    "file_size_kb": 361.9658203125
+  }
+}

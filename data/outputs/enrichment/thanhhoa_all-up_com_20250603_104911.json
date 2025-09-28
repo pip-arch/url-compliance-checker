@@ -1,0 +1,143 @@
+{
+  "url": "https://thanhhoa.all-up.com/t84-topic",
+  "timestamp": "2025-06-03T06:49:03.166104+00:00",
+  "screenshot_path": "data/outputs/screenshots/thanhhoa_all-up_com_20250603_104911.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2006, 8, 4, 17, 39, 24), datetime.datetime(2006, 8, 4, 12, 39, 24)]",
+      "expiration_date": "[datetime.datetime(2033, 8, 4, 17, 39, 24), datetime.datetime(2033, 8, 4, 12, 39, 24)]",
+      "name_servers": [
+        "DALE.NS.CLOUDFLARE.COM",
+        "LIA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "178.33.115.32",
+        "94.23.150.222",
+        "178.33.43.150",
+        "94.23.76.111",
+        "178.33.43.178",
+        "188.165.2.137",
+        "94.23.159.185"
+      ]
+    },
+    "age_days": 6877,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "DALE.NS.CLOUDFLARE.COM",
+      "LIA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "m91.maxns.net"
+    },
+    "not_before": "2025-04-17T07:35:26",
+    "not_after": "2025-07-16T07:35:25",
+    "days_remaining": 42,
+    "san": [
+      "*.1fr1.net",
+      "*.7olm.org",
+      "*.actieforum.com",
+      "*.actifforum.com",
+      "*.activo.mx",
+      "*.ahladalil.com",
+      "*.ahlamontada.com",
+      "*.all-up.com",
+      "*.annuairedeforums.com",
+      "*.board-directory.net",
+      "*.canadian-forum.com",
+      "*.directorio-foros.com",
+      "*.directorioforuns.com",
+      "*.foroactivo.com",
+      "*.foroactivo.mx",
+      "*.foroes.org",
+      "*.forosactivos.net",
+      "*.forum-actif.net",
+      "*.forum-canada.com",
+      "*.forum-pro.net",
+      "*.forum2jeux.com",
+      "*.forum2x2.ru",
+      "*.forumactif.be",
+      "*.forumactif.com",
+      "*.forumactif.fr",
+      "*.forumactif.org",
+      "*.forumattivo.com",
+      "*.forumattivo.it",
+      "*.forumbrasil.net",
+      "*.forumeiros.com",
+      "*.forumgamers.net",
+      "*.forumgaming.fr",
+      "*.forumgratuit.be",
+      "*.forumgratuit.org",
+      "*.forumgreek.com",
+      "*.forumieren.com",
+      "*.forumieren.de",
+      "*.forumotion.co.uk",
+      "*.forumotion.com",
+      "*.forumotion.net",
+      "*.forumperso.com",
+      "*.forumpro.fr",
+      "*.forums-actifs.com",
+      "*.forumsactifs.com",
+      "*.forumsrpg.com",
+      "*.forumvi.com",
+      "*.fullforums.net",
+      "*.goodforum.net",
+      "*.iftopic.com",
+      "*.kanak.fr",
+      "*.lebonforum.com",
+      "*.profiforum.ru",
+      "*.rigala.net",
+      "*.rpg-board.net",
+      "*.superforum.fr",
+      "*.umforum.net",
+      "*.yoo7.com",
+      "m91.maxns.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Frame-Options header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(236, 243, 247)",
+      "rgb(255, 255, 255)",
+      "rgb(202, 220, 235)",
+      "rgb(238, 244, 248)",
+      "rgb(237, 244, 248)"
+    ],
+    "image_dimensions": "1920x3945",
+    "file_size_kb": 1093.9189453125
+  }
+}

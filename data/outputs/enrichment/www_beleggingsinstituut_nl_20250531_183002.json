@@ -1,0 +1,91 @@
+{
+  "url": "https://www.beleggingsinstituut.nl/beleggers-kennisbank/hoe-kun-je-emotioneel-beleggen-vermijden/",
+  "timestamp": "2025-05-31T14:29:50.349155+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_beleggingsinstituut_nl_20250531_183001.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "team.blue nl B.V.",
+      "creation_date": "2011-01-18 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "ns1.siteground.net",
+        "ns2.siteground.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "35.214.193.188"
+      ]
+    },
+    "age_days": 5247,
+    "registrar": "team.blue nl B.V.",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "ns1.siteground.net",
+      "ns2.siteground.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.beleggingsinstituut.nl"
+    },
+    "not_before": "2025-05-29T08:54:11",
+    "not_after": "2025-08-27T08:54:10",
+    "days_remaining": 87,
+    "san": [
+      "*.beleggingsinstituut.nl",
+      "beleggingsinstituut.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(28, 38, 56)",
+      "rgb(254, 254, 254)",
+      "rgb(241, 240, 240)",
+      "rgb(230, 231, 233)"
+    ],
+    "image_dimensions": "1920x5550",
+    "file_size_kb": 986.6171875
+  }
+}

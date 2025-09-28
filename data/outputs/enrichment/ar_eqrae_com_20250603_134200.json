@@ -1,0 +1,82 @@
+{
+  "url": "https://ar.eqrae.com/%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%AD%D9%84%D8%A7%D9%84-%D8%A3%D9%85-%D8%AD%D8%B1%D8%A7%D9%85/",
+  "timestamp": "2025-06-03T09:41:53.599770+00:00",
+  "screenshot_path": "data/outputs/screenshots/ar_eqrae_com_20250603_134200.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc.",
+      "creation_date": "2019-12-03 11:23:09",
+      "expiration_date": "2032-12-03 11:23:09",
+      "name_servers": [
+        "BOB.NS.CLOUDFLARE.COM",
+        "JEAN.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.74.203",
+        "104.26.5.188",
+        "104.26.4.188"
+      ]
+    },
+    "age_days": 2008,
+    "registrar": "Cloudflare, Inc.",
+    "name_servers": [
+      "BOB.NS.CLOUDFLARE.COM",
+      "JEAN.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "eqrae.com"
+    },
+    "not_before": "2025-04-26T23:53:34",
+    "not_after": "2025-07-26T00:53:31",
+    "days_remaining": 52,
+    "san": [
+      "eqrae.com",
+      "*.eqrae.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(235, 235, 235)",
+      "rgb(234, 234, 234)",
+      "rgb(238, 238, 238)",
+      "rgb(227, 227, 227)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 95.296875
+  }
+}

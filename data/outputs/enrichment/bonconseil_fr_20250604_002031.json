@@ -1,0 +1,90 @@
+{
+  "url": "https://bonconseil.fr/investissements/comment-acheter-des-actions/",
+  "timestamp": "2025-06-03T20:20:23.339112+00:00",
+  "screenshot_path": "data/outputs/screenshots/bonconseil_fr_20250604_002031.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "SCALEWAY",
+      "creation_date": "2018-09-29 09:32:10",
+      "expiration_date": "2026-02-12 23:07:24",
+      "name_servers": [
+        "ns1.o2switch.net",
+        "ns2.o2switch.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "109.234.162.36"
+      ],
+      "mx_records": [
+        "0 bonconseil.fr."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:109.234.162.36 +a +mx +include:spf.jabatus.fr ~all\""
+      ]
+    },
+    "age_days": 2439,
+    "registrar": "SCALEWAY",
+    "name_servers": [
+      "ns1.o2switch.net",
+      "ns2.o2switch.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "bonconseil.fr"
+    },
+    "not_before": "2025-05-19T21:37:15",
+    "not_after": "2025-08-17T21:37:14",
+    "days_remaining": 74,
+    "san": [
+      "bonconseil.fr",
+      "www.bonconseil.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: o2switch-PowerBoost-v3",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(249, 249, 249)",
+      "rgb(248, 248, 248)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x3026",
+    "file_size_kb": 440.7783203125
+  }
+}

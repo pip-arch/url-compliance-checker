@@ -1,0 +1,89 @@
+{
+  "url": "https://www.idcrawl.com/alexander-elder",
+  "timestamp": "2025-05-31T17:27:39.367689+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_idcrawl_com_20250531_212744.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Amazon Registrar, Inc.",
+      "creation_date": "2019-11-14 17:25:07",
+      "expiration_date": "2025-11-14 17:25:07",
+      "name_servers": [
+        "NS-1352.AWSDNS-41.ORG",
+        "NS-1920.AWSDNS-48.CO.UK",
+        "NS-419.AWSDNS-52.COM",
+        "NS-702.AWSDNS-23.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "35.71.166.189",
+        "52.223.33.10"
+      ]
+    },
+    "age_days": 2025,
+    "registrar": "Amazon Registrar, Inc.",
+    "name_servers": [
+      "NS-1352.AWSDNS-41.ORG",
+      "NS-1920.AWSDNS-48.CO.UK",
+      "NS-419.AWSDNS-52.COM",
+      "NS-702.AWSDNS-23.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Amazon",
+      "commonName": "Amazon RSA 2048 M04"
+    },
+    "subject": {
+      "commonName": "idcrawl.com"
+    },
+    "not_before": "2025-05-25T00:00:00",
+    "not_after": "2026-06-22T23:59:59",
+    "days_remaining": 387,
+    "san": [
+      "idcrawl.com",
+      "*.idcrawl.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: awselb/2.0",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 251)",
+      "rgb(227, 227, 227)",
+      "rgb(253, 253, 253)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 12.951171875
+  }
+}

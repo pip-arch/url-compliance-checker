@@ -1,0 +1,82 @@
+{
+  "url": "https://www.brokerdeal.de/cfd-broker-vergleich/",
+  "timestamp": "2025-06-03T06:45:04.124817+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_brokerdeal_de_20250603_104509.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "blair.ns.cloudflare.com",
+        "rene.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.26.10.172",
+        "104.26.11.172",
+        "172.67.68.171"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "blair.ns.cloudflare.com",
+      "rene.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "brokerdeal.de"
+    },
+    "not_before": "2025-05-07T14:42:55",
+    "not_after": "2025-08-05T15:42:51",
+    "days_remaining": 63,
+    "san": [
+      "brokerdeal.de",
+      "*.brokerdeal.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "CSP"
+    ],
+    "issues": [
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(241, 241, 241)",
+      "rgb(242, 242, 242)",
+      "rgb(64, 64, 64)",
+      "rgb(231, 231, 231)",
+      "rgb(240, 240, 240)"
+    ],
+    "image_dimensions": "1978x15951",
+    "file_size_kb": 2456.1611328125
+  }
+}

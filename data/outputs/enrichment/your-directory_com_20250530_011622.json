@@ -1,0 +1,84 @@
+{
+  "url": "https://your-directory.com/listings13006692/unlocking-your-financial-future-a-guide-to-investing",
+  "timestamp": "2025-05-29T21:16:16.496831+00:00",
+  "screenshot_path": "data/outputs/screenshots/your-directory_com_20250530_011622.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2022-05-06 13:55:01",
+      "expiration_date": "2026-05-06 13:55:01",
+      "name_servers": [
+        "BURT.NS.CLOUDFLARE.COM",
+        "PIPER.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.14.245",
+        "172.67.160.207"
+      ]
+    },
+    "age_days": 1119,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "BURT.NS.CLOUDFLARE.COM",
+      "PIPER.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "your-directory.com"
+    },
+    "not_before": "2025-05-11T20:47:47",
+    "not_after": "2025-08-09T21:45:13",
+    "days_remaining": 71,
+    "san": [
+      "your-directory.com",
+      "*.your-directory.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)",
+      "rgb(247, 249, 254)"
+    ],
+    "image_dimensions": "1920x1567",
+    "file_size_kb": 188.69921875
+  }
+}

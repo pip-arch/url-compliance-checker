@@ -1,0 +1,98 @@
+{
+  "url": "https://thepower.education/blog/invertir-en-criptomonedas",
+  "timestamp": "2025-06-03T18:20:55.416516+00:00",
+  "screenshot_path": "data/outputs/screenshots/thepower_education_20250603_222104.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Soluciones Corporativas IP, SL",
+      "creation_date": "2023-07-18 09:36:06",
+      "expiration_date": "2025-07-18 09:36:06",
+      "name_servers": [
+        "ns1.dondominio.com",
+        "ns2.dondominio.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "31.43.160.19",
+        "31.214.178.55",
+        "31.43.161.19"
+      ],
+      "mx_records": [
+        "5 alt1.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.google.com include:emsd1.com include:spf.mandrillapp.com include:spf.sendgrid.com include:7222596.spf06.hubspotemail.net -all\"",
+        "\"google-site-verification=fQ5SVkLLTBjCr9ea0F3Pk6zNImGbOKjR5BIJ_FbI1Mo\"",
+        "\"openai-domain-verification=dv-IeE76M9YuuCv0LXDTixQgyW1\"",
+        "\"google-site-verification=bNOuZBLOPFePAeJf6MFQFQ-q6waiykjSKlH1PRDcZtA\"",
+        "\"hey-verification:q7ubZkQQbEg9HVUuRZ2cgoNF\"",
+        "\"google-site-verification=d_JAS3_xgac1Pc9hm08TSj0GaSshf8vQKAvTc9R1BKI\""
+      ]
+    },
+    "age_days": 686,
+    "registrar": "Soluciones Corporativas IP, SL",
+    "name_servers": [
+      "ns1.dondominio.com",
+      "ns2.dondominio.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "AT",
+      "organizationName": "ZeroSSL",
+      "commonName": "ZeroSSL ECC Domain Secure Site CA"
+    },
+    "subject": {
+      "commonName": "thepower.education"
+    },
+    "not_before": "2025-04-30T00:00:00",
+    "not_after": "2025-07-29T23:59:59",
+    "days_remaining": 56,
+    "san": [
+      "thepower.education"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Framer/4b66923",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(242, 242, 242)",
+      "rgb(241, 241, 241)",
+      "rgb(243, 243, 243)",
+      "rgb(240, 240, 240)",
+      "rgb(239, 239, 239)"
+    ],
+    "image_dimensions": "1920x18126",
+    "file_size_kb": 3701.8359375
+  }
+}

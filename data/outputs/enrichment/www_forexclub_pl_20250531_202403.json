@@ -1,0 +1,83 @@
+{
+  "url": "https://www.forexclub.pl/en/webinary/",
+  "timestamp": "2025-05-31T16:23:56.502153+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_forexclub_pl_20250531_202402.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Aftermarket.pl Limited",
+      "creation_date": "2007-12-06 11:13:06",
+      "expiration_date": "2027-12-06 11:13:06",
+      "name_servers": [
+        "coen.ns.cloudflare.com",
+        "nancy.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.210.5",
+        "104.21.50.192"
+      ]
+    },
+    "age_days": 6386,
+    "registrar": "Aftermarket.pl Limited",
+    "name_servers": [
+      "coen.ns.cloudflare.com",
+      "nancy.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "forexclub.pl"
+    },
+    "not_before": "2025-05-24T08:13:32",
+    "not_after": "2025-08-22T09:09:50",
+    "days_remaining": 82,
+    "san": [
+      "forexclub.pl",
+      "*.forexclub.pl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: gtranslate"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(45, 45, 45)",
+      "rgb(254, 254, 254)",
+      "rgb(238, 238, 238)",
+      "rgb(44, 44, 44)"
+    ],
+    "image_dimensions": "1920x1948",
+    "file_size_kb": 325.3212890625
+  }
+}

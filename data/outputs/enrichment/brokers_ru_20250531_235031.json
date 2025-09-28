@@ -1,0 +1,94 @@
+{
+  "url": "https://brokers.ru/brokers/admiral-markets/go-to-event?url=aHR0cHM6Ly9hZG1pcmFsbWFya2V0cy5jb20vcnUvZWR1Y2F0aW9uL3dlYmluYXJzL29ubGFpbi1vYnpvci10ZWt1c2hjaGVpLXNpdHVhdHNpaS1uYS1maW5hbnNvdnlraC1yeW5rYWtoLXMtcm9tYW5vbS1pc2Frb3Z5bS0xLTEtMQ==",
+  "timestamp": "2025-05-31T19:50:21.821775+00:00",
+  "screenshot_path": "data/outputs/screenshots/brokers_ru_20250531_235031.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "RU-CENTER-RU",
+      "creation_date": "2000-02-11 13:57:12",
+      "expiration_date": "2026-02-28 21:00:00",
+      "name_servers": [
+        "aragorn.ns.cloudflare.com.",
+        "desi.ns.cloudflare.com."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.16.1",
+        "104.21.32.1",
+        "104.21.64.1",
+        "104.21.112.1",
+        "104.21.48.1",
+        "104.21.80.1",
+        "104.21.96.1"
+      ],
+      "mx_records": [
+        "10 mx.yandex.ru."
+      ],
+      "txt_records": [
+        "\"yandex-verification: ce7e050b31a01cf8\"",
+        "\"v=spf1 redirect=_spf.yandex.ru\"",
+        "\"google-site-verification=1yVukcRU9r0Duf2C9-9AtBOX3gh306d-xj6ob2nH4OE\""
+      ]
+    },
+    "age_days": 9241,
+    "registrar": "RU-CENTER-RU",
+    "name_servers": [
+      "aragorn.ns.cloudflare.com.",
+      "desi.ns.cloudflare.com."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "brokers.ru"
+    },
+    "not_before": "2025-04-04T01:18:35",
+    "not_after": "2025-07-03T02:17:23",
+    "days_remaining": 32,
+    "san": [
+      "brokers.ru",
+      "*.brokers.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(242, 242, 242)",
+      "rgb(234, 234, 234)",
+      "rgb(241, 241, 241)"
+    ],
+    "image_dimensions": "1920x2458",
+    "file_size_kb": 442.736328125
+  }
+}

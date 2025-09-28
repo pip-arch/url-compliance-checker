@@ -1,0 +1,101 @@
+{
+  "url": "https://www.tassetrading.it/admiral-markets/",
+  "timestamp": "2025-06-03T09:47:08.212983+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_tassetrading_it_20250603_134730.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Aruba s.p.a.",
+      "creation_date": "2020-07-06 09:43:26",
+      "expiration_date": "2025-07-06 00:00:00",
+      "name_servers": "ns10.dnsmadeeasy.com\n  ns11.dnsmadeeasy.com\n  ns12.dnsmadeeasy.com\n  ns13.dnsmadeeasy.com\n  ns14.dnsmadeeasy.com\n  ns15.dnsmadeeasy.com"
+    },
+    "dns": {
+      "a_records": [
+        "104.248.43.10"
+      ],
+      "mx_records": [
+        "30 aspmx3.googlemail.com.",
+        "30 aspmx4.googlemail.com.",
+        "10 aspmx.l.google.com.",
+        "30 aspmx2.googlemail.com.",
+        "20 alt2.aspmx.l.google.com.",
+        "20 alt1.aspmx.l.google.com.",
+        "30 aspmx5.googlemail.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=eIGSMhfVQUh2AiRyN9eNc4ha3hNfcc0tKo9FsGr73SQ\"",
+        "\"facebook-domain-verification=v2ljxyayytx77ltty6mvllejfhxynv\"",
+        "\"google-site-verification=V7JjUoxD2FKwk1u_eo0ETgMQYeqeU8RpeRGnTzxLG5Q\"",
+        "\"google-site-verification=YLaEv8GlR6CB2-5MJIe7Azfv8gAdIAXWHyyU0GelzpU\"",
+        "\"v=spf1 include:emsd1.com include:_spf.google.com ~all\""
+      ]
+    },
+    "age_days": 1793,
+    "registrar": "Aruba s.p.a.",
+    "name_servers": "ns10.dnsmadeeasy.com\n  ns11.dnsmadeeasy.com\n  ns12.dnsmadeeasy.com\n  ns13.dnsmadeeasy.com\n  ns14.dnsmadeeasy.com\n  ns15.dnsmadeeasy.com"
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "promo.tassetrading.it"
+    },
+    "not_before": "2025-04-19T05:09:25",
+    "not_after": "2025-07-18T05:09:24",
+    "days_remaining": 44,
+    "san": [
+      "elab.dichiarativo.com",
+      "promo.tassetrading.it",
+      "tassetrading.com",
+      "tassetrading.it",
+      "tradingtax.es",
+      "www.tassetrading.com",
+      "www.tassetrading.it",
+      "www.tradingtax.es"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.41 (Ubuntu)",
+    "Powered by: W3 Total Cache/2.8.4",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 247, 247)",
+      "rgb(12, 102, 56)",
+      "rgb(254, 254, 254)",
+      "rgb(248, 248, 248)"
+    ],
+    "image_dimensions": "1920x4500",
+    "file_size_kb": 798.0498046875
+  }
+}

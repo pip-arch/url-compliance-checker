@@ -1,0 +1,86 @@
+{
+  "url": "https://tivoli.es/finanzas-personales-conceptos-hacer-trading-forex/",
+  "timestamp": "2025-06-04T02:26:42.701109+00:00",
+  "screenshot_path": "data/outputs/screenshots/tivoli_es_20250604_062653.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "217.148.137.81"
+      ],
+      "mx_records": [
+        "10 mail.tivoli.es."
+      ],
+      "txt_records": [
+        "\"google-site-verification=YWMM78tUHLQ2kuhQYYVYQjP_g52KCva3gGUXhKYoXf8\"",
+        "\"v=spf1 ip4:31.14.103.27 include:spf.profesionalhosting.com -all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "tivoli.es"
+    },
+    "not_before": "2025-04-27T00:07:51",
+    "not_after": "2025-07-26T00:07:50",
+    "days_remaining": 51,
+    "san": [
+      "tivoli.es",
+      "webmail.tivoli.es",
+      "www.tivoli.es"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PleskLin",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(248, 248, 248)",
+      "rgb(254, 254, 254)",
+      "rgb(37, 39, 48)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x4080",
+    "file_size_kb": 759.3291015625
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "url": "https://made-in-entreprise.fr/actualites/trader-independant-comment-faire-pour-le-devenir-en-2021-7407",
+  "timestamp": "2025-06-04T02:22:10.013561+00:00",
+  "screenshot_path": "data/outputs/screenshots/made-in-entreprise_fr_20250604_062216.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "SCALEWAY",
+      "creation_date": "2018-02-01 13:24:04",
+      "expiration_date": "2025-09-07 17:06:37",
+      "name_servers": [
+        "ns1.o2switch.net",
+        "ns2.o2switch.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "109.234.162.59"
+      ],
+      "mx_records": [
+        "0 mail.made-in-entreprise.fr."
+      ],
+      "txt_records": [
+        "\"google-site-verification=mPyrcUOZpkrq1NRHYMmqyUiHM2NcWpzzhHmmQENXjKY\"",
+        "\"v=spf1 ip4:109.234.162.59 +a +mx +include:spf.jabatus.fr ~all\""
+      ]
+    },
+    "age_days": 2679,
+    "registrar": "SCALEWAY",
+    "name_servers": [
+      "ns1.o2switch.net",
+      "ns2.o2switch.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "made-in-entreprise.fr"
+    },
+    "not_before": "2025-04-17T00:36:03",
+    "not_after": "2025-07-16T00:36:02",
+    "days_remaining": 41,
+    "san": [
+      "made-in-entreprise.fr",
+      "mail.made-in-entreprise.fr",
+      "www.made-in-entreprise.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: o2switch-PowerBoost-v3",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(246, 246, 246)",
+      "rgb(247, 247, 247)",
+      "rgb(243, 243, 243)"
+    ],
+    "image_dimensions": "1920x10054",
+    "file_size_kb": 1477.9267578125
+  }
+}

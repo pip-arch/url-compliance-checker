@@ -1,0 +1,80 @@
+{
+  "url": "https://gre4ka.info/analityka/36618-osnovni-instrumenty-dlia-roboty-na-rynku-foreks/",
+  "timestamp": "2025-06-03T08:34:41.843808+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2012-11-26 16:27:01",
+      "expiration_date": "2025-11-26 16:27:01",
+      "name_servers": [
+        "nina.ns.cloudflare.com",
+        "ivan.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.34.102",
+        "104.20.14.108",
+        "104.20.20.108"
+      ],
+      "mx_records": [
+        "20 secureserver.net."
+      ],
+      "txt_records": [
+        "\"google-site-verification=OVXCv5vfZeqswxA22dvdpqjd_YMPLMkT1SCOsM9yOH0\"",
+        "\"google-site-verification=WqgsS9thKrlGzVgMTbPZRnYLaiy6mN5F653zbE3vnkU\""
+      ]
+    },
+    "age_days": 4571,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "nina.ns.cloudflare.com",
+      "ivan.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "gre4ka.info"
+    },
+    "not_before": "2025-05-22T02:43:41",
+    "not_after": "2025-08-20T03:43:35",
+    "days_remaining": 77,
+    "san": [
+      "gre4ka.info",
+      "*.gre4ka.info"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

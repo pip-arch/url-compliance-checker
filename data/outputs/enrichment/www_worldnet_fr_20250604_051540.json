@@ -1,0 +1,84 @@
+{
+  "url": "https://www.worldnet.fr/comment-devenir-riche-en-peu-de-temps/",
+  "timestamp": "2025-06-04T01:15:30.793116+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_worldnet_fr_20250604_051538.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "TLD Registrar Solutions Ltd",
+      "creation_date": "2020-01-04 05:32:14",
+      "expiration_date": "2025-12-21 23:07:54",
+      "name_servers": [
+        "quentin.ns.cloudflare.com",
+        "sloan.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.168.58",
+        "104.21.26.58"
+      ]
+    },
+    "age_days": 1977,
+    "registrar": "TLD Registrar Solutions Ltd",
+    "name_servers": [
+      "quentin.ns.cloudflare.com",
+      "sloan.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "worldnet.fr"
+    },
+    "not_before": "2025-04-10T12:41:18",
+    "not_after": "2025-07-09T13:38:56",
+    "days_remaining": 35,
+    "san": [
+      "worldnet.fr",
+      "*.worldnet.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(250, 250, 250)",
+      "rgb(251, 251, 251)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x8735",
+    "file_size_kb": 2285.6943359375
+  }
+}

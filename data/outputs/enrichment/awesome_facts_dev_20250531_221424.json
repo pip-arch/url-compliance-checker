@@ -1,0 +1,78 @@
+{
+  "url": "https://awesome.facts.dev/awesome/0xtokens/awesome-blockchain",
+  "timestamp": "2025-05-31T18:14:14.385611+00:00",
+  "screenshot_path": "data/outputs/screenshots/awesome_facts_dev_20250531_221423.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "172.67.220.51",
+        "104.21.78.98"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "facts.dev"
+    },
+    "not_before": "2025-04-30T08:44:36",
+    "not_after": "2025-07-29T09:43:11",
+    "days_remaining": 58,
+    "san": [
+      "facts.dev",
+      "*.facts.dev"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(254, 254, 255)",
+      "rgb(230, 230, 230)",
+      "rgb(229, 229, 229)"
+    ],
+    "image_dimensions": "1920x5732",
+    "file_size_kb": 722.2802734375
+  }
+}

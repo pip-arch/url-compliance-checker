@@ -1,0 +1,94 @@
+{
+  "url": "https://nononsenseforex.com/forex-q-and-a-podcast/monthly-returns-in-forex/",
+  "timestamp": "2025-05-31T15:32:31.455455+00:00",
+  "screenshot_path": "data/outputs/screenshots/nononsenseforex_com_20250531_193242.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2015, 1, 8, 0, 27, 21), datetime.datetime(2015, 1, 7, 19, 27, 21)]",
+      "expiration_date": "[datetime.datetime(2030, 1, 8, 0, 27, 21), datetime.datetime(2030, 1, 7, 19, 27, 21)]",
+      "name_servers": [
+        "NS19.DOMAINCONTROL.COM",
+        "NS20.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "192.124.249.14"
+      ],
+      "mx_records": [
+        "10 alt3.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=eRzdAQpVvMi4JZ-u99Vg8TdEdetmsHu0gaRD3BwJ6Rs\"",
+        "\"google-site-verification=1QfS5BoAbIvQ-RQILsc3ruP7it4hGaDrA76tHc2tW0E\""
+      ]
+    },
+    "age_days": 3796,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS19.DOMAINCONTROL.COM",
+      "NS20.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "stateOrProvinceName": "Arizona",
+      "localityName": "Scottsdale",
+      "organizationName": "GoDaddy.com, Inc.",
+      "organizationalUnitName": "http://certs.godaddy.com/repository/",
+      "commonName": "Go Daddy Secure Certificate Authority - G2"
+    },
+    "subject": {
+      "commonName": "nononsenseforex.com"
+    },
+    "not_before": "2025-04-18T16:51:53",
+    "not_after": "2025-07-17T16:51:53",
+    "days_remaining": 46,
+    "san": [
+      "nononsenseforex.com",
+      "www.nononsenseforex.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Sucuri/Cloudproxy",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS"
+    ],
+    "issues": [
+      "Missing HSTS header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 247, 247)",
+      "rgb(248, 248, 248)",
+      "rgb(249, 249, 249)",
+      "rgb(250, 250, 250)"
+    ],
+    "image_dimensions": "1920x13680",
+    "file_size_kb": 4229.3173828125
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://a2zseoarticles.com/seo-search-engine-optimization-the-webs-leading-internet-marketing-strategy/",
+  "timestamp": "2025-05-29T18:22:44.794138+00:00",
+  "screenshot_path": "data/outputs/screenshots/a2zseoarticles_com_20250529_222253.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2023-01-06 07:09:48",
+      "expiration_date": "2026-01-06 07:09:48",
+      "name_servers": [
+        "ANUJ.NS.CLOUDFLARE.COM",
+        "ULLA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "188.114.96.0",
+        "188.114.97.0"
+      ],
+      "mx_records": [
+        "20 mx3-hosting.jellyfish.systems.",
+        "5 mx1-hosting.jellyfish.systems.",
+        "10 mx2-hosting.jellyfish.systems."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:66.29.146.29 include:spf.web-hosting.com ~all\""
+      ]
+    },
+    "age_days": 874,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "ANUJ.NS.CLOUDFLARE.COM",
+      "ULLA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "a2zseoarticles.com"
+    },
+    "not_before": "2025-04-26T06:44:57",
+    "not_after": "2025-07-25T07:43:11",
+    "days_remaining": 56,
+    "san": [
+      "a2zseoarticles.com",
+      "*.a2zseoarticles.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(17, 17, 51)",
+      "rgb(253, 253, 253)",
+      "rgb(61, 61, 89)",
+      "rgb(168, 168, 181)"
+    ],
+    "image_dimensions": "1920x2182",
+    "file_size_kb": 407.84765625
+  }
+}

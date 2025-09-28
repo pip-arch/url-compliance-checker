@@ -1,0 +1,72 @@
+{
+  "url": "https://www.incont.ro/companii-si-industrii/top-5-investitii-in-cazul-prabusirii-zonei-euro.html",
+  "timestamp": "2025-05-31T17:29:10.748385+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "ICI - Registrar",
+      "creation_date": "2009-10-12 00:00:00",
+      "expiration_date": "2025-10-10 00:00:00",
+      "name_servers": [
+        "ns.protv.ro",
+        "ns2.protv.ro",
+        "ns3.protv.ro"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.133.64.67",
+        "185.133.64.69"
+      ]
+    },
+    "age_days": 5710,
+    "registrar": "ICI - Registrar",
+    "name_servers": [
+      "ns.protv.ro",
+      "ns2.protv.ro",
+      "ns3.protv.ro"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "incont.ro"
+    },
+    "not_before": "2025-05-12T20:10:03",
+    "not_after": "2025-08-10T20:10:02",
+    "days_remaining": 70,
+    "san": [
+      "*.incont.ro",
+      "incont.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

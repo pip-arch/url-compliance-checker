@@ -1,0 +1,74 @@
+{
+  "url": "https://www.audacitycapital.co.uk/trading-guides/currency-pairs/london-session/",
+  "timestamp": "2025-06-03T09:43:14.964697+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Namecheap, Inc. [Tag = NAMECHEAP-INC]",
+      "creation_date": "2014-01-20 00:00:00",
+      "expiration_date": "2027-01-20 00:00:00",
+      "name_servers": [
+        "melina.ns.cloudflare.com",
+        "syeef.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.46.118",
+        "172.67.168.120"
+      ]
+    },
+    "age_days": 4152,
+    "registrar": "Namecheap, Inc. [Tag = NAMECHEAP-INC]",
+    "name_servers": [
+      "melina.ns.cloudflare.com",
+      "syeef.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "audacitycapital.co.uk"
+    },
+    "not_before": "2025-05-28T19:26:41",
+    "not_after": "2025-08-26T20:24:23",
+    "days_remaining": 84,
+    "san": [
+      "audacitycapital.co.uk",
+      "*.audacitycapital.co.uk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: AmazonS3",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

@@ -1,0 +1,90 @@
+{
+  "url": "https://ekt.boombate.com/investiruite-v-sebya-ili-kak-stat-uspeshnym-treiderom-skidka-100-na-uchastie-v-seminare-o-finansovyh-rynkah-90849",
+  "timestamp": "2025-05-31T19:50:52.620425+00:00",
+  "screenshot_path": "data/outputs/screenshots/ekt_boombate_com_20250531_235105.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Registrar of Domain Names REG.RU LLC",
+      "creation_date": "[datetime.datetime(2010, 9, 16, 10, 15, 36), datetime.datetime(2010, 9, 16, 11, 16, 6)]",
+      "expiration_date": "[datetime.datetime(2026, 9, 16, 10, 15, 36), datetime.datetime(2026, 9, 16, 11, 16, 6)]",
+      "name_servers": [
+        "DNS1.YANDEX.NET",
+        "DNS2.YANDEX.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "5.178.84.84"
+      ],
+      "mx_records": [
+        "10 mx.yandex.net."
+      ],
+      "txt_records": [
+        "\"unisender-go-validate-hash=899429027ead9844e08528f822468495\"",
+        "\"_globalsign-domain-verification=2cf05Sg1ZZiRV3ZeOOYqdX-XUYl-dYjxiTqON1A5BD\"",
+        "\"v=spf1 include:spf.unisender.com include:smtp.send-box.ru include:spf.sendsay.ru include:_spf.yandex.net ~all\"",
+        "\"yandex-verification: ab331e7db7e574e7\"",
+        "\"google-site-verification=H9maKH-DUMtSMfdJqbcHX6t5e5zIOr4m5aG812Nl9hQ\""
+      ]
+    },
+    "age_days": 5371,
+    "registrar": "Registrar of Domain Names REG.RU LLC",
+    "name_servers": [
+      "DNS1.YANDEX.NET",
+      "DNS2.YANDEX.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "BE",
+      "organizationName": "GlobalSign nv-sa",
+      "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+    },
+    "subject": {
+      "commonName": "*.boombate.com"
+    },
+    "not_before": "2024-12-16T09:46:21",
+    "not_after": "2026-01-17T09:46:20",
+    "days_remaining": 230,
+    "san": [
+      "*.boombate.com",
+      "boombate.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 250)",
+      "rgb(61, 61, 71)",
+      "rgb(254, 254, 255)",
+      "rgb(245, 245, 249)"
+    ],
+    "image_dimensions": "1920x3073",
+    "file_size_kb": 559.853515625
+  }
+}

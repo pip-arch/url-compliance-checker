@@ -1,0 +1,96 @@
+{
+  "url": "https://www.dalfsennet.nl/nieuws/376806/waarom-je-het-hefboomeffect-moet-gebruiken-om-rijk-te-worden.html",
+  "timestamp": "2025-06-04T03:43:14.922830+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_dalfsennet_nl_20250604_074345.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Metaregistrar B.V.",
+      "creation_date": "2008-03-03 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "ns1.and-stuff.nl",
+        "ns2.and-stuff.nl"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "46.23.84.172"
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx include:spf.vps.hansvaneijsden.nl -all\""
+      ]
+    },
+    "age_days": 6302,
+    "registrar": "Metaregistrar B.V.",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "ns1.and-stuff.nl",
+      "ns2.and-stuff.nl"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "dezeregio.nl"
+    },
+    "not_before": "2025-04-24T21:42:10",
+    "not_after": "2025-07-23T21:42:09",
+    "days_remaining": 49,
+    "san": [
+      "dalfsennet.nl",
+      "dezeregio.nl",
+      "nuvechtdal.nl",
+      "regiobeveland.nl",
+      "regiosalland.nl",
+      "rondommen.nl",
+      "www.dalfsennet.nl",
+      "www.dezeregio.nl",
+      "www.nuvechtdal.nl",
+      "www.regiobeveland.nl",
+      "www.regiosalland.nl",
+      "www.rondommen.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(213, 212, 212)",
+      "rgb(255, 255, 255)",
+      "rgb(9, 111, 148)",
+      "rgb(217, 214, 213)",
+      "rgb(212, 211, 211)"
+    ],
+    "image_dimensions": "1920x4295",
+    "file_size_kb": 1690.0224609375
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://itechua.com/other/72398",
+  "timestamp": "2025-05-31T19:44:11.869802+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "Hosting Concepts B.V. d/b/a Registrar.eu",
+      "creation_date": "2017-09-21 09:16:01",
+      "expiration_date": "2025-09-21 09:16:01",
+      "name_servers": [
+        "DILBERT.NS.CLOUDFLARE.COM",
+        "MARJORY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.64.1",
+        "104.21.32.1",
+        "104.21.48.1",
+        "104.21.112.1",
+        "104.21.96.1",
+        "104.21.16.1",
+        "104.21.80.1"
+      ],
+      "mx_records": [
+        "11 route1.mx.cloudflare.net.",
+        "50 route2.mx.cloudflare.net.",
+        "6 route3.mx.cloudflare.net."
+      ],
+      "txt_records": [
+        "\"google-site-verification=Zhdi2cqSyZygPY2VGxKbNGRWo3AzuHLjFkfhpKlVFzg\"",
+        "\"v=spf1 include:_spf.mx.cloudflare.net ~all\""
+      ]
+    },
+    "age_days": 2809,
+    "registrar": "Hosting Concepts B.V. d/b/a Registrar.eu",
+    "name_servers": [
+      "DILBERT.NS.CLOUDFLARE.COM",
+      "MARJORY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "itechua.com"
+    },
+    "not_before": "2025-04-25T08:40:24",
+    "not_after": "2025-07-24T09:39:04",
+    "days_remaining": 53,
+    "san": [
+      "itechua.com",
+      "*.itechua.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {}
+}

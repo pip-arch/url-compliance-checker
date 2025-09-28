@@ -1,0 +1,87 @@
+{
+  "url": "https://www.poslovni-savjetnik.com/aktualno/moguc-novi-nagli-pomak-tecaja-gbp",
+  "timestamp": "2025-06-03T14:51:56.866597+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_poslovni-savjetnik_com_20250603_185203.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2007-05-17 06:56:13",
+      "expiration_date": "2026-05-17 06:56:13",
+      "name_servers": [
+        "NS1.MYDATAKNOX.COM",
+        "NS2.MYDATAKNOX.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.62.75.160"
+      ],
+      "mx_records": [
+        "0 poslovni-savjetnik.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:185.62.75.160 +a +mx +ip4:176.62.8.144 ~all\""
+      ]
+    },
+    "age_days": 6592,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "NS1.MYDATAKNOX.COM",
+      "NS2.MYDATAKNOX.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "mail.poslovni-savjetnik.com"
+    },
+    "not_before": "2025-04-14T04:59:41",
+    "not_after": "2025-07-13T04:59:40",
+    "days_remaining": 39,
+    "san": [
+      "mail.poslovni-savjetnik.com",
+      "poslovni-savjetnik.com",
+      "www.poslovni-savjetnik.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(62, 69, 76)",
+      "rgb(13, 17, 23)",
+      "rgb(254, 254, 254)",
+      "rgb(64, 71, 78)"
+    ],
+    "image_dimensions": "1920x4944",
+    "file_size_kb": 3120.544921875
+  }
+}

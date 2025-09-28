@@ -1,0 +1,96 @@
+{
+  "url": "https://liquidity-provider.com/articles/best-forex-affiliate-programs/",
+  "timestamp": "2025-05-31T15:27:05.676122+00:00",
+  "screenshot_path": "data/outputs/screenshots/liquidity-provider_com_20250531_192711.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2017, 5, 19, 16, 39, 28), datetime.datetime(2017, 5, 19, 11, 39, 28)]",
+      "expiration_date": "[datetime.datetime(2026, 5, 19, 16, 39, 28), datetime.datetime(2026, 5, 19, 11, 39, 28)]",
+      "name_servers": [
+        "AGUSTIN.NS.CLOUDFLARE.COM",
+        "MEGAN.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.16.1",
+        "104.21.96.1",
+        "104.21.48.1",
+        "104.21.64.1",
+        "104.21.32.1",
+        "104.21.80.1",
+        "104.21.112.1"
+      ],
+      "mx_records": [
+        "1 aspmx.l.google.com.",
+        "10 aspmx2.googlemail.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 aspmx3.googlemail.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=yNwueVsaoJeEFf_lIs-xV7rPWstVfYtkYAM8miOrdrQ\"",
+        "\"klaviyo-site-verification=RbeU89\"",
+        "\"v=spf1 ip4:116.203.206.107 ip4:116.203.78.131 ip4:94.130.169.50 include:mxsspf.sendpulse.com ip6:2a01:4f8:c0c:45da::2 mx include:_spf.google.com include:b2broker.com include:emsd1.com -all\"",
+        "\"google-site-verification=dA2lkQ5dvbZMOzSxJBgb3YVQ0Q3wLJJSdFPAXkK_lfM\""
+      ]
+    },
+    "age_days": 2933,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "AGUSTIN.NS.CLOUDFLARE.COM",
+      "MEGAN.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "liquidity-provider.com"
+    },
+    "not_before": "2025-04-10T20:09:49",
+    "not_after": "2025-07-09T21:07:30",
+    "days_remaining": 39,
+    "san": [
+      "liquidity-provider.com",
+      "*.liquidity-provider.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.0.30",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(11, 13, 14)",
+      "rgb(29, 32, 35)",
+      "rgb(254, 254, 254)",
+      "rgb(248, 248, 248)"
+    ],
+    "image_dimensions": "1920x11784",
+    "file_size_kb": 2785.939453125
+  }
+}

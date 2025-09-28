@@ -1,0 +1,94 @@
+{
+  "url": "https://radio-kreta.de/cfd-trading-was-ist-das/",
+  "timestamp": "2025-06-03T07:43:35.549793+00:00",
+  "screenshot_path": "data/outputs/screenshots/radio-kreta_de_20250603_114342.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "a-dns-service.de",
+        "ns3.kas-dns-server.de",
+        "ns5.kasserver.com",
+        "ns6.kasserver.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "85.13.129.70"
+      ],
+      "mx_records": [
+        "10 w00de1cf.kasserver.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:85.13.129.70 include:_spf.google.com ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "a-dns-service.de",
+      "ns3.kas-dns-server.de",
+      "ns5.kasserver.com",
+      "ns6.kasserver.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "radio-kreta.de"
+    },
+    "not_before": "2025-04-27T03:57:12",
+    "not_after": "2025-07-26T03:57:11",
+    "days_remaining": 52,
+    "san": [
+      "radio-kreta.de",
+      "www.radio-kreta.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(239, 239, 239)",
+      "rgb(255, 255, 255)",
+      "rgb(247, 247, 247)",
+      "rgb(254, 254, 254)",
+      "rgb(238, 238, 238)"
+    ],
+    "image_dimensions": "1920x3296",
+    "file_size_kb": 2424.095703125
+  }
+}

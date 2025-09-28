@@ -1,0 +1,97 @@
+{
+  "url": "https://masterinvestor.co.uk/trading/using-trading-indicators-effectively-a-step-by-step-guide/",
+  "timestamp": "2025-06-03T16:36:43.489230+00:00",
+  "screenshot_path": "data/outputs/screenshots/masterinvestor_co_uk_20250603_203652.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Name.com LLC t/a Name.com, Inc. [Tag = NAME-COM]",
+      "creation_date": "2006-11-22 00:00:00",
+      "expiration_date": "2025-11-22 00:00:00",
+      "name_servers": [
+        "edns7.ultradns.biz",
+        "edns7.ultradns.com",
+        "edns7.ultradns.net",
+        "edns7.ultradns.org"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "141.193.213.11",
+        "141.193.213.10"
+      ],
+      "mx_records": [
+        "10 masterinvestor-co-uk.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"MS=ms91228838\"",
+        "\"google-site-verification=rD0nUPN4h2LEOV_vBAH2z8pRpE2qui38x0dtG9si_Aw\"",
+        "\"v=spf1 redirect=_s6ntduc6s.sdmarc.net\""
+      ]
+    },
+    "age_days": 6768,
+    "registrar": "Name.com LLC t/a Name.com, Inc. [Tag = NAME-COM]",
+    "name_servers": [
+      "edns7.ultradns.biz",
+      "edns7.ultradns.com",
+      "edns7.ultradns.net",
+      "edns7.ultradns.org"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "masterinvestor.co.uk"
+    },
+    "not_before": "2025-05-27T01:12:38",
+    "not_after": "2025-08-25T01:12:37",
+    "days_remaining": 82,
+    "san": [
+      "masterinvestor.co.uk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(35, 31, 32)",
+      "rgb(241, 241, 242)",
+      "rgb(228, 228, 228)",
+      "rgb(227, 227, 227)"
+    ],
+    "image_dimensions": "1920x4748",
+    "file_size_kb": 1777.009765625
+  }
+}

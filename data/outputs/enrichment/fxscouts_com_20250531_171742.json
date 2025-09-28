@@ -1,0 +1,96 @@
+{
+  "url": "https://fxscouts.com/vi/san-giao-dich-ngoai-hoi/nhung-san-giao-dich-forex-mt5-tot-nhat/",
+  "timestamp": "2025-05-31T13:17:30.004621+00:00",
+  "screenshot_path": "data/outputs/screenshots/fxscouts_com_20250531_171737.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Ascio Technologies, Inc",
+      "creation_date": "[datetime.datetime(2019, 1, 28, 8, 47, 44), datetime.datetime(2019, 1, 28, 0, 0)]",
+      "expiration_date": "2026-01-28 08:47:44",
+      "name_servers": [
+        "ROAN.NS.CLOUDFLARE.COM",
+        "ULLA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.18.21.175",
+        "104.18.20.175"
+      ],
+      "mx_records": [
+        "5 alt1.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "1 aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.google.com -all\"",
+        "\"google-site-verification=2FTaNVTKYoZaPSmCrW-VJ6Bt6rMdGGpnLpnJ7str5Ls\"",
+        "\"google-site-verification=95yYEl8S_hQHqqy3qnMz1qXkVTPYHcSi1l1t6nJ50s4\"",
+        "\"google-site-verification=9AXZignh-fZlWl7scBICDlWA7JZ3i7nxhVX0AWfMx9Q\""
+      ]
+    },
+    "age_days": 2315,
+    "registrar": "Ascio Technologies, Inc",
+    "name_servers": [
+      "ROAN.NS.CLOUDFLARE.COM",
+      "ULLA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "fxscouts.com"
+    },
+    "not_before": "2025-04-27T00:44:30",
+    "not_after": "2025-07-26T01:44:20",
+    "days_remaining": 55,
+    "san": [
+      "fxscouts.com",
+      "*.fxscouts.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 248, 252)",
+      "rgb(64, 30, 139)",
+      "rgb(56, 21, 134)",
+      "rgb(58, 23, 135)"
+    ],
+    "image_dimensions": "1920x26625",
+    "file_size_kb": 7048.46484375
+  }
+}

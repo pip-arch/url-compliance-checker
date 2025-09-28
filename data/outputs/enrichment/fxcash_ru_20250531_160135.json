@@ -1,0 +1,98 @@
+{
+  "url": "https://fxcash.ru/catalog/info/admiral/news/show/admiral-markets-predstavlyayet-novuyu-funktsiyu-v-kabinete-treydera?lang=ru",
+  "timestamp": "2025-05-31T12:01:26.424262+00:00",
+  "screenshot_path": "data/outputs/screenshots/fxcash_ru_20250531_160135.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REGRU-RU",
+      "creation_date": "2009-02-01 21:00:00",
+      "expiration_date": "2026-02-01 21:00:00",
+      "name_servers": [
+        "fay.ns.cloudflare.com.",
+        "tom.ns.cloudflare.com."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.66.43.13",
+        "172.66.40.243"
+      ],
+      "mx_records": [
+        "5 alt1.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"MS=A61FE8A17D3D3214A397797BBAC7EACDBD4E3398\"",
+        "\"zoho-verification=zb15550722.zmverify.zoho.com\"",
+        "\"facebook-domain-verification=0bktniea5dca1xfimejuaazufnjtbb\"",
+        "\"atlassian-domain-verification=N6TLtqxmkKHRCze7iSz30Js+BnJoCOFr62vOqzYLBjBEH0eYkA6lXONIN5ksLo0A\"",
+        "\"google-site-verification=y6WDirAxztSCvw58PgsKrtb8RCyXKnJ3Hr1zDGlb97Q\"",
+        "\"v=spf1 include:_spf.google.com include:_spf.getresponse.com include:one.zoho.com -all\"",
+        "\"yandex-verification: ae5037a56489cc3f\""
+      ]
+    },
+    "age_days": 5962,
+    "registrar": "REGRU-RU",
+    "name_servers": [
+      "fay.ns.cloudflare.com.",
+      "tom.ns.cloudflare.com."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "fxcash.ru"
+    },
+    "not_before": "2025-05-12T12:38:52",
+    "not_after": "2025-08-10T13:38:46",
+    "days_remaining": 70,
+    "san": [
+      "fxcash.ru",
+      "*.fxcash.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(235, 235, 235)",
+      "rgb(234, 234, 234)",
+      "rgb(238, 238, 238)",
+      "rgb(227, 227, 227)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 95.333984375
+  }
+}

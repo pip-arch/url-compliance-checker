@@ -1,0 +1,97 @@
+{
+  "url": "https://1library.co/document/zwkx1w7z-influencia-brexit-aumento-indices-volatilidad-euro-libra.html",
+  "timestamp": "2025-06-03T22:59:21.095530+00:00",
+  "screenshot_path": "data/outputs/screenshots/1library_co_20250604_025941.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "[datetime.datetime(2020, 1, 2, 9, 31, 44), datetime.datetime(2020, 1, 2, 9, 31, 44, 20000)]",
+      "expiration_date": "[datetime.datetime(2026, 1, 2, 9, 31, 44), datetime.datetime(2026, 1, 2, 9, 31, 44, 20000)]",
+      "name_servers": [
+        "vera.ns.cloudflare.com",
+        "beau.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.32.1",
+        "104.21.16.1",
+        "104.21.64.1",
+        "104.21.48.1",
+        "104.21.112.1",
+        "104.21.96.1",
+        "104.21.80.1"
+      ],
+      "mx_records": [
+        "10 eforward3.registrar-servers.com.",
+        "15 eforward4.registrar-servers.com.",
+        "10 eforward1.registrar-servers.com.",
+        "10 eforward2.registrar-servers.com.",
+        "20 eforward5.registrar-servers.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=LBtm-v_RI68rV5lPf4EnoDctYMpgKLiN5ravU0Ra5CY\""
+      ]
+    },
+    "age_days": 1979,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "vera.ns.cloudflare.com",
+      "beau.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "1library.co"
+    },
+    "not_before": "2025-04-08T15:31:44",
+    "not_after": "2025-07-07T16:30:09",
+    "days_remaining": 33,
+    "san": [
+      "1library.co",
+      "*.1library.co"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.3.19"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(243, 244, 246)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(246, 246, 246)",
+      "rgb(253, 253, 254)"
+    ],
+    "image_dimensions": "1920x10476",
+    "file_size_kb": 1175.494140625
+  }
+}

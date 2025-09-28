@@ -1,0 +1,79 @@
+{
+  "url": "https://vtradetop.com/forum/thread/966-danh-gia-san-admiral-markets-tu-cac-chuyen-gia",
+  "timestamp": "2025-05-31T01:11:12.714005+00:00",
+  "screenshot_path": "data/outputs/screenshots/vtradetop_com_20250531_051117.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2021, 4, 9, 11, 43, 19), datetime.datetime(2021, 4, 9, 6, 43, 19)]",
+      "expiration_date": "[datetime.datetime(2027, 4, 9, 11, 43, 19), datetime.datetime(2027, 4, 9, 6, 43, 19)]",
+      "name_servers": [
+        "NS45.DOMAINCONTROL.COM",
+        "NS46.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "15.197.148.33",
+        "3.33.130.190"
+      ]
+    },
+    "age_days": 1512,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS45.DOMAINCONTROL.COM",
+      "NS46.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "stateOrProvinceName": "Arizona",
+      "localityName": "Scottsdale",
+      "organizationName": "GoDaddy.com, Inc.",
+      "organizationalUnitName": "http://certs.godaddy.com/repository/",
+      "commonName": "Go Daddy Secure Certificate Authority - G2"
+    },
+    "subject": {
+      "commonName": "vtradetop.com"
+    },
+    "not_before": "2025-04-14T12:30:34",
+    "not_after": "2026-04-14T12:30:34",
+    "days_remaining": 318,
+    "san": [
+      "vtradetop.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 8.38671875
+  }
+}

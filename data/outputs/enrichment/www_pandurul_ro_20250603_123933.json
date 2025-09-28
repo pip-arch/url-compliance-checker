@@ -1,0 +1,84 @@
+{
+  "url": "https://www.pandurul.ro/articol/care-este-relatia-ta-cu-banii-verifica-ti-profilul_44671.html",
+  "timestamp": "2025-06-03T08:39:25.340180+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_pandurul_ro_20250603_123932.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "ICI - Registrar",
+      "creation_date": "2008-10-04 00:00:00",
+      "expiration_date": "2027-05-01 00:00:00",
+      "name_servers": [
+        "anna.ns.cloudflare.com",
+        "jim.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "142.132.183.74"
+      ]
+    },
+    "age_days": 6086,
+    "registrar": "ICI - Registrar",
+    "name_servers": [
+      "anna.ns.cloudflare.com",
+      "jim.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "pandurul.ro"
+    },
+    "not_before": "2025-05-02T09:45:22",
+    "not_after": "2025-07-31T09:45:21",
+    "days_remaining": 57,
+    "san": [
+      "manager.pandurul.ro",
+      "pandurul.ro",
+      "www.pandurul.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(246, 246, 246)",
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 251)",
+      "rgb(225, 225, 225)",
+      "rgb(226, 226, 226)"
+    ],
+    "image_dimensions": "1920x4735",
+    "file_size_kb": 1860.2041015625
+  }
+}

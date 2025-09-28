@@ -1,0 +1,97 @@
+{
+  "url": "https://www.techicy.com/trade-and-invest-with-these-top-5-forex-trading-apps-for-ios-in-2020.html",
+  "timestamp": "2025-06-04T04:40:20.960686+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_techicy_com_20250604_084036.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2013, 1, 10, 16, 17, 31), datetime.datetime(2013, 1, 10, 11, 17, 31)]",
+      "expiration_date": "[datetime.datetime(2026, 1, 10, 16, 17, 31), datetime.datetime(2026, 1, 10, 11, 17, 31)]",
+      "name_servers": [
+        "NS17.DOMAINCONTROL.COM",
+        "NS18.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "165.22.43.171"
+      ],
+      "mx_records": [
+        "1 aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"adsy-site-verification=3fkjw893rihfwu903poi13921\"",
+        "\"v=spf1 include:dc-aa8e722993._spfm.techicy.com ~all\"",
+        "\"google-site-verification=uxFoj-c1BDAfQfGSLkun992C1B1GijTmKH7IcZjPeno\""
+      ]
+    },
+    "age_days": 4527,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS17.DOMAINCONTROL.COM",
+      "NS18.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "techicy.com"
+    },
+    "not_before": "2025-04-24T18:36:51",
+    "not_after": "2025-07-23T18:36:50",
+    "days_remaining": 49,
+    "san": [
+      "techicy.com",
+      "www.techicy.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.29 (Ubuntu)",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(16, 16, 16)",
+      "rgb(17, 17, 17)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x7629",
+    "file_size_kb": 1656.66015625
+  }
+}

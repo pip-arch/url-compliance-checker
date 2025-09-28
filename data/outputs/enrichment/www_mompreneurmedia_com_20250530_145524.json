@@ -1,0 +1,81 @@
+{
+  "url": "https://www.mompreneurmedia.com/extra-income/",
+  "timestamp": "2025-05-30T10:54:52.546628+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2013, 2, 3, 4, 49, 35), datetime.datetime(2013, 2, 2, 23, 49, 35)]",
+      "expiration_date": "[datetime.datetime(2026, 2, 3, 4, 49, 35), datetime.datetime(2026, 2, 2, 23, 49, 35)]",
+      "name_servers": [
+        "PDNS11.DOMAINCONTROL.COM",
+        "PDNS12.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "192.124.249.109"
+      ],
+      "mx_records": [
+        "0 mompreneurmedia-com.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.zgmailer.com ~all\"",
+        "\"v=spf1 include:secureserver.net -all\"",
+        "\"NETORGFT11829259.onmicrosoft.com\"",
+        "\"google-site-verification=xghS5DqoC7Qu9DiMFBRt5XHhI3HqKYr72k_8SDTGrOs\""
+      ]
+    },
+    "age_days": 4499,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "PDNS11.DOMAINCONTROL.COM",
+      "PDNS12.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "stateOrProvinceName": "Arizona",
+      "localityName": "Scottsdale",
+      "organizationName": "GoDaddy.com, Inc.",
+      "organizationalUnitName": "http://certs.godaddy.com/repository/",
+      "commonName": "Go Daddy Secure Certificate Authority - G2"
+    },
+    "subject": {
+      "commonName": "mompreneurmedia.com"
+    },
+    "not_before": "2024-08-24T11:29:33",
+    "not_after": "2025-08-24T11:29:33",
+    "days_remaining": 85,
+    "san": [
+      "www.mompreneurmedia.com",
+      "mompreneurmedia.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Sucuri/Cloudproxy",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

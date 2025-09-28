@@ -1,0 +1,93 @@
+{
+  "url": "https://latina-press.com/news/246893-die-ueberdurchschnittliche-entwicklung-von-lateinamerika/",
+  "timestamp": "2025-06-04T04:51:22.116740+00:00",
+  "screenshot_path": "data/outputs/screenshots/latina-press_com_20250604_085140.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Wild West Domains, LLC",
+      "creation_date": "[datetime.datetime(2009, 10, 3, 14, 43, 54), datetime.datetime(2009, 10, 3, 9, 43, 54)]",
+      "expiration_date": "[datetime.datetime(2025, 10, 3, 14, 43, 54), datetime.datetime(2025, 10, 3, 9, 43, 54)]",
+      "name_servers": [
+        "NS1.LATINA-PRESS.COM",
+        "NS2.LATINA-PRESS.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "80.241.216.193"
+      ],
+      "mx_records": [
+        "1 ASPMX.L.GOOGLE.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 a include:_spf.google.com ~all\""
+      ]
+    },
+    "age_days": 5722,
+    "registrar": "Wild West Domains, LLC",
+    "name_servers": [
+      "NS1.LATINA-PRESS.COM",
+      "NS2.LATINA-PRESS.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "LU",
+      "organizationName": "CentralNic Luxembourg S\u00e0rl",
+      "commonName": "GlobeSSL DV CA"
+    },
+    "subject": {
+      "commonName": "latina-press.com"
+    },
+    "not_before": "2024-05-27T00:00:00",
+    "not_after": "2025-06-27T23:59:59",
+    "days_remaining": 23,
+    "san": [
+      "latina-press.com",
+      "www.latina-press.com"
+    ],
+    "issues": [
+      "Certificate expires in 23 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache/2.2.15 (CentOS)",
+    "Powered by: PHP/7.3.22",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(238, 238, 238)",
+      "rgb(250, 250, 250)",
+      "rgb(226, 226, 226)",
+      "rgb(225, 225, 225)"
+    ],
+    "image_dimensions": "1920x5398",
+    "file_size_kb": 2389.81640625
+  }
+}

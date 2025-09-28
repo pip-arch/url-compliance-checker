@@ -1,0 +1,57 @@
+{
+  "url": "https://mail.irex.ru/it/811-torgovaya-strategiya-s-ispolzovaniem-indikatora-momentum.html",
+  "timestamp": "2025-05-31T19:49:18.887521+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "REGRU-RU",
+      "creation_date": "2017-08-01 14:04:54",
+      "expiration_date": "2025-08-01 14:04:54",
+      "name_servers": [
+        "ns1.hosting.reg.ru.",
+        "ns2.hosting.reg.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "37.140.192.138"
+      ],
+      "mx_records": [
+        "5 mx2.hosting.reg.ru.",
+        "0 mx1.hosting.reg.ru."
+      ],
+      "txt_records": [
+        "\"v=spf1 +include:_spf.hosting.reg.ru +a +mx +ip4:37.140.192.138 ?all\""
+      ]
+    },
+    "age_days": 2860,
+    "registrar": "REGRU-RU",
+    "name_servers": [
+      "ns1.hosting.reg.ru.",
+      "ns2.hosting.reg.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mail.irex.ru'. (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: Cannot connect to host mail.irex.ru:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mail.irex.ru'. (_ssl.c:1129)\")]"
+    ]
+  },
+  "visual_analysis": {}
+}

@@ -1,0 +1,90 @@
+{
+  "url": "https://family-budgeting.co.uk/passive-income-ideas-for-2023/",
+  "timestamp": "2025-06-03T07:51:56.083432+00:00",
+  "screenshot_path": "data/outputs/screenshots/family-budgeting_co_uk_20250603_115204.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "123-Reg Limited t/a 123-reg [Tag = 123-REG]",
+      "creation_date": "2011-09-10 00:00:00",
+      "expiration_date": "2025-09-10 00:00:00",
+      "name_servers": [
+        "ns1.krystal.co.uk",
+        "ns2.krystal.co.uk"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.194.90.10"
+      ],
+      "mx_records": [
+        "10 mx1.krystal.uk.",
+        "20 mx2.krystal.uk."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:185.194.90.10 include:relay.k.io a mx ip4:77.72.0.162 ~all\""
+      ]
+    },
+    "age_days": 5015,
+    "registrar": "123-Reg Limited t/a 123-reg [Tag = 123-REG]",
+    "name_servers": [
+      "ns1.krystal.co.uk",
+      "ns2.krystal.co.uk"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "family-budgeting.co.uk"
+    },
+    "not_before": "2025-04-24T08:29:41",
+    "not_after": "2025-07-23T08:29:40",
+    "days_remaining": 49,
+    "san": [
+      "*.family-budgeting.co.uk",
+      "family-budgeting.co.uk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(233, 233, 233)",
+      "rgb(231, 231, 231)",
+      "rgb(247, 247, 247)"
+    ],
+    "image_dimensions": "1920x8053",
+    "file_size_kb": 909.30078125
+  }
+}

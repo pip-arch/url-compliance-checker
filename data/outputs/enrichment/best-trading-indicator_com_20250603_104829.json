@@ -1,0 +1,82 @@
+{
+  "url": "https://best-trading-indicator.com/",
+  "timestamp": "2025-06-03T06:47:57.021170+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH, SAS",
+      "creation_date": "2019-07-23 05:59:15",
+      "expiration_date": "[datetime.datetime(2025, 7, 23, 5, 59, 15), datetime.datetime(2025, 7, 23, 7, 59, 15, tzinfo=datetime.timezone(datetime.timedelta(seconds=7200)))]",
+      "name_servers": [
+        "DNS108.OVH.NET",
+        "NS108.OVH.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "23.227.38.32"
+      ],
+      "mx_records": [
+        "50 mx2.mail.ovh.net.",
+        "5 mx1.mail.ovh.net.",
+        "1 mx0.mail.ovh.net.",
+        "100 mx3.mail.ovh.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:mx.ovh.com ~all\"",
+        "\"yandex-verification: 83cfde3f3d87baf6\"",
+        "\"facebook-domain-verification=3x857wv9zgdm2imswkq8ggq4ift4gu\"",
+        "\"google-site-verification=4mkGvwXVRvooJajCgcPFpdkug8BWbjlJHEnBTqwHeJ4\"",
+        "\"google-site-verification=Q3Ql9Xb-CZTnURIyX5Tm7H8GgLMYxaHUnS6otUBE41k\"",
+        "\"openai-domain-verification=dv-r2ZcOHKsFDoTZxH8ECZkZOqz\""
+      ]
+    },
+    "age_days": 2142,
+    "registrar": "OVH, SAS",
+    "name_servers": [
+      "DNS108.OVH.NET",
+      "NS108.OVH.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "best-trading-indicator.com"
+    },
+    "not_before": "2025-05-27T18:32:24",
+    "not_after": "2025-08-25T19:32:19",
+    "days_remaining": 83,
+    "san": [
+      "best-trading-indicator.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

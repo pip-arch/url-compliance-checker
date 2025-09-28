@@ -1,0 +1,83 @@
+{
+  "url": "https://www.daytradetheworld.com/trading-blog/the-power-of-diversification-in-day-trading/",
+  "timestamp": "2025-06-03T11:59:30.981931+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_daytradetheworld_com_20250603_155937.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2011, 8, 12, 19, 42, 17), datetime.datetime(2011, 8, 12, 14, 42, 17)]",
+      "expiration_date": "[datetime.datetime(2025, 8, 12, 19, 42, 17), datetime.datetime(2025, 8, 12, 14, 42, 17)]",
+      "name_servers": [
+        "NS1.C28313.SGVPS.NET",
+        "NS2.C28313.SGVPS.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "141.193.213.10"
+      ]
+    },
+    "age_days": 5043,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS1.C28313.SGVPS.NET",
+      "NS2.C28313.SGVPS.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "www.daytradetheworld.com"
+    },
+    "not_before": "2025-04-08T07:05:04",
+    "not_after": "2025-07-07T07:05:03",
+    "days_remaining": 33,
+    "san": [
+      "www.daytradetheworld.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(65, 69, 61)",
+      "rgb(64, 68, 60)",
+      "rgb(245, 245, 245)",
+      "rgb(230, 230, 230)"
+    ],
+    "image_dimensions": "1920x6771",
+    "file_size_kb": 1533.4599609375
+  }
+}

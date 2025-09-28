@@ -1,0 +1,84 @@
+{
+  "url": "https://leimenblog.de/daytrading-fuer-anfaenger/",
+  "timestamp": "2025-06-03T10:45:06.545660+00:00",
+  "screenshot_path": "data/outputs/screenshots/leimenblog_de_20250603_144513.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "dina.ns.cloudflare.com",
+        "ray.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.2.152",
+        "172.67.129.86"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "dina.ns.cloudflare.com",
+      "ray.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "leimenblog.de"
+    },
+    "not_before": "2025-04-20T23:30:11",
+    "not_after": "2025-07-20T00:27:17",
+    "days_remaining": 46,
+    "san": [
+      "leimenblog.de",
+      "*.leimenblog.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "HSTS",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(221, 221, 221)",
+      "rgb(255, 255, 255)",
+      "rgb(220, 220, 220)",
+      "rgb(244, 244, 244)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x4298",
+    "file_size_kb": 3345.142578125
+  }
+}

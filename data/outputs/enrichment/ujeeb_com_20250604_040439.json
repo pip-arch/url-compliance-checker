@@ -1,0 +1,95 @@
+{
+  "url": "https://ujeeb.com/%D8%A3%D9%8A%D9%86-%D8%AA%D9%88%D8%AC%D8%AF-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%88%D9%83%D9%8A%D9%81-%D9%8A%D8%AA%D9%85-%D8%AA%D8%AF%D8%A7%D9%88%D9%84%D9%87%D8%A7",
+  "timestamp": "2025-06-04T00:03:57.065973+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2018, 3, 12, 11, 13, 56), datetime.datetime(2018, 3, 12, 6, 13, 56)]",
+      "expiration_date": "[datetime.datetime(2027, 3, 12, 11, 13, 56), datetime.datetime(2027, 3, 12, 6, 13, 56)]",
+      "name_servers": [
+        "AMIT.NS.CLOUDFLARE.COM",
+        "NICOLE.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.45.166",
+        "172.67.216.168"
+      ],
+      "mx_records": [
+        "1 aspmx.l.google.com.",
+        "10 mxb.eu.mailgun.org.",
+        "10 aspmx3.googlemail.com.",
+        "10 mxb.mailgun.org.",
+        "5 alt1.aspmx.l.google.com.",
+        "10 mxa.eu.mailgun.org.",
+        "10 aspmx2.googlemail.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 mxa.mailgun.org."
+      ],
+      "txt_records": [
+        "\"admitad-verification: f86875c12b\"",
+        "\"google-site-verification=5NXI-9n7ZgYZ1Dur0wlhVNQvSLeKGS7Y_d-b9L3EMTM\"",
+        "\"google-site-verification=VELGYW4cKiHtGc7Fw5hjwFOh0r7KAQ1pw7O8CiPIlU0\"",
+        "\"_globalsign-domain-verification=-c7wPTWEefLwbpcCJdQppZds5xHLWa87VWsHA8ChbK\"",
+        "\"google-site-verification=cMlS3xb8WoxRmB0iojVLJETHhh7G4pOqLZi5gkxOEgA\"",
+        "\"_globalsign-domain-verification=B57sRQpmte4G4w-gavZbVNmmNsMxGp5kcL19UP2599\"",
+        "\"v=spf1 include:mailgun.org ~all\"",
+        "\"_globalsign-domain-verification=tPev9B6kyXPVgSyxyaKKITYmv4HklDAsr30jqNSqYE\"",
+        "\"google-site-verification=EeynRu50JUJ6SmDbc1C8RIDmTt_N-2ogXC8_4m7XvhM\""
+      ]
+    },
+    "age_days": 2640,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "AMIT.NS.CLOUDFLARE.COM",
+      "NICOLE.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "ujeeb.com"
+    },
+    "not_before": "2025-05-22T13:47:59",
+    "not_after": "2025-08-20T14:46:14",
+    "days_remaining": 77,
+    "san": [
+      "ujeeb.com",
+      "*.ujeeb.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.2.27"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

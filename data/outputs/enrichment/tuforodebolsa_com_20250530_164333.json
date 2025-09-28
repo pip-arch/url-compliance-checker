@@ -1,0 +1,83 @@
+{
+  "url": "https://tuforodebolsa.com/podcast/estafas-en-el-trading/",
+  "timestamp": "2025-05-30T12:43:23.668832+00:00",
+  "screenshot_path": "data/outputs/screenshots/tuforodebolsa_com_20250530_164333.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "IONOS SE",
+      "creation_date": "2017-01-02 07:42:46",
+      "expiration_date": "2026-01-02 07:42:46",
+      "name_servers": [
+        "NS1.ROBOTSTXT.CLOUD",
+        "NS2.ROBOTSTXT.CLOUD"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "82.152.2.84"
+      ],
+      "mx_records": [
+        "0 mail.tuforodebolsa.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:82.152.2.11 +include:_spf.mlsend.com ~all\""
+      ]
+    },
+    "age_days": 3070,
+    "registrar": "IONOS SE",
+    "name_servers": [
+      "NS1.ROBOTSTXT.CLOUD",
+      "NS2.ROBOTSTXT.CLOUD"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "tuforodebolsa.com"
+    },
+    "not_before": "2025-05-10T05:51:17",
+    "not_after": "2025-08-08T05:51:16",
+    "days_remaining": 69,
+    "san": [
+      "tuforodebolsa.com",
+      "www.tuforodebolsa.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Angie/1.9.0",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(253, 253, 253)",
+      "rgb(244, 244, 244)",
+      "rgb(243, 243, 243)"
+    ],
+    "image_dimensions": "1920x7729",
+    "file_size_kb": 1026.421875
+  }
+}

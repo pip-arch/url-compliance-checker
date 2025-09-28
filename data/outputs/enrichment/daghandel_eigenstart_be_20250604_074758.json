@@ -1,0 +1,78 @@
+{
+  "url": "https://daghandel.eigenstart.be/",
+  "timestamp": "2025-06-04T03:47:51.871470+00:00",
+  "screenshot_path": "data/outputs/screenshots/daghandel_eigenstart_be_20250604_074757.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": "2003-07-18 00:00:00",
+      "expiration_date": null,
+      "name_servers": "ns5.dns1dns2dns3.com\r\n\tns1.dns1dns2dns3.com"
+    },
+    "dns": {
+      "a_records": [
+        "164.132.235.200"
+      ]
+    },
+    "age_days": 7992,
+    "registrar": null,
+    "name_servers": "ns5.dns1dns2dns3.com\r\n\tns1.dns1dns2dns3.com"
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "*.eigenstart.be"
+    },
+    "not_before": "2025-05-09T12:23:58",
+    "not_after": "2025-08-07T12:23:57",
+    "days_remaining": 64,
+    "san": [
+      "*.eigenstart.be",
+      "eigenstart.be"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2",
+    "Powered by: PHP/8.2.17",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(240, 255, 240)",
+      "rgb(168, 209, 231)",
+      "rgb(241, 255, 241)",
+      "rgb(241, 255, 240)",
+      "rgb(165, 207, 231)"
+    ],
+    "image_dimensions": "1920x1505",
+    "file_size_kb": 333.5517578125
+  }
+}

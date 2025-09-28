@@ -1,0 +1,87 @@
+{
+  "url": "https://www.berufszentrum.de/bewerbung-als-trader.html",
+  "timestamp": "2025-06-04T01:17:29.287376+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_berufszentrum_de_20250604_051734.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "docks08.rzone.de",
+        "shades03.rzone.de"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "81.169.145.67"
+      ],
+      "mx_records": [
+        "5 smtpin.rzone.de."
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "docks08.rzone.de",
+      "shades03.rzone.de"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "GB",
+      "stateOrProvinceName": "Greater Manchester",
+      "localityName": "Salford",
+      "organizationName": "Sectigo Limited",
+      "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+    },
+    "subject": {
+      "commonName": "www.berufszentrum.de"
+    },
+    "not_before": "2025-04-26T00:00:00",
+    "not_after": "2026-05-17T23:59:59",
+    "days_remaining": 347,
+    "san": [
+      "www.berufszentrum.de",
+      "berufszentrum.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2.4.63 (Unix)"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 242)",
+      "rgb(255, 255, 244)",
+      "rgb(255, 255, 245)",
+      "rgb(255, 255, 243)",
+      "rgb(255, 255, 255)"
+    ],
+    "image_dimensions": "1920x2288",
+    "file_size_kb": 988.728515625
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "url": "https://answeregy.com/other/admiral-markets-an-ultimate-guide.php",
+  "timestamp": "2025-05-30T20:19:23.913922+00:00",
+  "screenshot_path": "data/outputs/screenshots/answeregy_com_20250531_001935.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NameSilo, LLC",
+      "creation_date": "[datetime.datetime(2021, 12, 13, 13, 47, 42), datetime.datetime(2021, 12, 13, 7, 0)]",
+      "expiration_date": "[datetime.datetime(2025, 12, 13, 13, 47, 42), datetime.datetime(2025, 12, 13, 7, 0)]",
+      "name_servers": [
+        "MIA.NS.CLOUDFLARE.COM",
+        "SEAMUS.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.134.163",
+        "104.21.6.84"
+      ],
+      "mx_records": [
+        "10 mx.stackmail.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.stackmail.com a mx -all\""
+      ]
+    },
+    "age_days": 1264,
+    "registrar": "NameSilo, LLC",
+    "name_servers": [
+      "MIA.NS.CLOUDFLARE.COM",
+      "SEAMUS.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "answeregy.com"
+    },
+    "not_before": "2025-04-29T07:42:36",
+    "not_after": "2025-07-28T08:41:17",
+    "days_remaining": 58,
+    "san": [
+      "answeregy.com",
+      "*.answeregy.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(252, 252, 252)",
+      "rgb(253, 253, 253)",
+      "rgb(245, 245, 245)",
+      "rgb(243, 244, 245)"
+    ],
+    "image_dimensions": "1920x1080",
+    "file_size_kb": 194.4462890625
+  }
+}

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL Checker - Test Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #1e88e5;
+        }
+        .card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        button {
+            background-color: #1e88e5;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+        button:hover {
+            background-color: #1565c0;
+        }
+        pre {
+            background-color: #f5f5f5;
+            padding: 10px;
+            border-radius: 4px;
+            overflow: auto;
+            max-height: 300px;
+        }
+        .result {
+            margin-top: 15px;
+        }
+        .test-spinner {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid rgba(255,255,255,.3);
+            border-radius: 50%;
+            border-top-color: #fff;
+            animation: spin 1s ease-in-out infinite;
+            margin-right: 8px;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        .success { color: #4caf50; font-weight: bold; }
+        .error { color: #f44336; font-weight: bold; }
+        .partial { color: #ff9800; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>URL Checker - Test Page</h1>
+    
+    <div class="card">
+        <h2>Application Status</h2>
+        <p>This is a test page for the URL Checker application.</p>
+        <button id="check-status">Check API Status</button>
+        <div id="status-result" class="result"></div>
+    </div>
+    
+    <div class="card">
+        <h2>URLs Test</h2>
+        <button id="fetch-urls">Fetch Test URLs</button>
+        <div id="urls-result" class="result"></div>
+    </div>
+    
+    <div class="card">
+        <h2>Process Sample File</h2>
+        <p>This will process the sample URLs file directly.</p>
+        <button id="process-sample">Process Sample File</button>
+        <div id="process-result" class="result"></div>
+    </div>
+    
+    <div class="card">
+        <h2>Integration Test</h2>
+        <p>This will test integration with Pinecone, Firecrawl, and OpenRouter.</p>
+        <p><small>This may take a while as it tests all components.</small></p>
+        <button id="test-integration">Run Integration Test</button>
+        <div id="integration-result" class="result"></div>
+    </div>
+    
+    <script>
+        document.getElementById('check-status').addEventListener('click', async () => {
+            try {
+                document.getElementById('status-result').innerHTML = '<p>Loading...</p>';
+                const response = await fetch('/api');
+                const data = await response.json();
+                document.getElementById('status-result').innerHTML = `
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+            } catch (error) {
+                document.getElementById('status-result').innerHTML = `
+                    <p style="color: red">Error: ${error.message}</p>
+                `;
+            }
+        });
+        
+        document.getElementById('fetch-urls').addEventListener('click', async () => {
+            try {
+                document.getElementById('urls-result').innerHTML = '<p>Loading...</p>';
+                const response = await fetch('/urls');
+                const data = await response.json();
+                document.getElementById('urls-result').innerHTML = `
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+            } catch (error) {
+                document.getElementById('urls-result').innerHTML = `
+                    <p style="color: red">Error: ${error.message}</p>
+                `;
+            }
+        });
+        
+        document.getElementById('process-sample').addEventListener('click', async () => {
+            try {
+                document.getElementById('process-result').innerHTML = '<p>Processing sample file...</p>';
+                const response = await fetch('/test-process-file');
+                const data = await response.json();
+                document.getElementById('process-result').innerHTML = `
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+            } catch (error) {
+                document.getElementById('process-result').innerHTML = `
+                    <p style="color: red">Error: ${error.message}</p>
+                `;
+            }
+        });
+        
+        document.getElementById('test-integration').addEventListener('click', async () => {
+            const resultElement = document.getElementById('integration-result');
+            const button = document.getElementById('test-integration');
+            
+            try {
+                // Change button appearance and show loading state
+                button.disabled = true;
+                const originalText = button.textContent;
+                button.innerHTML = '<span class="test-spinner"></span> Testing...';
+                resultElement.innerHTML = '<p>Running integration tests, this might take a minute...</p>';
+                
+                // Make the API call with a longer timeout
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => controller.abort(), 60000); // 60 second timeout
+                
+                const response = await fetch('/test-integration', {
+                    signal: controller.signal
+                });
+                clearTimeout(timeoutId);
+                
+                const data = await response.json();
+                
+                // Determine status class for coloring
+                let statusClass = 'partial';
+                if (data.status === 'success') statusClass = 'success';
+                if (data.status === 'error') statusClass = 'error';
+                
+                // Format the result with colored status
+                resultElement.innerHTML = `
+                    <p>Integration test completed with status: <span class="${statusClass}">${data.status.toUpperCase()}</span></p>
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+            } catch (error) {
+                resultElement.innerHTML = `
+                    <p class="error">Error: ${error.message}</p>
+                    <p>This could be due to a timeout or service failure.</p>
+                `;
+            } finally {
+                // Restore button state
+                button.disabled = false;
+                button.textContent = originalText;
+            }
+        });
+    </script>
+</body>
+</html> 

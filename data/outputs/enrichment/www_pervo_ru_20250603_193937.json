@@ -1,0 +1,76 @@
+{
+  "url": "https://www.pervo.ru/news/politik/44431-kakie-brokery-na-rynke-foreksa-luchshe-vsego-podhodyat-dlya-torgovli-kriptovalyutami.html",
+  "timestamp": "2025-06-03T15:39:06.896609+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "RU-CENTER-RU",
+      "creation_date": "2005-10-30 21:00:00",
+      "expiration_date": "2025-10-30 21:00:00",
+      "name_servers": [
+        "a.ns.selectel.ru.",
+        "b.ns.selectel.ru.",
+        "c.ns.selectel.ru.",
+        "d.ns.selectel.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.192.111.102"
+      ]
+    },
+    "age_days": 7155,
+    "registrar": "RU-CENTER-RU",
+    "name_servers": [
+      "a.ns.selectel.ru.",
+      "b.ns.selectel.ru.",
+      "c.ns.selectel.ru.",
+      "d.ns.selectel.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "pervo.ru"
+    },
+    "not_before": "2025-04-16T05:26:37",
+    "not_after": "2025-07-15T05:26:36",
+    "days_remaining": 41,
+    "san": [
+      "pervo.ru",
+      "www.pervo.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.26.2",
+    "Powered by: PHP/8.3.6"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

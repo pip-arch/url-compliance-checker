@@ -1,0 +1,77 @@
+{
+  "url": "https://www.fiscalitatea.ro/reglementari-noi-ce-s-a-schimbat-in-tranzactionarea-cripto-monedelor-18097/",
+  "timestamp": "2025-06-03T06:43:20.311050+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "ICI - Registrar",
+      "creation_date": "2007-12-19 00:00:00",
+      "expiration_date": "2027-11-17 00:00:00",
+      "name_servers": [
+        "ns3.manager.ro",
+        "ns4.manager.ro"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "185.90.51.13"
+      ],
+      "mx_records": [
+        "0 fiscalitatea.ro."
+      ],
+      "txt_records": [
+        "\"facebook-domain-verification=fvagtmgt7fx9y8zjvjvobpozoy7e5w\"",
+        "\"v=spf1 +a +mx +ip4:89.33.247.180 -all\""
+      ]
+    },
+    "age_days": 6376,
+    "registrar": "ICI - Registrar",
+    "name_servers": [
+      "ns3.manager.ro",
+      "ns4.manager.ro"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "fiscalitatea.ro"
+    },
+    "not_before": "2025-05-04T15:27:08",
+    "not_after": "2025-08-02T15:27:07",
+    "days_remaining": 60,
+    "san": [
+      "*.fiscalitatea.ro",
+      "fiscalitatea.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

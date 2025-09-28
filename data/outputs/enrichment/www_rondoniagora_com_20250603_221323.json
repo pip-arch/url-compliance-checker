@@ -1,0 +1,85 @@
+{
+  "url": "https://www.rondoniagora.com/nacional/investimentos-na-bolsa-de-valores-e-inflacao-como-eles-se-relacionam",
+  "timestamp": "2025-06-03T18:13:13.706702+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_rondoniagora_com_20250603_221322.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2000, 12, 14, 19, 56, 51), datetime.datetime(2000, 12, 14, 14, 56, 51)]",
+      "expiration_date": "[datetime.datetime(2025, 12, 14, 19, 56, 51), datetime.datetime(2025, 12, 14, 14, 56, 51)]",
+      "name_servers": [
+        "NS-1321.AWSDNS-37.ORG",
+        "NS-1626.AWSDNS-11.CO.UK",
+        "NS-467.AWSDNS-58.COM",
+        "NS-901.AWSDNS-48.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "54.94.215.22"
+      ]
+    },
+    "age_days": 8936,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS-1321.AWSDNS-37.ORG",
+      "NS-1626.AWSDNS-11.CO.UK",
+      "NS-467.AWSDNS-58.COM",
+      "NS-901.AWSDNS-48.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "BE",
+      "organizationName": "GlobalSign nv-sa",
+      "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+    },
+    "subject": {
+      "commonName": "*.rondoniagora.com"
+    },
+    "not_before": "2024-11-26T18:35:35",
+    "not_after": "2025-12-28T18:35:34",
+    "days_remaining": 207,
+    "san": [
+      "*.rondoniagora.com",
+      "rondoniagora.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Frame-Options",
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(252, 252, 252)",
+      "rgb(239, 239, 239)",
+      "rgb(254, 254, 254)",
+      "rgb(10, 27, 61)"
+    ],
+    "image_dimensions": "1920x4084",
+    "file_size_kb": 528.095703125
+  }
+}

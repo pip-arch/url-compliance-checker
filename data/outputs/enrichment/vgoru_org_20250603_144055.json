@@ -1,0 +1,89 @@
+{
+  "url": "https://vgoru.org/novini/sekrety-uspikhu-na-rynku-foreks",
+  "timestamp": "2025-06-03T10:40:45.070689+00:00",
+  "screenshot_path": "data/outputs/screenshots/vgoru_org_20250603_144054.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2005-03-25 14:15:54",
+      "expiration_date": "2026-03-25 14:15:54",
+      "name_servers": [
+        "amber.ns.cloudflare.com",
+        "gabe.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.95.190",
+        "172.67.147.42"
+      ],
+      "mx_records": [
+        "1 smtp.google.com."
+      ],
+      "txt_records": [
+        "\"Sendinblue-code:da0bde81723f1bc3a3a60af84a8847b9\"",
+        "\"v=spf1 ip4:91.199.222.4 a mx ~all\"",
+        "\"v=spf1 include:spf.sendinblue.com mx ~all\"",
+        "\"google-site-verification=r8Ay6B0z3y8b6hjN-TWquZp6ZgIIvcQanWK6h9f8J78\""
+      ]
+    },
+    "age_days": 7374,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "amber.ns.cloudflare.com",
+      "gabe.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "vgoru.org"
+    },
+    "not_before": "2025-05-16T16:42:40",
+    "not_after": "2025-08-14T17:41:16",
+    "days_remaining": 72,
+    "san": [
+      "vgoru.org",
+      "*.vgoru.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "CSP",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 80, 124)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 253, 253)",
+      "rgb(253, 254, 254)"
+    ],
+    "image_dimensions": "1920x5889",
+    "file_size_kb": 1700.169921875
+  }
+}

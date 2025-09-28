@@ -1,0 +1,92 @@
+{
+  "url": "http://ponedelnik.info/from-partners/torgovlya-indeksom-dax-30",
+  "timestamp": "2025-05-31T04:01:13.043982+00:00",
+  "screenshot_path": "data/outputs/screenshots/ponedelnik_info_20250531_080142.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Sav.com, LLC - 1",
+      "creation_date": "2025-04-08 15:15:36",
+      "expiration_date": "2026-04-08 15:15:36",
+      "name_servers": [
+        "tim.ns.cloudflare.com",
+        "reza.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.112.1",
+        "104.21.96.1",
+        "104.21.16.1",
+        "104.21.32.1",
+        "104.21.48.1",
+        "104.21.80.1",
+        "104.21.64.1"
+      ],
+      "txt_records": [
+        "\"ahrefs-site-verification_63215404530c612f8a6a7cf93009258c407b0944ee1423e0d9f077641f40ea5e\"",
+        "\"google-site-verification=1oe5ZdWCKmko2fwfKeLTr2vOiRRGDI383n4-0uHRMb4\""
+      ]
+    },
+    "age_days": 52,
+    "registrar": "Sav.com, LLC - 1",
+    "name_servers": [
+      "tim.ns.cloudflare.com",
+      "reza.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "ponedelnik.info"
+    },
+    "not_before": "2025-04-22T08:23:42",
+    "not_after": "2025-07-21T09:21:56",
+    "days_remaining": 51,
+    "san": [
+      "ponedelnik.info",
+      "*.ponedelnik.info"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(252, 252, 252)",
+      "rgb(254, 254, 254)",
+      "rgb(251, 251, 251)",
+      "rgb(212, 211, 211)"
+    ],
+    "image_dimensions": "1920x2331",
+    "file_size_kb": 639.833984375
+  }
+}

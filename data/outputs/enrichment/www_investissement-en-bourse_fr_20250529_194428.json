@@ -1,0 +1,92 @@
+{
+  "url": "https://www.investissement-en-bourse.fr/coinhouse-avis/",
+  "timestamp": "2025-05-29T15:44:20.621927+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_investissement-en-bourse_fr_20250529_194426.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "SCALEWAY",
+      "creation_date": "2017-08-23 13:35:51",
+      "expiration_date": "2025-10-11 15:00:02",
+      "name_servers": [
+        "ns1.o2switch.net",
+        "ns2.o2switch.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "109.234.161.200"
+      ],
+      "mx_records": [
+        "0 mail.investissement-en-bourse.fr."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.sendinblue.com +a +mx +ip4:109.234.161.200 ~all\"",
+        "\"Sendinblue-code:993156d86c3972de205512947c4af43b\""
+      ]
+    },
+    "age_days": 2836,
+    "registrar": "SCALEWAY",
+    "name_servers": [
+      "ns1.o2switch.net",
+      "ns2.o2switch.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "investissement-en-bourse.fr"
+    },
+    "not_before": "2025-04-15T18:42:56",
+    "not_after": "2025-07-14T18:42:55",
+    "days_remaining": 45,
+    "san": [
+      "investissement-en-bourse.fr",
+      "mail.investissement-en-bourse.fr",
+      "www.investissement-en-bourse.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: o2switch-PowerBoost-v3",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(242, 242, 242)",
+      "rgb(247, 247, 247)",
+      "rgb(253, 253, 253)",
+      "rgb(240, 240, 240)"
+    ],
+    "image_dimensions": "1920x14979",
+    "file_size_kb": 2049.505859375
+  }
+}

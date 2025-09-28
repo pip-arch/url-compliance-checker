@@ -1,0 +1,86 @@
+{
+  "url": "https://www.businessbourse.com/dev/2020/05/05/signaux-de-trading-forex-fiables-et-securises/",
+  "timestamp": "2025-05-31T15:27:46.810939+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_businessbourse_com_20250531_192804.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Gandi SAS",
+      "creation_date": "[datetime.datetime(2010, 2, 18, 9, 12, 17), datetime.datetime(2010, 2, 18, 8, 12, 17)]",
+      "expiration_date": "2026-02-18 09:12:17",
+      "name_servers": [
+        "DAVE.NS.CLOUDFLARE.COM",
+        "REZA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.191.1",
+        "104.21.20.29"
+      ]
+    },
+    "age_days": 5581,
+    "registrar": "Gandi SAS",
+    "name_servers": [
+      "DAVE.NS.CLOUDFLARE.COM",
+      "REZA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "businessbourse.com"
+    },
+    "not_before": "2025-05-30T19:08:52",
+    "not_after": "2025-08-28T20:07:33",
+    "days_remaining": 89,
+    "san": [
+      "businessbourse.com",
+      "*.businessbourse.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.1.32",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(254, 254, 254)",
+      "rgb(228, 228, 228)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x8273",
+    "file_size_kb": 1413.9482421875
+  }
+}

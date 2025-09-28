@@ -1,0 +1,87 @@
+{
+  "url": "https://www.emprenderalia.com/rompiendo-barreras-trading-en-linea-cambiando-en-espana/",
+  "timestamp": "2025-06-04T03:48:02.786704+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_emprenderalia_com_20250604_074809.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Soluciones Corporativas IP, SL",
+      "creation_date": "2011-08-22 10:06:28",
+      "expiration_date": "2025-08-22 10:06:28",
+      "name_servers": [
+        "NS1.ESM2.SITEGROUND.BIZ",
+        "NS2.ESM2.SITEGROUND.BIZ"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "34.120.190.48",
+        "35.190.31.54",
+        "34.160.81.203",
+        "35.244.153.44"
+      ]
+    },
+    "age_days": 5034,
+    "registrar": "Soluciones Corporativas IP, SL",
+    "name_servers": [
+      "NS1.ESM2.SITEGROUND.BIZ",
+      "NS2.ESM2.SITEGROUND.BIZ"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.emprenderalia.com"
+    },
+    "not_before": "2025-05-27T22:22:01",
+    "not_after": "2025-08-25T22:22:00",
+    "days_remaining": 82,
+    "san": [
+      "*.emprenderalia.com",
+      "emprenderalia.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(34, 34, 34)",
+      "rgb(226, 226, 227)",
+      "rgb(226, 227, 227)",
+      "rgb(227, 227, 228)"
+    ],
+    "image_dimensions": "1920x5430",
+    "file_size_kb": 1832.3232421875
+  }
+}

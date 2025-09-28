@@ -1,0 +1,71 @@
+{
+  "url": "https://strana.best/news/70129-poleznye-sovety-trejderam-na-rynke-foreks.html",
+  "timestamp": "2025-05-31T09:53:12.090461+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH, SAS",
+      "creation_date": "2021-08-31 15:38:13",
+      "expiration_date": "[datetime.datetime(2025, 8, 31, 23, 59, 59), datetime.datetime(2025, 8, 31, 17, 38, 18, tzinfo=datetime.timezone(datetime.timedelta(seconds=7200)))]",
+      "name_servers": [
+        "CORA.NS.CLOUDFLARE.COM",
+        "ALEC.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.187.181",
+        "104.21.60.16"
+      ]
+    },
+    "age_days": 1368,
+    "registrar": "OVH, SAS",
+    "name_servers": [
+      "CORA.NS.CLOUDFLARE.COM",
+      "ALEC.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "strana.best"
+    },
+    "not_before": "2025-05-20T19:16:50",
+    "not_after": "2025-08-18T20:15:34",
+    "days_remaining": 79,
+    "san": [
+      "strana.best",
+      "*.strana.best"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

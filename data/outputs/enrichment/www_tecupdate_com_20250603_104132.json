@@ -1,0 +1,83 @@
+{
+  "url": "https://www.tecupdate.com/admiral-markets/",
+  "timestamp": "2025-06-03T06:41:24.288067+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_tecupdate_com_20250603_104131.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2017-03-31 19:57:13",
+      "expiration_date": "2026-03-31 19:57:13",
+      "name_servers": [
+        "DEREK.NS.CLOUDFLARE.COM",
+        "ZARA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.138.81",
+        "104.21.38.203"
+      ]
+    },
+    "age_days": 2985,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "DEREK.NS.CLOUDFLARE.COM",
+      "ZARA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "tecupdate.com"
+    },
+    "not_before": "2025-05-06T06:25:08",
+    "not_after": "2025-08-04T07:23:54",
+    "days_remaining": 61,
+    "san": [
+      "tecupdate.com",
+      "*.tecupdate.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 248, 249)",
+      "rgb(248, 249, 250)",
+      "rgb(249, 250, 251)",
+      "rgb(250, 251, 252)"
+    ],
+    "image_dimensions": "1920x2912",
+    "file_size_kb": 362.40625
+  }
+}

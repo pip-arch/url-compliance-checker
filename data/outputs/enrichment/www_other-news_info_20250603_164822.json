@@ -1,0 +1,105 @@
+{
+  "url": "https://www.other-news.info/the-one-quadrillion-dollars-derivatives-bubble-the-great-taking-how-they-plan-to-own-it-all/",
+  "timestamp": "2025-06-03T12:48:10.713674+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_other-news_info_20250603_164820.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2003-06-17 14:36:20",
+      "expiration_date": "2026-06-17 14:36:20",
+      "name_servers": [
+        "dns1.netsons.net",
+        "dns2.netsons.net",
+        "dns3.netsons.net",
+        "dns4.netsons.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "46.252.148.242"
+      ],
+      "mx_records": [
+        "0 mail.other-news.info."
+      ],
+      "txt_records": [
+        "\"_globalsign-domain-verification=EybY2wYShT3juf9ZBMY7DPnejig9ZkUSHkMxenHs-5\"",
+        "\"v=spf1 include:_spf.mlsend.com +a +mx ~all\"",
+        "\"google-site-verification=mMRG7kO6NapUTCbn7mpWl6KmDvcxHrplagffb2KRjbk\"",
+        "\"google-site-verification=XFxp6YL43-swy0MNP52YXDNrHRu_NgpHJ3cmoowJkqc\""
+      ]
+    },
+    "age_days": 8021,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "dns1.netsons.net",
+      "dns2.netsons.net",
+      "dns3.netsons.net",
+      "dns4.netsons.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "other-news.info"
+    },
+    "not_before": "2025-04-09T18:12:52",
+    "not_after": "2025-07-08T18:12:51",
+    "days_remaining": 35,
+    "san": [
+      "autodiscover.other-news.info",
+      "cpanel.other-news.info",
+      "cpcalendars.other-news.info",
+      "cpcontacts.other-news.info",
+      "mail.other-news.info",
+      "other-news.info",
+      "webdisk.other-news.info",
+      "webmail.other-news.info",
+      "www.other-news.info"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(236, 236, 236)",
+      "rgb(235, 235, 235)",
+      "rgb(234, 234, 234)",
+      "rgb(237, 237, 237)"
+    ],
+    "image_dimensions": "1920x7677",
+    "file_size_kb": 2136.185546875
+  }
+}

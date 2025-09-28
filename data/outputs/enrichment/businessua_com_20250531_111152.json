@@ -1,0 +1,84 @@
+{
+  "url": "http://businessua.com/finance/40624dostupni-mozhlivosti-dlya-investicii-u-rinok-foreks.html",
+  "timestamp": "2025-05-31T07:11:11.057092+00:00",
+  "screenshot_path": "data/outputs/screenshots/businessua_com_20250531_111152.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Internet Invest, Ltd. dba Imena.ua",
+      "creation_date": "2011-11-03 10:45:04",
+      "expiration_date": "2025-11-03 11:45:04",
+      "name_servers": [
+        "NS1.EKVIA.COM",
+        "NS2.EKVIA.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "91.210.190.92"
+      ],
+      "mx_records": [
+        "10 mail.businessua.com.",
+        "20 mail.businessua.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:91.210.190.92 a mx ~all\""
+      ]
+    },
+    "age_days": 4957,
+    "registrar": "Internet Invest, Ltd. dba Imena.ua",
+    "name_servers": [
+      "NS1.EKVIA.COM",
+      "NS2.EKVIA.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "Connection Error: _ssl.c:1112: The handshake operation timed out"
+    ]
+  },
+  "technology_stack": [
+    "Server: nginx/1.12.1",
+    "Powered by: PHP/5.4.45-0+deb7u30",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(70, 18, 18)",
+      "rgb(255, 255, 255)",
+      "rgb(220, 221, 225)",
+      "rgb(64, 10, 10)",
+      "rgb(123, 86, 86)"
+    ],
+    "image_dimensions": "1920x3353",
+    "file_size_kb": 1234.7421875
+  }
+}

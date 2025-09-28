@@ -1,0 +1,56 @@
+{
+  "url": "https://timetogiveback.org/blog/2020/06/09/engadget-is-undoubtedly-at-this-time-a-critical-facet-for-verizon-wireless-advertising/",
+  "timestamp": "2025-05-30T19:26:38.545521+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2008-05-22 23:01:48",
+      "expiration_date": "2026-05-22 23:01:48",
+      "name_servers": [
+        "pdns01.domaincontrol.com",
+        "pdns02.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "107.180.54.174"
+      ],
+      "mx_records": [
+        "0 timetogiveback-org.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.protection.outlook.com -all\""
+      ]
+    },
+    "age_days": 6216,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "pdns01.domaincontrol.com",
+      "pdns02.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0,
+    "headers_present": [],
+    "headers_missing": [],
+    "issues": [
+      "Analysis failed: Cannot connect to host timetogiveback.org:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')]"
+    ]
+  },
+  "visual_analysis": {}
+}

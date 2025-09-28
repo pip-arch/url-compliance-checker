@@ -1,0 +1,88 @@
+{
+  "url": "https://alleideen.com/waehrung/",
+  "timestamp": "2025-06-03T10:46:02.747852+00:00",
+  "screenshot_path": "data/outputs/screenshots/alleideen_com_20250603_144610.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+      "creation_date": "2014-09-13 19:20:03",
+      "expiration_date": "2025-09-13 19:20:03",
+      "name_servers": [
+        "LUCY.NS.CLOUDFLARE.COM",
+        "TONY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.179.106",
+        "104.21.80.112"
+      ],
+      "mx_records": [
+        "10 mail.softart.bg."
+      ]
+    },
+    "age_days": 3915,
+    "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+    "name_servers": [
+      "LUCY.NS.CLOUDFLARE.COM",
+      "TONY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "alleideen.com"
+    },
+    "not_before": "2025-04-07T19:26:51",
+    "not_after": "2025-07-06T20:24:27",
+    "days_remaining": 33,
+    "san": [
+      "alleideen.com",
+      "*.alleideen.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(251, 251, 251)",
+      "rgb(252, 252, 252)",
+      "rgb(248, 248, 248)"
+    ],
+    "image_dimensions": "1920x6839",
+    "file_size_kb": 2337.4140625
+  }
+}

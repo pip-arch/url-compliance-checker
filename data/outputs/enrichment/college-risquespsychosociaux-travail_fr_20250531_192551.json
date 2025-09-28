@@ -1,0 +1,92 @@
+{
+  "url": "https://college-risquespsychosociaux-travail.fr/bitcoin-trader-avis-guide-dinscription-complet-pour-lapplication-bitcoin-trader/",
+  "timestamp": "2025-05-31T15:25:45.372956+00:00",
+  "screenshot_path": "data/outputs/screenshots/college-risquespsychosociaux-travail_fr_20250531_192550.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH",
+      "creation_date": "2019-08-22 03:32:14",
+      "expiration_date": "2026-05-07 00:01:26",
+      "name_servers": [
+        "dns110.ovh.net",
+        "ns110.ovh.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "51.91.236.255"
+      ],
+      "mx_records": [
+        "10 mx3.mail.ovh.net.",
+        "1 mx4.mail.ovh.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:mx.ovh.com ~all\"",
+        "\"1|www.college-risquespsychosociaux-travail.fr\""
+      ]
+    },
+    "age_days": 2109,
+    "registrar": "OVH",
+    "name_servers": [
+      "dns110.ovh.net",
+      "ns110.ovh.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "college-risquespsychosociaux-travail.fr"
+    },
+    "not_before": "2025-05-16T21:28:06",
+    "not_after": "2025-08-14T21:28:05",
+    "days_remaining": 75,
+    "san": [
+      "college-risquespsychosociaux-travail.fr",
+      "www.college-risquespsychosociaux-travail.fr"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: OVHcloud",
+    "Powered by: PHP/7.2",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(51, 51, 51)",
+      "rgb(52, 52, 52)",
+      "rgb(50, 50, 50)",
+      "rgb(53, 53, 53)"
+    ],
+    "image_dimensions": "1920x2003",
+    "file_size_kb": 1607.5302734375
+  }
+}

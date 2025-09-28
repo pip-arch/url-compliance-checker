@@ -1,0 +1,76 @@
+{
+  "url": "https://www.prepaid-wiki.de/allgemeines/mit-diesen-investments-erzielen-sie-2020-die-besten-profite/",
+  "timestamp": "2025-05-31T03:03:06.331012+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_prepaid-wiki_de_20250531_070313.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns01.1blu.de",
+        "ns02.1blu.de"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "178.254.32.102"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns01.1blu.de",
+      "ns02.1blu.de"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "www.prepaid-wiki.de"
+    },
+    "not_before": "2025-04-05T21:02:37",
+    "not_after": "2025-07-04T21:02:36",
+    "days_remaining": 34,
+    "san": [
+      "www.prepaid-wiki.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 100.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [],
+    "issues": []
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(249, 249, 249)",
+      "rgb(88, 94, 103)",
+      "rgb(86, 92, 101)",
+      "rgb(85, 91, 100)"
+    ],
+    "image_dimensions": "1920x2861",
+    "file_size_kb": 1368.2626953125
+  }
+}

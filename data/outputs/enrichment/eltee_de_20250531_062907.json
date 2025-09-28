@@ -1,0 +1,97 @@
+{
+  "url": "https://eltee.de/22719-eurusd-analyse-stabilitaet-in-deutschland-krise-in-italien-.html",
+  "timestamp": "2025-05-31T02:29:00.465626+00:00",
+  "screenshot_path": "data/outputs/screenshots/eltee_de_20250531_062907.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns1026.ui-dns.biz",
+        "ns1026.ui-dns.com",
+        "ns1026.ui-dns.de",
+        "ns1026.ui-dns.org"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "217.160.0.211"
+      ],
+      "mx_records": [
+        "10 mx01.ionos.de.",
+        "10 mx00.ionos.de."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf-eu.ionos.com ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns1026.ui-dns.biz",
+      "ns1026.ui-dns.com",
+      "ns1026.ui-dns.de",
+      "ns1026.ui-dns.org"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "GB",
+      "stateOrProvinceName": "Greater Manchester",
+      "localityName": "Salford",
+      "organizationName": "Sectigo Limited",
+      "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+    },
+    "subject": {
+      "commonName": "*.eltee.de"
+    },
+    "not_before": "2024-10-31T00:00:00",
+    "not_after": "2025-11-14T23:59:59",
+    "days_remaining": 167,
+    "san": [
+      "*.eltee.de",
+      "eltee.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/5.4.45",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(51, 51, 51)",
+      "rgb(238, 238, 238)",
+      "rgb(237, 237, 237)",
+      "rgb(239, 239, 239)"
+    ],
+    "image_dimensions": "1920x9385",
+    "file_size_kb": 2548.7216796875
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://www.youdem.tv/online-share-trading-tips-and-tricks.html",
+  "timestamp": "2025-06-04T01:13:18.776931+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_youdem_tv_20250604_051330.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2019-01-09 09:04:19",
+      "expiration_date": "2026-01-09 09:04:19",
+      "name_servers": [
+        "dns1.registrar-servers.com",
+        "dns2.registrar-servers.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "62.171.162.117"
+      ]
+    },
+    "age_days": 2337,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "dns1.registrar-servers.com",
+      "dns2.registrar-servers.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "www.youdem.tv"
+    },
+    "not_before": "2025-05-15T00:15:23",
+    "not_after": "2025-08-13T00:15:22",
+    "days_remaining": 69,
+    "san": [
+      "www.youdem.tv",
+      "youdem.tv"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/8.0.28",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(53, 53, 53)",
+      "rgb(234, 234, 234)",
+      "rgb(225, 225, 225)"
+    ],
+    "image_dimensions": "1920x3632",
+    "file_size_kb": 998.208984375
+  }
+}

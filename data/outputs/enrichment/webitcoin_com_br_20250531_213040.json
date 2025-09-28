@@ -1,0 +1,85 @@
+{
+  "url": "https://webitcoin.com.br/price-action-traz-lucro-em-qualquer-cenario/",
+  "timestamp": "2025-05-31T17:30:20.528456+00:00",
+  "screenshot_path": "data/outputs/screenshots/webitcoin_com_br_20250531_213039.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": "[datetime.datetime(2017, 6, 13, 0, 0), datetime.datetime(2019, 5, 20, 0, 0)]",
+      "expiration_date": "2025-06-13 00:00:00",
+      "name_servers": []
+    },
+    "dns": {
+      "a_records": [
+        "172.67.185.12",
+        "104.21.76.13"
+      ],
+      "mx_records": [
+        "0 _dc-mx.cbd253a1be5f.webitcoin.com.br."
+      ],
+      "txt_records": [
+        "\"v=spf1 +a +mx +ip4:162.240.72.230 ~all\""
+      ]
+    },
+    "age_days": 2909,
+    "registrar": null,
+    "name_servers": []
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "webitcoin.com.br"
+    },
+    "not_before": "2025-04-17T06:02:39",
+    "not_after": "2025-07-16T07:01:29",
+    "days_remaining": 45,
+    "san": [
+      "webitcoin.com.br",
+      "*.webitcoin.com.br"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(242, 242, 242)",
+      "rgb(241, 241, 241)",
+      "rgb(244, 244, 244)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x5803",
+    "file_size_kb": 2241.0068359375
+  }
+}

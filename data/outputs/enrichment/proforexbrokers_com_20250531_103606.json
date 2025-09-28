@@ -1,0 +1,90 @@
+{
+  "url": "https://proforexbrokers.com/zh/brokers/admiral-markets/",
+  "timestamp": "2025-05-31T06:35:57.683125+00:00",
+  "screenshot_path": "data/outputs/screenshots/proforexbrokers_com_20250531_103606.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Internet Domain Service BS Corp.",
+      "creation_date": "2024-02-12 07:58:56",
+      "expiration_date": "2027-02-12 07:58:56",
+      "name_servers": [
+        "MITCH.NS.CLOUDFLARE.COM",
+        "TINA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.196.55",
+        "104.21.52.66"
+      ],
+      "mx_records": [
+        "10 mail.proforexbrokers.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=qAKzCFN-bm55Ylh5jkdRr4GtPqm7mL_RCLVmJBsQ8Bk\""
+      ]
+    },
+    "age_days": 473,
+    "registrar": "Internet Domain Service BS Corp.",
+    "name_servers": [
+      "MITCH.NS.CLOUDFLARE.COM",
+      "TINA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "proforexbrokers.com"
+    },
+    "not_before": "2025-05-29T03:11:22",
+    "not_after": "2025-08-27T04:10:02",
+    "days_remaining": 87,
+    "san": [
+      "proforexbrokers.com",
+      "*.proforexbrokers.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(4, 28, 45)",
+      "rgb(3, 23, 40)",
+      "rgb(3, 24, 41)",
+      "rgb(2, 22, 39)",
+      "rgb(33, 20, 31)"
+    ],
+    "image_dimensions": "1920x3253",
+    "file_size_kb": 763.0029296875
+  }
+}

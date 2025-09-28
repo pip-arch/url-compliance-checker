@@ -1,0 +1,100 @@
+{
+  "url": "https://dontstopliving.net/is-day-trading-the-key-to-the-ultimate-freedom-lifestyle/",
+  "timestamp": "2025-06-03T16:44:27.238516+00:00",
+  "screenshot_path": "data/outputs/screenshots/dontstopliving_net_20250603_204439.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NAMECHEAP INC",
+      "creation_date": "2012-10-09 10:25:41",
+      "expiration_date": "2025-10-09 10:25:41",
+      "name_servers": [
+        "BETH.NS.CLOUDFLARE.COM",
+        "HANS.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.48.1",
+        "104.21.16.1",
+        "104.21.32.1",
+        "104.21.64.1",
+        "104.21.112.1",
+        "104.21.96.1",
+        "104.21.80.1"
+      ],
+      "mx_records": [
+        "0 mail.dontstopliving.net."
+      ],
+      "txt_records": [
+        "\"facebook-domain-verification=593yk68429onmqoswvnoiab7cuydoa\"",
+        "\"v=msv1 t=40f502a3db32408be59d629520e080\"",
+        "\"v=spf1 a mx ptr include:bluehost.com include:relay.mailchannels.net ~all\"",
+        "\"google-site-verification=tDjcKCoc-3lQnFvK0tJmdScAnOxmlfiCD5SxGLzlMwo\""
+      ]
+    },
+    "age_days": 4620,
+    "registrar": "NAMECHEAP INC",
+    "name_servers": [
+      "BETH.NS.CLOUDFLARE.COM",
+      "HANS.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "dontstopliving.net"
+    },
+    "not_before": "2025-05-24T15:40:59",
+    "not_after": "2025-08-22T16:38:41",
+    "days_remaining": 79,
+    "san": [
+      "dontstopliving.net",
+      "*.dontstopliving.net"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.1.32",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(39, 39, 39)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x3580",
+    "file_size_kb": 1135.5322265625
+  }
+}

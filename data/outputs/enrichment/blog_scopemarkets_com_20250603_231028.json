@@ -1,0 +1,109 @@
+{
+  "url": "https://blog.scopemarkets.com/en/11-reasons-why-forex-is-so-popular/",
+  "timestamp": "2025-06-03T19:10:15.781974+00:00",
+  "screenshot_path": "data/outputs/screenshots/blog_scopemarkets_com_20250603_231028.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2009, 8, 16, 19, 31, 22), datetime.datetime(2009, 8, 16, 14, 31, 22)]",
+      "expiration_date": "[datetime.datetime(2026, 8, 16, 19, 31, 22), datetime.datetime(2026, 8, 16, 14, 31, 22)]",
+      "name_servers": [
+        "ANIRBAN.NS.CLOUDFLARE.COM",
+        "KATE.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "20.108.210.129"
+      ]
+    },
+    "age_days": 5769,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ANIRBAN.NS.CLOUDFLARE.COM",
+      "KATE.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "scopeprime.sc"
+    },
+    "not_before": "2025-03-31T03:01:23",
+    "not_after": "2025-06-29T03:01:22",
+    "days_remaining": 25,
+    "san": [
+      "backend.scopemarkets.com",
+      "blog.scopemarkets.co.ke",
+      "blog.scopemarkets.com",
+      "cdn.scopemarkets.cloud",
+      "go.scopemarkets.com",
+      "lp.scopemarkets.co.ke",
+      "lp.scopemarkets.co.za",
+      "lp.scopemarkets.com",
+      "lp.scopemarkets.eu",
+      "scopemarkets.co.ke",
+      "scopemarkets.co.za",
+      "scopemarkets.com",
+      "scopemarkets.eu",
+      "scopemarkets.sc",
+      "scopemarkets.tr",
+      "scopemarketstr.com",
+      "scopeprime.co.za",
+      "scopeprime.com",
+      "scopeprime.mu",
+      "scopeprime.sc",
+      "www.scopemarkets.co.ke",
+      "www.scopemarkets.co.za",
+      "www.scopemarkets.com",
+      "www.scopemarkets.eu",
+      "www.scopemarkets.sc",
+      "www.scopeprime.co.za",
+      "www.scopeprime.com",
+      "www.scopeprime.mu",
+      "www.scopeprime.sc",
+      "www.smcapitalmarkets.com"
+    ],
+    "issues": [
+      "Certificate expires in 25 days"
+    ]
+  },
+  "technology_stack": [
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS"
+    ],
+    "issues": [
+      "Missing HSTS header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(61, 130, 196)",
+      "rgb(253, 253, 253)",
+      "rgb(249, 249, 249)",
+      "rgb(237, 237, 237)"
+    ],
+    "image_dimensions": "1920x11016",
+    "file_size_kb": 2067.2099609375
+  }
+}

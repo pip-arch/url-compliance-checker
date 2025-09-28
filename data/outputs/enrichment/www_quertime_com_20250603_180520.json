@@ -1,0 +1,97 @@
+{
+  "url": "https://www.quertime.com/article/top-best-forex-brokers-for-international-traders/",
+  "timestamp": "2025-06-03T14:05:09.243549+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_quertime_com_20250603_180517.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2010, 8, 9, 11, 12, 27), datetime.datetime(2010, 8, 9, 6, 12, 27)]",
+      "expiration_date": "[datetime.datetime(2026, 8, 9, 11, 12, 27), datetime.datetime(2026, 8, 9, 6, 12, 27)]",
+      "name_servers": [
+        "NS03.DOMAINCONTROL.COM",
+        "NS04.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "107.180.118.240"
+      ],
+      "mx_records": [
+        "0 quertime-com.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:secureserver.net -all\"",
+        "\"google-site-verification=mielkHxswo472dyL2lWfKpUipRV9zTsBgt0rTi6NoWM\"",
+        "\"NETORGFT12616894.onmicrosoft.com\""
+      ]
+    },
+    "age_days": 5412,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS03.DOMAINCONTROL.COM",
+      "NS04.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "stateOrProvinceName": "Arizona",
+      "localityName": "Scottsdale",
+      "organizationName": "GoDaddy.com, Inc.",
+      "organizationalUnitName": "http://certs.godaddy.com/repository/",
+      "commonName": "Go Daddy Secure Certificate Authority - G2"
+    },
+    "subject": {
+      "commonName": "quertime.com"
+    },
+    "not_before": "2025-05-27T18:00:44",
+    "not_after": "2026-06-28T18:00:44",
+    "days_remaining": 389,
+    "san": [
+      "quertime.com",
+      "www.quertime.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(238, 238, 238)",
+      "rgb(255, 255, 255)",
+      "rgb(241, 241, 241)",
+      "rgb(234, 234, 234)",
+      "rgb(250, 251, 252)"
+    ],
+    "image_dimensions": "1920x14595",
+    "file_size_kb": 3851.27734375
+  }
+}

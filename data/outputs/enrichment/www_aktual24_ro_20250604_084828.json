@@ -1,0 +1,79 @@
+{
+  "url": "https://www.aktual24.ro/cum-va-pot-ajuta-tranzactiile-forex-sa-va-suplimentati-venitul-p/",
+  "timestamp": "2025-06-04T04:47:55.182142+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "ICI - Registrar",
+      "creation_date": "2015-01-14 00:00:00",
+      "expiration_date": "2028-03-11 00:00:00",
+      "name_servers": [
+        "ns-120.awsdns-15.com",
+        "ns-1277.awsdns-31.org",
+        "ns-1717.awsdns-22.co.uk",
+        "ns-875.awsdns-45.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "136.243.171.217"
+      ]
+    },
+    "age_days": 3794,
+    "registrar": "ICI - Registrar",
+    "name_servers": [
+      "ns-120.awsdns-15.com",
+      "ns-1277.awsdns-31.org",
+      "ns-1717.awsdns-22.co.uk",
+      "ns-875.awsdns-45.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "aktual24.ro"
+    },
+    "not_before": "2025-05-22T09:03:08",
+    "not_after": "2025-08-20T09:03:07",
+    "days_remaining": 77,
+    "san": [
+      "aktual24.ro",
+      "cdn.aktual24.ro",
+      "www.aktual24.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

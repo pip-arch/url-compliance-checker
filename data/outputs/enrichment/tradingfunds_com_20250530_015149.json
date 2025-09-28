@@ -1,0 +1,97 @@
+{
+  "url": "https://tradingfunds.com/it/quali-sono-i-vantaggi-del-finanziamento-del-commercio-forex/",
+  "timestamp": "2025-05-29T21:51:41.802546+00:00",
+  "screenshot_path": "data/outputs/screenshots/tradingfunds_com_20250530_015148.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2004, 9, 19, 18, 29, 55), datetime.datetime(2004, 9, 19, 13, 29, 55)]",
+      "expiration_date": "[datetime.datetime(2025, 9, 19, 18, 29, 55), datetime.datetime(2025, 9, 19, 13, 29, 55)]",
+      "name_servers": [
+        "FRANK.NS.CLOUDFLARE.COM",
+        "SARAH.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.16.151.108",
+        "104.16.150.108"
+      ],
+      "mx_records": [
+        "5 alt1.aspmx.l.google.com.",
+        "15 oeicge5bgni4uvc5qzumyvxs7hu7sm677cqo7sh7zwndnyheyfea.mx-verification.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "1 aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=cRAjE6EzUcpUXYZozFby-en5M9_4oO_I_82aNuDkwUg\"",
+        "\"v=spf1 include:mailgun.org include:_spf.google.com ~all\"",
+        "\"klaviyo-site-verification=TpkAAm\""
+      ]
+    },
+    "age_days": 7557,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "FRANK.NS.CLOUDFLARE.COM",
+      "SARAH.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E6"
+    },
+    "subject": {
+      "commonName": "tradingfunds.com"
+    },
+    "not_before": "2025-04-26T08:50:45",
+    "not_after": "2025-07-25T08:50:44",
+    "days_remaining": 56,
+    "san": [
+      "tradingfunds.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 28, 55)",
+      "rgb(233, 233, 233)",
+      "rgb(234, 234, 234)",
+      "rgb(232, 232, 232)"
+    ],
+    "image_dimensions": "1920x5374",
+    "file_size_kb": 2171.4736328125
+  }
+}

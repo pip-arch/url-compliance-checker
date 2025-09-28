@@ -1,0 +1,93 @@
+{
+  "url": "https://www.blueprintforsafety.org/conseils-pour-apprendre-a-trader-sur-le-marche-forex/",
+  "timestamp": "2025-06-03T20:14:45.064513+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_blueprintforsafety_org_20250604_001454.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NETIM SAS",
+      "creation_date": "2019-11-29 14:30:11",
+      "expiration_date": "2025-11-29 14:30:11",
+      "name_servers": [
+        "ns1.netim.net",
+        "ns2.netim.net",
+        "ns3.netim.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "37.59.174.30"
+      ],
+      "mx_records": [
+        "10 mx1.netim.net.",
+        "10 mx2.netim.net."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:185.26.104.0/22 ~all\""
+      ]
+    },
+    "age_days": 2013,
+    "registrar": "NETIM SAS",
+    "name_servers": [
+      "ns1.netim.net",
+      "ns2.netim.net",
+      "ns3.netim.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "blueprintforsafety.org"
+    },
+    "not_before": "2025-05-18T01:09:48",
+    "not_after": "2025-08-16T01:09:47",
+    "days_remaining": 73,
+    "san": [
+      "blueprintforsafety.org",
+      "www.blueprintforsafety.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(245, 245, 245)",
+      "rgb(255, 255, 255)",
+      "rgb(17, 17, 17)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x3795",
+    "file_size_kb": 1824.0478515625
+  }
+}

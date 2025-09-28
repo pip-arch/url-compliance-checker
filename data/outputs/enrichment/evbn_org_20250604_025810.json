@@ -1,0 +1,77 @@
+{
+  "url": "https://evbn.org/top-7-khai-niem-thi-truong-cong-cu-tai-chinh-phai-sinh-moi-nhat-nam-2023-1681957006/",
+  "timestamp": "2025-06-03T22:57:38.256147+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2020-02-13 14:30:27",
+      "expiration_date": "2026-02-13 14:30:27",
+      "name_servers": [
+        "emily.ns.cloudflare.com",
+        "rajeev.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.64.1",
+        "104.21.16.1",
+        "104.21.32.1",
+        "104.21.112.1",
+        "104.21.48.1",
+        "104.21.80.1",
+        "104.21.96.1"
+      ]
+    },
+    "age_days": 1937,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "emily.ns.cloudflare.com",
+      "rajeev.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "evbn.org"
+    },
+    "not_before": "2025-05-15T17:37:23",
+    "not_after": "2025-08-13T18:33:02",
+    "days_remaining": 70,
+    "san": [
+      "evbn.org",
+      "*.evbn.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

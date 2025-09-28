@@ -1,0 +1,17 @@
+{
+  "blacklist": {
+    "true_positives": 0,
+    "false_positives": 0,
+    "samples": []
+  },
+  "whitelist": {
+    "true_positives": 0,
+    "false_positives": 0,
+    "samples": []
+  },
+  "review": {
+    "escalated": 0,
+    "resolved": 0,
+    "samples": []
+  }
+}

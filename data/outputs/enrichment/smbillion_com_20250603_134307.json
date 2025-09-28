@@ -1,0 +1,99 @@
+{
+  "url": "https://smbillion.com/best-affiliate-programs/",
+  "timestamp": "2025-06-03T09:42:48.198691+00:00",
+  "screenshot_path": "data/outputs/screenshots/smbillion_com_20250603_134302.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Porkbun LLC",
+      "creation_date": "2020-07-02 15:27:28",
+      "expiration_date": "2025-07-02 15:27:28",
+      "name_servers": [
+        "LEO.NS.CLOUDFLARE.COM",
+        "SASHA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.112.1",
+        "104.21.96.1",
+        "104.21.64.1",
+        "104.21.32.1",
+        "104.21.16.1",
+        "104.21.48.1",
+        "104.21.80.1"
+      ],
+      "mx_records": [
+        "10 mx2.hostinger.com.",
+        "5 mx1.hostinger.com."
+      ],
+      "txt_records": [
+        "\"ca3-c72dfd2a78664ad3b017f396817610e7\"",
+        "\"v=spf1 include:_spf.mail.hostinger.com ~all\""
+      ]
+    },
+    "age_days": 1796,
+    "registrar": "Porkbun LLC",
+    "name_servers": [
+      "LEO.NS.CLOUDFLARE.COM",
+      "SASHA.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "smbillion.com"
+    },
+    "not_before": "2025-06-01T10:27:27",
+    "not_after": "2025-08-30T11:26:17",
+    "days_remaining": 87,
+    "san": [
+      "smbillion.com",
+      "*.smbillion.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(236, 240, 245)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(251, 251, 251)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x65152",
+    "file_size_kb": 4935.5654296875
+  }
+}

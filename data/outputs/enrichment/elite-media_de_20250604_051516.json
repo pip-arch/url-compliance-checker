@@ -1,0 +1,93 @@
+{
+  "url": "https://elite-media.de/chat-i-forum-po-bitcoin/",
+  "timestamp": "2025-06-04T01:14:57.940187+00:00",
+  "screenshot_path": "data/outputs/screenshots/elite-media_de_20250604_051515.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns67.domaincontrol.com",
+        "ns68.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "5.175.14.40"
+      ],
+      "mx_records": [
+        "50 mx0.elite-media.de."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:spf.server-he.de -all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns67.domaincontrol.com",
+      "ns68.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "stateOrProvinceName": "Arizona",
+      "localityName": "Scottsdale",
+      "organizationName": "Starfield Technologies, Inc.",
+      "organizationalUnitName": "http://certs.starfieldtech.com/repository/",
+      "commonName": "Starfield Secure Certificate Authority - G2"
+    },
+    "subject": {
+      "commonName": "www.elite-media.de"
+    },
+    "not_before": "2024-07-23T22:07:29",
+    "not_after": "2025-08-22T22:07:29",
+    "days_remaining": 79,
+    "san": [
+      "www.elite-media.de",
+      "elite-media.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(244, 244, 244)",
+      "rgb(0, 0, 0)",
+      "rgb(239, 239, 239)",
+      "rgb(242, 242, 242)"
+    ],
+    "image_dimensions": "1920x3527",
+    "file_size_kb": 698.8271484375
+  }
+}

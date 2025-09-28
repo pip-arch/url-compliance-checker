@@ -1,0 +1,80 @@
+{
+  "url": "https://forum.masterforex-v.org/topic/19390-%D1%84%D0%BE%D1%80%D0%B5%D0%BA%D1%81-%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80-admiral-umis/page/16/",
+  "timestamp": "2025-06-03T09:52:11.438140+00:00",
+  "screenshot_path": "data/outputs/screenshots/forum_masterforex-v_org_20250603_135217.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2006-06-05 12:17:20",
+      "expiration_date": "2030-06-05 12:17:20",
+      "name_servers": [
+        "ns1.masterforex-v.org",
+        "ns2.masterforex-v.org"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "46.249.35.136",
+        "62.106.66.33"
+      ]
+    },
+    "age_days": 6937,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ns1.masterforex-v.org",
+      "ns2.masterforex-v.org"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "forum.masterforex-v.org"
+    },
+    "not_before": "2025-06-01T20:20:56",
+    "not_after": "2025-08-30T20:20:55",
+    "days_remaining": 88,
+    "san": [
+      "forum.masterforex-v.org",
+      "mail.forum.masterforex-v.org",
+      "www.forum.masterforex-v.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(237, 240, 244)",
+      "rgb(255, 255, 255)",
+      "rgb(252, 252, 252)",
+      "rgb(250, 250, 250)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x20241",
+    "file_size_kb": 2007.7978515625
+  }
+}

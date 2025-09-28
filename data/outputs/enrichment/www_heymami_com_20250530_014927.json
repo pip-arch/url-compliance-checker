@@ -1,0 +1,137 @@
+{
+  "url": "https://www.heymami.com/lozhnyj-proboj-urovnej-na-foreks/",
+  "timestamp": "2025-05-29T21:49:14.197893+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_heymami_com_20250530_014926.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2018, 5, 26, 19, 10, 45), datetime.datetime(2018, 5, 26, 14, 10, 45)]",
+      "expiration_date": "[datetime.datetime(2026, 5, 26, 19, 10, 45), datetime.datetime(2026, 5, 26, 14, 10, 45)]",
+      "name_servers": [
+        "NS-1529.AWSDNS-63.ORG",
+        "NS-1702.AWSDNS-20.CO.UK",
+        "NS-491.AWSDNS-61.COM",
+        "NS-745.AWSDNS-29.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "199.16.173.139",
+        "199.16.172.133"
+      ]
+    },
+    "age_days": 2560,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS-1529.AWSDNS-63.ORG",
+      "NS-1702.AWSDNS-20.CO.UK",
+      "NS-491.AWSDNS-61.COM",
+      "NS-745.AWSDNS-29.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "tls.automattic.com"
+    },
+    "not_before": "2025-05-25T02:23:32",
+    "not_after": "2025-08-23T02:23:31",
+    "days_remaining": 85,
+    "san": [
+      "allhtt.blog",
+      "alyxauthentically.com",
+      "antikqq.code.blog",
+      "archanapani.fashion.blog",
+      "atmecyberarmor.in",
+      "barrenecheasociados.com",
+      "bettersleepcoach.health.blog",
+      "billfinleys8vfx.law.blog",
+      "cosmic.fitness.blog",
+      "dafayahya.law.blog",
+      "felipeinvestidor.finance.blog",
+      "ferny.sport.blog",
+      "ferramentabambozzi.com",
+      "ffgamer.game.blog",
+      "fiqihrpurnama.com",
+      "growthbureau.co",
+      "innocurve.com",
+      "irenas.family.blog",
+      "iytetsunamiprojesi.com",
+      "mooreharrison1yvcn.sport.blog",
+      "mysoccerleagues.sport.blog",
+      "officejungle.blog",
+      "saldaterraluzdomundoblog.com",
+      "sciencematrix.science.blog",
+      "septicpermitting.com",
+      "stephanieremypsychologue.com",
+      "tls.automattic.com",
+      "www.allhtt.blog",
+      "www.alyxauthentically.com",
+      "www.archanapani.fashion.blog",
+      "www.atmecyberarmor.in",
+      "www.barrenecheasociados.com",
+      "www.brainscienceconference.science.blog",
+      "www.conwygwsd.co.uk",
+      "www.cosmic.fitness.blog",
+      "www.cricktalk.sport.blog",
+      "www.dafayahya.law.blog",
+      "www.felipeinvestidor.finance.blog",
+      "www.ferramentabambozzi.com",
+      "www.fiqihrpurnama.com",
+      "www.growthbureau.co",
+      "www.heymami.com",
+      "www.innocurve.com",
+      "www.iytetsunamiprojesi.com",
+      "www.mooreharrison1yvcn.sport.blog",
+      "www.mysoccerleagues.sport.blog",
+      "www.officejungle.blog",
+      "www.saldaterraluzdomundoblog.com",
+      "www.sechigames.sport.blog",
+      "www.septicpermitting.com",
+      "www.soiltostars.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(245, 245, 245)",
+      "rgb(255, 255, 255)",
+      "rgb(5, 167, 111)",
+      "rgb(245, 246, 245)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x8034",
+    "file_size_kb": 1436.4619140625
+  }
+}

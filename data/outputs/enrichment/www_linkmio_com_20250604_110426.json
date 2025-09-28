@@ -1,0 +1,84 @@
+{
+  "url": "https://www.linkmio.com/sought/admiral-markets-hrvatska",
+  "timestamp": "2025-06-04T07:03:59.104480+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_linkmio_com_20250604_110423.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Cloudflare, Inc.",
+      "creation_date": "2019-04-22 16:43:13",
+      "expiration_date": "2026-04-22 16:43:13",
+      "name_servers": [
+        "CONNIE.NS.CLOUDFLARE.COM",
+        "GERALD.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.175.14",
+        "104.21.64.29"
+      ]
+    },
+    "age_days": 2234,
+    "registrar": "Cloudflare, Inc.",
+    "name_servers": [
+      "CONNIE.NS.CLOUDFLARE.COM",
+      "GERALD.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "linkmio.com"
+    },
+    "not_before": "2025-05-17T23:42:19",
+    "not_after": "2025-08-16T00:40:02",
+    "days_remaining": 72,
+    "san": [
+      "linkmio.com",
+      "*.linkmio.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(250, 250, 250)",
+      "rgb(253, 253, 253)",
+      "rgb(252, 252, 252)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x7047",
+    "file_size_kb": 857.94921875
+  }
+}

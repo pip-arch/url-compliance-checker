@@ -1,0 +1,98 @@
+{
+  "url": "https://cryptoclan.nl/hoe-spelen-forex-en-crypto-samen/",
+  "timestamp": "2025-06-03T10:47:34.598883+00:00",
+  "screenshot_path": "data/outputs/screenshots/cryptoclan_nl_20250603_144740.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Realtime Register",
+      "creation_date": "2018-11-01 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "john.ns.cloudflare.com",
+        "vita.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "95.211.75.132"
+      ],
+      "mx_records": [
+        "10 _dc-mx.81dfcf8ed819.cryptoclan.nl."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx ip4:95.211.75.132 ~all\""
+      ]
+    },
+    "age_days": 2406,
+    "registrar": "Realtime Register",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "john.ns.cloudflare.com",
+      "vita.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "cryptoclan.nl"
+    },
+    "not_before": "2025-05-23T15:58:04",
+    "not_after": "2025-08-21T15:58:03",
+    "days_remaining": 79,
+    "san": [
+      "cryptoclan.nl",
+      "webmail.cryptoclan.nl",
+      "www.cryptoclan.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "Powered by: PHP/8.1.32",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(238, 238, 238)",
+      "rgb(0, 0, 0)",
+      "rgb(239, 239, 239)",
+      "rgb(241, 241, 241)"
+    ],
+    "image_dimensions": "1920x2777",
+    "file_size_kb": 637.9833984375
+  }
+}

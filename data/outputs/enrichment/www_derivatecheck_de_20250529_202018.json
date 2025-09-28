@@ -1,0 +1,84 @@
+{
+  "url": "https://www.derivatecheck.de/news/drucke_news.m?menue=Analysen-Geld&id=2786825",
+  "timestamp": "2025-05-29T16:20:12.250602+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_derivatecheck_de_20250529_202018.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns1.fdkcloud.de",
+        "ns1.fdkcloud.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "82.97.160.83",
+        "82.97.136.83"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns1.fdkcloud.de",
+      "ns1.fdkcloud.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "DigiCert Inc",
+      "organizationalUnitName": "www.digicert.com",
+      "commonName": "RapidSSL TLS RSA CA G1"
+    },
+    "subject": {
+      "commonName": "derivatecheck.de"
+    },
+    "not_before": "2025-03-19T00:00:00",
+    "not_after": "2026-04-19T23:59:59",
+    "days_remaining": 325,
+    "san": [
+      "derivatecheck.de",
+      "www.derivatecheck.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(237, 237, 237)",
+      "rgb(252, 252, 252)",
+      "rgb(247, 247, 247)",
+      "rgb(236, 236, 236)"
+    ],
+    "image_dimensions": "1920x1719",
+    "file_size_kb": 493.9814453125
+  }
+}

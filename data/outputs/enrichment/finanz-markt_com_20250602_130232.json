@@ -1,0 +1,90 @@
+{
+  "url": "https://finanz-markt.com/aktien/forex-broker-vergleich/",
+  "timestamp": "2025-06-02T09:02:23.688332+00:00",
+  "screenshot_path": "data/outputs/screenshots/finanz-markt_com_20250602_130231.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "RegistryGate GmbH",
+      "creation_date": "2018-10-17 14:31:10",
+      "expiration_date": "2025-10-17 14:31:10",
+      "name_servers": [
+        "NS5.KASSERVER.COM",
+        "NS6.KASSERVER.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "85.13.153.32"
+      ],
+      "mx_records": [
+        "10 w0174ed3.kasserver.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 mx a ?all\""
+      ]
+    },
+    "age_days": 2419,
+    "registrar": "RegistryGate GmbH",
+    "name_servers": [
+      "NS5.KASSERVER.COM",
+      "NS6.KASSERVER.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "finanz-markt.com"
+    },
+    "not_before": "2025-05-24T22:05:35",
+    "not_after": "2025-08-22T22:05:34",
+    "days_remaining": 81,
+    "san": [
+      "finanz-markt.com",
+      "www.finanz-markt.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(238, 238, 238)",
+      "rgb(255, 255, 255)",
+      "rgb(239, 239, 239)",
+      "rgb(237, 237, 237)",
+      "rgb(235, 235, 235)"
+    ],
+    "image_dimensions": "1920x15391",
+    "file_size_kb": 2925.216796875
+  }
+}

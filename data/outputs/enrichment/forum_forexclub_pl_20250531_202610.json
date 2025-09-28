@@ -1,0 +1,80 @@
+{
+  "url": "https://forum.forexclub.pl/topic/1600-admiral-markets-opinie-opis-wymiana-uwag-i-informacje/",
+  "timestamp": "2025-05-31T16:26:02.850768+00:00",
+  "screenshot_path": "data/outputs/screenshots/forum_forexclub_pl_20250531_202610.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Aftermarket.pl Limited",
+      "creation_date": "2007-12-06 11:13:06",
+      "expiration_date": "2027-12-06 11:13:06",
+      "name_servers": [
+        "coen.ns.cloudflare.com",
+        "nancy.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.50.192",
+        "172.67.210.5"
+      ]
+    },
+    "age_days": 6386,
+    "registrar": "Aftermarket.pl Limited",
+    "name_servers": [
+      "coen.ns.cloudflare.com",
+      "nancy.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "forexclub.pl"
+    },
+    "not_before": "2025-05-24T08:13:32",
+    "not_after": "2025-08-22T09:09:50",
+    "days_remaining": 82,
+    "san": [
+      "forexclub.pl",
+      "*.forexclub.pl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(240, 240, 240)",
+      "rgb(255, 255, 255)",
+      "rgb(239, 239, 239)",
+      "rgb(244, 244, 244)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x4426",
+    "file_size_kb": 699.9580078125
+  }
+}

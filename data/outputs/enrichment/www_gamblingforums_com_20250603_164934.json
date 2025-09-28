@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gamblingforums.com/threads/spiders-den-gf-edition.122/page-12",
+  "timestamp": "2025-06-03T12:49:25.652197+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_gamblingforums_com_20250603_164933.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NameSilo, LLC",
+      "creation_date": "[datetime.datetime(2004, 4, 21, 18, 39, 44), datetime.datetime(2004, 4, 21, 7, 0)]",
+      "expiration_date": "[datetime.datetime(2026, 4, 21, 18, 39, 44), datetime.datetime(2026, 4, 21, 7, 0)]",
+      "name_servers": [
+        "RITA.NS.CLOUDFLARE.COM",
+        "THEO.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.129.41",
+        "104.21.2.122"
+      ]
+    },
+    "age_days": 7712,
+    "registrar": "NameSilo, LLC",
+    "name_servers": [
+      "RITA.NS.CLOUDFLARE.COM",
+      "THEO.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "gamblingforums.com"
+    },
+    "not_before": "2025-04-13T21:47:18",
+    "not_after": "2025-07-12T22:45:51",
+    "days_remaining": 39,
+    "san": [
+      "gamblingforums.com",
+      "*.gamblingforums.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(0, 0, 0)",
+      "rgb(252, 252, 255)",
+      "rgb(251, 252, 254)",
+      "rgb(255, 255, 255)",
+      "rgb(253, 253, 255)"
+    ],
+    "image_dimensions": "1920x8039",
+    "file_size_kb": 2866.0166015625
+  }
+}

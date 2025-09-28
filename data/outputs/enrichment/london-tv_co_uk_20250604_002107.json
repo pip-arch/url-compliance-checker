@@ -1,0 +1,88 @@
+{
+  "url": "https://london-tv.co.uk/trading-forex-online-in-2023/",
+  "timestamp": "2025-06-03T20:21:01.440524+00:00",
+  "screenshot_path": "data/outputs/screenshots/london-tv_co_uk_20250604_002106.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC. [Tag = GODADDY]",
+      "creation_date": "2017-11-29 00:00:00",
+      "expiration_date": "2030-11-29 00:00:00",
+      "name_servers": [
+        "ns03.domaincontrol.com",
+        "ns04.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "160.153.0.134"
+      ],
+      "mx_records": [
+        "0 smtp.secureserver.net.",
+        "10 mailstore1.secureserver.net."
+      ],
+      "txt_records": [
+        "\"google-site-verification=u49tER3lOgynfE0uhu5dkItVj2gpyx0tF0DCTqS7W_8\"",
+        "\"D5941087\""
+      ]
+    },
+    "age_days": 2743,
+    "registrar": "GoDaddy.com, LLC. [Tag = GODADDY]",
+    "name_servers": [
+      "ns03.domaincontrol.com",
+      "ns04.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "london-tv.co.uk"
+    },
+    "not_before": "2025-04-08T06:53:15",
+    "not_after": "2025-07-07T07:53:13",
+    "days_remaining": 33,
+    "san": [
+      "london-tv.co.uk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(17, 17, 17)",
+      "rgb(251, 251, 251)",
+      "rgb(253, 253, 253)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x4085",
+    "file_size_kb": 1027.88671875
+  }
+}

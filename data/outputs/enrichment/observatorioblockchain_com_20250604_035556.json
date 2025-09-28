@@ -1,0 +1,93 @@
+{
+  "url": "https://observatorioblockchain.com/branded-content/por-que-puede-ser-una-buena-idea-comprar-acciones-de-google-en-2024/",
+  "timestamp": "2025-06-03T23:55:34.833583+00:00",
+  "screenshot_path": "data/outputs/screenshots/observatorioblockchain_com_20250604_035552.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Arsys Internet, S.L. dba NICLINE.COM",
+      "creation_date": "2017-06-29 10:10:23",
+      "expiration_date": "2025-06-29 10:10:23",
+      "name_servers": [
+        "DNS45.SERVIDORESDNS.NET",
+        "DNS46.SERVIDORESDNS.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "217.76.132.196"
+      ],
+      "mx_records": [
+        "10 mx.serviciodecorreo.es."
+      ],
+      "txt_records": [
+        "\"2023020323280512arid93ym0o90ho5b85d5g79xv290390gx1pbr44wgzh4tix6\"",
+        "\"2024020603422810wsw4ayifzkue7mw6taycrcvpdlr1ezxnl2tta57jkaz2aw6d\"",
+        "\"v=spf1 include:_spf.serviciodecorreo.es ~all\""
+      ]
+    },
+    "age_days": 2896,
+    "registrar": "Arsys Internet, S.L. dba NICLINE.COM",
+    "name_servers": [
+      "DNS45.SERVIDORESDNS.NET",
+      "DNS46.SERVIDORESDNS.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "GB",
+      "stateOrProvinceName": "Greater Manchester",
+      "localityName": "Salford",
+      "organizationName": "Sectigo Limited",
+      "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+    },
+    "subject": {
+      "commonName": "observatorioblockchain.com"
+    },
+    "not_before": "2025-02-07T00:00:00",
+    "not_after": "2026-02-21T23:59:59",
+    "days_remaining": 262,
+    "san": [
+      "observatorioblockchain.com",
+      "www.observatorioblockchain.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(39, 39, 39)",
+      "rgb(238, 238, 238)",
+      "rgb(246, 246, 246)",
+      "rgb(241, 241, 241)"
+    ],
+    "image_dimensions": "1920x4999",
+    "file_size_kb": 938.6123046875
+  }
+}

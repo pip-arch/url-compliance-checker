@@ -1,0 +1,90 @@
+{
+  "url": "https://e-biurowce.pl/pl/info/artykul/7569/forex-w-2019-jak-sie-w-nim-odnalezc",
+  "timestamp": "2025-05-31T19:47:19.983027+00:00",
+  "screenshot_path": "data/outputs/screenshots/e-biurowce_pl_20250531_234728.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "OVH SAS",
+      "creation_date": "2008-09-22 15:05:43",
+      "expiration_date": "2025-09-22 15:05:43",
+      "name_servers": [
+        "dns112.ovh.net",
+        "ns112.ovh.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "51.68.139.195"
+      ],
+      "mx_records": [
+        "1 mail.e-biurowce.pl."
+      ],
+      "txt_records": [
+        "\"1|www.e-biurowce.pl\"",
+        "\"v=spf1 a mx include:spf.tld.pl -all\"",
+        "\"google-site-verification=ji9fivA0rBY3sXgCxihvdF4dv7vSQl2DtHA3wrNXtbk\""
+      ]
+    },
+    "age_days": 6095,
+    "registrar": "OVH SAS",
+    "name_servers": [
+      "dns112.ovh.net",
+      "ns112.ovh.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "www.e-biurowce.pl"
+    },
+    "not_before": "2025-05-12T19:44:05",
+    "not_after": "2025-08-10T19:44:04",
+    "days_remaining": 70,
+    "san": [
+      "e-biurowce.pl",
+      "www.e-biurowce.pl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.14.2"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(251, 251, 251)",
+      "rgb(253, 253, 253)",
+      "rgb(226, 226, 226)"
+    ],
+    "image_dimensions": "1920x3081",
+    "file_size_kb": 1336.27734375
+  }
+}

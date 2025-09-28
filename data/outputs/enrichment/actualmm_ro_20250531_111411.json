@@ -1,0 +1,81 @@
+{
+  "url": "https://actualmm.ro/care-este-relatia-ta-cu-banii-verifica-ti-profilul-psihologic-si-cum-iti-afecteaza-deciziile-de-economisire-si-investire-p/",
+  "timestamp": "2025-05-31T07:13:40.108059+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "TES Euro Media SRL",
+      "creation_date": "2011-07-26 00:00:00",
+      "expiration_date": "2025-09-01 00:00:00",
+      "name_servers": [
+        "ivan.ns.cloudflare.com",
+        "rose.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "49.12.35.173"
+      ],
+      "mx_records": [
+        "20 email.actualmm.ro."
+      ],
+      "txt_records": [
+        "\"google-site-verification=-ioDnKdnv-TPBOJ_c9Vd6Nyvkt4WxvNBXmpQZRSMdf4\"",
+        "\"v=spf1 +a +mx +ip4:49.12.35.173 ~all\""
+      ]
+    },
+    "age_days": 5058,
+    "registrar": "TES Euro Media SRL",
+    "name_servers": [
+      "ivan.ns.cloudflare.com",
+      "rose.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "actualmm.ro"
+    },
+    "not_before": "2025-04-03T00:19:41",
+    "not_after": "2025-07-02T00:19:40",
+    "days_remaining": 31,
+    "san": [
+      "actualmm.ro",
+      "mail.actualmm.ro",
+      "www.actualmm.ro"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

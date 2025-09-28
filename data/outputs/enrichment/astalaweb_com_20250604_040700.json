@@ -1,0 +1,90 @@
+{
+  "url": "http://astalaweb.com/Art/3-errores-que-perjudican-el-mercado-comercial-y-de-inversion.asp",
+  "timestamp": "2025-06-04T00:06:40.148257+00:00",
+  "screenshot_path": "data/outputs/screenshots/astalaweb_com_20250604_040659.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "NameSilo, LLC",
+      "creation_date": "[datetime.datetime(2002, 3, 14, 14, 37, 12), datetime.datetime(2002, 3, 14, 7, 0)]",
+      "expiration_date": "[datetime.datetime(2026, 3, 14, 13, 37, 12), datetime.datetime(2026, 3, 14, 7, 0)]",
+      "name_servers": [
+        "NS1.ASTALAWEB.COM",
+        "NS2.ASTALAWEB.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "216.158.90.132"
+      ],
+      "mx_records": [
+        "10 mail.astalaweb.com.",
+        "21 mail2.astalaweb.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 a mx -all\""
+      ]
+    },
+    "age_days": 8482,
+    "registrar": "NameSilo, LLC",
+    "name_servers": [
+      "NS1.ASTALAWEB.COM",
+      "NS2.ASTALAWEB.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "astalaweb.com"
+    },
+    "not_before": "2025-04-19T09:05:44",
+    "not_after": "2025-07-18T09:05:43",
+    "days_remaining": 44,
+    "san": [
+      "astalaweb.com",
+      "www.astalaweb.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Microsoft-IIS/10.0",
+    "Powered by: ASP.NET"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(246, 246, 246)",
+      "rgb(245, 245, 245)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x2260",
+    "file_size_kb": 952.9619140625
+  }
+}

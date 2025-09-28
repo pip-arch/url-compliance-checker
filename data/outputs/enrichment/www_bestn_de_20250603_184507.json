@@ -1,0 +1,87 @@
+{
+  "url": "https://www.bestn.de/krypto-welt-diese-kryptowaehrungen-werden-dem-markt-2022-ihren-stempel-aufdruecken/",
+  "timestamp": "2025-06-03T14:45:02.929436+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_bestn_de_20250603_184507.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns1.mainns.de",
+        "ns2.mainns.eu",
+        "ns3.mainns.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "38.242.214.168"
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns1.mainns.de",
+      "ns2.mainns.eu",
+      "ns3.mainns.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "bestn.de"
+    },
+    "not_before": "2025-04-11T05:24:27",
+    "not_after": "2025-07-10T05:24:26",
+    "days_remaining": 36,
+    "san": [
+      "bestn.de",
+      "www.bestn.de"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PleskLin",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(245, 245, 245)",
+      "rgb(254, 254, 254)",
+      "rgb(235, 235, 235)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x2701",
+    "file_size_kb": 617.490234375
+  }
+}

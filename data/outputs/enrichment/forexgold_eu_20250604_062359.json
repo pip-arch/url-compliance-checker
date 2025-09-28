@@ -1,0 +1,87 @@
+{
+  "url": "https://forexgold.eu/cfd-forex-trading/",
+  "timestamp": "2025-06-04T02:23:50.664428+00:00",
+  "screenshot_path": "data/outputs/screenshots/forexgold_eu_20250604_062358.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Spaceship, Inc.",
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": "ns2.dns-parking.com\n        ns1.dns-parking.com\n\nPlease visit www.eurid.eu for more info."
+    },
+    "dns": {
+      "a_records": [
+        "77.37.53.16"
+      ],
+      "mx_records": [
+        "5 mx1.hostinger.com.",
+        "10 mx2.hostinger.com."
+      ],
+      "txt_records": [
+        "\"ahrefs-site-verification_12baeb389256357e7e33905dc9e96369222262f9f7dcdfc8f1f1b21f576727a8\"",
+        "\"v=spf1 include:_spf.mail.hostinger.com ~all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": "Spaceship, Inc.",
+    "name_servers": "ns2.dns-parking.com\n        ns1.dns-parking.com\n\nPlease visit www.eurid.eu for more info."
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WR1"
+    },
+    "subject": {
+      "commonName": "forexgold.eu"
+    },
+    "not_before": "2025-05-21T05:57:49",
+    "not_after": "2025-08-19T05:57:48",
+    "days_remaining": 75,
+    "san": [
+      "forexgold.eu",
+      "www.forexgold.eu"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: hcdn",
+    "Powered by: PHP/8.1.31",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(252, 253, 253)",
+      "rgb(229, 231, 233)",
+      "rgb(230, 232, 234)"
+    ],
+    "image_dimensions": "1920x2383",
+    "file_size_kb": 1281.431640625
+  }
+}

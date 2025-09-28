@@ -1,0 +1,94 @@
+{
+  "url": "https://commission.academy/blog/best-forex-affiliate-programs/",
+  "timestamp": "2025-06-03T17:30:31.428115+00:00",
+  "screenshot_path": "data/outputs/screenshots/commission_academy_20250603_213037.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Mesh Digital Limited",
+      "creation_date": "2020-07-05 13:32:55",
+      "expiration_date": "2025-07-05 13:32:55",
+      "name_servers": [
+        "colette.ns.cloudflare.com",
+        "thaddeus.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.26.6.80",
+        "172.67.73.70",
+        "104.26.7.80"
+      ],
+      "mx_records": [
+        "10 in1-smtp.messagingengine.com.",
+        "20 in2-smtp.messagingengine.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=Mwy_XQ1NZy7t87bjsvkCOUeXOwhcQs0JS4V8nDjGhkM\"",
+        "\"v=spf1 +ip4:198.244.129.86 +include:send.aweber.com include:spf.messagingengine.com ~all\""
+      ]
+    },
+    "age_days": 1794,
+    "registrar": "Mesh Digital Limited",
+    "name_servers": [
+      "colette.ns.cloudflare.com",
+      "thaddeus.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "commission.academy"
+    },
+    "not_before": "2025-05-01T17:47:02",
+    "not_after": "2025-07-30T18:46:56",
+    "days_remaining": 56,
+    "san": [
+      "commission.academy",
+      "*.commission.academy"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(247, 248, 249)",
+      "rgb(255, 255, 255)",
+      "rgb(251, 251, 252)",
+      "rgb(234, 234, 234)",
+      "rgb(233, 233, 233)"
+    ],
+    "image_dimensions": "1920x9659",
+    "file_size_kb": 1517.533203125
+  }
+}

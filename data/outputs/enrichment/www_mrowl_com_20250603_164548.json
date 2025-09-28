@@ -1,0 +1,95 @@
+{
+  "url": "https://www.mrowl.com/community/in/personal_life/personal_finance/guides_and_advice",
+  "timestamp": "2025-06-03T12:45:39.690115+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_mrowl_com_20250603_164548.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(1999, 8, 10, 0, 3, 41), datetime.datetime(1999, 8, 9, 19, 3, 41)]",
+      "expiration_date": "[datetime.datetime(2029, 8, 10, 0, 3, 31), datetime.datetime(2029, 8, 9, 19, 3, 31)]",
+      "name_servers": [
+        "NS-1488.AWSDNS-58.ORG",
+        "NS-1724.AWSDNS-23.CO.UK",
+        "NS-188.AWSDNS-23.COM",
+        "NS-635.AWSDNS-15.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "52.42.229.137",
+        "35.85.13.37"
+      ],
+      "mx_records": [
+        "0 mrowl-com.mail.protection.outlook.com."
+      ],
+      "txt_records": [
+        "\"ip:216.184.8.60 ip4:216.184.2.0/24 -all\"",
+        "\"v=spf1 include:spf.protection.outlook.com ip4:216.184.20.0/27\""
+      ]
+    },
+    "age_days": 9429,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS-1488.AWSDNS-58.ORG",
+      "NS-1724.AWSDNS-23.CO.UK",
+      "NS-188.AWSDNS-23.COM",
+      "NS-635.AWSDNS-15.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Amazon",
+      "commonName": "Amazon RSA 2048 M03"
+    },
+    "subject": {
+      "commonName": "mrowl.com"
+    },
+    "not_before": "2024-10-12T00:00:00",
+    "not_after": "2025-11-10T23:59:59",
+    "days_remaining": 160,
+    "san": [
+      "mrowl.com",
+      "*.mrowl.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache-Coyote/1.1",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(238, 238, 238)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x1525",
+    "file_size_kb": 331.5478515625
+  }
+}

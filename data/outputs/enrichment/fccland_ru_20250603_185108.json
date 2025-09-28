@@ -1,0 +1,90 @@
+{
+  "url": "https://fccland.ru/novosti/4194-pravila-torgovli-o-kotoryh-vam-ne-rasskazhut-uspeshnye-treydery-forex.html",
+  "timestamp": "2025-06-03T14:51:02.999311+00:00",
+  "screenshot_path": "data/outputs/screenshots/fccland_ru_20250603_185108.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "AXELNAME-RU",
+      "creation_date": "2016-02-02 14:06:57",
+      "expiration_date": "2026-02-02 14:06:57",
+      "name_servers": [
+        "ns1.firstvds.ru.",
+        "ns2.firstvds.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "103.54.16.245"
+      ],
+      "mx_records": [
+        "20 mail.fccland.ru.",
+        "10 mail.fccland.ru."
+      ],
+      "txt_records": [
+        "\"google-site-verification=qbOEn9DLR6AJgtx1YJ4JlGW-5a2ygE4Y1xa9L6LExZI\""
+      ]
+    },
+    "age_days": 3409,
+    "registrar": "AXELNAME-RU",
+    "name_servers": [
+      "ns1.firstvds.ru.",
+      "ns2.firstvds.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "fccland.ru"
+    },
+    "not_before": "2025-04-13T14:51:46",
+    "not_after": "2025-07-12T14:51:45",
+    "days_remaining": 38,
+    "san": [
+      "fccland.ru",
+      "www.fccland.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx/1.26.2",
+    "Powered by: PHP/7.2.34"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(217, 217, 217)",
+      "rgb(218, 218, 218)",
+      "rgb(219, 219, 219)",
+      "rgb(216, 216, 216)"
+    ],
+    "image_dimensions": "1920x2658",
+    "file_size_kb": 1303.056640625
+  }
+}

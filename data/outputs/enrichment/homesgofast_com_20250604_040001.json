@@ -1,0 +1,96 @@
+{
+  "url": "https://homesgofast.com/pt/moeda/isso-ir%C3%A1-acelerar-sua-jornada-at%C3%A9-a-casa-dos-seus-sonhos/",
+  "timestamp": "2025-06-03T23:59:48.516893+00:00",
+  "screenshot_path": "data/outputs/screenshots/homesgofast_com_20250604_035958.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2004, 5, 2, 18, 48, 58), datetime.datetime(2004, 5, 2, 13, 48, 58)]",
+      "expiration_date": "[datetime.datetime(2026, 5, 2, 18, 48, 58), datetime.datetime(2026, 5, 2, 13, 48, 58)]",
+      "name_servers": [
+        "ALEC.NS.CLOUDFLARE.COM",
+        "BETTY.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.21.48.1",
+        "104.21.64.1",
+        "104.21.32.1",
+        "104.21.96.1",
+        "104.21.112.1",
+        "104.21.80.1",
+        "104.21.16.1"
+      ],
+      "mx_records": [
+        "1 aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 alt4.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com."
+      ]
+    },
+    "age_days": 7702,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ALEC.NS.CLOUDFLARE.COM",
+      "BETTY.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "homesgofast.com"
+    },
+    "not_before": "2025-04-09T20:14:53",
+    "not_after": "2025-07-08T21:12:17",
+    "days_remaining": 34,
+    "san": [
+      "homesgofast.com",
+      "*.homesgofast.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Powered by: PHP/8.2.28, PHP/8.2.28, PleskLin",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "CSP"
+    ],
+    "headers_missing": [
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(0, 0, 0)",
+      "rgb(251, 251, 251)",
+      "rgb(230, 230, 230)",
+      "rgb(229, 229, 229)"
+    ],
+    "image_dimensions": "1920x10787",
+    "file_size_kb": 1723.2578125
+  }
+}

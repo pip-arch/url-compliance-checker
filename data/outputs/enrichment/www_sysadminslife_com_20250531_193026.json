@@ -1,0 +1,86 @@
+{
+  "url": "https://www.sysadminslife.com/magazin/top-finanzapps-fuer-den-computer/",
+  "timestamp": "2025-05-31T15:30:18.787258+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_sysadminslife_com_20250531_193025.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Hetzner Online GmbH",
+      "creation_date": "2009-02-19 16:45:06",
+      "expiration_date": "2026-02-19 16:45:06",
+      "name_servers": [
+        "NS1.FIRST-NS.DE",
+        "ROBOTNS2.SECOND-NS.DE",
+        "ROBOTNS3.SECOND-NS.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "157.90.205.248"
+      ]
+    },
+    "age_days": 5944,
+    "registrar": "Hetzner Online GmbH",
+    "name_servers": [
+      "NS1.FIRST-NS.DE",
+      "ROBOTNS2.SECOND-NS.DE",
+      "ROBOTNS3.SECOND-NS.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "sysadminslife.com"
+    },
+    "not_before": "2025-04-29T10:08:06",
+    "not_after": "2025-07-28T10:08:05",
+    "days_remaining": 57,
+    "san": [
+      "sysadminslife.com",
+      "www.sysadminslife.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(246, 246, 246)",
+      "rgb(172, 172, 172)",
+      "rgb(247, 247, 247)",
+      "rgb(171, 171, 171)"
+    ],
+    "image_dimensions": "1920x2580",
+    "file_size_kb": 1145.615234375
+  }
+}

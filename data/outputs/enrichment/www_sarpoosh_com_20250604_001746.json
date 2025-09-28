@@ -1,0 +1,83 @@
+{
+  "url": "https://www.sarpoosh.com/gold-currency/gold-news/gold-news1403070618.html",
+  "timestamp": "2025-06-03T20:17:39.408122+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_sarpoosh_com_20250604_001745.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "CSL Computer Service Langenbach GmbH d/b/a joker.com",
+      "creation_date": "2013-06-14 10:04:05",
+      "expiration_date": "2025-06-14 10:04:05",
+      "name_servers": [
+        "ELIAS.NS.CLOUDFLARE.COM",
+        "ZAINAB.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.163.216",
+        "104.21.73.158"
+      ]
+    },
+    "age_days": 4372,
+    "registrar": "CSL Computer Service Langenbach GmbH d/b/a joker.com",
+    "name_servers": [
+      "ELIAS.NS.CLOUDFLARE.COM",
+      "ZAINAB.NS.CLOUDFLARE.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "sarpoosh.com"
+    },
+    "not_before": "2025-05-12T07:16:54",
+    "not_after": "2025-08-10T08:15:09",
+    "days_remaining": 67,
+    "san": [
+      "sarpoosh.com",
+      "*.sarpoosh.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 33.33333333333333,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(253, 253, 253)",
+      "rgb(250, 250, 250)",
+      "rgb(252, 252, 252)"
+    ],
+    "image_dimensions": "1920x8713",
+    "file_size_kb": 1719.177734375
+  }
+}

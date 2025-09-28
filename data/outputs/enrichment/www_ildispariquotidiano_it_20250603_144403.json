@@ -1,0 +1,80 @@
+{
+  "url": "https://www.ildispariquotidiano.it/it/ecco-la-vera-comprensione-della-leva-del-forex/",
+  "timestamp": "2025-06-03T10:43:50.372613+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_ildispariquotidiano_it_20250603_144402.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Aruba s.p.a.",
+      "creation_date": "2014-09-13 06:25:05",
+      "expiration_date": "2025-09-13 00:00:00",
+      "name_servers": "dns.technorail.com\n  dns2.technorail.com\n  dns3.arubadns.net\n  dns4.arubadns.cz"
+    },
+    "dns": {
+      "a_records": [
+        "89.46.109.29"
+      ]
+    },
+    "age_days": 3916,
+    "registrar": "Aruba s.p.a.",
+    "name_servers": "dns.technorail.com\n  dns2.technorail.com\n  dns3.arubadns.net\n  dns4.arubadns.cz"
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "IT",
+      "stateOrProvinceName": "Bergamo",
+      "localityName": "Ponte San Pietro",
+      "organizationName": "Actalis S.p.A.",
+      "commonName": "Actalis Domain Validation Server CA G3"
+    },
+    "subject": {
+      "commonName": "*.ildispariquotidiano.it"
+    },
+    "not_before": "2024-09-01T06:10:55",
+    "not_after": "2025-10-02T06:10:54",
+    "days_remaining": 120,
+    "san": [
+      "*.ildispariquotidiano.it",
+      "ildispariquotidiano.it"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: aruba-proxy",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(225, 225, 225)",
+      "rgb(226, 226, 226)",
+      "rgb(227, 227, 227)",
+      "rgb(228, 228, 228)"
+    ],
+    "image_dimensions": "1920x8301",
+    "file_size_kb": 3610.0341796875
+  }
+}

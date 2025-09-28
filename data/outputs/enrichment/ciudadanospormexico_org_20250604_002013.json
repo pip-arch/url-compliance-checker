@@ -1,0 +1,96 @@
+{
+  "url": "https://ciudadanospormexico.org/aprendiendo-el-arte-del-trading-con-jaime-merino/",
+  "timestamp": "2025-06-03T20:20:00.068877+00:00",
+  "screenshot_path": "data/outputs/screenshots/ciudadanospormexico_org_20250604_002012.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2018-07-05 17:16:38",
+      "expiration_date": "2027-07-05 17:16:38",
+      "name_servers": [
+        "ns63.domaincontrol.com",
+        "ns64.domaincontrol.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "34.122.104.211"
+      ],
+      "mx_records": [
+        "10 aspmx3.googlemail.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "10 aspmx2.googlemail.com.",
+        "5 alt2.aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=QeulG3U9XIrcIBQoamMkcApM8d_K1BdikxOXTNeLgCY\"",
+        "\"v=spf1 include:_spf.google.com ~all\""
+      ]
+    },
+    "age_days": 2525,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ns63.domaincontrol.com",
+      "ns64.domaincontrol.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "ciudadanospormexico.org"
+    },
+    "not_before": "2025-03-28T00:41:30",
+    "not_after": "2025-06-26T00:41:29",
+    "days_remaining": 22,
+    "san": [
+      "ciudadanospormexico.org"
+    ],
+    "issues": [
+      "Certificate expires in 22 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(238, 238, 238)",
+      "rgb(34, 34, 34)",
+      "rgb(248, 248, 248)",
+      "rgb(237, 237, 237)"
+    ],
+    "image_dimensions": "1920x4879",
+    "file_size_kb": 1528.986328125
+  }
+}

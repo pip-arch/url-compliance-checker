@@ -1,0 +1,90 @@
+{
+  "url": "https://missmillmag.com/forex-platforms/",
+  "timestamp": "2025-06-03T09:41:55.760902+00:00",
+  "screenshot_path": "data/outputs/screenshots/missmillmag_com_20250603_134205.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "DYNADOT LLC",
+      "creation_date": "2011-03-09 20:41:17",
+      "expiration_date": "2026-03-09 19:41:17",
+      "name_servers": [
+        "NS1.DYNA-NS.NET",
+        "NS2.DYNA-NS.NET"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "31.220.51.48"
+      ],
+      "mx_records": [
+        "5 mx1.hostinger.com.",
+        "10 mx2.hostinger.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.mail.hostinger.com ~all\""
+      ]
+    },
+    "age_days": 5199,
+    "registrar": "DYNADOT LLC",
+    "name_servers": [
+      "NS1.DYNA-NS.NET",
+      "NS2.DYNA-NS.NET"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "missmillmag.com"
+    },
+    "not_before": "2025-03-29T04:16:47",
+    "not_after": "2025-06-27T04:16:46",
+    "days_remaining": 23,
+    "san": [
+      "missmillmag.com",
+      "www.missmillmag.com"
+    ],
+    "issues": [
+      "Certificate expires in 23 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 66.66666666666666,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(247, 246, 243)",
+      "rgb(254, 254, 254)",
+      "rgb(249, 248, 246)",
+      "rgb(253, 253, 253)"
+    ],
+    "image_dimensions": "1920x12798",
+    "file_size_kb": 1883.6298828125
+  }
+}

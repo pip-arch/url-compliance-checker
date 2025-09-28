@@ -1,0 +1,80 @@
+{
+  "url": "http://www.kianews.com.ua/ekonoik/pamm-scheta-ili-hayp-proekty",
+  "timestamp": "2025-05-31T20:45:42.028630+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_kianews_com_ua_20250601_004548.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "\u0422\u041e\u0412 \"\u0420\u0415\u0414\u0416\u0415\u0420\u0406 \u0423\u041a\u0420\u0410\u0407\u041d\u0410\"",
+      "creation_date": "['2008-02-22 19:01:54+02', '2024-11-23 16:00:28+02']",
+      "expiration_date": "2026-02-22 19:01:54+02",
+      "name_servers": [
+        "ns1.regery.net",
+        "ns2.regery.net",
+        "ns3.regery.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "62.152.56.195"
+      ]
+    },
+    "age_days": null,
+    "registrar": "\u0422\u041e\u0412 \"\u0420\u0415\u0414\u0416\u0415\u0420\u0406 \u0423\u041a\u0420\u0410\u0407\u041d\u0410\"",
+    "name_servers": [
+      "ns1.regery.net",
+      "ns2.regery.net",
+      "ns3.regery.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": false,
+    "issuer": null,
+    "subject": null,
+    "not_before": null,
+    "not_after": null,
+    "days_remaining": null,
+    "san": [],
+    "issues": [
+      "SSL Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kianews.com.ua'. (_ssl.c:1129)"
+    ]
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/5.5.9-1ubuntu4.29",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(26, 31, 37)",
+      "rgb(204, 204, 204)",
+      "rgb(202, 202, 202)",
+      "rgb(250, 250, 250)"
+    ],
+    "image_dimensions": "1920x1420",
+    "file_size_kb": 396.462890625
+  }
+}

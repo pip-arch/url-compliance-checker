@@ -1,0 +1,90 @@
+{
+  "url": "https://cursus-beleggen.rmdplay.nl/",
+  "timestamp": "2025-06-04T03:46:35.936990+00:00",
+  "screenshot_path": "data/outputs/screenshots/cursus-beleggen_rmdplay_nl_20250604_074643.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "mijn.host",
+      "creation_date": "2018-01-14 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "josh.ns.cloudflare.com",
+        "liv.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "94.23.65.192"
+      ]
+    },
+    "age_days": 2698,
+    "registrar": "mijn.host",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "josh.ns.cloudflare.com",
+      "liv.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "rmdplay.nl"
+    },
+    "not_before": "2025-04-28T23:50:52",
+    "not_after": "2025-07-27T23:50:51",
+    "days_remaining": 53,
+    "san": [
+      "*.rmdplay.nl",
+      "rmdplay.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Powered by: PHP/7.3.33",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(2, 109, 187)",
+      "rgb(254, 254, 254)",
+      "rgb(0, 105, 185)",
+      "rgb(0, 107, 186)"
+    ],
+    "image_dimensions": "1920x1186",
+    "file_size_kb": 160.3779296875
+  }
+}

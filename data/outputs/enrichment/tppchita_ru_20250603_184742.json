@@ -1,0 +1,90 @@
+{
+  "url": "http://tppchita.ru/formy-realnogo-investirovaniya-foreks",
+  "timestamp": "2025-06-03T14:47:33.240133+00:00",
+  "screenshot_path": "data/outputs/screenshots/tppchita_ru_20250603_184741.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "REGRU-RU",
+      "creation_date": "2016-10-13 14:08:34",
+      "expiration_date": "2025-10-13 14:08:34",
+      "name_servers": [
+        "ns1.fozzy.ru.",
+        "ns2.fozzy.ru."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "88.212.232.60"
+      ],
+      "mx_records": [
+        "0 tppchita.ru."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:88.212.232.60 +a +mx +ip4:78.140.140.250 ~all\""
+      ]
+    },
+    "age_days": 3155,
+    "registrar": "REGRU-RU",
+    "name_servers": [
+      "ns1.fozzy.ru.",
+      "ns2.fozzy.ru."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "*.tppchita.ru"
+    },
+    "not_before": "2025-04-15T20:41:15",
+    "not_after": "2025-07-14T20:41:14",
+    "days_remaining": 41,
+    "san": [
+      "*.tppchita.ru",
+      "tppchita.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: LiteSpeed",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(229, 229, 229)",
+      "rgb(230, 230, 230)",
+      "rgb(231, 231, 231)",
+      "rgb(228, 228, 228)"
+    ],
+    "image_dimensions": "1920x4402",
+    "file_size_kb": 2196.1904296875
+  }
+}

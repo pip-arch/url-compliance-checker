@@ -1,0 +1,76 @@
+{
+  "url": "https://www.geektown.co.uk/2018/05/10/anyone-can-earn-some-extra-cash-by-taking-on-the-forex-markets/",
+  "timestamp": "2025-06-03T06:43:32.303015+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "123-Reg Limited t/a 123-reg [Tag = 123-REG]",
+      "creation_date": "2006-11-28 00:00:00",
+      "expiration_date": "2025-11-28 00:00:00",
+      "name_servers": [
+        "ns1.kualo.net",
+        "ns2.kualo.net",
+        "ns3.kualo.net",
+        "ns4.kualo.net"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.72.67",
+        "104.26.8.48",
+        "104.26.9.48"
+      ]
+    },
+    "age_days": 6762,
+    "registrar": "123-Reg Limited t/a 123-reg [Tag = 123-REG]",
+    "name_servers": [
+      "ns1.kualo.net",
+      "ns2.kualo.net",
+      "ns3.kualo.net",
+      "ns4.kualo.net"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "www.geektown.co.uk"
+    },
+    "not_before": "2025-05-21T22:37:30",
+    "not_after": "2025-08-19T23:37:25",
+    "days_remaining": 77,
+    "san": [
+      "www.geektown.co.uk"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "CSP",
+      "XSS Protection"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing CSP header",
+      "Missing XSS Protection header"
+    ]
+  },
+  "visual_analysis": {}
+}

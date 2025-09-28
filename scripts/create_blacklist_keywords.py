@@ -1,0 +1,49 @@
+#!/usr/bin/env python3
+"""Create the blacklist keywords CSV file."""
+
+import csv
+
+keywords_data = [
+    ["keyword", "category", "severity"],
+    ["guaranteed profit", "misleading_claim", "high"],
+    ["risk free", "misleading_claim", "high"],
+    ["no loss", "misleading_claim", "high"],
+    ["100% success", "misleading_claim", "high"],
+    ["always profitable", "misleading_claim", "high"],
+    ["special offer", "unauthorized_offer", "medium"],
+    ["exclusive bonus", "unauthorized_offer", "medium"],
+    ["deposit bonus", "unauthorized_offer", "medium"],
+    ["free money", "unauthorized_offer", "medium"],
+    ["official partner", "false_representation", "high"],
+    ["endorsed by", "false_representation", "high"],
+    ["approved by", "false_representation", "high"],
+    ["regulated by", "false_representation", "high"],
+    ["unregulated", "regulatory_issue", "critical"],
+    ["offshore", "regulatory_issue", "critical"],
+    ["tax free", "regulatory_issue", "critical"],
+    ["evade taxes", "regulatory_issue", "critical"],
+    ["get rich quick", "inappropriate_marketing", "medium"],
+    ["easy money", "inappropriate_marketing", "medium"],
+    ["fast cash", "inappropriate_marketing", "medium"],
+    ["trading secrets", "inappropriate_marketing", "medium"],
+    ["guaranteed investment", "investment_guarantee", "high"],
+    ["risk-free investment", "investment_guarantee", "high"],
+    ["assured returns", "investment_guarantee", "high"],
+    ["unlimited leverage", "leverage_misrepresentation", "high"],
+    ["no margin call", "leverage_misrepresentation", "high"],
+    ["double your money", "unrealistic_returns", "high"],
+    ["triple your investment", "unrealistic_returns", "high"],
+    ["1000% profit", "unrealistic_returns", "high"],
+    ["no KYC", "regulated_products_misuse", "critical"],
+    ["anonymous trading", "regulated_products_misuse", "critical"],
+    ["bypass verification", "regulated_products_misuse", "critical"],
+    ["hidden fees", "no_risk_disclosure", "high"],
+    ["undisclosed commissions", "no_risk_disclosure", "high"],
+    ["secret costs", "no_risk_disclosure", "high"]
+]
+
+with open("Blacklist keywords.csv", "w", newline="", encoding="utf-8") as f:
+    writer = csv.writer(f)
+    writer.writerows(keywords_data)
+
+print("Created Blacklist keywords.csv with", len(keywords_data) - 1, "keywords") 

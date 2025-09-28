@@ -1,0 +1,90 @@
+{
+  "url": "https://hikaku.xvs.jp/?p=132612",
+  "timestamp": "2025-06-03T11:46:02.730160+00:00",
+  "screenshot_path": "data/outputs/screenshots/hikaku_xvs_jp_20250603_154611.png",
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": "2013-03-07 00:00:00",
+      "expiration_date": "2026-03-31 00:00:00",
+      "name_servers": [
+        "ns1.value-domain.com",
+        "ns2.value-domain.com",
+        "ns3.value-domain.com",
+        "ns4.value-domain.com",
+        "ns5.value-domain.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "157.7.184.16"
+      ]
+    },
+    "age_days": 4471,
+    "registrar": null,
+    "name_servers": [
+      "ns1.value-domain.com",
+      "ns2.value-domain.com",
+      "ns3.value-domain.com",
+      "ns4.value-domain.com",
+      "ns5.value-domain.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "hikaku.xvs.jp"
+    },
+    "not_before": "2025-04-13T06:25:18",
+    "not_after": "2025-07-12T06:25:17",
+    "days_remaining": 38,
+    "san": [
+      "hikaku.xvs.jp"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: React",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(244, 244, 244)",
+      "rgb(255, 255, 255)",
+      "rgb(254, 254, 254)",
+      "rgb(32, 37, 41)",
+      "rgb(251, 251, 251)"
+    ],
+    "image_dimensions": "1920x3346",
+    "file_size_kb": 377.8349609375
+  }
+}

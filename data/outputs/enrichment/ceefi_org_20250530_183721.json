@@ -1,0 +1,86 @@
+{
+  "url": "https://ceefi.org/becas-de-formacion-por-patrocinio/",
+  "timestamp": "2025-05-30T14:37:07.438449+00:00",
+  "screenshot_path": "data/outputs/screenshots/ceefi_org_20250530_183721.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "2018-03-09 12:58:10",
+      "expiration_date": "2027-03-09 12:58:10",
+      "name_servers": [
+        "ns1.dns-parking.com",
+        "ns2.dns-parking.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "93.127.179.210"
+      ],
+      "mx_records": [
+        "5 mx1.hostinger.com.",
+        "10 mx2.hostinger.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:_spf.mail.hostinger.com ~all\""
+      ]
+    },
+    "age_days": 2639,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "ns1.dns-parking.com",
+      "ns2.dns-parking.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "ceefi.org"
+    },
+    "not_before": "2025-04-16T13:31:11",
+    "not_after": "2025-07-15T13:31:10",
+    "days_remaining": 45,
+    "san": [
+      "ceefi.org"
+    ],
+    "issues": []
+  },
+  "technology_stack": [],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(24, 24, 24)",
+      "rgb(27, 36, 52)",
+      "rgb(32, 32, 32)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x3499",
+    "file_size_kb": 1337.01953125
+  }
+}

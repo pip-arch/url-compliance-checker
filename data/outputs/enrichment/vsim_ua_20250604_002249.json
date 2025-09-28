@@ -1,0 +1,77 @@
+{
+  "url": "https://vsim.ua/novini-kompanij/tochka-zoru-scho-zavazhae-treyderu-pratsyuvati-na-rinku-foreks-10668144.html",
+  "timestamp": "2025-06-03T20:22:18.296470+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "\u0422\u041e\u0412 \"\u041e\u041d-\u041b\u0410\u0419\u041d\"",
+      "creation_date": "['2008-10-01 16:37:15+03', '2014-03-21 15:58:47+02']",
+      "expiration_date": "2025-10-01 16:37:14+03",
+      "name_servers": [
+        "faye.ns.cloudflare.com",
+        "sergi.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "172.67.210.1",
+        "104.21.58.237"
+      ],
+      "txt_records": [
+        "\"admitad-verification: 3d010193cb\"",
+        "\"v=spf1 include:mxsmtp.sendpulse.com +a +mx ~all\"",
+        "\"google-site-verification=cwyBIUUhdX8Oq9KjPxsplDr9j5tjnALbpxZ-DPYpLvY\""
+      ]
+    },
+    "age_days": null,
+    "registrar": "\u0422\u041e\u0412 \"\u041e\u041d-\u041b\u0410\u0419\u041d\"",
+    "name_servers": [
+      "faye.ns.cloudflare.com",
+      "sergi.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "vsim.ua"
+    },
+    "not_before": "2025-04-17T03:28:35",
+    "not_after": "2025-07-16T04:25:53",
+    "days_remaining": 42,
+    "san": [
+      "vsim.ua",
+      "*.vsim.ua"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

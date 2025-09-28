@@ -1,0 +1,347 @@
+#!/usr/bin/env python3
+"""
+Direct URL analyzer that uses OpenAI API without OpenRouter.
+This script completely bypasses OpenRouter and uses OpenAI directly.
+"""
+import os
+import asyncio
+import logging
+import time
+from datetime import datetime
+import csv
+from urllib.parse import urlparse
+from dotenv import load_dotenv
+import openai
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s [%(levelname)s] %(message)s',
+    handlers=[
+        logging.FileHandler("data/direct_analysis.log"),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
+
+# OpenAI API key from command line for security
+OPENAI_API_KEY = "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"
+
+# Configure OpenAI client
+client = openai.OpenAI(api_key=OPENAI_API_KEY)
+
+async def analyze_url_with_openai(url_content):
+    """Analyze URL content using OpenAI API directly."""
+    from app.models.report import URLCategory, AIAnalysisResult
+    
+    try:
+        # Extract text for analysis
+        text = url_content.title or ""
+        if hasattr(url_content, 'mentions') and url_content.mentions:
+            for mention in url_content.mentions:
+                text += " " + mention.context_before + " " + mention.text + " " + mention.context_after
+        
+        url = url_content.url
+        
+        # Prepare prompt for analysis
+        system_prompt = """You are a compliance analysis expert for financial websites. 
+        Analyze the provided URL content for compliance issues and categorize it appropriately.
+        Focus on identifying issues related to financial regulation, misleading claims, scams, or other problematic content.
+        """
+        
+        user_prompt = f"""URL: {url}
+        
+        Content:
+        {text[:8000]}  # Limit content length
+        
+        Please analyze this content for compliance issues. If you find concerning issues, categorize it as BLACKLIST.
+        Otherwise, categorize it as UNKNOWN.
+        
+        Provide your analysis in the following format:
+        Category: [BLACKLIST or UNKNOWN]
+        Confidence: [0-100]
+        Explanation: [Brief explanation of your decision]
+        Compliance Issues: [List specific compliance issues if any]
+        """
+        
+        # Make API call
+        response = await asyncio.to_thread(
+            client.chat.completions.create,
+            model="gpt-4-turbo",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ],
+            temperature=0.1,
+        )
+        
+        # Parse response
+        if response and response.choices and len(response.choices) > 0:
+            try:
+                content = response.choices[0].message.content
+                logger.debug(f"OpenAI response content: {content[:500]}...")
+                
+                # Extract category
+                category_line = [line for line in content.split('\n') if line.startswith('Category:')]
+                if not category_line:
+                    logger.error(f"Category not found in response: {content[:500]}...")
+                    raise ValueError("Category field missing from OpenAI response")
+                category_text = category_line[0].split(':', 1)[1].strip() if category_line else "UNKNOWN"
+                
+                # Extract confidence
+                confidence_line = [line for line in content.split('\n') if line.startswith('Confidence:')]
+                if not confidence_line:
+                    logger.warning(f"Confidence not found in response, using default 50: {content[:500]}...")
+                    confidence = 50
+                else:
+                    confidence_text = confidence_line[0].split(':', 1)[1].strip()
+                    try:
+                        confidence = int(confidence_text)
+                    except (ValueError, TypeError) as e:
+                        logger.warning(f"Failed to parse confidence value '{confidence_text}': {str(e)}")
+                        confidence = 50
+                
+                # Extract explanation
+                explanation_line = [line for line in content.split('\n') if line.startswith('Explanation:')]
+                explanation = explanation_line[0].split(':', 1)[1].strip() if explanation_line else ""
+                if not explanation and "BLACKLIST" in category_text.upper():
+                    explanation = "Content appears to violate compliance standards"
+                
+                # Extract compliance issues
+                issues_line = [line for line in content.split('\n') if line.startswith('Compliance Issues:')]
+                issues_text = issues_line[0].split(':', 1)[1].strip() if issues_line else ""
+                compliance_issues = [issue.strip() for issue in issues_text.split(',') if issue.strip()]
+                
+                # Map category text to enum
+                if "BLACKLIST" in category_text.upper():
+                    category = URLCategory.BLACKLIST
+                else:
+                    category = URLCategory.UNKNOWN
+                
+                # Create and return result object
+                return AIAnalysisResult(
+                    model="openai-gpt-4-turbo",
+                    category=category,
+                    confidence=confidence,
+                    explanation=explanation,
+                    compliance_issues=compliance_issues
+                )
+            except Exception as parsing_error:
+                logger.error(f"Error parsing OpenAI response: {str(parsing_error)}, Response: {content[:500] if 'content' in locals() else 'No content'}")
+                raise ValueError(f"Failed to parse OpenAI response: {str(parsing_error)}")
+        
+        logger.error(f"Invalid response from OpenAI: {response}")
+        return None
+    
+    except Exception as e:
+        logger.error(f"Error in OpenAI analysis: {str(e)}")
+        return None
+
+async def process_pinecone_urls(skip_first=0, max_urls=100):
+    """Process URLs from Pinecone using direct OpenAI integration."""
+    # Import modules
+    from app.services.vector_db import pinecone_service
+    from app.models.report import URLCategory
+    import os
+    
+    logger.info(f"Starting direct URL analysis with OpenAI (skipping first {skip_first}, processing up to {max_urls})")
+    
+    # Ensure Pinecone service is initialized
+    if not pinecone_service.is_initialized:
+        logger.error("Pinecone service not initialized")
+        return
+    
+    # Get a batch of URLs from Pinecone
+    try:
+        # Get total count first
+        stats = pinecone_service.index.describe_index_stats()
+        total_count = stats.total_vector_count if hasattr(stats, "total_vector_count") else 0
+        logger.info(f"Total vectors in Pinecone: {total_count}")
+        
+        if skip_first >= total_count:
+            logger.error(f"Skip count ({skip_first}) exceeds total URL count ({total_count})")
+            return
+            
+        # Create a batch ID for this analysis
+        batch_id = f"direct_analysis_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
+        
+        # Set up a blacklist file path for adding new entries
+        blacklist_file = "data/tmp/blacklist_consolidated.csv"
+        
+        # Create the file with headers if it doesn't exist
+        if not os.path.exists(blacklist_file):
+            os.makedirs(os.path.dirname(blacklist_file), exist_ok=True)
+            with open(blacklist_file, "w", newline='') as f:
+                writer = csv.writer(f)
+                writer.writerow(["URL", "Main Domain", "Reason", "Confidence", "Category", "Compliance Issues", "Batch ID", "Timestamp"])
+        
+        # Load existing blacklisted URLs to avoid duplicates
+        existing_blacklisted = set()
+        try:
+            with open(blacklist_file, "r", newline='') as f:
+                reader = csv.reader(f)
+                # Skip header
+                next(reader)
+                for row in reader:
+                    if row and len(row) > 0:
+                        url = row[0].strip()
+                        if url and url.startswith("http"):
+                            existing_blacklisted.add(url)
+            logger.info(f"Loaded {len(existing_blacklisted)} existing blacklisted URLs")
+        except Exception as e:
+            logger.error(f"Error loading existing blacklisted URLs: {e}")
+        
+        # Fetch all URLs at once
+        logger.info(f"Querying Pinecone for URLs...")
+        all_results = await pinecone_service.search_similar_content(
+            "url website internet", 
+            top_k=total_count  # Get as many as possible
+        )
+        
+        logger.info(f"Got {len(all_results)} total results from Pinecone")
+        
+        # Skip the first N and limit to max_urls
+        results_to_process = all_results[skip_first:skip_first + max_urls]
+        logger.info(f"Processing {len(results_to_process)} URLs")
+        
+        # Process URLs
+        total_processed = 0
+        total_blacklisted = 0
+        total_skipped = 0
+        new_blacklisted_urls = []
+        start_time = time.time()
+        
+        # Process in batches to avoid memory issues
+        batch_size = 10
+        for i in range(0, len(results_to_process), batch_size):
+            batch = results_to_process[i:i + batch_size]
+            batch_analyzed = 0
+            batch_blacklisted = 0
+            batch_skipped = 0
+            
+            for result in batch:
+                # Extract URL from result
+                url = result.get("url", "")
+                
+                if not url or not url.startswith("http"):
+                    logger.warning(f"Invalid URL in Pinecone: {url}")
+                    continue
+                
+                # Skip if already blacklisted
+                if url in existing_blacklisted:
+                    logger.info(f"Skipping already blacklisted URL: {url}")
+                    batch_skipped += 1
+                    total_skipped += 1
+                    continue
+                
+                # Get content from result
+                content = result.get("text", "")
+                
+                # Create content object for analysis
+                from app.models.url import URLContent, URLContentMatch
+                
+                # Create content with empty mentions
+                url_content = URLContent(
+                    url=url,
+                    title=result.get("title", ""),
+                    content=content,
+                    mentions=[]
+                )
+                
+                # Add text as URLContentMatch if we have content
+                if content:
+                    match = URLContentMatch(
+                        text=content,
+                        position=0,
+                        context_before=result.get("context_before", ""),
+                        context_after=result.get("context_after", ""),
+                        embedding_id="direct_analysis"
+                    )
+                    url_content.mentions.append(match)
+                
+                try:
+                    # Analyze content with OpenAI directly
+                    logger.info(f"Analyzing URL with OpenAI: {url}")
+                    analysis_result = await analyze_url_with_openai(url_content)
+                    
+                    # Check if blacklisted
+                    if analysis_result and analysis_result.category == URLCategory.BLACKLIST:
+                        logger.info(f"Blacklisted URL: {url}")
+                        batch_blacklisted += 1
+                        total_blacklisted += 1
+                        
+                        # Extract domain
+                        domain = urlparse(url).netloc
+                        
+                        # Create a new blacklist entry
+                        new_entry = {
+                            "URL": url,
+                            "Main Domain": domain,
+                            "Reason": analysis_result.explanation,
+                            "Confidence": analysis_result.confidence,
+                            "Category": "URLCategory.BLACKLIST",
+                            "Compliance Issues": ",".join(analysis_result.compliance_issues),
+                            "Batch ID": batch_id,
+                            "Timestamp": datetime.now().isoformat()
+                        }
+                        
+                        new_blacklisted_urls.append(new_entry)
+                    
+                    batch_analyzed += 1
+                    total_processed += 1
+                    
+                except Exception as e:
+                    logger.error(f"Error analyzing URL {url}: {e}")
+            
+            # Report progress at the end of each batch
+            elapsed = time.time() - start_time
+            urls_per_second = total_processed / elapsed if elapsed > 0 else 0
+            remaining_urls = len(results_to_process) - total_processed - total_skipped
+            est_remaining_time = remaining_urls / urls_per_second if urls_per_second > 0 else 0
+            
+            logger.info(f"Batch progress: {batch_analyzed} URLs analyzed, {batch_blacklisted} blacklisted, {batch_skipped} skipped")
+            logger.info(f"Overall progress: {total_processed}/{len(results_to_process)} URLs analyzed, {total_blacklisted} blacklisted, {total_skipped} skipped")
+            logger.info(f"Speed: {urls_per_second:.2f} URLs/sec, Est. remaining: {est_remaining_time/60:.1f} min")
+            
+            # Write new blacklisted URLs to the file periodically to avoid losing data
+            if new_blacklisted_urls and (i + batch_size >= len(results_to_process) or len(new_blacklisted_urls) >= 10):
+                try:
+                    with open(blacklist_file, "a", newline='') as f:
+                        writer = csv.DictWriter(f, fieldnames=["URL", "Main Domain", "Reason", "Confidence", "Category", "Compliance Issues", "Batch ID", "Timestamp"])
+                        writer.writerows(new_blacklisted_urls)
+                    
+                    logger.info(f"Added {len(new_blacklisted_urls)} new blacklisted URLs to {blacklist_file}")
+                    new_blacklisted_urls = []  # Reset after writing
+                except Exception as e:
+                    logger.error(f"Error writing to blacklist file: {e}")
+        
+        # Write any remaining blacklisted URLs to the file
+        if new_blacklisted_urls:
+            try:
+                with open(blacklist_file, "a", newline='') as f:
+                    writer = csv.DictWriter(f, fieldnames=["URL", "Main Domain", "Reason", "Confidence", "Category", "Compliance Issues", "Batch ID", "Timestamp"])
+                    writer.writerows(new_blacklisted_urls)
+                
+                logger.info(f"Added {len(new_blacklisted_urls)} new blacklisted URLs to {blacklist_file}")
+            except Exception as e:
+                logger.error(f"Error writing to blacklist file: {e}")
+        
+        # Final summary
+        total_time = time.time() - start_time
+        
+        logger.info(f"Direct analysis complete: {total_processed} URLs analyzed, {total_blacklisted} newly blacklisted")
+        logger.info(f"Total time: {total_time:.1f} seconds ({total_processed/total_time:.2f} URLs/sec)")
+    
+    except Exception as e:
+        logger.error(f"Error during direct analysis: {e}")
+
+if __name__ == "__main__":
+    import argparse
+    
+    parser = argparse.ArgumentParser(description="Process URLs directly with OpenAI")
+    parser.add_argument("--skip", type=int, default=0, help="Skip the first N URLs")
+    parser.add_argument("--max", type=int, default=100, help="Maximum number of URLs to process")
+    
+    args = parser.parse_args()
+    
+    asyncio.run(process_pinecone_urls(args.skip, args.max)) 

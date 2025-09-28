@@ -1,0 +1,91 @@
+{
+  "url": "https://allforexbonus.com/",
+  "timestamp": "2025-06-03T14:00:04.193065+00:00",
+  "screenshot_path": "data/outputs/screenshots/allforexbonus_com_20250603_180011.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2014, 9, 16, 11, 3, 54), datetime.datetime(2014, 9, 16, 6, 3, 54)]",
+      "expiration_date": "[datetime.datetime(2027, 9, 16, 11, 3, 54), datetime.datetime(2027, 9, 16, 6, 3, 54)]",
+      "name_servers": [
+        "NS1.DNS-PARKING.COM",
+        "NS2.DNS-PARKING.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "93.127.179.125"
+      ],
+      "mx_records": [
+        "50 mx3.zoho.com.",
+        "10 mx.zoho.com.",
+        "20 mx2.zoho.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 include:zohomail.com ~all\""
+      ]
+    },
+    "age_days": 3913,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "NS1.DNS-PARKING.COM",
+      "NS2.DNS-PARKING.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "allforexbonus.com"
+    },
+    "not_before": "2025-06-02T12:54:33",
+    "not_after": "2025-08-31T12:54:32",
+    "days_remaining": 88,
+    "san": [
+      "allforexbonus.com",
+      "www.allforexbonus.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: hcdn",
+    "Powered by: PHP/7.4.33",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 50.0,
+    "headers_present": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP"
+    ],
+    "headers_missing": [
+      "HSTS",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(48, 48, 48)",
+      "rgb(254, 254, 254)",
+      "rgb(0, 0, 0)",
+      "rgb(250, 250, 250)"
+    ],
+    "image_dimensions": "1920x5646",
+    "file_size_kb": 1468.2822265625
+  }
+}

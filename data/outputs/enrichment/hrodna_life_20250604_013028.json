@@ -1,0 +1,83 @@
+{
+  "url": "https://hrodna.life/2018/03/20/pyac-krokau-yak-pachac-pracavac-na-forex/",
+  "timestamp": "2025-06-03T21:29:56.358224+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": "2016-05-20 07:01:27",
+      "expiration_date": "2026-05-20 07:01:27",
+      "name_servers": [
+        "lakas.ns.cloudflare.com",
+        "aisha.ns.cloudflare.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "104.22.56.159",
+        "104.22.57.159",
+        "172.67.30.209"
+      ],
+      "mx_records": [
+        "10 aspmx3.googlemail.com.",
+        "10 aspmx4.googlemail.com.",
+        "10 aspmx2.googlemail.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com.",
+        "10 aspmx5.googlemail.com.",
+        "1 aspmx.l.google.com."
+      ],
+      "txt_records": [
+        "\"v=spf1 ip4:65.108.84.20 include:_spf.google.com ~all\"",
+        "\"ca3-3943fb5c9c6f416db95b001658862f8d\""
+      ]
+    },
+    "age_days": 3301,
+    "registrar": null,
+    "name_servers": [
+      "lakas.ns.cloudflare.com",
+      "aisha.ns.cloudflare.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "subject": {
+      "commonName": "hrodna.life"
+    },
+    "not_before": "2025-05-20T22:51:36",
+    "not_after": "2025-08-18T23:51:29",
+    "days_remaining": 75,
+    "san": [
+      "hrodna.life",
+      "*.hrodna.life"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 83.33333333333334,
+    "headers_present": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "headers_missing": [
+      "CSP"
+    ],
+    "issues": [
+      "Missing CSP header"
+    ]
+  },
+  "visual_analysis": {}
+}

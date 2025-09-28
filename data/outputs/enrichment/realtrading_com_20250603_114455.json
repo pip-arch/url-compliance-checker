@@ -1,0 +1,92 @@
+{
+  "url": "https://realtrading.com/trading-blog/the-power-of-diversification-in-day-trading/",
+  "timestamp": "2025-06-03T07:44:48.310213+00:00",
+  "screenshot_path": "data/outputs/screenshots/realtrading_com_20250603_114454.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "GoDaddy.com, LLC",
+      "creation_date": "[datetime.datetime(2002, 8, 19, 3, 47, 1), datetime.datetime(2002, 8, 18, 22, 47, 1)]",
+      "expiration_date": "[datetime.datetime(2025, 8, 19, 3, 47, 1), datetime.datetime(2025, 8, 18, 22, 47, 1)]",
+      "name_servers": [
+        "PDNS11.DOMAINCONTROL.COM",
+        "PDNS12.DOMAINCONTROL.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "141.193.213.11",
+        "141.193.213.10"
+      ],
+      "mx_records": [
+        "1 smtp.google.com."
+      ],
+      "txt_records": [
+        "\"v=spf1  include:_spf.google.com include:2694079.spf05.hubspotemail.net -all\"",
+        "\"google-site-verification=epkijx3TQeOFmZiaFJlat5nDCMZ1hUdniERUrQsGL9o\"",
+        "\"google-site-verification=UUO0liurzCAeK-k0DfFyEURQ7rnXHXDDGz57i4Sc-JU\""
+      ]
+    },
+    "age_days": 8324,
+    "registrar": "GoDaddy.com, LLC",
+    "name_servers": [
+      "PDNS11.DOMAINCONTROL.COM",
+      "PDNS12.DOMAINCONTROL.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "E5"
+    },
+    "subject": {
+      "commonName": "realtrading.com"
+    },
+    "not_before": "2025-04-12T09:30:06",
+    "not_after": "2025-07-11T09:30:05",
+    "days_remaining": 37,
+    "san": [
+      "realtrading.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: cloudflare",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(65, 69, 61)",
+      "rgb(64, 68, 60)",
+      "rgb(245, 245, 245)",
+      "rgb(230, 230, 230)"
+    ],
+    "image_dimensions": "1920x6771",
+    "file_size_kb": 1533.4599609375
+  }
+}

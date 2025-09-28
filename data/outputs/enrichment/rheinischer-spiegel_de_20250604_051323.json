@@ -1,0 +1,82 @@
+{
+  "url": "https://rheinischer-spiegel.de/dax-future-handeln-haelt-die-hoffnung-auf-kursgewinne-an/",
+  "timestamp": "2025-06-04T01:12:48.561415+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": [
+        "ns5.kasserver.com",
+        "ns6.kasserver.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "85.13.137.155"
+      ],
+      "mx_records": [
+        "10 w01f1529.kasserver.com."
+      ],
+      "txt_records": [
+        "\"google-site-verification=JaZgj1kfoH_o81bFk0WlT2dYuOS2VU-lzq4GMZu0nKc\"",
+        "\"v=spf1 mx a ?all\""
+      ]
+    },
+    "age_days": null,
+    "registrar": null,
+    "name_servers": [
+      "ns5.kasserver.com",
+      "ns6.kasserver.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "rheinischer-spiegel.de"
+    },
+    "not_before": "2025-04-01T22:11:43",
+    "not_after": "2025-06-30T22:11:42",
+    "days_remaining": 26,
+    "san": [
+      "rheinischer-spiegel.de",
+      "www.rheinischer-spiegel.de"
+    ],
+    "issues": [
+      "Certificate expires in 26 days"
+    ]
+  },
+  "technology_stack": [
+    "Server: Apache",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 16.666666666666664,
+    "headers_present": [
+      "HSTS"
+    ],
+    "headers_missing": [
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

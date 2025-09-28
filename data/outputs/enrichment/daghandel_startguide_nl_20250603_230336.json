@@ -1,0 +1,80 @@
+{
+  "url": "https://daghandel.startguide.nl/",
+  "timestamp": "2025-06-03T19:03:33.150617+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "team.blue nl B.V.",
+      "creation_date": "2009-01-02 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "ns1.dns1dns2dns3.com",
+        "ns5.dns1dns2dns3.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "54.36.85.99"
+      ]
+    },
+    "age_days": 5996,
+    "registrar": "team.blue nl B.V.",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "ns1.dns1dns2dns3.com",
+      "ns5.dns1dns2dns3.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "*.startguide.nl"
+    },
+    "not_before": "2025-05-09T13:27:01",
+    "not_after": "2025-08-07T13:27:00",
+    "days_remaining": 64,
+    "san": [
+      "*.startguide.nl",
+      "startguide.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2",
+    "Powered by: PHP/8.2.17",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

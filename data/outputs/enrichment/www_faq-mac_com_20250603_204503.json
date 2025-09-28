@@ -1,0 +1,88 @@
+{
+  "url": "https://www.faq-mac.com/2020/11/top-5-de-las-mejores-apps-de-ios-para-comercio-de-divisas/",
+  "timestamp": "2025-06-03T16:44:54.288250+00:00",
+  "screenshot_path": "data/outputs/screenshots/www_faq-mac_com_20250603_204503.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "Dinahosting s.l.",
+      "creation_date": "2001-06-07 16:44:41",
+      "expiration_date": "2026-06-07 16:44:41",
+      "name_servers": [
+        "NS.DINAHOSTING.COM",
+        "NS2.DINAHOSTING.COM",
+        "NS3.DINAHOSTING.COM",
+        "NS4.DINAHOSTING.COM"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "82.98.140.133"
+      ]
+    },
+    "age_days": 8762,
+    "registrar": "Dinahosting s.l.",
+    "name_servers": [
+      "NS.DINAHOSTING.COM",
+      "NS2.DINAHOSTING.COM",
+      "NS3.DINAHOSTING.COM",
+      "NS4.DINAHOSTING.COM"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "faq-mac.com"
+    },
+    "not_before": "2025-04-09T07:35:03",
+    "not_after": "2025-07-08T07:35:02",
+    "days_remaining": 34,
+    "san": [
+      "faq-mac.com",
+      "www.faq-mac.com"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: HTTPd",
+    "CMS: WordPress",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(255, 255, 255)",
+      "rgb(10, 10, 10)",
+      "rgb(249, 249, 249)",
+      "rgb(15, 15, 14)",
+      "rgb(254, 254, 254)"
+    ],
+    "image_dimensions": "1920x6818",
+    "file_size_kb": 1517.236328125
+  }
+}

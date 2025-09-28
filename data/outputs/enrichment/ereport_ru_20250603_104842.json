@@ -1,0 +1,80 @@
+{
+  "url": "https://ereport.ru/prel/preimushchestva-i-nedostatki-otkrytiya-rublevogo-scheta-na-platforme-foreks.htm",
+  "timestamp": "2025-06-03T06:48:11.077333+00:00",
+  "screenshot_path": null,
+  "domain_info": {
+    "whois": {
+      "registrar": "RU-CENTER-RU",
+      "creation_date": "2006-11-15 21:00:00",
+      "expiration_date": "2025-11-15 21:00:00",
+      "name_servers": [
+        "ns1.infobox.org.",
+        "ns2.infobox.org.",
+        "ns3.infobox.org.",
+        "ns4.infobox.org."
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "77.221.130.14"
+      ],
+      "mx_records": [
+        "20 mx.yandex.ru.",
+        "10 mx.yandex.ru."
+      ]
+    },
+    "age_days": 6774,
+    "registrar": "RU-CENTER-RU",
+    "name_servers": [
+      "ns1.infobox.org.",
+      "ns2.infobox.org.",
+      "ns3.infobox.org.",
+      "ns4.infobox.org."
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R11"
+    },
+    "subject": {
+      "commonName": "ereport.ru"
+    },
+    "not_before": "2025-04-04T12:02:55",
+    "not_after": "2025-07-03T12:02:54",
+    "days_remaining": 30,
+    "san": [
+      "ereport.ru",
+      "www.ereport.ru"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: nginx",
+    "Framework: Angular"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {}
+}

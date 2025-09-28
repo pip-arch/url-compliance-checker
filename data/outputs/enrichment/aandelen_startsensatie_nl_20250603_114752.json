@@ -1,0 +1,89 @@
+{
+  "url": "https://aandelen.startsensatie.nl/",
+  "timestamp": "2025-06-03T07:47:44.445261+00:00",
+  "screenshot_path": "data/outputs/screenshots/aandelen_startsensatie_nl_20250603_114751.png",
+  "domain_info": {
+    "whois": {
+      "registrar": "team.blue nl B.V.",
+      "creation_date": "2009-05-11 00:00:00",
+      "expiration_date": null,
+      "name_servers": [
+        "",
+        "Creation",
+        "Updated",
+        "ns1.dns1dns2dns3.com",
+        "ns4.dns1dns2dns3.com"
+      ]
+    },
+    "dns": {
+      "a_records": [
+        "193.70.107.88"
+      ]
+    },
+    "age_days": 5867,
+    "registrar": "team.blue nl B.V.",
+    "name_servers": [
+      "",
+      "Creation",
+      "Updated",
+      "ns1.dns1dns2dns3.com",
+      "ns4.dns1dns2dns3.com"
+    ]
+  },
+  "ssl_info": {
+    "valid": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "R10"
+    },
+    "subject": {
+      "commonName": "*.startsensatie.nl"
+    },
+    "not_before": "2025-05-15T06:20:37",
+    "not_after": "2025-08-13T06:20:36",
+    "days_remaining": 70,
+    "san": [
+      "*.startsensatie.nl",
+      "startsensatie.nl"
+    ],
+    "issues": []
+  },
+  "technology_stack": [
+    "Server: Apache/2",
+    "Powered by: PHP/7.4.33"
+  ],
+  "performance_metrics": {},
+  "security_headers": {
+    "score": 0.0,
+    "headers_present": [],
+    "headers_missing": [
+      "HSTS",
+      "X-Content-Type-Options",
+      "X-Frame-Options",
+      "CSP",
+      "XSS Protection",
+      "Referrer Policy"
+    ],
+    "issues": [
+      "Missing HSTS header",
+      "Missing X-Content-Type-Options header",
+      "Missing X-Frame-Options header",
+      "Missing CSP header",
+      "Missing XSS Protection header",
+      "Missing Referrer Policy header"
+    ]
+  },
+  "visual_analysis": {
+    "has_logo": false,
+    "dominant_colors": [
+      "rgb(192, 208, 192)",
+      "rgb(192, 200, 208)",
+      "rgb(193, 209, 193)",
+      "rgb(194, 210, 194)",
+      "rgb(195, 211, 195)"
+    ],
+    "image_dimensions": "1920x2089",
+    "file_size_kb": 363.8447265625
+  }
+}
