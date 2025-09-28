@@ -56,7 +56,7 @@ Web scraping and crawling service for extracting content from URLs.
       "command": "npx",
       "args": ["-y", "firecrawl-mcp"],
       "env": {
-        "FIRECRAWL_API_KEY": "fc-5e6640f52eee4558b9141c6a4ef169cb"
+        "FIRECRAWL_API_KEY": ""
       }
     }
   }
